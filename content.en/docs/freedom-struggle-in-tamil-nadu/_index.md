@@ -3,7 +3,6 @@ title: 'Freedom Struggle in Tamil Nadu'
 categories:
     - freedom-struggle-in-tamil-nadu
 weight: 9
-summary: "The role of Tamil Nadu in India's freedom struggle, including prominent leaders, organisations, movements and forms of resistance."
 ---
 
 # Chapter 9
@@ -17,10 +16,6 @@ summary: "The role of Tamil Nadu in India's freedom struggle, including prominen
 **Introduction**
 
 Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepoys and officers in Vellore Fort in 1806 that had its echoes in several cantonments in South India. Thanks to the introduction of Western education and eventual emergence of educated Indian middle class, the struggle against the British took the constitutional path. The freedom struggle in Tamil Nadu was unique, because from the beginning it was not only a struggle for independence from the English rule but also a struggle for independence from social disability imposed by the obnoxious caste system. In this lesson, we shall study the role played by nationalists, who followed diverse ideologies in Tamil Nadu.
-
-![](assets/page_001_picture_006.png)
-
-![](assets/page_001_picture_007.png)
 
 ### 9.1 Early Nationalist Stirrings in Tamil Nadu
 
@@ -101,8 +96,6 @@ V.O. Chidambaranar, V. Chakkaraiyar, Subramania Bharati and Surendranath Arya we
 **Swadeshi Steam Navigation Company (1906)**
 
 One of the most enterprising acts in pursuance of swadeshi was the launching of the Swadeshi Steam Navigation Company at Thoothukudi by V.O. Chidambaranar. He
-
-![](assets/page_003_picture_008.png)
 
 purchased two ships Gallia and Lavo and plied them between Thoothukudi and Colombo.
 
@@ -263,8 +256,6 @@ One of the controversial measures of Rajaji was the introduction of Hindi as a c
 ### 9.6 Quit India Struggle
 
 On 8 August 1942 the Quit India resolution was passed and Gandhi gave the slogan 'Do or Die'. The entire Congress leadership were arrested overnight. K. Kamaraj while returning from Bombay noticed that at every
-
-**SUMMARY**
 
 railway station the police waited with a list of local leaders and arrested them as they got down. Kamaraj gave the police the slip and got down at Arakkonam itself. He then worked underground and organised people during the Quit India Movement.
 

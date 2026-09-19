@@ -3,12 +3,11 @@ title: 'The World after World War II'
 categories:
     - the-world-after-world-war-ii
 weight: 4
-summary: "The major political and international developments after World War II, including the Cold War, decolonisation and the emergence of new global powers."
 ---
 
 # Chapter 4
 
-# **The World After World War II**
+# **The World after World War II**
 
 **Learning Objectives**
 
@@ -21,6 +20,8 @@ In the aftermath of Second World War a new era began. It was the beginning of th
 Under the Marshall Plan for reconstruction of the war-ravaged Europe, the US won the trust of the great powers in Europe. Soviet Russia, by demonstrating solidarity with the liberation struggles of countries in Asia and Africa, earned the goodwill of the latter.
 
 The Non-Aligned Movement played a limited role in containing the conflict between the two power blocs. In a bid to wriggle out of US control, European countries started the European movement in the form of Council of Europe. This developed into the European Common Market and finally into what is today the European Union. The Cold War period ended with the fall of Berlin Wall.
+
+![](assets/page_001_picture_005.png)
 
 ### 4.1 Chinese Revolution
 
@@ -304,8 +305,6 @@ The Maastricht (Netherlands) Treaty signed on February 7, 1992, created the Euro
 
 The division of Germany into West (Federal Republic of Germany) and East (German Democratic Republic) led to glaring differences in living standards. West
 
-![](assets/page_009_picture_004.png)
-
 Berlin's economy became prosperous thanks to the support received from the West under the Marshall Plan. In contrast the USSR had a little interest in developing the economy of East Berlin. Further, people in East Berlin suffered from lack of democracy and freedom. Therefore, people of East Berlin moved to West Berlin in large numbers. In West Berlin, on the other hand, there was a fear that the Soviets could use military force to take West Berlin. In this context, East Germany began to construct a wall in 1961 which virtually cut off West Berlin from East Berlin and the surrounding East German areas. It was heavily guarded with watch towers and other lethal impediments to stop people from the East. In the late 1980s, as USSR's hold over Eastern European countries was weakening, a mass of people assembled on 9 November 1989 on both sides of the wall and began to demolish it. Germany was officially reunited on 3 October 1990. The Berlin Wall was more than just a physical barrier. It was a symbolic boundary between communism and capitalism. With the fall of the Berlin Wall, followed by the collapse of the Soviet Union, the Cold War era came to an end.
 
 ![*Demolition of Berlin wall*](assets/page_010_picture_002.png)
@@ -332,8 +331,6 @@ led to demolition of the Berlin Wall in 1989. Subsequent to it, regimes in Czech
 
 Gorbachev made a last attempt to take a hard line against the disruptionist only to be challenged by a second great miners' strike in 1991and huge demonstrations in Moscow. In response, conservative forces in his government attempted to take a hard line without Gorbachev. They used troops in Moscow to stage a coup,
 
-**SUMMARY**
-
 The World After World War II
 
 ![](assets/page_011_picture_005.png)
@@ -345,3 +342,130 @@ The World After World War II
 and held Gorbachev under house arrest. But other military units refused to back them and as a result power fell into the hands of Boris Yeltsin, a reformer backed by the West.
 
 In the meantime, three Baltic States had formally left the Soviet Union, they were Estonia, Latvia, and Lithuania. They were admitted to the U.N. as independent countries. In November 1991, eleven republics (Ukraine, Georgia, Belarus, Armenia, Azerbaijan, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Tajikistan and Uzbekistan) announced secession from the Soviet Union. Instead, they declared they would establish a Commonwealth of Independent States. On 25 December, Gorbachev announced his resignation. For six days the Soviet Union continued to exist only in name and at midnight on 31 December 1991, it was formally dissolved. The USSR was no more.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| antagonistic | acting against or indicating | பகையுணர்வு கொ ொண்்ட |
+| wriggle out | to avoid doing something | நழுவுதல் |
+| ascension | the act of rising to an important position or a higher  level, a movement upward | வளர்ச்சி, உயர்வு |
+| disillusioned | disappointed on finding out something is not as good as hoped | அதிருப்தி |
+| abstaining | restrain oneself from doing something | விலகியிருத்்தல், ஒதுங்கியிருத்்தல் |
+| embitter | cause to feel bitter – to make hateful | வெறுப்புணர்ச்சி, கசப்புணர்வு |
+| incapacitated | lacking in or deprived of strength or power | திறனற்்றதாக்குதல், முடமாக்குதல் |
+| bacteriological  weapons | the use of harmful bacteria as a weapon | நுண்ணுயிரியல் ஆயுதங்்கள் |
+
+- When was North and South Vietnam united?
+
+![](assets/page_012_picture_002.png)
+
+- 1975 b) 1976 c) 1973 d) 1974
+- When was the Warsaw Pact dissolved? a) 1979 b) 1989 c) 1990 d) 1991
+
+**I Choose the correct answer**
+
+- Which American President followed the policy of containment of Communism?.
+
+**II Fill in the blanks**
+
+- was known as the "Father of modern China".
+- Woodrow Wilson
+- Truman
+- In 1918, the society for the study of Marxism was formed in University.
+- Theodore Roosevelt
+- Franklin Roosevelt
+- When was People's Political Consultative Conference held in China?
+- After the death of Dr. Sun Yat Sen, the leader of the Kuomintang party was .
+- September 1959
+- September 1948
+- September 1954 d) September 1949
+- treaty is open to any Arab nation desiring peace and security in the region.
+- The United States and European allies formed to resist any Soviet aggression in Europe.
+- The treaty of provided for mandates in Turkish -Arab Empire.
+- NATO
+- SEATO
+- CENTO d) Warsaw Pact
+- Who became the Chairman of the PLO's Executive Committee in 1969?
+- Germany joined the NATO in .
+- Hafez al-Assad
+- was the Headquarters of the Council of Europe.
+- Yasser Arafat
+- Nasser
+- treaty signed on February 7, 1992 created the European Union.
+- Saddam Hussein
+
+51
+
+The World After World War II
+
+**III Choose the correct statement/statements**
+
+- i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.
+- ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region.
+- iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.
+- (ii) and (iii) are correct
+- (i) and (ii) are correct
+- (i) and (iii) are correct
+- (i), (ii) and (iii) are correct
+- Assertion (A): America's Marshall Plan was for reconstruction of the war-ravaged Europe.
+
+Reason (R): The US conceived the Marshal Plan to bring the countries in the Western Europe under its influence.
+
+- Both (A) and (R) are correct, but R is not the correct explanation of A
+- Both (A) and (R) are wrong
+- Both (A) and (R) are correct and R is the correct explanation of A
+- (A) is wrong and (R) is correct
+
+**IV Match the following**
+
+South Vietnam
+
+- Dr. Sun Yat-Sen -
+- Syngman Rhee -
+
+Kuomintung
+
+- Anwar Sadat -
+
+South Korea
+
+- Ho-Chi Minh -
+
+Egypt
+
+- Ngo Dinh Diem -
+
+North Vietnam
+
+**V Answer briefly**
+
+- Write any three causes for the Chinese Revolution of 1911.
+- Write a note on Mao's Long March.
+
+The World After World War II
+
+- What do you know of Baghdad Pact?
+- What was Marshall Plan?
+- Write a note on Third World Countries.
+- How was the Cuban missile crisis defused?
+
+**VI Answer in detail**
+
+- Estimate the role of Mao Tse Tung in making China a communist country.
+- Narrate the history of transformation of Council of Europe into an European Union.
+
+**VII Activity**
+
+- Divide the class into two groups. Let one group act as supporters of USA and the other group act as supporters of Soviet Union, Organise a debate.
+- Involving the entire class, an album may be prepared with pictures relating to Korean, Arab-Israeli and Vietnam Wars to highlight the human sufferings in terms of death and devastation.
+
+![](assets/page_013_picture_005.png)
+
+- R.D. Cornvell, World History in the Twentieth Century (London: Longman, 1972)
+- Richard Overy, Complete History of the World (London: Harper Collins, 2006)
+- Chris Harman, A People's History of the World (London: Orient Longman, 2007)
+
+![](assets/page_013_picture_006.png)
+
+- https://www.brittanica.com

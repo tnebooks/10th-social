@@ -3,7 +3,6 @@ title: 'World War II'
 categories:
     - world-war-ii
 weight: 3
-summary: "The causes, major events and consequences of the Second World War, including the rise of the Axis powers and the Allied victory."
 ---
 
 # Chapter 3
@@ -23,6 +22,8 @@ In both wars, the combined forces of Great Britain, France, Russia and the Unite
 **(a) Causes**
 
 The devastation caused by World War I was of such magnitude that it was referred to as The Great War, or The War to End All Wars. The belligerent nations, especially the Allies, had no desire for a second prolonged conflict, and this was the main driving force behind their actions after the end of World War I. The immediate and primary cause of World War II was the aggressive military offensive undertaken by a resurgent Germany and a fast developing Japan.
+
+![](assets/page_001_picture_005.png)
 
 **Germany and Treaty of Versailles, 1919**
 
@@ -166,8 +167,6 @@ After this, the American forces were able to re-take the Philippines. Gradually 
 
 As a top secret project, using the latest scientific advances, the US developed an atomic bomb immensely more powerful than conventional explosives. The Japanese
 
-![](assets/page_007_picture_002.png)
-
 generals refused to surrender and finally the US dropped an atomic bomb on Hiroshima. As the Japanese still refused to surrender, another atom bomb was dropped on Nagasaki. Japan ultimately announced surrender on 15 August 1945 and formally signed 2 September 1945 bringing an end to World War II.
 
 ![](assets/page_007_picture_003.png)
@@ -269,3 +268,151 @@ In 1942, the Report commonly known as the Beveridge Report was published in the 
 After the War, the Labour party was voted into power in Britain. It promised to undertake steps to look after the people "from the cradle to the grave". Legislation was enacted to provide comprehensive free health coverage to the citizens through the National Health Service and monetary benefits like old age pensions and unemployment benefits, childcare services and family welfare services. These are in addition to universal, free school education to all children.
 
 The benefits can either be achieved through cash transfers, like old age pensions and unemployment compensation, or through free services. In addition, these countries also try to minimize economic disparities through progressive taxation by taxing the higher income groups at relatively high rates.
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| devastation/ havoc | total destruction | பேரழிவு |
+| belligerent | one eager to fight / aggressive | போோர் நாட்்டம் |
+| resurgent | rising again | மீண்்டடெழுகிற |
+| reparations | compensation exacted from a defeated  nation by the victors | இழப்பீடுகள் |
+| armaments | weapons | போோர்்த்்தளவாடங்்கள் |
+| conscripted | compulsory military service | கட்்டடாய இராணுவ  சேவைக்கு அழைக்்கப்்பட்்ட |
+| slaughter | kill a large number of people  indiscriminately | வதைத்துக் கொொல்லுதல் |
+| proliferation | a rapid increase | பல்கிப் பெருகுதல் |
+| ghettos | slums | குடிசைத்தொகுதி |
+| veto | a vote that blocks a decision / negative  vote | மறுப்்பபாணை / எதிர்்வவாக்கு |
+| ambit | range | வரம்பு / எல்்லலை |
+| scourge | eternal suffering | மீளாத்துயரம் |
+| stringent | tough | கடுமையான |
+
+- Who initiated the formation of League of Nations?
+
+![](assets/page_011_picture_002.png)
+
+- Roosevelt
+- Chamberlain
+
+**I Choose the correct answer**
+
+- Woodrow Wilson
+- Baldwin
+- When did the Japanese formally sign of their surrender?
+- Where was the Japanese Navy defeated by the US Navy?
+- 2 September, 1945
+- Battle of Guadalcanal
+- Battle of Midway
+- 2 October, 1945
+- Battle of Leningrad
+- 15 August, 1945
+- Battle of El Alamein
+- 12 October, 1945
+
+World War II
+
+37
+
+- Where did the US drop its first atomic bomb?
+- Kavashaki
+- Tokyo
+- Hiroshima
+- Nagasaki
+- Who were mainly persecuted by Hitler?
+- Russians
+- Arabs
+- Turks
+- Jews
+- Which Prime Minister of England signed the Munich Pact with Germany ?
+- Chamberlain
+- Winston Churchill
+- Lloyd George
+- Stanley Baldwin
+- When was the Charter of the UN signed?
+- June 26, 1942
+- June 26, 1945
+- January 1, 1942
+- January 1, 1945
+
+**II Fill in the blanks**
+
+- Hitler attacked which was a demilitarised zone.
+- The alliance between Italy, Germany and Japan is known as .
+- Britain Prime Minister resigned in 1940.
+- is a device used to find out the enemy aircraft from a distance.
+
+World War II
+
+**III Choose the correct statement**
+
+- Assertion: President Roosevelt realised that the United States had to change its policy of isolation.
+
+Reason: He started a programme of Lend Lease in 1941.
+
+- Both A and R are correct
+- A is right but R is not the correct reason
+- Both A and R are wrong
+- R is right but it has no relevance to A
+
+**IV Match the Following**
+
+- Blitzkrieg -
+
+Stalingrad
+
+- Royal Navy -
+
+Solomon Island
+
+- Volga -
+
+Britain
+
+- Guadalcanal -
+
+lightning strike
+
+**V Answer the questions briefly**
+
+- Who were the three prominent dictators of the post World War I ?
+- How did Hitler get the support from the people of Germany?
+- Describe the Pearl Harbour incident.
+- What do you know of Beveridge Report?.
+- Name the Bretton Woods Twins.
+- What are the objectives of IMF?
+- VI Answer in detail
+- Analyse the effects of the World War II.
+- Assess the structure and the activities of the UN.
+
+**VII Students Activity**
+
+- Marking the Allies and Axis countries, as well as important battlefields of World War II in a world map.
+
+**VIII Map Work**
+
+**Mark the following on the world map.**
+
+- Axis Power Countries
+- Allied Power Countries
+- Hiroshima, Nagasaki, Hawaii Islands, Moscow, San Fransico
+
+**REFERENCE BOOKS**
+
+- R.D. Cornwell, World History in the Twentieth Century, London: Longman, 1972.
+- C.V. Narasimhan, The United Nations - A An Inside View, New Delhi: Vikas, 1988.
+- Encyclopaedia Britannica, vol. 23 (1962 edition).
+- Chris Harman, A People's History of the World (Delhi: Orient Longman, 2007)
+
+![](assets/page_013_picture_003.png)
+
+**World War II**
+
+**Steps**
+
+- Open the Browser and type the URL given below (or) Scan the QR Code.
+- Click on 'map' to see the events happened in the location
+- Select any year from the bottom time line (Ex.1939) and select the 'box' to learn more about the World War II events.
+
+**Website URL:**
+
+https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/ index.html World War II

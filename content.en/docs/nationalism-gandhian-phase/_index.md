@@ -3,7 +3,6 @@ title: 'Nationalism: Gandhian Phase'
 categories:
     - nationalism-gandhian-phase
 weight: 8
-summary: "The Gandhian phase of the Indian national movement, including major mass movements, methods of resistance and the struggle for independence."
 ---
 
 # Chapter 8
@@ -56,8 +55,6 @@ The success of Champaran satyagraha, followed by his fruitful intervention in Ah
 The Government of India Act 1919, however, caused disappointment, as it did not transfer real power to the Indians. Besides, the government began to enforce the permanent extension of war time restrictions. The Rowlatt Act was enacted which provided for excessive police powers, arrest without warrant and detention without trial. Gandhi called it a 'Black Act' and in protest called for a nationwide satyagraha on 6 April 1919. It was to be a non-violent struggle with fasting and prayer, and it was the earliest anti-colonial struggle spread across the country. The anti-Rowlatt protest was intense in Punjab, especially in Amritsar and Lahore. Gandhi was arrested and prevented from visiting Punjab. On 9 April, two prominent local leaders Dr. Saifuddin Kitchlew and Dr. Satyapal were arrested in Amritsar.
 
 **General Dyer's Brutality**
-
-![](assets/page_003_picture_004.png)
 
 On 13 April 1919, a public meeting was arranged at Jallianwala Bagh in Amritsar. As it happened to be Baisaki day (spring harvest festival of Sikhs), the
 
@@ -251,8 +248,6 @@ for three years raiding government institutions. In 1933, Surya Sen was caught a
 By the 1930s the Communist Party of India had gained strength in view of the economic crisis caused by world-wide Great Depression. Britain transmitted the effects of Depression to its colonies. The effects of Depression were reflected in decline in trade returns and fall in agricultural prices. The governmental measures included forcible collection of land revenue which in real terms had increased two-fold due to a 50% fall in agricultural prices, the withdrawal of money in circulation, retrenchment of staff and expenditure on developmental works.
 
 ![](assets/page_009_picture_005.png)
-
-![](assets/page_009_picture_003.png)
 
 ![*Jayaprakash Narayan*](assets/page_009_picture_004.png)
 

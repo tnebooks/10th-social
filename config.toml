@@ -38,3 +38,9 @@ weight = 2
     githubhandle = "tnedu"
     name = "Competitive exams"
     url = "/physics-electrostatics"
+
+[security]
+  enableInlineShortcodes = true
+  allowContent = ['(?i)text/markdown', '(?i)text/html']
+[security.funcs]
+getenv = ['^HUGO_','CONTEXT','BUILD_PRODUCTION']

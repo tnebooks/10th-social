@@ -3,7 +3,6 @@ title: 'Social and Religious Reform Movements in the 19th Century'
 categories:
     - social-and-religious-reform-movements-in-the-19th-century
 weight: 5
-summary: "The major social and religious reform movements of the nineteenth century and their efforts to address social inequalities, education and religious practices."
 ---
 
 # Chapter 5
@@ -19,6 +18,8 @@ summary: "The major social and religious reform movements of the nineteenth cent
 English education, introduced with the objective of producing clerks, also produced a new English-educated middle class. This class came under the influence of western ideas and thoughts. Christianity also had its effect on the newly emerging middle class. Though small in number, the educated middle class began to take a lead in political, as well as in reform movements. The Indian reformers were, however, quite hesitant to subject their old notions and habits to critical scrutiny. Instead they attempted to harmonize both Indian and Western cultures. Their ideas and their actions helped to mitigate social evils such as sati, female infanticide, and child marriage and various superstitious beliefs.
 
 The reform movements of nineteenth century in the realm of religion fall under two broad categories: Reformist movements like the Brahmo Samaj, the Prarthana Samaj and the Aligarh Movement; and the revivalist movements such as the Arya Samaj, the Ramakrishna Mission and the Deoband Movement. There were also attempts to challenge the oppressive social structure by Jyotiba Phule in Pune, Narayana Guru and Ayyankali in Kerala and Ramalinga Adigal, and Iyothee Thassar in Tamil Nadu.
+
+![](assets/page_001_picture_004.png)
 
 ### 5.1 Early Reform Movements in Bengal
 
@@ -233,16 +234,155 @@ Pandithar Iyothee Thassar was disappointed with the Hindu dharma, which served a
 
 He started a weekly journal, Oru Paisa Tamilan, in 1907 and published it until his demise in 1914.
 
-**SUMMARY**
+**GLOSSARY**
 
--  The foundation of Brahmo Samaj by Rammohan Roy and the role played by Maharishi Debendranath
-- Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities after Roy’s death
-- are discussed.
--  The contribution of M.G. Ranade and Prarthana Samaj with which he was associated are examined.
--  The attempts made by Arya Samaj under the aegis of Swami Dayanad Saraswati to reform Hinduism
-- as well as to win converts to the Hindu fold are highlighted.
--  The radical reformer Iswar Chandra Vidyasagar and his strivings for women’s cause are described.
--  The role of Ramakrishna Paramahamsa and his disciple Swami Vivekananda in the transformation
-- of Hinduism is explained.
--  The work done by Jyotiba Phule in Maharashtra and IyotheeThassar in Tamil Nadu to obtain social
-- justice for the marginalized and the deprived sections of the population is reviewed.
+|  |  |  |
+| --- | --- | --- |
+| Alleged | stated but not proved | தொழில்நுட்பம் <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில்நுட்பம்</td></tr></table> <table><tr><td>தொழில |
+| Ecstatic | in a state of extreme happiness | பரவசமான |
+| Voluminous | bulky | அதிகப் பரிமாணமுள்்ள |
+| Reiterated | repeat a statement for emphasis | வலியுறுத்துதல் |
+| Idolatry | the practice of worshipping idols | உருவ வழிபாடு |
+| Tract | a small booklet | சிறு நூல் |
+| Revelation | disclosure | திருவெளிப்்பபாடு |
+
+![](assets/page_008_picture_002.png)
+
+- Whose campaign and work led to the enactment of Widow Remarriage Reform Act of 1856?
+- I Choose the correct answer
+- Iswarchandra Vidyasagar
+- Raja Rammohan Roy
+- In which year was Sati abolished?
+- Annie Besant
+- 1827 b) 1829 c) 1826 d) 1927
+- Jyotiba Phule
+- What was the name of the Samaj founded by Dayanand Saraswati?
+- Whose voice was Rast Goftar?
+- Arya Samaj
+- Parsi Movement
+- Brahmo Samaj
+- Aligarh Movement
+- Prarthana Samaj
+- Ramakrishna Mission
+- Adi Brahmo Samaj
+- Dravida Mahajana Sabha
+
+Social and Religious Reform Movements in the 19th Century
+
+60
+
+- Who was the founder of Namdhari Movement?
+- Baba Dayal Das b) Baba Ramsingh
+- Gurunanak
+- Jyotiba Phule
+- Who was the founder of Widow Remarriage Association?
+- Mahadev Govind Ranade
+- Devendranath Tagore
+- c ) Jyotiba Phule
+- Ayyankali
+- Who was the author of the book Satyarthaprakash ?
+- Dayananda Saraswathi
+- Iyothee Thassar
+- Annie Besant
+- Narayana Guru
+
+**II Fill in the blanks**
+
+- founded the Samarasa Vedha Sanmarga Sangam.
+- The founder of Poona Sarvajanik Sabha was .
+- Gulamgiri was written by .
+- 3.
+- Ramakrishna Mission was established by .
+- was the forerunner of Akali Movement.
+- Oru Paisa Tamilan was started by .
+
+**III Choose the correct statement**
+
+- i) Raja Rammohan Roy preached monotheism
+- ii) He encouraged idolatry
+- iii) He published tracts condemning social evils
+- i) is correct
+- i) and ii) are correct
+- i), ii) and iii) are correct
+- i) and iii) are correct
+- i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang
+- ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage
+- iii) Jyotiba Phule worked for the upliftment of men.
+- iv) Prarthana Samaj had it's origin in the Punjab.
+- i) is correct
+- ii) is correct
+- i) and ii) are correct
+- iii) and iv) are correct
+- i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities.
+- ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices.
+- iii) Ramakrishna established the Ramakrishna Mission
+- i) is correct b) i) and ii) are correct
+- iii) is correct d) i) and iii) correct
+- Assertion: Jyotiba Phule opened orphanages and homes for widows Reason: Jyotiba Phule opposed child marriage and supported widow remarriage a)Assertion is correct but reason is not apt to the assertion
+- Assertion is correct and the reason is apt to the assertion
+- Both are wrong
+- Reason is correct but assertion is irrelevant
+
+**IV Match the following**
+
+- Oru Paisa Widows Remarriage
+- Tamilan
+- Reform Act
+- Thiruvarutpa
+
+Nirankari
+
+- Baba Dayal Das -
+- Adi Bramo Samaj
+- Iswarchandra Vidyasagar - Journal
+- Debendranath
+- Songs of Grace
+- 61 Social and Religious Reform Movements in the 19th Century
+
+**V Answer briefly**
+
+- Mention the four articles of faith laid down by Maharishi Debendranath Tagore?
+- Discuss Mahadev Govind Ranade's contribution to social reforms.
+- Write a note on reforms of Ramalinga Adigal.
+- List the social evils eradicated by Brahmo Samaj.
+- Highlight the work done by Jyotiba Phule for the welfare of the poor and the marginalized.
+
+**VI Answer in detail**
+
+- Discuss the circumstances that led to the Reform movements of 19th century.
+- Evaluate the contributions of Ramakrishna Paramahamsa and Swami Vivekananda to regenerate Indian society.
+- Write an essay on the role played by the 19th century reformers towards the cause of Women.
+
+**VIIActivity**
+
+- Role-play by students on Reformers and their Reforms of the 19th century India.
+
+**ICT CORNER**
+
+**Social and Religious Reform Movements in the 19th Century**
+
+**Steps**
+
+- Open the Browser and type the URL given below (or) Scan the QR Code.
+- Type 'History of modern India' in the search box
+- Explore the Timeline Events with Pictorial Descriptions.
+
+**Website URL:**
+
+https://www.timetoast.com/categories
+
+Social and Religious Reform Movements in the 19th Century
+
+- Debate Social evils of 19th century with those of present day.
+
+**REFERENCE BOOKS**
+
+- Kenneth W. Jones, Socio-Religious Reform Movement in British India, New Edition, Cambridge University Press, 2006.
+- Manickam, S., "Depressed Class Movement in South India," in Manikumar K.A. (ed.), History and Society , Tirunelveli, 1996.
+- V. Geetha and S.V. Rajathurai, Towards a Non-Brahmin Millennium from Iyothee Thass to Periyar, Calcutta, 1998.
+- Mohan, P. Sanal (2013), "Religion, Social Space, and Identity: The Prathyaksha Raksha Daiva Sabha and the Making of Cultural Boundaries in Twentieth Century Kerala", in Joan Mencher(ed.), Life as a Dalit: Views from the Bottom on Caste in India, SAGE Publications.
+
+**INTERNET RESOURCES**
+
+- https://www.deccanherald.com.
+- http://en.wikipedia.org/wiki/ timesofindia.com
