@@ -3,7 +3,6 @@ title: 'Anti-Colonial Movements and the Birth of Nationalism'
 categories:
     - anti-colonial-movements-and-the-birth-of-nationalism
 weight: 7
-summary: "The growth of anti-colonial movements in India and the emergence of political organisations and ideas that contributed to Indian nationalism."
 ---
 
 # Chapter 7
@@ -309,8 +308,6 @@ The Indian national movement was revived and also radicalised during the Home Ru
 **(b) Lucknow Pact (1916)**
 
 The Home Rule Movement and the subsequent reunion of moderate and the militant nationalists opened the possibility of fresh talks with the Muslims. Under the Lucknow Pact (1916), the Congress and the Muslim League agreed that there should be self-government in India as soon as possible. In return, the Congress leadership accepted the concept of separate electorate for Muslims.
-
-**SUMMARY**
 
 **GLOSSARY**
 

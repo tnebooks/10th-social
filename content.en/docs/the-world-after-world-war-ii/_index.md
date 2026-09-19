@@ -3,7 +3,6 @@ title: 'The World after World War II'
 categories:
     - the-world-after-world-war-ii
 weight: 4
-summary: "The major political and international developments after World War II, including the Cold War, decolonisation and the emergence of new global powers."
 ---
 
 # Chapter 4
@@ -331,8 +330,6 @@ Yeltsin was first an ally of Gorbachev. However, as Mayor of Moscow, Yeltsin won
 led to demolition of the Berlin Wall in 1989. Subsequent to it, regimes in Czechoslovakia, followed by Bulgaria, fell. An attempt by Romania's Nicolae Ceaușescu to resist the wave of change by shooting down demonstrators ended in his execution by a firing squad (December 1989) under the command of his own generals. The televised images of the shooting and the fall of the Berlin Wall galvanized the process of the breaking up of the communist world. In six months the political map of half of Europe had been redrawn.
 
 Gorbachev made a last attempt to take a hard line against the disruptionist only to be challenged by a second great miners' strike in 1991and huge demonstrations in Moscow. In response, conservative forces in his government attempted to take a hard line without Gorbachev. They used troops in Moscow to stage a coup,
-
-**SUMMARY**
 
 The World After World War II
 

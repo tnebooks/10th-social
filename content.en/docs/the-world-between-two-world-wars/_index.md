@@ -3,7 +3,6 @@ title: 'The World between Two World Wars'
 categories:
     - the-world-between-two-world-wars
 weight: 2
-summary: "The political, economic and social developments between the First and Second World Wars, including the Great Depression, fascism and the rise of dictatorships."
 ---
 
 # Chapter 2
@@ -245,8 +244,6 @@ Cuba. President of the USA Theodore Roosevelt made an important amendment to the
 **Great Depression in South America**
 
 The situation created by the Great Depression made it impossible for oligarchic
-
-**SUMMARY**
 
 **GLOSSARY**
 

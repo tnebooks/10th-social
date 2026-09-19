@@ -3,7 +3,6 @@ title: 'Outbreak of World War I and Its Aftermath'
 categories:
     - outbreak-of-world-war-i-and-its-aftermath
 weight: 1
-summary: "The causes, course and consequences of the First World War, including imperialism, militarism, nationalism and the political changes that followed the war."
 ---
 
 # Chapter 1
@@ -362,8 +361,6 @@ Since it lacked the military power of its own, it could not enforce its decision
 The founders of this peace organisation underestimated the power of nationalism. The principle of "collective security' could not be applied in actual practice.
 
 When Italy, Japan and Germany, headed by dictators, refused to be bound by the orders of the League, Britain and France were the only major powers to act decisively.
-
-**SUMMARY**
 
 **GLOSSARY**
 

@@ -3,7 +3,6 @@ title: 'Freedom Struggle in Tamil Nadu'
 categories:
     - freedom-struggle-in-tamil-nadu
 weight: 9
-summary: "The role of Tamil Nadu in India's freedom struggle, including prominent leaders, organisations, movements and forms of resistance."
 ---
 
 # Chapter 9
@@ -257,8 +256,6 @@ One of the controversial measures of Rajaji was the introduction of Hindi as a c
 ### 9.6 Quit India Struggle
 
 On 8 August 1942 the Quit India resolution was passed and Gandhi gave the slogan 'Do or Die'. The entire Congress leadership were arrested overnight. K. Kamaraj while returning from Bombay noticed that at every
-
-**SUMMARY**
 
 railway station the police waited with a list of local leaders and arrested them as they got down. Kamaraj gave the police the slip and got down at Arakkonam itself. He then worked underground and organised people during the Quit India Movement.
 

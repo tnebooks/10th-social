@@ -3,7 +3,6 @@ title: 'Social and Religious Reform Movements in the 19th Century'
 categories:
     - social-and-religious-reform-movements-in-the-19th-century
 weight: 5
-summary: "The major social and religious reform movements of the nineteenth century and their efforts to address social inequalities, education and religious practices."
 ---
 
 # Chapter 5
@@ -234,8 +233,6 @@ Pandithar Iyothee Thassar founded the Advaidananda Sabha to raise the voice for 
 Pandithar Iyothee Thassar was disappointed with the Hindu dharma, which served as the basis for propagating and validating caste in Hindu society. Influenced by the Theosophist organizer, Colonel H.S. Olcott, he went to Sri Lanka in 1898 and converted to Buddhism. In the same year, he founded the Sakya Buddhist Society at Madras to construct the rational religious philosophy through Buddhist religion.
 
 He started a weekly journal, Oru Paisa Tamilan, in 1907 and published it until his demise in 1914.
-
-**SUMMARY**
 
 **GLOSSARY**
 

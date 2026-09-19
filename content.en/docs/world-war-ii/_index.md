@@ -3,7 +3,6 @@ title: 'World War II'
 categories:
     - world-war-ii
 weight: 3
-summary: "The causes, major events and consequences of the Second World War, including the rise of the Axis powers and the Allied victory."
 ---
 
 # Chapter 3
@@ -269,8 +268,6 @@ In 1942, the Report commonly known as the Beveridge Report was published in the 
 After the War, the Labour party was voted into power in Britain. It promised to undertake steps to look after the people "from the cradle to the grave". Legislation was enacted to provide comprehensive free health coverage to the citizens through the National Health Service and monetary benefits like old age pensions and unemployment benefits, childcare services and family welfare services. These are in addition to universal, free school education to all children.
 
 The benefits can either be achieved through cash transfers, like old age pensions and unemployment compensation, or through free services. In addition, these countries also try to minimize economic disparities through progressive taxation by taxing the higher income groups at relatively high rates.
-
-**SUMMARY**
 
 **GLOSSARY**
 
