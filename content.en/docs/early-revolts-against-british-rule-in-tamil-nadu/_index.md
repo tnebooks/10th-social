@@ -24,6 +24,8 @@ After defeating the French and their Indian allies in the three Carnatic Wars, t
 
 The word "palayam" means a domain, a military camp, or a little kingdom.
 
+![](assets/page_001_picture_007.png)
+
 Palayakkarars (Poligar is how the British referred to them) in Tamil refers to the holder of a little kingdom as a feudatory to a greater sovereign. Under this system, palayam was given for valuable military services rendered by any individual. This type of Palayakkarars system was in practice during the rule of Prataba Rudhra of Warangal in the Kakatiya kingdom. The system was introduced in Tamil Nadu by Viswanatha Nayaka, when he became the Nayak ruler of Madurai in 1529, with the support of his minister Ariyanathar. Traditionally, there were supposed to be 72 Palayakkarars.
 
 The Palayakkarars were free to collect revenue, administer the territory, settle disputes and maintain law and order. Their police duties were known as Padikaval or Arasu Kaval. On many occasions the Palayakarars helped the Nayak rulers to restore the kingdom to them. The personal relationship and an understanding between the King and the Palayakkarars made the system to last for about two hundred years from the Nayaks of Madurai, until the takeover of these territories by the British.
@@ -105,8 +107,6 @@ events led to conflicts between Veerapandya Kattabomman and the East India Compa
 **Confrontation with Jackson**
 
 The land revenue arrear from Kattabomman was 3310 pagodas in 1798. Collector Jackson, an arrogant English officer, wanted to send an army to collect the revenue dues but the Madras
-
-![](assets/page_004_picture_003.png)
 
 Government did not give him permission. On 18 August 1798, he ordered Kattabomman to meet him in Ramanathapuram. But Kattabomman's
 
@@ -195,3 +195,157 @@ Major Cootes, who was outside the Fort, informed Colonel Gillespie, the cavalry 
 **(c ) Consequences of Revolt**
 
 Six of the rebels convicted by the Court of Enquiry were blown from the guns; five were shot dead; eight hanged. Tipu's sons were ordered to be sent to Calcutta. The officers
+
+**SUMMARY**
+
+**GLOSSARY**
+
+and men engaged in the suppression of the revolt were rewarded with prize money and promotion. Col. Gillespie was given 7,000 pagodas. However, the commander–in-chief Sir John Cradock, the Adjutant General Agnew and Governor William Bentinck were held responsible for the revolt, removed from their office, and recalled to England. The military regulations were treated as withdrawn.
+
+**(d) Estimate of Revolt**
+
+The Vellore Revolt failed because there was no immediate help from outside. Recent studies show that the organising part of the revolt was done perfectly by Subedars Sheik Adam and Sheik Hamid and Jamedar Sheik Hussain of the 2nd battalion of 23rd regiment and two Subedars and the Jamedar Sheik Kasim of the 1st battalion of the 1st regiment. Vellore Revolt had all the forebodings of the Great Rebellion of 1857. The only difference was that there was no civil rebellion following the mutiny. The 1806 revolt was not confined to Vellore Fort. It had its echoes in Bellary, Walajabad, Hyderabad, Bengaluru, Nandydurg, and Sankaridurg.
+
+|  |  |  |
+| --- | --- | --- |
+| protege | dependent, a person who receives  support from a patron | பிறர் ஆதரவில் இருப்்பவர் |
+| the act of elevating or raising one’s  wealth, prestige and power | செல்்வவாக்்ககை வளர்்த்்தல்,  ஆக்கிரமிப்பு செய்்தல் | aggrandizement |
+| defiant | resisting, disobedient  பணிய மறுக்கும் | அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் மாற்றில் மாறுக்கும் அடுக்கப்பட்ட மாற்றங்கள் ம |
+
+Early Revolts against British Rule in Tamil Nadu
+
+|  |  |  |
+| --- | --- | --- |
+| tranquillity | harmony, peace, free from  disturbances | அமைதி |
+| disloyalty, betrayal, breach of trust | வஞ்சித்்தல் | treachery |
+| daring, fearless | பயமற்்ற, துணிவுமிக்்க | audacious |
+| a final dominating demand | இறுதி எச்்சரிக்்ககை | ultimatum |
+| payment or reward – something  given liberally | கொொடை | bounty |
+| an ornament, especially a knot of  ribbon worn on the hat | தொொப்பியை அணிசெய்யும்  குஞ்்சம் | cockade |
+| notice, having knowledge of | கவனம் | cognizance |
+| crush, defeat | தோோற்்கடி | trounce |
+| imprisoned | சிறைப்்படுத்்தல் | interned |
+
+![](assets/page_010_picture_004.png)
+
+- I Choose the correct answer
+- Who was the first Palayakkarars to resist the East India Company's policy of territorial aggrandizement?
+- Marudhu brothers
+- Puli Thevar
+- Velunachiyar
+- Veerapandya Kattabomman
+- Who had established close relationship with the three agents of Chanda Sahib?
+- Velunachiyar
+- Kattabomman
+- Puli Thevar
+- Oomai thurai
+- Where was Sivasubramanianar executed?
+- Kayathar
+- Nagalapuram
+- Virupachi
+- Panchalankurichi
+
+Early Revolts against British Rule in Tamil Nadu
+
+- Who issued the Tiruchirappalli proclamation of Independence?
+- Marudhu brothers
+- Puli Thevar
+- Veerapandya Kattabomman
+- Gopala Nayak
+- When did the Vellore Revolt breakout?
+- 24 May 1805
+- 10 July 1805
+- 10 July 1806
+- 10 September 1806
+- Who was the Commander-in-Chief responsible for the new military regulations in Vellore fort?
+- Col. Fancourt
+- Major Armstrong
+- Sir John Cradock
+- Colonel Agnew
+- Where were the sons of Tipu Sultan sent after the Vellore Revolt?
+- Calcutta
+- Mumbai
+- Delhi
+- Mysore
+
+**II Fill in the blanks**
+
+- The Palayakkarars system was put in place in Tamil Nadu by .
+- Velunachiyar and her daughter were under the protection of for eight years.
+- Bannerman deputed to convey his message, asking Kattabomman to surrender.
+- Kattabomman was hanged to death at .
+- The Rebellion of Marudhu Brothers was categorized in the British records as the .
+- was declared the new Sultan by the rebels in Vellore Fort.
+
+**III Choose the correct statement**
+
+- i) The Palayakkarars system was in practice in the Kakatiya Kingdom.
+- ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.
+- iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the Company administration was charged with treachery and hanged in 1764.
+- iv) Ondiveeran led one of the army units of Kattabomman.
+- (i), (ii) and (iv) are correct
+- (i), (ii) and (iii) are correct
+- (iii) and (iv) are correct
+- (i) and (iv) are correct
+- i) Under Colonel Campbell, the English Army went along with Mahfuzkhan's army.
+- ii) After Muthu Vadugar's death in Kalaiyar Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her.
+- iii) Gopala Nayak spearheaded the famous Dindigul League.
+- iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.
+- (i) and (ii) are correct
+- (ii) and (iii) are correct
+- (ii), (iii) and (iv )are correct
+- (i) and (iv) are correct
+- Assertion (A):Puli Thevar tried to get the support of Hyder Ali and the French.
+- Reason (R): Hyder Ali could not help Puli Thevar as he was already in a serious conflict with the Marathas.
+- a)Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
+- b)Both (A) and (R) are wrong
+- c)Both (A) and (R) are correct and (R) is the correct explanation of (A)
+- (A) is wrong and (R) is correct
+
+**IV Match the following**
+
+- Theerthagiri
+- Vellore Revolt
+- Gopala Nayak -
+- Ramalinganar
+
+Dindigul
+
+- Bannerman -
+- Subedar Sheik Adam -
+
+Odanilai
+
+**V Answer the questions briefly**
+
+- What were the duties of the Palayakkarars?
+- Identify the Palayams based on the division of east and west.
+- What was the significance of the Battle of Kalakadu?
+- What was the bone of contention between the Company and Kattabomman?
+- Highlight the essence of the Tiruchirappalli Procalamation of 1801.
+
+Early Revolts against British Rule in Tamil Nadu
+
+73
+
+**VI Answer in detail**
+
+- Attempt an essay of the heroic fight Veerapandya Kattabomman conducted against the East India Company.
+- Highlight the tragic fall of Sivagangai and its outcome.
+- Account for the outbreak of Vellore Revolt in 1806.
+
+**VIIActivities**
+
+- Teacher can ask the students to prepare an album of patriotic leaders of early revolts against the British rule in Tamil Nadu. Using their imagination they can also draw pictures of different battles in which they attained martyrdom
+- Stage play visualising the conversation between Jackson and Kattabomman be attempted by students with the help of teachers.
+
+**REFERENCE BOOKS**
+
+- Burton Stein, Peasant State and Society in Medieval South India, New Delhi:Oxford University Press, 1980.
+- P.M. Lalitha, Palayakararss as Feudatories Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.
+- K. Rajayyan, South Indian Rebellion, 1800–1801, Madurai, Ratna Publication, 2000 (Reprint).
+- K.A. Manikumar, Vellore Revolt 1806 (Chennai: Allied Publishers, 2007).
+
+**A Book worth reading**
+
+டாக்்டர். கே.கே. பிள்்ளளை, தமிழக வரலாறு - மக்்களும் பண்்பபாடும், தமிழ்்நநாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம் , சென்்னனை (ஆவணப் பதிப்பு: ஆகஸ்ட் - 2017)

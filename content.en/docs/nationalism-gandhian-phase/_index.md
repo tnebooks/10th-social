@@ -57,8 +57,6 @@ The Government of India Act 1919, however, caused disappointment, as it did not 
 
 **General Dyer's Brutality**
 
-![](assets/page_003_picture_004.png)
-
 On 13 April 1919, a public meeting was arranged at Jallianwala Bagh in Amritsar. As it happened to be Baisaki day (spring harvest festival of Sikhs), the
 
 villagers had assembled there in thousands. General Reginald Dyer, on hearing of the assemblage, surrounded the place with his troops and an armoured vehicle. The only entrance to the park that was surrounded on all sides by high walls was blocked, and firing took place without any warning. The firing lasted for ten minutes till the troops ran out of ammunition. According to official report 379 were killed and more than thousand injured. Unofficial estimates put the toll at more than a thousand. After the incident, martial law was declared and many people in the Punjab, especially Amritsar were flogged and forced to crawl on the streets. The brutality enraged Indians. Rabindranath Tagore returned his knighthood. Gandhi surrendered his Kaiser-i-Hind medal.
@@ -251,8 +249,6 @@ for three years raiding government institutions. In 1933, Surya Sen was caught a
 By the 1930s the Communist Party of India had gained strength in view of the economic crisis caused by world-wide Great Depression. Britain transmitted the effects of Depression to its colonies. The effects of Depression were reflected in decline in trade returns and fall in agricultural prices. The governmental measures included forcible collection of land revenue which in real terms had increased two-fold due to a 50% fall in agricultural prices, the withdrawal of money in circulation, retrenchment of staff and expenditure on developmental works.
 
 ![](assets/page_009_picture_005.png)
-
-![](assets/page_009_picture_003.png)
 
 ![*Jayaprakash Narayan*](assets/page_009_picture_004.png)
 

@@ -26,6 +26,8 @@ As we saw in the last chapter, the crisis in the Western world had led to the ou
 
 The First World War led to the expansion of certain industries in the hope that the war-time boom would continue. However, when the War came to an end, the industries that grew to meet war-time requirements had to be abandoned or modified. The situation was made worse by the political complications caused by the Treaty of Versailles. A new wave of economic nationalism which expressed itself in protectionism or in tariff barriers affected world trade. The war also placed a heavy burden of debt on every European country.
 
+![](assets/page_001_picture_005.png)
+
 **Stock Market Crash in the US**
 
 The first huge crash occurred on 24 October 1929. This discouraged investors and consumers to such an extent that more and more people began to sell their shares and dispose of their stocks. But there were no buyers. This was followed by the failure of American banks. The American financiers were forced to withdraw their own funds invested abroad.
@@ -190,8 +192,6 @@ into separate areas for the different races. Marriage between white and non-whit
 
 became the first black president of South Africa. Even though apartheid was dismantled the Whites completely dominate the economic sphere.
 
-![](assets/page_007_picture_003.png)
-
 ### 2.5 Political Developments in South America
 
 **Mayas and Aztecs**
@@ -248,12 +248,134 @@ The situation created by the Great Depression made it impossible for oligarchic
 
 **SUMMARY**
 
--  Intensification of anti-colonial struggles commenced from the end of the First
--  The harsh decisions in the Paris Peace Conference against the defeated countries destabilised
-- the ruling regimes and created a climate for the rise of fascism especially in Italy and Germany.
--  The economic slump originating in the US in 1929 and subsequently affecting all capitalist
-- countries in the world resulted in changes in polity and society.
--  Decolonisation process was quickened during the inter-war period in India.
--  The Munroe Doctrine prevented colonisation of Latin American countries by European powers
-- and thereby ensured early sovereign status to them. Later this was regarded by Latin Americans as a
-- cover for American intervention and exploitation of the resources of their countries.
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| solidarity | a bond of unity, support for a common cause | துடியும் இடத்தில், தானாலும் குறிப்பாட்டின் துடியும் இடத்தில் துடியும் இடத்தில் தானாலும் குறிப்பாட்டின் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்தில் துடியும் இடத்த |
+| slump | a sudden severe or prolonged fall in the price | விலைவீழ்ச்சி, சரிவு |
+| bankruptcy | insolvency, financial ruin | திவால், கடன் தீர்்க்்க முடியா நிலை |
+| devaluation | a decrease in the value of a country's currency | பணமதிப்புக் குறைதல் |
+| intimidation | threat, the act of making fearful | மிரட்்டல், அச்சுறுத்்தல் |
+
+regimes to accommodate the rising expectations of several assertive groups. In Mexico, there was violent social protest involving dissatisfied segments of the oligarchy, middle-class intellectuals, and peasant communities. Elsewhere electoral reform enabled newer social groups to obtain political power through the ballot box.
+
+Latin America protested American intervension and disliked their "dollar imperialism". The opposition to political intervention produced a change in US policy after 1933. Franklin D. Roosevelt in his "Good Neighbour" policy agreed that the US would not intervene in the internal affairs of any state, and would give economic and technical assistance to Latin America.
+
+Dollar Imperialism, the term used to describe the policy of the USA in maintaining and dominating over distant lands through economic aid.
+
+|  |  |  |
+| --- | --- | --- |
+| bolstered | strengthened | வலுப்்படுத்தினர் |
+| demoralized | having lost confidence or hope, disheartened | மனத்்தளர்ச்சி அடைதல், நம்பிக்்ககை இழத்்தல் |
+| manipulate | control or influence a person or situation  cleverly, unfairly to achieve a specific purpose | கெட்டிக்்ககாரத்்தனமாய் அல்்லது  சூழ்ச்சியாய் கையாளு |
+| annulling | declaring invalid or null and void | செல்்லலாதாக்்கல், ரத்துசெய்்தல் |
+
+![](assets/page_010_picture_005.png)
+
+**I Choose the correct answer**
+
+**II Fill in the blanks**
+
+- The founder of the Social Democratic Party was .
+- With whom of the following was the Lateran Treaty signed by Italy?
+- The Nazi Party's propaganda was led by .
+- Russia
+- Germany
+- Spain
+- Pope
+- The Vietnam Nationalist Party was formed in .
+- With whose conquest did the Mexican civilization collapse?
+- The Secret State Police in Nazi Germany was known as .
+- Hernan Cortes
+- Francisco Pizarro
+- The Union of South Africa came into being in May .
+- Toussaint Louverture
+- Pedro I
+- The ANC leader Nelson Mandela was put behind the bars for years
+- Who made Peru as part of their dominions? a) English
+- Boers were also known as .
+- 7.
+- Spaniards
+- Russians
+
+**III Choose the correct statement**
+
+- French
+- i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front
+- Which President of the USA pursued "Good Neighbour" policy towards Latin America?
+- ii) The first huge market crash in the US occurred on 24 October 1929.
+- Franklin D. Roosevelt
+- Truman
+- iii) The ban on African National Congress was lifted in 1966.
+- Woodrow Wilson
+- Eisenhower
+- i) and ii) are correct
+- Which part of the world disliked dollar imperialism?
+- iii) is correct
+- Latin America
+- Europe
+- ii) and iii) are correct
+- i), ii) and iii) are correct
+- India
+- China
+
+The World between Two World Wars
+
+25
+
+- Assertion: The Berlin Colonial Conference of 1884–85 had resolved that Africa should be divided into spheres of influence of various colonial powers.
+
+Reason: The war between the British and Boers in South Africa, however, was in defiance of this resolution.
+
+- Both A and R are right
+- A is right but R is not the right reason
+- Both A and R are wrong
+- A is wrong and R has no relevance to A
+
+**IV Match the Following**
+
+- Transvaal -
+
+President of Germany
+
+- Hindenburg -
+
+Hitler
+
+- Third Reich -
+
+Italy
+
+gold
+
+- Matteotti -
+
+**V Answer briefly**
+
+- What do you know of the White Terror in Indo-China?
+- What was the result of Mussolini's march on Rome?
+- How did Great Depression impact on the Indian agriculture?
+- Define "Dollar Imperialism."
+
+**VI Answer in detail**
+
+- Trace the circumstances that led to the rise of Hitler in Germany.
+
+The World between Two World Wars
+
+- Attempt a narrative account of how the process of decolonization happened in India during the inter-war period (1919-39).
+- Describe the rise and growth of nationalist politics in South Africa.
+
+**VII Activity**
+
+- Each student may be asked to write an assignment on how each sector and each section of population in the USA came to be affected by the Stock Market Crash in 1929.
+- A group project work on Vietnam War is desirable. An album or pictures, portraying the air attacks of the US on Vietnam and the brave resistance put up by the Vietnamese may be prepared.
+
+**REFERENCE BOOKS**
+
+- Richard Overy (ed.) Complete History of the World (London: HarperCollins, 2007)
+- Chris Harman, A People's History of the World (New Delhi: Orient Longman, 2007).
+- R.D. Cornwell, World History in the Twentieth Century (London: Longman, 1972).
+- E.H. Gombrich, A Little History of the World (London: Yale University Press, 2008).
+- Jawaharlal Nehru, Glimpses of World History (New Delhi: Penguin Books, 2004).

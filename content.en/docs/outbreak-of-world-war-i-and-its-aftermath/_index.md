@@ -20,8 +20,6 @@ The year 1914 is a turning point in world history. The political and social proc
 
 ![](assets/page_001_picture_005.png)
 
-![](assets/page_001_picture_006.png)
-
 ### 1.1 Scramble for Colonies
 
 **Capitalist Countries' Race for Markets**
@@ -30,7 +28,7 @@ The aim of capitalistic industry was to produce more and more. The surplus wealt
 
 A striking feature of nineteenth century was that Europe emerged as the dominant power, while Asia and Africa were colonized and exploited. Within Europe, England held a pre-eminent position, as the world leader of capitalism. An ever-growing demand for markets and raw materials made the capitalist powers race around the world for expanding their empire for exploitation.
 
-1
+1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1 --- 1
 
 **Rise of Monopoly Capitalism**
 
@@ -72,7 +70,7 @@ In 1876, barely 10 percent of Africa was under European rule. By 1900, practical
 
 whole of Africa was colonised. Britain, France and Belgium had divided the continent between them, leaving a few areas for Germany and Italy. Britain, France, Russia and Germany also established "spheres of influence" in China. Japan took over Korea and Taiwan. France conquered Indo-China. The US took the Philippines from Spain. Britain and Russia agreed to partition Iran.
 
-3
+3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 --- 3 ---
 
 The first European attempts to carve out colonies in Africa resulted in bloody battles. The French had to fight a long and bitter war to conquer Algeria and Senegal. The British lost to the Zulus (1879) and to the Sudanese Army (1884). The Italian army suffered a devastating defeat at the hands of an Ethiopian army at Adowa (1896).
 
@@ -249,8 +247,6 @@ India and Indians had taken an active part in the War believing that Britain wou
 
 **Introduction**
 
-![](assets/page_009_picture_002.png)
-
 The biggest outcome of the War, the Russian revolution, was unique in world history. The sociopolitical and economic conditions prevailing in
 
 Russia were brought to a head by the vast losses and sufferings caused by the War. There were really two revolutions in the year 1917, one in March and the other in November. On the abdication of the Tsar the bourgeois government which followed, wanted to continue the war. But the people were against it. So there was a second great uprising under the guidance their leader Lenin, who seized power and established a communist government in Russia.
@@ -283,7 +279,7 @@ The outbreak of the First World War had temporarily strengthened the monarchy, a
 
 Russia allied to France and Britain. As there was rumour of a palace revolution. Nicholas made himself the Commander-in-Chief of the army. At the end of 1916, Rasputin, who had a domineering influence over the Tsar and the Tsarina, was murdered by a member of the Tsar's family. The members of the St. Petersburg Soviet were arrested. Whenever the Duma opposed the Tsar's move, it was dissolved and fresh elections held. Without change of government policy, the fourth Duma ended with the revolution of 1917.
 
-9
+9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 --- 9 ---
 
 **Popular Uprisings**
 
@@ -366,3 +362,164 @@ Since it lacked the military power of its own, it could not enforce its decision
 The founders of this peace organisation underestimated the power of nationalism. The principle of "collective security' could not be applied in actual practice.
 
 When Italy, Japan and Germany, headed by dictators, refused to be bound by the orders of the League, Britain and France were the only major powers to act decisively.
+
+**SUMMARY**
+
+**GLOSSARY**
+
+|  |  |  |
+| --- | --- | --- |
+| monopoly | exclusive possession or control | முற்றுரிமை |
+| devastating  highly destructive or damage | பேரழிவு | துருத்தலை ```markdown துருத்தலை ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` |
+| jingoism | blind patriotism, especially in the  pursuit of aggressive foreign policy | கண்மூடித்்தனமான  நாட்டுப்்பற்று |
+| chauvinism | extreme patriotism | அதிதீவிரப்்பற்று |
+| kultur | thinking highly of German civilization  and culture | ஜெர்்மமானியக் கலாச்்சசாரத்்ததை மிக உயர்்வவாக நினைப்்பது |
+| repulse | drive back | எதிரியை விரட்டிஅடித்்தல் |
+| torpedo | attack or sink (a ship) with a torpedo  மூழ்்கடி | புதுகாரி துத்துவாத் ```markdown புதுகாரி துத்துவாத் ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` ``` |
+| bourgeois characteristic of the middle class,  typically with reference to its perceived  materialistic values or conventional  attitudes | முதலாளித்துவம் | --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- |
+| intelligentsia | intellectuals or highly educated people  as a group, especially when regarded  as possessing culture and political  influence | அறிவுஜீவிகள்,  நுண்்ணறிவாளர்்கள் |
+
+Outbreak of World War I and Its Aftermath
+
+13
+
+- In the battle of Tannenberg suffered heavy losses.
+
+![](assets/page_014_picture_002.png)
+
+- as Prime Minister represented France in Paris Peace Conference.
+
+**I Choose the correct answer**
+
+- Locarno Treaty was signed in the year .
+- What were the three major empires shattered by the end of First World War?
+
+**III Choose the correct statement**
+
+- Germany, Austria Hungary, and the Ottomans
+- i) The Turkish Empire contained many non-Turkish people in the Balkans.
+- Germany, Austria-Hungary, and Russia
+- ii) Turkey fought on the side of the central powers
+- Spain, Portugal and Italy
+- Germany, Austria-Hungary, Italy
+- iii) Turkey's attempt to attack Suez Canal but were repulsed.
+- Which country emerged as the strongest in East Asia towards the close of nineteenth century?
+- i) and ii) are correct
+- i) and iii) are correct
+- China
+- Japan
+- ii) and iii) are correct
+- Mongolia
+- Korea
+- i), ii) and iii) are correct
+- Who said "imperialism is the highest stage of capitalism"?
+- Assertion: The first European attempts to carve out colonies in Africa resulted in bloody battles.
+- Marx
+- Lenin
+- Mao Tsetung
+- Sun Yat-sen
+- What is the Battle of Marne remembered for?
+
+Reason: There was stiff resistance from the native population.
+
+- air warfare
+- trench warfare
+- Both A and R are correct
+- submarine warfare
+- ship warfare
+- A is right but R is not the correct reason
+- To which country did the first Secretary General of League of Nations belong?
+- Both A and R are wrong
+- France
+- Britain
+- R is right but A is wrong.
+- Dutch
+- USA
+
+**IV Match the following**
+
+- Which country was expelled from the League of Nations for attacking Finland?
+- Treaty of Brest- Litovsk -
+
+Versailles
+
+- Russia
+- Germany
+
+Turkey
+
+- Jingoism -
+- 2.
+- Italy
+- France
+- Kemal Pasha -
+
+Russia with
+
+**II Fill in the blanks**
+
+Germany
+
+- Japan forced a war on China in the year .
+- Emden -
+
+England
+
+- Hall of Mirrors -
+
+Madras
+
+- The new state of Albania was created according to the Treaty of signed in May 1913.
+
+**V Answer briefly**
+
+- How do you assess the importance of Sino-Japanese War?
+- Japan entered into an alliance with England in the year .
+- Name the countries in the Triple Entente.
+- In the Balkans had mixed population.
+- What were the three militant forms of nationalism in Europe?
+
+Outbreak of World War I and Its Aftermath
+
+- What do you know of trench warfare?
+- What was the role of Mustafa Kemal Pasha?
+- List out any two causes for the failure of the League of Nations.
+
+**VI Answer the following in detail**
+
+- Discuss the main causes of the First World War.
+- Highlight the provisions of the Treaty of Versailles relating to Germany.
+- Explain the course of the Russian Revolution under the leadership of Lenin.
+- Estimate the work done by the League of Nations.
+
+**VII Activity**
+
+- Students can be taught to mark the places of battles and the capital cities of the countries that were engaged in the War.
+
+**VIII Map Work**
+
+**Mark the following countries on the world map.**
+
+- Great Britain
+- Germany
+- Italy
+- France
+- Turkey
+- Morocco
+- Serbia
+- Bosnia
+- Greece
+- Austria-Hungary
+- Bulgaria
+- Rumania
+
+![](assets/page_015_picture_002.png)
+
+- R.D. Cormvell, World History in the Twentieth Century, London: Longman, 1972
+- David Thomson, Europe since Napoleon, Harmondsworth: Penguin, 1990
+- Eric Hobsbawm,The Age of extremes , 1914 – 1991, London: Abacus, 1994.
+- Hew Strachan, The Oxford Illustrated History of the First World War. Oxford: Oxford University Press, 2014).
+
+![](assets/page_015_picture_003.png)
+
+Outbreak of World War I and Its Aftermath

@@ -20,8 +20,6 @@ On 23 June 1757, the Nawab of Bengal Siraj-ud-daulah was defeated by the East In
 
 ![](assets/page_001_picture_004.png)
 
-![](assets/page_001_picture_005.png)
-
 In this lesson, the story of resistance and a varied range of responses against the British rule in the Indian subcontinent from the early and mid-nineteenth century to the early twentieth century are outlined.
 
 ### 7.1 Peasant and Tribal Resistance
@@ -132,8 +130,6 @@ The sepoys were also upset with discrimination in salary and promotion. Indian s
 **(b) The Revolt**
 
 The precursor to the revolt was the circulation of rumors about the cartridges of the new Enfield rifle. There was strong suspicion that the new cartridges had been
-
-![](assets/page_004_picture_004.png)
 
 greased with cow and pig fat. The cartridge had to be bitten off before loading (pork is forbidden to the Muslims and the cow is sacred to a large section of Hindus).
 
@@ -313,3 +309,201 @@ The Indian national movement was revived and also radicalised during the Home Ru
 **(b) Lucknow Pact (1916)**
 
 The Home Rule Movement and the subsequent reunion of moderate and the militant nationalists opened the possibility of fresh talks with the Muslims. Under the Lucknow Pact (1916), the Congress and the Muslim League agreed that there should be self-government in India as soon as possible. In return, the Congress leadership accepted the concept of separate electorate for Muslims.
+
+**SUMMARY**
+
+**GLOSSARY**
+
+**(c) British Response**
+
+As the demand for Swaraj was raised by Tilak and Annie Besant that gained popularity, the British used the same old ploy to isolate the leaders by repressing their activities.
+
+In 1919, the British government announced the Montagu-Chelmsford reforms which promised gradual progress of India towards self-government. This caused deep disappointment to Indian nationalists. In a further blow the government enacted what was called the Rowlatt Act which provided for arbitrary arrest and strict punishment.
+
+|  |  |  |
+| --- | --- | --- |
+| orchestrated | organized to achieve a desired effect | இலக்கத்திற்கு இலக்கத்தைப் பயன்படுத்தும் பயன்படுத்தும் இலக்கத்திற்கு இலக்கத்தைப் பயன்படுத்தும் இலக்கத்திற்கு இலக்கத்தைப் பயன்படுத்தும் |
+| secret | இரகசிய | clandestine |
+| re-establishing | மீட்கின்்ற | restorative |
+| property leased by one lessee to another | கீழ்க்குத்்தகைக்கு விடுதல், உள்  குத்்தகைக்கு விடுதல் | subletting |
+| equal rights for all people | அனைத்து மக்்களுக்கும் சமமான | egalitarian |
+| forcible | வலுக்்கட்்டடாயமாக | coercive |
+| the practice of taking something from an  unwilling person by physical force | தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத்தில் பாலத்தில் தாதகத்தில் பொருள் படையாக, பாலத | extortion |
+| dissatisfied, frustrated | நிறைவில்்லலாத, திருப்தியற்்ற | disgruntled |
+| extremely bad, deep and bottomless | மிக மோோசமான ,  படுபாதாளமான | abysmal |
+
+Anti-Colonial Movements and the Birth of Nationalism
+
+85
+
+- What was the context in which the Chotanagpur Tenancy Act was passed?
+
+![](assets/page_012_picture_002.png)
+
+- Kol Revolt
+- Indigo Revolt
+- Munda Rebellion d) Deccan Riots
+- Who set up the first Home Rule League in April 1916?
+- Annie Basant
+- Bipin Chandra Pal
+
+**I Choose the correct answer**
+
+- Lala Lajpat Rai
+- Which one of the following was launched by Haji Shariatullah in 1818 in East Bengal?
+- Tilak
+- Who drew the attention of the British to the suffering of Indigo cultivation through his play Nil darpan?
+- Wahhabi Rebellion
+- Farazi Movement
+- Dina Bandhu Mitra
+- Tribal uprising
+- Romesh Chandra Dutt
+- Kol Revolt
+- Dadabhai Naoroji
+- Who declared that "Land belongs to God" and collecting rent or tax on it was against divine law?
+- Birsa Munda
+
+**II Fill in the blanks**
+
+- Sidhu
+- Titu Mir
+- ____________ was an anti–imperial and anti-landlord movement which originated in and around 1827.
+- Dudu Mian
+- Shariatullah
+- Who were driven out of their homeland during the process of creation of Zamins under Permanent Settlement?
+- The major tribal revolt which took place in Chotanagpur region was ____________.
+- Santhals
+- Titu Mir
+- Chota Nagpur Act was passed in the year ____________.
+- Munda
+- Kol
+- Womesh Chandra Bannerjee was elected the president of Indian National Congress in the year ____________.
+- Find out the militant nationalist from the following.
+- Dadabhai Naoroji
+
+**III Choose the correct statement**
+
+- Justice Govind Ranade
+- (i) The Company received ₹22.5 million from Mir Jafar and invested it to propel the industrial revolution in Britain.
+- Bipin Chandra Pal
+- Romesh Chandra
+- (ii) Kols organized an insurrection in 1831-1832, which was directed against government officers and moneylenders.
+- When did the Partition of Bengal come into effect?
+- 19 June 1905
+- (iii) In 1855, two Santhal brothers, Sidhu and Kanu, led the Santhal Rebellion.
+- 18 July 1906
+- 19 August 1907
+- (iv) In 1879, an Act was passed to regulate the territories occupied by the Santhals.
+- 16 October 1905
+
+Anti-Colonial Movements and the Birth of Nationalism
+
+86
+
+- (i), (ii) and (iii) are correct
+- (ii) and (iii) are correct
+- (iii) and (iv) are correct
+- (i) and (iv) are correct
+- (i) One of the most significant contributions of the early Indian Nationalists was the formulation of an economic critique of colonialism.
+- (ii) The early Congress leaders stated that the religious exploitation in India was the primary reason for the growing poverty.
+- (iii) One of the goals of the moderate Congress leaders was to achieve Swaraj or self-rule.
+- (iv) The objective of Partition of Bengal was to curtail the Bengali influence and weaken the nationalist movement.
+- (i) and (iii) are correct
+- (i) and (iv) are correct
+- (ii) and (iii) are correct
+- (iii) and (iv) are correct
+- Assersion (A): Under colonial rule, for the first time in Indian history, government claimed a direct proprietary right over forests.
+
+Reason (R): Planters used intimidation and violence to compel farmers to grow indigo.
+
+- Both (A) and (R) are correct, but R is not the correct explanation of A
+- Both (A) and (R) are wrong
+- Both (A) and (R) are correct and R is the correct explanation of A
+- (A) is wrong and (R) is correct
+- Assersion (A): The Revolt of 1857 was brutally suppressed by the British army.
+- Reason (R): The failure of the rebellion was
+
+due to the absence of Central authority.
+
+- Both (A) and (R) are wrong
+- (A) is wrong and (R) is correct
+- Both (A) and (R) are correct and R is the correct explanation of A
+- Both (A) and (R) are correct, but R is not the correct explanation of A
+
+**IV. Match the following**
+
+- Wahhabi Rebellion
+- Lucknow
+- Munda Rebellion
+- Peshwa Baji Rao II
+- Begum Hazarat Mahal
+- Titu Mir
+- Nana Sahib
+- Ranchi
+
+**V Answer the following questions briefly**
+
+- How are the peasant uprisings in British India classified?
+- Name the territories annexed by the British under the Doctrine of Lapse.
+- Highlight the objectives of Home Rule Movement.
+- Summarise the essence of Lucknow Pact.
+
+**VI Answer in detail**
+
+- Discuss the causes of the Revolt of 1857?
+- How did the people of Bengal respond to the Partition of Bengal (1905)?
+
+**VII Activity**
+
+- Identify the Acts passed in British India from 1858 to 1919, with a brief note on each.
+- Mark the important centres of 1857 Revolt on an outline map of India.
+- Prepare an album with pictures of frontline leaders of all the anti-colonial struggles launched against the British.
+
+![](assets/page_013_picture_005.png)
+
+- Bipan Chandra, India's Struggle for Independence (New Delhi: Penguin, 2000)
+- Sekhar Bandyopadhyay, From Plassey to Partition and After (New Delhi: Orient Longman, 2004)
+- Sumit Sarkar, Modern India (1885-1947) (New Delhi: Pearson, 2014).
+
+Anti-Colonial Movements and the Birth of Nationalism
+
+![](assets/page_014_picture_002.png)
+
+**1. https//www.brittanica.com**
+
+![](assets/page_014_picture_003.png)
+
+**Anti-Colonial Movements and the Birth of Nationalism**
+
+Through this activity you will visualize the Great Rebellion of 1857
+
+Step-1
+
+Open the Browser and type the URL given below (or) Scan the QR Code.
+
+Step-2
+
+Type 'Rebellion of 1857' into search box
+
+Step-3
+
+Scroll down and click explore the picture collections
+
+![](assets/page_014_picture_005.png)
+
+![*Step-1*](assets/page_014_picture_006.png)
+
+*Step-2*
+
+**Website URL:**
+
+https://artsandculture.google.com/
+
+- Pictures are indicatives only.
+- If browser requires, allow Flash Player or Java Script to load the page.
+
+Anti-Colonial Movements and the Birth of Nationalism
+
+![](assets/page_014_picture_004.png)
+
+![*Step-3*](assets/page_014_picture_007.png)
