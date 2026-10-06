@@ -110,9 +110,11 @@ The southwest monsoon is the most significant feature of the Indian climate. The
 
 ![](assets/page_004_picture_001.png)
 
+**South West Monsoon In India** (Not to Scale)
+
 ![](assets/page_004_picture_002.png)
 
-### South West Monsoon In India North East Monsoon In India
+**North East Monsoon In India** (Not to Scale)
 
 Prior to the onset of the southwest monsoon, the temperature in North India reaches up to 46°C. The sudden approach of monsoon wind over South India with lightning and thunder is termed as the ‘break’ or ‘burst of monsoon’. The monsoon wind strikes against the southern tip of Indian land mass and gets divided into two branches. One branch starts from Arabian Sea and the other from Bay of Bengal.
 
@@ -177,6 +179,17 @@ ii. The rainfall of this region is moderate. These forests are found in Jammu & 
 Pradesh and Uttarakhand. Up to 900 m altitude semi-desert vegetation is found and it is known for bushes and small trees. In altitude from 900 to 1800m, chir is the most common tree. From 1800 to 3000m is covered with semi temperate coniferous forests.
 
 ![](assets/page_007_picture_001.png)
+
+**INDIA - BIOSPHERE RESERVES AND WILDLIFE SANCTUARIES** (Not to Scale)
+
+| Legend | Places shown |
+|---|---|
+| World Network of Biosphere Reserves (UNESCO) | Nanda Devi, Kanchenjunga, Nokrek, Sunderban, Pachmarhi, Achanakmar-Amarkantak, Simlipal, Nilgiri, Agasthyamalai, Gulf of Mannar, Great Nicobar |
+| Biosphere Reserves | Cold desert, Dihang-Dibang, Dibru-Saikhowa, Manas, Panna, Rann of Kutch, Seshachalam |
+| National Park | Dachigam, Corbet, Ranthambore, Rajgir, Kaziranga, Kanha, Gir, Sanjay Gandhi, Guindy, Bandipur |
+| Wild Life Sanctuaries | Sariska, Chandra Prabha, Etumagaram, Mudumalai |
+| Bird Sanctuaries | Gobind Sagar (Rajaji), Chilka Lake, Salim Ali, Ranganathittu, Pulicat, Vedanthangal, Point Calimere |
+| Marine Park | Dwaraka, Rameshwaram |
 
 ### Alpine Forest
 

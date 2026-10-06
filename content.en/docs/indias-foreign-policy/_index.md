@@ -262,6 +262,16 @@ foe, only the interests are permanent’. New challenges have forced India to ad
 
 ![](assets/page_007_picture_001.png)
 
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| External affairs | matters having with international relations |
+| multilateral | involving more than two countries |
+| procurement | process of buying |
+| pluralism | the practice of holding more than one benefice at a time |
+| pandemics | an epidemic disease |
+
 ### EXERCISE
 
 **I Choose the correct answer**

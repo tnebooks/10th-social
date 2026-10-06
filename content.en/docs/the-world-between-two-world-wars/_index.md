@@ -124,15 +124,13 @@ Decolonisation is a process through which colonial powers transferred institutio
 
 ### The Emergence of Viet Minh
 
-The mainstream political party in Indo- China was the Vietnam Nationalist Party. Formed in 1927, it was composed of the wealthy and middle class sections of the population. In 1929 the Vietnamese soldiers
+The mainstream political party in Indo- China was the Vietnam Nationalist Party. Formed in 1927, it was composed of the wealthy and middle class sections of the population. In 1929 the Vietnamese soldiers mutinied, and there was a failed attempt to assassinate the French Governor-General. This was followed by a large scale peasant revolt led by the Communists. The revolt was crushed followed by what is called “White Terror.” Thousands of rebels were killed.
 
 ![](assets/page_004_picture_001.png)
 
 Ho Chi Minh
 
 Ho Chi Minh (1890-1969) was born in Tongking. When Ho Chi Minh was twenty one, he went to Europe. After working as a cook in a London hotel, he went to Paris. In the Paris peace conference, he lobbied for the independence for Vietnam. His articles in newspapers and especially the pamphlet, French Colonialism on Trial, made him well known as a Vietnam nationalist. In 1921 he became a founder-member of the French Communist party. Two years later he went to Moscow and learnt revolutionary techniques then. In 1925, he founded the Revolutionary Youth Movement.
-
-mutinied, and there was a failed attempt to assassinate the French Governor-General. This was followed by a large scale peasant revolt led by the Communists. The revolt was crushed followed by what is called “White Terror.” Thousands of rebels were killed.
 
 After the White Terror, Ho Chi Minh left for Moscow and spent the 1930s in Moscow and China. When France was defeated by Germany in 1940, Ho Chi Minh and his lieutenants used this turn of events to advance the Vietnamese cause. Crossing over the border into Vietnam in January 1941, they organized the League for the Independence of Vietnam, or Viet Minh. This gave renewed emphasis to a distinct Vietnamese nationalism.
 
@@ -277,6 +275,20 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 ![](assets/page_010_picture_001.png)
 
 ![](assets/page_010_picture_002.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| solidarity | a bond of unity, support for a common cause |
+| slump | a sudden severe or prolonged fall in the price |
+| bankruptcy | insolvency, financial ruin |
+| devaluation | a decrease in the value of a country's currency |
+| intimidation | threat, the act of making fearful |
+| bolstered | strengthened |
+| demoralized | having lost confidence or hope, disheartened |
+| manipulate | control or influence a person or situation cleverly, unfairly to achieve a specific purpose |
+| annulling | declaring invalid or null and void |
 
 ### EXERCISE
 

@@ -414,6 +414,20 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 
 ![](assets/page_014_picture_001.png)
 
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| monopoly | exclusive possession or control |
+| devastating | highly destructive or damage |
+| jingoism | blind patriotism, especially in the pursuit of aggressive foreign policy |
+| chauvinism | extreme patriotism |
+| kultur | thinking highly of German civilization and culture |
+| repulse | drive back |
+| torpedo | attack or sink (a ship) with a torpedo |
+| bourgeois | characteristic of the middle class, typically with reference to its perceived materialistic values or conventional attitudes |
+| intelligentsia | intellectuals or highly educated people as a group, especially when regarded as possessing culture and political influence |
+
 ### EXERCISE
 
 **I Choose the correct**

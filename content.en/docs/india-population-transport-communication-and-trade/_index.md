@@ -60,6 +60,25 @@ The following table shows the decadal growth rate of population from 1901 to 201
 
 ![](assets/page_002_picture_001.png)
 
+**Growth Rate of Population in India** (Census based on every ten years)
+
+| Census Year | Decadal Growth Rate (%) | Population |
+|---|---|---|
+| 1901 | 0% | 23,89,96,237 |
+| 1911 | 5.75% | 25,20,93,390 |
+| 1921 | -0.31% | 25,20,93,390 |
+| 1931 | 11% | 27,89,77,238 |
+| 1941 | 14.22% | 31,86,60,580 |
+| 1951 | 13.31% | 36,10,88,090 |
+| 1961 | 21.64% | 43,92,34,771 |
+| 1971 | 24.80% | 54,81,59,652 |
+| 1981 | 24.66% | 68,33,29,097 |
+| 1991 | 23.87% | 84,33,87,888 |
+| 2001 | 21.54% | 1,02,70,15,247 |
+| 2011 | 17.64% | 1,21,01,93,422 |
+
+Source: Census of India -2011
+
 ## 5.2 Migration
 
 It is the movement of people across regions and territories. It can be internal (within a country) or international (between the countries). Internal migration does not change the size of population of a country but it influences the distribution of population in a nation. It plays an important role in changing the composition and distribution of population. In India, the mass migration is from rural to urban areas. Unemployment and under employment in the rural areas are the push factors and the employment opportunity and higher wages in the urban areas caused by the industrial development are the pull factors of migration in the country.
@@ -214,6 +233,27 @@ Indian Railway system is the main artery of the country’s inland transport. Ra
 
 For operations and management, the Indian Railways is organized into 17 zones.
 
+| S. No. | Zone | Headquarters |
+|---|---|---|
+| 1. | Northern Railway | New Delhi |
+| 2. | North-Western Railway | Jaipur |
+| 3. | North-Central Railway | Allahabad |
+| 4. | North-Eastern Railway | Gorakhpur |
+| 5. | North-East Frontier Railway | Guwahati |
+| 6. | Eastern Railway | Kolkata |
+| 7. | East coast Railway | Bhubaneswar |
+| 8. | East-Central Railway | Hazipur |
+| 9. | West-Central Railway | Jabalpur |
+| 10. | Central Railway | Mumbai (VT) |
+| 11. | Western Railway | Mumbai (Churchgate) |
+| 12. | Southern Railway | Chennai |
+| 13. | South-Central Railway | Secunderabad |
+| 14. | South Eastern Railway | Kolkata |
+| 15. | South-Western Railway | Hubballi |
+| 16. | South East Central Railway | Bilaspur |
+| 17. | Konkan Railway | Navi Mumbai |
+
+
 ![](assets/page_007_picture_002.png)
 
 On the basis of width of the track, the Indian Railways fall under four categories.
@@ -327,6 +367,11 @@ India has one of the largest telecommunication networks in Asia. Apart from the 
 Mass Communication enables millions of people to get the information at the same time. It is a great way to provide education as well as entertainment. It helps in creating awareness among the people regarding various national policies and programmes. The Mass Communication Systems can provide the information to people in two methods. They are Print Media and Electronic Media.
 
 ![](assets/page_011_picture_001.png)
+
+**India – Air routes and Sea routes** (Not to scale)
+
+- Air routes map legend: International Route, Domestic Route, International Airports, Domestic Airports
+- Sea routes map legend: Sea Route, Major Ports, Minor ports
 
 Electronic Media: Radio broadcasting in India was started in 1923 by the Radio Club of Bombay. Since then it gained immense popularity and changed the social and cultural life of people. It was named as All India Radio (AIR) in 1936 and later it was renamed as Akashwani in 1957. It broadcasts a variety of programs related to information, education and entertainment. Special news bulletins are also broadcasted on special occasions like session of parliament and state legislatures.
 

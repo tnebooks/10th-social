@@ -248,6 +248,23 @@ Gillespie are detailed.
 
 ![](assets/page_010_picture_002.png)
 
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| protege | dependent, a person who receives support from a patron |
+| aggrandizement | the act of elevating or raising one’s wealth, prestige and power |
+| defiant | resisting, disobedient |
+| tranquillity | harmony, peace, free from disturbances |
+| treachery | disloyalty, betrayal, breach of trust |
+| audacious | daring, fearless |
+| ultimatum | a final dominating demand |
+| bounty | payment or reward – something given liberally |
+| cockade | an ornament, especially a knot of ribbon worn on the hat |
+| cognizance | notice, having knowledge of |
+| trounce | crush, defeat |
+| interned | imprisoned |
+
 ### EXERCISE
 
 **I Choose the correct answer**

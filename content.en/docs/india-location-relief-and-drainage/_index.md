@@ -58,6 +58,15 @@ The longitudinal difference between Gujarat in the west and Arunachal Pradesh in
 
 Since Arunachal Pradesh is towards east, it will have sunrise about two hours earlier than the sunrise at Gujarat which is in the west. In order to avoid these differences, Indian Standard Time is calculated. The local time of the central meridian of India is the standard time of India. India’s central meridian is 82°30’ E longitude. It passes through Mirzapur and roughly bisects the country in terms of longitude. The IST is 5.30 hrs ahead of Greenwich Mean Time (GMT).
 
+**Find out the following**
+
+- West - East and North - South extension of India.
+
+- Area wise which is the smallest and the largest state?
+
+- The states which do not have an international border.
+
+
 ![](assets/page_003_picture_002.png)
 
 Amaravati is the capital of Andhra Pradesh. According to Andhra Pradesh Reorganization Act, Hyderabad will be the capital for both the states of Andhra Pradesh and Telangana till 2024 (For 10 years from the act passed).
@@ -102,6 +111,10 @@ It constitutes the core part of the northern mountains. It is an young fold moun
 
 ![](assets/page_005_picture_001.png)
 
+**INDIA – States and Union Territories** (Not to Scale)
+
+Legend: Country Capital, State Capital, State Border line, International Border line
+
 (i) The Greater Himalayas/The Himadri (ii) The Lesser Himalayas /The Himachal (iii) The Outer Himalayas/The Siwaliks
 
 ### (i) The Greater Himalayas or the Himadri
@@ -111,6 +124,13 @@ The Greater Himalayas rise abruptly like a wall north of the Lesser Himalayas. T
 The Himalayas are about 25 km wide. Its average height is about 6,000 m. The Greater Himalayas receive lesser rainfall as compared to the Lesser Himalayas and the Siwaliks. Physical weathering is less effective over the Greater Himalayas as compared to the other ranges. Almost all the lofty peaks of the Himalayas are located in this range. The notable ones are the Mt. Everest (8,848 m) and Kanchenjunga (8,586 m). Mt. Everest is located in Nepal and Kanchenjunga is located between Nepal and Sikkim. This range is the most continuous of all ranges. It is a region of permanent snow cover. So, it has many glaciers. Gangothri, Yamunothri and Siachen are some of them.
 
 ![](assets/page_006_picture_001.png)
+
+**INDIA - PHYSICAL DIVISIONS** (Not to Scale)
+
+- Mountains and ranges: Pamir Knot, Hindu Kush, Sulaiman Range, Kailash Range, Garhwal, Purvanchal, Palani Hills
+- Peaks: Guru Shikhar (Mount Abu), Dhupgarh, Arma Konda
+- Hill stations: Shimla, Mussourie, Nainital, Ranikhet, Almora, Darjeeling
+- Others: Tsangpo River, Konkan coast, Paradip, Visakhapatnam, Machilipatnam
 
 -  The Himalayas are the home of several high peaks.
 

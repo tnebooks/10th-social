@@ -150,6 +150,26 @@ It accounts for nearly 80% of the country's cotton knitwear exports and generate
 
 ![](assets/page_005_picture_003.png)
 
+**Industrial Clusters in Tamil Nadu** (Not to Scale)
+
+| Cluster | Industry |
+|---|---|
+| Thiruvallur | Automotive |
+| Chennai | Automotive, Electronics & IT |
+| Vellore | Leather |
+| Kanchipuram | Silk Sarees |
+| Krishnagiri (Hosur) | Automotive & Electronics |
+| Salem | Steel & Powerloom |
+| Erode | Powerloom & Turmeric |
+| Namakkal | Transportation & Poultry |
+| Ariyalur | Cement |
+| Tiruppur | Knitwear & Readymade Garments |
+| Thruchirappalli | Boilers & Turbines |
+| Karur | Coach-building, Powerlooms |
+| Coimbatore | Textile & IT |
+| Madurai | Leather |
+| Virudunagar (Sivakasi) | Fireworks, Matches & Printing |
+
 Apart from body building, Karur is a major centre of exports of home furnishings like table cloth, curtains, bed covers and towels. Bhavani and Kumarapalayam are again major centres of production of carpets, both for the domestic and the global markets.
 
 Apart from such modern clusters, there are also traditional artisanal clusters such as Madurai and Kanchipuram that are famous for silk and cotton handloom sarees.

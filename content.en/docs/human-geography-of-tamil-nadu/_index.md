@@ -46,11 +46,25 @@ Monsoon rainfall in the state is highly irregular and seasonal. Hence, irrigatio
 
 ### Types and regions of Agriculture Practices in Tamil Nadu
 
+| Farming type | Area practiced |
+|---|---|
+| Subsistence intensive agriculture | Practiced all over Tamil Nadu with few exceptions. |
+| Plantation Agriculture | Hill slopes of Eastern and Western Ghats. |
+| Mixed farming | Banks of River Cauvery and Thenpennai. |
+
+
 ![](assets/page_002_picture_001.png)
 
 ## 7.3 Cropping Seasons in Tamil Nadu
 
 Farmers select different crops for different seasons of cultivation. It is based on the temperature and availability of moisture in the soil. Accordingly, the state has the following cropping seasons.
+
+| Name | Sowing | Harvesting | Major crops |
+|---|---|---|---|
+| Sornavari (chittirai pattam) | April-May | August-September | Millets and cotton |
+| Samba (Adipattam) | July-August | January-February | Paddy and sugarcane |
+| Navarai | November-December | February-March | Fruits, vegetables, cucumber and watermelon |
+
 
 ![](assets/page_002_picture_002.png)
 
@@ -130,6 +144,8 @@ Goat is also known as ‘poor man’s cow’ in India. It forms a very important
 
 ![](assets/page_005_picture_001.png)
 
+Tamil Nadu Dairy Development Corporation Ltd. was transformed into the newly registered Tamil Nadu Co-operative Milk Producers Federation Limited Popularly known as “**Aavin**”.
+
 ### Sheep
 
 Sheep is used for multiple purposes like wool, meat, milk, skins and manure, and forms an important component of the rural economy, particularly in the arid, semi-arid and mountainous areas of Tamil Nadu. It provides a dependable source of income to the shepherds through the sale of wool and animals.
@@ -153,6 +169,16 @@ Water is the precious gift of nature to humankind and millions of other species 
 ![](assets/page_006_picture_001.png)
 
 Tamil Nadu constitutes 4% of India’s land area and is inhabited by 6% of India’s population, but has only 2.5% percent of India’s water resources. More than 95% of the surface water and 80% of the ground water have already been put into use.
+
+| Surface Water Resources | Numbers |
+|---|---|
+| River Basin | 17 |
+| Reservoirs | 81 |
+| Tanks | 41,127 |
+| Tube wells and other wells | 4,98,644 |
+| Open wells | 15,06,919 |
+| Total (Million Cubic metres) | 2046788 MCM |
+
 
 ![](assets/page_006_picture_002.png)
 
@@ -214,6 +240,11 @@ Since the state is entirely dependent on rains for recharging its water resource
 
 ![](assets/page_007_picture_001.png)
 
+**TAMIL NADU – MULTIPURPOSE RIVER VALLEY PROJECTS** (Not to Scale)
+
+- **Dams:** Krishnagiri, Sattanur, Mettur, Gomukhi, Wellington, Bavani Sagar, Parampikulam, Amaravathi, Manimutharu, Vaigai, Mullai Periyar, Papanasam, Kothaiyar
+- **Lakes:** Poondi Satyamoorthy Sagar, Chembarambakkam
+
 ## 7.7 Mineral Resources
 
 Tamil Nadu is the leading holder of country's resources of vermiculite, magnetite, dunite, rutile, garnet, molybdenum and ilmenite. Neyveli has large lignite resources. Oil and gas are found in the Cauvery basin. Coal deposits are found in Ramanathapuram.
@@ -249,6 +280,31 @@ Tamil Nadu occupies fourth position in the country in silk production. Kancheepu
 Tamil Nadu accounts for 60% of leather tanning processes of India and 38% of all leather footwear, garments and components. Hundreds of leather tanneries are located around Vellore and nearby towns, such as Ranipet, Ambur and Vaniyambadi. The Vellore district is the top exporter of finished leather goods in the country. Central Leather Research Institute (CLRI), a CSIR research laboratory, is located in Chennai.
 
 ![](assets/page_008_picture_003.png)
+
+### GI Tag
+
+GI (Geographical Indication) is a name or sign used on products which corresponds to a specific geographical location. It provides rights and protection of holders.
+
+Some important GI Tags of Tamil Nadu are:
+
+| Place | Products |
+|---|---|
+| Arani | Silk |
+| Kancheepuram | Silk |
+| Coimbatore | Wet Grinder and Coracotton |
+| Thanjavur | Paintings, Art plate, Doll and Veenai |
+| Nagercoil | Temple Jewellery |
+| Erode | Turmeric |
+| Salem | Venpattu (Salem silk) |
+| Bhavani | Jamakkalam |
+| Madurai | Sungudi |
+| Swamimalai | Bronze Icons |
+| Nachiarkovil | Kuthuvilakku |
+| Pattamadai | Mat |
+| The Nilgiris | Orthodox Embroidery |
+| Mahabalipuram | Stone sculpture |
+| Sirumalai | Hill banana |
+| Eathamozhi | Coconut |
 
 ### Paper Industry
 

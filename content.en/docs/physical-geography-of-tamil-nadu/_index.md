@@ -26,6 +26,8 @@ As per, the States Reorganisation Act, 1956, state boundaries were reorganised o
 
 ![](assets/page_001_picture_003.png)
 
+**LOCATION OF TAMIL NADU IN INDIA** (Not to Scale)
+
 - Name the first state of India created on linguistic basis.
 
 - Why was the capital of Tamil Nadu renamed?
@@ -118,6 +120,16 @@ Its major part lies in Tenkasi district with its southern slope in the Kanniyaku
 
 This continous range is situated along the border of Kanniyakumari and Tirunelveli districts and is a part of the southern range of the Western Ghats. Its average height is 1,645 metres.
 
+| Peaks in Western Ghats | Height (m) |
+|---|---|
+| Doddabetta | 2,637 |
+| Mukkuruthi | 2,554 |
+| Vandaravu | 2,533 |
+| Perumalmalai | 2,234 |
+| Kottaimtalai | 2,019 |
+| Pagasura | 1,918 |
+
+
 ## 6.3 The Eastern Ghats
 
 Unlike Western Ghats, Eastern Ghats is a discontinuous and irregular one. It is dissected at many places by the rivers, which drain into the Bay of Bengal. Its height ranges from 1,100 to 1,600 metres. These hills separate the plains from plateaus. Javadhu, Servarayan, the Kalrayan, Kollimalai and Pachaimalai are the major hills of the Eastern Ghats of Tamil Nadu and are located in northern districts of the state.
@@ -138,7 +150,34 @@ It is a mountain range located near the Salem city with the height ranging from 
 
 Why are mountain heights measured from mean sea level and not from ground level?
 
-**Major hills in Tamil Nadu Districts Hills**
+| Peaks in Eastern Ghats | Height (m) |
+|---|---|
+| Solaikaradu | 1,620 |
+| Pazhamalai | 1,500 |
+| Urgamalai | 1,486 |
+| Kuttirayan | 1,395 |
+| Muganur | 1,279 |
+| Valsamalai | 1,034 |
+
+**Major hills in Tamil Nadu**
+
+| Districts | Hills |
+|---|---|
+| Coimbatore | Maruthamalai, Velliangiri and Anaimalai |
+| Dharmapuri | Theertha malai, Chitteri and Vathalmalai |
+| Dindigul | Palanimalai |
+| Erode | Chenni hills and Sivan hills |
+| Tirupattur | Yelagiri hills |
+| Tenkasi | Pothigai hills |
+| Vellore | Javadhu and Rathinamalai hills |
+| Namakkal | Kolli hills |
+| Salem | Servarayan, Kanjamalai and Chalk hills |
+| Kallakurichi | Kalvarayan hills |
+| Villupuram | Gingee hills |
+| Perambalur | Pachaimalai |
+| Kanyakumari | Marunthuvazhmalai |
+| Tirunelveli | Mahendragiri |
+| The Nilgiris | Nilgiri hills |
 
 ![](assets/page_005_picture_002.png)
 
@@ -228,6 +267,22 @@ Chittar and Ramanathi are its main tributaries. It is the only perennial river i
 
 **Major waterfalls in Tamil Nadu**
 
+| District | Waterfalls |
+|---|---|
+| Dharmapuri | Hogenakkal |
+| Thirunelveli | Kalyanatheertham |
+| Tenkasi | Courtallam |
+| Theni | Kumbakkarai and Suruli |
+| Namakkal | Agayagangai |
+| The Nilgiris | Catherine and Pykara |
+| Salem | Kiliyur |
+| Virudhunagar | Ayyanar |
+| Coimbatore | Vaideki, Sengupathi, Siruvani and Kovaikutralam |
+| Tiruppur | Tirumurthy |
+| Madurai | Kutladampatti |
+| Kanniyakumari | Tirparappu, Kaalikesam, Ulakkai and Vattaparai |
+
+
 ![](assets/page_009_picture_001.png)
 
 ## 6.7 Climate
@@ -235,6 +290,16 @@ Chittar and Ramanathi are its main tributaries. It is the only perennial river i
 You have already learnt that the Tropic of Cancer divides India roughly into two equal parts and the state Tamil Nadu lies to the south of Tropic of Cancer, which is near the Equator. As it receives vertical sun rays, the temperature of the state is relatively high throughout the year. Though the state falls within the hot climatic zone, the east coast of Tamil Nadu enjoys tropical maritime climate. The Bay of Bengal and Indian Ocean influence the climate of the coastal regions.
 
 While the east coast experiences tropical maritime climate, the western region of the state enjoys the mountainous climate. Low altitude and distance from the sea are the reasons for high temperature and dry conditions in the central part of Tamil Nadu. The migration of vertical sun’s rays leads to the formation of different seasons in Tamil Nadu as follows.
+
+**Seasons of Tamil Nadu**
+
+| Season | Period |
+|---|---|
+| Winter Season | January-February |
+| Summer Season | March- May |
+| Southwest Monsoon | June-September |
+| Northeast Monsoon | October –December |
+
 
 ![](assets/page_009_picture_002.png)
 
@@ -336,7 +401,7 @@ Several wildlife sanctuaries and National Parks have been set up to protect the 
 
 | S. No | Biosphere Reserves in Tamil Nadu |
 |---|---|
-| 1 | Teh Nilgiri Biosphere Reserve |
+| 1 | The Nilgiri Biosphere Reserve |
 | 2 | Gulf of Mannar Biosphere Reserve |
 | 3 | Agasthiyarmalai Biosphere Reserve |
 
@@ -351,6 +416,14 @@ According to United Nations office for Disaster Risk Reduction, Disaster Risk Re
 Here, we will discuss about the natural disasters in Tamil Nadu and the measures to be adopted before, during and after different disasters.
 
 ![](assets/page_013_picture_001.png)
+
+**Tamil Nadu Wildlife Sanctuaries & Bird Sanctuaries** (Not to Scale)
+
+| Type | Sanctuaries shown |
+|---|---|
+| Wildlife Sanctuaries | Mudumalai, Sathyamangalam, Cauvery North, Indira Gandhi, Kodaikanal, Megamalai, Grizzled Giant Squirrel, Mundanthurai, Kalakad, Nellai, Kanyakumari, Point Calimere (Block A and Block B), Gulf of Mannar |
+| Other Sanctuaries | Gangaikondan Spotted Deer Sanctuary, Vallanadu Black Buck Sanctuary |
+| Birds Sanctuaries | Pulicat Lake, Vedanthangal, Karikili, Kazhuveli, Oussudu Lake, Vellode, Vaduvoor, Udayamarthandapuram, Karaivetti, Vettangudi, Sakkarakottai Tank, Kanjirankulam, Chitrangudi, Teerathangal, Melaselvanur-Keelselvanur, Koonthankulam-Kadankulam |
 
 ### Landslide
 

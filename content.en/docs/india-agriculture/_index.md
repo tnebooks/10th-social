@@ -48,14 +48,14 @@ Research (ICAR) setup in 1953, divides the soils of India into the following eig
 
 | Soil Type | Characteristics | Distribution | Crops growing |
 |---|---|---|---|
-| Alluvial soil | Khadar – light coloured, more siliceous. Bhangar – the older alluvium composed of lime nodules and has clayey composition. It is dark in colour. Formation - sediments deposited by streams and rivers when they slowly loose. Chemical properties - rich in potash, phosphoric acid, lime and carbon compounds but poor in nitrogen. Nature –Sandy-clay-silt profile shows no marked difefrentiation. | Ganga and Brahmaputra river valleys; Plains of Uttar Pradesh, Uttaranchal, Punjab, Haryana, West Bengal and Bihar and river mouth of east coast. | Rice, Wheat, Sugarcane and Oilseeds |
+| Alluvial soil | Khadar – light coloured, more siliceous. Bhangar – the older alluvium composed of lime nodules and has clayey composition. It is dark in colour. Formation - sediments deposited by streams and rivers when they slowly loose. Chemical properties - rich in potash, phosphoric acid, lime and carbon compounds but poor in nitrogen. Nature –Sandy-clay-silt profile shows no marked differentiation. | Ganga and Brahmaputra river valleys; Plains of Uttar Pradesh, Uttaranchal, Punjab, Haryana, West Bengal and Bihar and river mouth of east coast. | Rice, Wheat, Sugarcane and Oilseeds |
 | Black soils | Formation - Derived from basalts of Deccan trap. Colour - black colour, due to presence of titanium, iron. Chemical properties - Consist of calcium and magnesium carbonates, high quantities of iron, aluminium, lime and magnesia. Rich in potash lime, Aluminium calcium and magnesium poor in nitrogen phosphoric acid and humus. Nature - Sticky when wet High degree of moisture retentivity | Maharashtra and Malwa plateaus, Kathiawar peninsula, Telangana and Rayalaseema region of Andhra Pradesh and northern part of Karnataka | Cotton, Millets, Tobacco and Sugarcane |
 | Red soils | Formation - decomposition of ancient crystalline rocks like granites and gneisses and from rock type. Chemical properties - rich in minerals such as iron and magnesium. Deficient in nitrogen, humus, phosphoric acid and lime. Nature - Light texture, porous friable presence of limited soluble salts clay fraction of the red soils generally consists of Kaolinitic minerals. | Eastern parts of Deccan plateau, southern states of Kerala, Tamil Nadu, Karnataka and Chota Nagpur plateau (Jharkhand) | Wheat, Rice, Cotton, Sugarcane and Pulses |
-| Laterite soils | Formation - formed in the regions where alternate wet and hot dry conditions prevail. It is formed by the process of leaching. Chemical properties - Composed mainly of hydrated oxides of iron and aluminium. Nature - More acidic on higher areas poor in high level, cannot retain moisture while plains they consist of heavy loam and clay and easily retain moisture. | Assam hills, hill summits of Kerala and Karnataka and eastern Ghats and region of Odisha | Cofefe, Rubber, Cashewnut and Tapioca |
+| Laterite soils | Formation - formed in the regions where alternate wet and hot dry conditions prevail. It is formed by the process of leaching. Chemical properties - Composed mainly of hydrated oxides of iron and aluminium. Nature - More acidic on higher areas poor in high level, cannot retain moisture while plains they consist of heavy loam and clay and easily retain moisture. | Assam hills, hill summits of Kerala and Karnataka and eastern Ghats and region of Odisha | Coffee, Rubber, Cashewnut and Tapioca |
 
 | Soil Type | Characteristics | Distribution | Crops growing |
 |---|---|---|---|
-| Forest and mountain soils | Difefr from region to region depending on climate. Formation - due to mechanical weathering caused by snow, rain, temperature variation Chemical properties - are deficient in potash, phosphorus and lime. Nature - light, sandy, thin and found with the pieces of rock. Tehir character changes with the parent rocks. Very rich in humus. Slow decomposition makes it acidic. | Coniferous forest belts of Jammu and Kashmir, Himachal Pradesh, Uttarakhand and Sikkim. Eastern and Western Ghats | Cofefe, tea, rice, maize, potato, barley, tropical fruits and various types of spices |
+| Forest and mountain soils | Differ from region to region depending on climate. Formation - due to mechanical weathering caused by snow, rain, temperature variation Chemical properties - are deficient in potash, phosphorus and lime. Nature - light, sandy, thin and found with the pieces of rock. Their character changes with the parent rocks. Very rich in humus. Slow decomposition makes it acidic. | Coniferous forest belts of Jammu and Kashmir, Himachal Pradesh, Uttarakhand and Sikkim. Eastern and Western Ghats | Coffee, tea, rice, maize, potato, barley, tropical fruits and various types of spices |
 | Arid and desert soils | Formation - Due to prevalence of the dry climate, high temperature and accelerated evaporation, the soil is dry, it also lacks humus content due to the absence of vegetative cover. Chemical properties - Contain high percentages of soluble salts, alkaline with varying degree of calcium carbonate and are poor in organic matter; rich enough in phosphate though poor in nitrogen Nature - light in colour, low humus,friable structure, low in moisture | Rajasthan, Northern Gujarat and southern Punjab | Millets, barley, cotton, maize and pulses (with irrigation) |
 | Saline and alkaline soils | Formation - formed due to intrusive drainage which causes water logging, harmful salts are transferred from subsurface to the top soil by the capillary action, it causes the salinisation of soils Chemical properties - liberate sodium, magnesium and calcium salts and sulphurous acid Nature - Consists of an excess of sodium salts and mineral fragments which are weathering | Andhra Pradesh and Karnataka. In the drier parts of Bihar, Uttar Pradesh, Haryana, Punjab, Rajasthan and Maharashtra | Crops do not grow because of excess salinisation of soils |
 | Peaty and marshy soils | Formation - formed in humid regions from the organic matter. It is found in the areas of heavy rainfall and high humidity Peaty soils are black, heavy and highly acidic. Chemical properties - deficient in potash and phosphate. Nature - Contain considerable amount of Soluble salts and 10-40 per cent of organic matter; and high proportion of vegetable matter. | Kottayam and Alappuzha districts of Kerala; and coastal areas of Odisha and Tamil Nadu, Sundarbans of West Bengal, in Bihar and Almora district of Uttarakhand | Paddy, jute |
@@ -160,6 +160,23 @@ It is also called water wheel and circle irrigation. It is a method of crop irri
 
 It is a scientific management of water resources in our country. Construction of dam across rivers is aimed to serve many purposes. Hence, it is termed as multipurpose river valley projects. The dam serves various purposes including irrigation, hydro-power generation, water supply for drinking and industrial purpose, controlling floods, development of fisheries, navigation, etc. Generally, majority of multipurpose projects are combination of irrigation and hydro-power, which are the major aims of the projects.
 
+| Name of projects | River | Benefit States |
+|---|---|---|
+| Damodar Valley project | Damodar | Jharkhand, West Bengal |
+| Bhakra-Nangal Project (highest gravity dam in the world) | Sutlej | Punjab, Haryana and Rajasthan |
+| Hirakud Project (the longest dam in the world) | Mahanadi | Orissa |
+| Kosi Project | Kosi | Bihar & Nepal |
+| Tungabhadra Project | Tungabhadra | Andhra Pradesh and Karnataka |
+| Tehri Dam | Bhagirathi | Uttarakhand |
+| Chambal Valley Project | Chambal | Rajasthan and Madhya Pradesh |
+| Nagarjuna Sagar Project | Krishna | Andhra Pradesh |
+| Sardar Sarover Project | Narmada | Madhya Pradesh, Maharashtra, Rajasthan |
+| Indira Gandhi Canal Project | Sutlej | Rajasthan, Punjab and Haryana |
+| Mettur Dam | Cauveri | Tamil Nadu |
+
+**Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)** This has been implemented to get more production by using water saving and conservation technologies.
+
+
 ![](assets/page_006_picture_001.png)
 
 ![](assets/page_006_picture_002.png)
@@ -193,6 +210,16 @@ This type of agriculture is performed by tribal people in a piece of forest land
 ![](assets/page_008_picture_001.png)
 
 cleared, crops are grown for two to three years and the land will get abandoned as the fertility of the soil decreases. The farmers then move to new areas and the process will be repeated. They cultivate some grains and vegetable crops using the manual labour. It is also called as “Slash and burn” cultivation.
+
+**Different names of shifting agriculture in different regions in India**
+
+| Name | Place |
+|---|---|
+| Jhum | Assam |
+| Poonam | Kerela |
+| Podu | Andhra Pradesh, Odisha |
+| Beewar, Mashan, Penda, Beera | Madhya Pradesh |
+
 
 ![](assets/page_008_picture_002.png)
 
@@ -247,6 +274,14 @@ i) Broadcasting, ii) Ploughing or drilling iii) Transplanting
 Due to increased use of High Yielding Variety (HYV) seeds (CR Dhan 205, AR Dhan 306, CRR 451 etc.), many of the indigenous varieties had disappeared. In 2016, the first 10 leading rice producing states were West Bengal (First in India) Uttar Pradesh, Punjab, Tamil Nadu, Andhra Pradesh, Bihar, Chhattisgarh, Odisha, Assam and Haryana.
 
 ![](assets/page_009_picture_002.png)
+
+**Cropping Seasons in India**
+
+| Cropping Seasons | Northern States (Major crops cultivated) | Southern States (Major crops cultivated) |
+|---|---|---|
+| Kharif Season (June–September) | Rice, Cotton, Bajra, Maize, Jowar, Tur | Rice, Ragi, Maize, Jowar, Groundnut |
+| Rabi Season (October–March) | Wheat, Gram, Rapeseeds, Mustard, Barley | Rice, Maize, Ragi, Groundnut, Jowar |
+| Zaid Season (April–June) | Vegetables, Fruits, Fodder | Rice, Vegetables, Fodder |
 
 ### Wheat
 
@@ -437,6 +472,24 @@ Agriculture is an important industry which requires a huge capital. The role of 
 ![](assets/page_013_picture_002.png)
 
 ![](assets/page_014_picture_001.png)
+
+**List of important Agricultural Revolutions in India**
+
+| Revolution | Related Product |
+|---|---|
+| Yellow Revolution | Oil seed Production (Especially Mustard and Sunflower) |
+| Blue Revolution | Fish Production |
+| Brown Revolution | Leather / Cocoa / Non-Conventional Products |
+| Golden Fibre Revolution | Jute Production |
+| Golden Revolution | Fruits / Honey Production / Horticulture Development |
+| Grey Revolution | Fertilizers |
+| Pink Revolution | Onion Production / Pharmaceuticals / Prawn Production |
+| Silver Revolution | Egg Production / Poultry Production |
+| Silver Fibre Revolution | Cotton |
+| Red Revolution | Meat Production / Tomato Production |
+| Round Revolution | Potato |
+| Green Revolution | Food Grains |
+| White Revolution | Milk Production |
 
 ## SUMMARY
 

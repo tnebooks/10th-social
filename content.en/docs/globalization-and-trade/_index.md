@@ -42,6 +42,12 @@ The term of ‘Globalization’ was introduced by Prof. Theodore Levitt. The his
 
 ![](assets/page_001_picture_004.png)
 
+**History of Globalization**
+
+- Stage - 1 Archaic Globalization
+- Stage - 2 Proto Globalization
+- Stage - 3 Modern Globalization
+
 ### Archaic Globalization
 
 Andre Gunder Frank argued that a form of globalization has been in existence since the rise of trade links between Sumer and Indus valley civilization in the third millennium BC (BCE). An early form of globalized economics and culture, known as Archaic globalization existed during the Hellenistic Age. An early form of globalization in the trade link between the Roman Empire, Parthian Empire and the Han Dynasty made the commercial links among these powers inspired the development of the Silk Road.
@@ -162,6 +168,16 @@ The main reason why MNCs have been encouraged by the underdeveloped countries to
 
 ![](assets/page_005_picture_001.png)
 
+**Some Multinational Companies in India**
+
+| Company | Headquarter | Type of Industry | Countries of operating |
+|---|---|---|---|
+| Hero Motocorp | New Delhi | Automobile | Columbia, Bangladesh, Africa |
+| Bajaj | Pune | Automobile | United Arab Emirates (UAE), Bangladesh |
+| TVS | Chennai | Automobile | Brazil, Chile, Colombia, Mexico, Peru |
+| State Bank of India | Mumbai | Banking | Australia, Bangladesh, Belgium |
+| Bharti Airtel | New Delhi | Communication | South Asia, Africa |
+
 **5. Product innovations:**
 
 MNCs have research and development engaged in the task of developing new products and superior designs of existing products.
@@ -249,6 +265,13 @@ The signing of the Final Act of the Uruguay Round by member nations of GATT in A
 ![](assets/page_006_picture_002.png)
 
 **World Trade Organization (WTO)**
+
+**Head Quarter:** Geneva, Switzerland
+
+**Purpose:** Regulation, International trade
+
+**Members of WTO:** Director General, Four Deputy Director General, and other 600 Official Staff from around 80 member countries.
+
 
 ### Objectives of W.T.O
 

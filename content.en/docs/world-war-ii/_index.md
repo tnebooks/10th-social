@@ -66,6 +66,11 @@ In spite of all these manifestations of military activity by Germany, Italy and 
 
 ![](assets/page_003_picture_001.png)
 
+**WORLD WAR II – AXIS VS ALLIED POWERS** (Not to Scale)
+
+- **Axis Power Countries:** Germany, Italy, Japan, Hungary, Romania, Bulgaria
+- **Allied Power Countries:** United States, Canada, Brazil, England, France, Belgium, Netherlands, Norway, Denmark, Poland, Greece, U S S R (Soviet Russia), China, Australia, New Zealand
+
 ### Munich Pact
 
 A further factor was that the Western Powers and the Soviet Union distrusted each other. In 1938, Prime Minister Chamberlain concluded the Munich Pact with Germany, which was a shameful acceptance of Germany’s invasion of Czechoslovakia to annex Germanspeaking Sudetenland. In 1939 the Soviet Union independently concluded a non-aggression pact with Germany. The continued passivity of the Allies and the reluctance to start building up their armies were also contributory causes of the extended scale of World War II.
@@ -166,11 +171,11 @@ The Japanese had spectacular success in their plan to extend their empire throug
 
 ### Battle of Midway and Battle of Guadalcanal 1942
 
-The US navy defeated the Japanese navy in the Battle of Midway, which turned the tide in favour of the Allies. The Battle of Guadalcanal in
+The US navy defeated the Japanese navy in the Battle of Midway, which turned the tide in favour of the Allies. The Battle of Guadalcanal in the Solomon Islands was a combined offensive involving the army and the navy, and lasted for several months. Both were crushing defeats for the Japanese.
 
 ![](assets/page_006_picture_002.png)
 
-Battle of Guadalcanal the Solomon Islands was a combined offensive involving the army and the navy, and lasted for several months. Both were crushing defeats for the Japanese.
+Battle of Guadalcanal
 
 After this, the American forces were able to re-take the Philippines. Gradually the Japanese were thrown out of most of their conquered territories. In 1944, the combined British and Indian armies were able to push back the Japanese who attempted to invade the northeast of India. Then, along with the Chinese, they pushed the Japanese out of Burma, and liberated Malaya and Singapore.
 
@@ -313,6 +318,24 @@ The benefits can either be achieved through cash transfers, like old age pension
 ![](assets/page_011_picture_001.png)
 
 ![](assets/page_011_picture_002.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| devastation / havoc | total destruction |
+| belligerent | one eager to fight / aggressive |
+| resurgent | rising again |
+| reparations | compensation exacted from a defeated nation by the victors |
+| armaments | weapons |
+| conscripted | compulsory military service |
+| slaughter | kill a large number of people indiscriminately |
+| proliferation | a rapid increase |
+| ghettos | slums |
+| veto | a vote that blocks a decision / negative vote |
+| ambit | range |
+| scourge | eternal suffering |
+| stringent | tough |
 
 ### EXERCISE
 

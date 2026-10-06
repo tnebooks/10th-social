@@ -288,6 +288,23 @@ Presidency.
 
 ![](assets/page_009_picture_002.png)
 
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| evangelical | Christian groups that believe that the teaching of the Bible and persuading others to join them is extremely important |
+| hegemony | leadership or dominance, especially by one country or social group over others |
+| resurgence | renewal, revival |
+| linguists | a person skilled in languages |
+| marginalised | a person, group or concept treated as insignificant or sidelined |
+| irked | irritated, annoyed |
+| debunking | expose the falseness or hollowness of (a myth, idea or belief) |
+| trounced | defeat heavily in a contest |
+| critiquing | evaluate in a detailed and analytical way |
+| iniquitous | grossly unfair and morally wrong |
+| pseudonym | a fictitious name, especially one used by an author |
+| rechristened | give a new name to |
+
 ### EXERCISE
 
 **I Choose the correct answer**
@@ -408,9 +425,7 @@ Periyar E.V.R’s decisive contribution to the social transformation of Tamil Na
 
 Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.
 
-Hardgrave The Dravidian Movement. Bombay: Popular Prakashan, 1965.
-
-3. Robert
+3. Robert Hardgrave, The Dravidian Movement. Bombay: Popular Prakashan, 1965.
 
 4. Eugene F. Irschick, Politics and Social
 

@@ -234,6 +234,25 @@ Services sector is the largest sector of India. Gross Value Added (GVA) at curre
 
 **Sector-wise Contribution in GDP of India**
 
+| Year | Agriculture (%) | Industry (%) | Service (%) |
+|---|---|---|---|
+| 1950-51 | 51.81 | 14.16 | 33.25 |
+| 1960-61 | 42.56 | 19.30 | 38.25 |
+| 1970-71 | 41.95 | 20.48 | 37.22 |
+| 1980-81 | 35.39 | 24.29 | 39.92 |
+| 1990-91 | 29.02 | 26.49 | 44.18 |
+| 2000-01 | 23.02 | 26.00 | 50.98 |
+| 2010-11 | 18.21 | 27.16 | 54.64 |
+| 2011-12 | 17.86 | 27.22 | 54.91 |
+| 2012-13 | 17.52 | 26.21 | 56.27 |
+| 2013-14 | 18.20 | 24.77 | 57.03 |
+| 2015-16 | 17.07 | 29.08 | 52.05 |
+| 2016-17 | 17.09 | 29.03 | 52.08 |
+| 2017-18 | 17.01 | 29.01 | 53.09 |
+
+**Source:** Central Statistical Organisation
+
+
 ![](assets/page_006_picture_002.png)
 
 Sector-wise contribu on of GDP (2018-19)
@@ -322,6 +341,13 @@ Economic development projects a broader picture of an economy which takes into a
 
 Human development Index (HDI) is apt tool to measure the real development in an economy.
 
+**Human Development Index**
+
+In 1990 Mahbub ul Haq, a Pakistani Economist at the United Nations, introduced the Human Development Index (HDI). The HDI is a composite index of life expectancy at birth, adult literacy rate and standard of living measured as a logarithmic function of GDP, adjusted to purchasing power parity.
+
+India climbed one spot to 130 out of 189 countries in the latest human development rankings released today by the United Nations Development Programme (UNDP). Between 1990 and 2017, India’s HDI value increased from 0.427 to 0.640, an increase of nearly 50 percent – and an indicator of the country’s remarkable achievement in lifting millions of people out of poverty.
+
+
 ## 1.6 Developmental Path based on GDP and Employment
 
 In the development path of India, it first undertook the policy of closed trade. This was to give a thrust to domestic industries and reduce dependence on foreign products and companies. Trade and interaction with the outside world remained limited. This outlook continued till 1991, when India finally decided to open its borders to free trade and liberalized its economy by allowing foreign companies to enter the Indian economy.
@@ -400,24 +426,29 @@ Several industrial policies have been enacted. Since 1948, Industrial policy on 
 
 The economy of India had undergone policy in the beginning of the 1990s. This new model of economic reforms is commonly known as the LPG known as Liberalisation, Privatisation and Globalisation. These economic reforms had influenced the overall economic growth of the country in a significant manner.
 
-| SUMMARY  GDP is the value of all goods and services produced within an economy in a financial year.  Indian economy is classified into three sectors; Agriculture, allied Industry and Service.  Depreciation: Teh Monetary value of an asset decreases over time due to use, wear and tear or obsolescence.  Income: Teh amount of monetary or other returns, either earned or unearned, accruing over a period of time.  Gross Value Added (GVA): Teh measure of the value of goods and services produced in an area, industry or sector of an economy. |  |
+### SUMMARY
+
+- GDP is the value of all goods and services produced within an economy in a financial year.
+
+- Indian economy is classified into three sectors; Agriculture, allied Industry and Service.
+
+- Depreciation: The Monetary value of an asset decreases over time due to use, wear and tear or obsolescence.
+
+- Income: The amount of monetary or other returns, either earned or unearned, accruing over a period of time.
+
+- Gross Value Added (GVA): The measure of the value of goods and services produced in an area, industry or sector of an economy.
+
+### GLOSSARY
+
+| Term | Meaning |
 |---|---|
-|  | GLOSSARY |
-
-| Depreciation | The process of losing value | தேய் மானம் |
-|---|---|---|
-| Intermediate | Being between two other related things | இடைநிலை |
-| Market Price | A price that is likely to be paid for something | சந ததை விலை |
-
-| A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs | இறுதி பொHொருட் ள் |
-|---|---|
-| the nature of something's ingredients or constituents; the way in which a whole or mixture is made up | கலவ ை |
-| a gift or payment to a common fund or collection. | பங் ளிப்ப |
-| continue in existence or operation uncertainly or precariously. | தடுமா மாற் த்தினை |
-
-### Final Goods
-
-### Composition
+| Depreciation | The process of losing value |
+| Intermediate | Being between two other related things |
+| Market Price | A price that is likely to be paid for something |
+| Final Goods | A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs |
+| Composition | the nature of something's ingredients or constituents; the way in which a whole or mixture is made up |
+| Contribution | a gift or payment to a common fund or collection. |
+| Staggering | continue in existence or operation uncertainly or precariously. |
 
 ![](assets/page_011_picture_001.png)
 

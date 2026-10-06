@@ -108,6 +108,12 @@ This tax is levied on companies that exist as separate entities from their share
 
 Foreign companies are taxed on income that arises in India.
 
+| Income | For Indian Companies | For Foreign Companies |
+|---|---|---|
+| Less than ₹ 50 crore | 25% | 40% |
+| More than ₹ 50 crore | 30% | 40% |
+
+
 ![](assets/page_003_picture_001.png)
 
 **Wealth Tax**
@@ -182,6 +188,12 @@ It implies that higher the rate of tax lower the income groups than in the case 
 
 ![](assets/page_005_picture_001.png)
 
+| Progressive Tax | Proportional Tax | Regressive Tax |
+|---|---|---|
+| Income increases | Income Increases | Income Changes |
+| Tax Increases | Tax Decreases | Same Tax always |
+| E.g. Income Tax | E.g. Corporate Tax | E.g. Sales Tax |
+
 ## 4.5 Black Money
 
 ### Black Money
@@ -240,6 +252,15 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 
 ### Difference between Tax and other Payments
 
+| Tax | Payments |
+|---|---|
+| Tax is compulsory to the government without getting any direct benefits | Fee is the payment for getting any service |
+| If the element of revenue for general purpose of the state predominates, the levy becomes a tax | While a fee is a payment for a specific benefit privilege although the special to the primary purpose of regulation in public interest. |
+| Tax is a compulsory payment | Fee is a voluntary payment. |
+| If tax is imposed on a person, he has to pay it; otherwise he has to be penalised | On the other hand fee is not paid if the person do not want to get the service |
+| In this case, tax payer does not expect any direct benefit. Example: Income tax, gift box, wealth tax, VAT etc. | Fee payer can get direct benefit for paying fee. Examples: stamp fee, driving license fee, government registration fee |
+
+
 ![](assets/page_006_picture_001.png)
 
 ### SUMMARY
@@ -253,6 +274,19 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 ![](assets/page_006_picture_002.png)
 
 ![](assets/page_006_picture_003.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| Levied | To impose taxes |
+| Fluctuation | To change |
+| Defray | Meet the expenses |
+| Proponents | Person who advocates theory |
+| Progressive Tax | Happening or developing gradually or in stages |
+| Regressive Tax | Taking a proportionally greater amount from those on lower incomes. |
+| Proportionate Tax | (of a variable quantity) having a constant ratio to another quantity. |
+| Evasion | The action of evading something |
 
 ### EXERCISE
 

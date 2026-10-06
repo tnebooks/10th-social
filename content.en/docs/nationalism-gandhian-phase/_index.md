@@ -218,11 +218,11 @@ In the midst of the movement the First Round Table Conference was held at London
 
 ### (c) Gandhi-Irwin Pact
 
-Lord Irwin held talks with Gandhi which resulted in the Gandhi–Irwin Pact on 5 March 1931. The British agreed to the demand of immediate release of all political prisoners not involved in violence, return of confiscated land and lenient treatment of government employees who had resigned. It also permitted the people of coastal villages to make salt for consumption and non-violent picketing. The Congress agreed to suspend the Civil Disobedience Movement and attend the conference. Gandhi attended the Second Round Table Conference which began on 7 September 1931. Gandhi refused to accept
+Lord Irwin held talks with Gandhi which resulted in the Gandhi–Irwin Pact on 5 March 1931. The British agreed to the demand of immediate release of all political prisoners not involved in violence, return of confiscated land and lenient treatment of government employees who had resigned. It also permitted the people of coastal villages to make salt for consumption and non-violent picketing. The Congress agreed to suspend the Civil Disobedience Movement and attend the conference. Gandhi attended the Second Round Table Conference which began on 7 September 1931. Gandhi refused to accept separate electorates for minorities. As a result, the second conference ended without any result.
 
 ![](assets/page_007_picture_001.png)
 
-Second Round Table Conference - London separate electorates for minorities. As a result, the second conference ended without any result.
+Second Round Table Conference - London
 
 ### (d) Renewal of Civil Disobedience
 
@@ -463,6 +463,21 @@ Arrival of refugees in the wake of Partition
 ![](assets/page_014_picture_004.png)
 
 ![](assets/page_015_picture_001.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| satyagraha | passive political resistance advocated by Mahatma Gandhi |
+| constitutionalist | adherent of constitutional methods |
+| discrimination | unjust or differential treatment of different categories of people, especially on grounds of caste, creed, etc. |
+| exhort | strongly encourage or urge to do something |
+| communalism | allegiance to one’s own ethnic, religious or caste group rather than to wider society |
+| dominion | self-governing territory |
+| electorate | all the people in a country or area who are entitled to vote in an election |
+| ultimatum | a final demand or statement of terms |
+| alienation | isolation |
+| conspiracy | a secret plan by a group to do something unlawful or harmful |
 
 ### EXERCISE
 

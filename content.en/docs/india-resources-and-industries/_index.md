@@ -64,6 +64,17 @@ Iron ore is the most widely distributed elements in the earth’s crust, rarely 
 
 free state. It enters into the composition of many rocks and minerals especially from igneous and metamorphic rocks. The total recoverable reserves of iron ore in India are haematite and magnetite
 
+The iron is usually found in following forms.
+
+| Form of Iron ores | Iron Content (%) |
+|---|---|
+| Magnetite | 72.4% |
+| Hematite | 69.9% |
+| Goethite | 62.9% |
+| Limonite | 55% |
+| Siderite | 48.2% |
+
+
 Jharkhand is the leading producer of iron ore with 25% the country’s production. Singhbhum, Hazaribagh, Dhanbad and Ranchi districts are its major producers. Odisha with 21% production ranks second. Sundargarh, Mayurbhanj, Sambalpur and Keonjhar districts are its major producers. The magnetite production in Chhattisgarh is 18% (Rajgarh and Bilaspur are its leading districts) and the Karnataka is 20% (Chikmangalur, Chitradurga, Shimoga and Dharwad districts are its major producers). Andhrapradesh and Tamil Nadu produce about 5% each. Kurnool, Guntur, Cuddapah and Anantapur districts in Andhra Pradesh and Salem, Namakkal, Tiruvannamalai, Tiruchirappalli, Coimbatore, Madurai and Tirunelveli districts in Tamil Nadu are notable for the production of iron ore.
 
 SAIL (Steel Authority of India Limited): The Ministry of Steel is responsible for planning and development of iron and steel industry in India.
@@ -153,6 +164,8 @@ Coal is an important source of energy in India with its varied and innumerable u
 Indian coal is mostly associated with Gondwana series of rocks and is primarily found in Peninsular India. The states of Jharkhand, Odisha, West Bengal and Madhya Pradesh alone account for nearly 90% of coal reserves of the country. About 2% of India’s coal is of tertiary type and is found mostly in Assam and Jammu & Kashmir.
 
 ![](assets/page_005_picture_001.png)
+
+Coal India Limited (CIL) is an Indian state-controlled coal mining company headquartered in Kolkata, West Bengal.
 
 Jharkhand is the largest coal producing state in the country followed by Odisha, Chhattisgarh, West Bengal, Madhya Pradesh, Andhra Pradesh and Maharashtra.
 
@@ -285,6 +298,10 @@ The higher concentration of textile mills in and around Mumbai, makes it as “M
 
 ![](assets/page_010_picture_001.png)
 
+**MAJOR INDUSTRIES IN INDIA** (Not to Scale)
+
+Legend: Cotton, Silk, Iron & Steel, Sugar, Paper
+
 Maharastra, humid climate, presence of Mumbai port, availability of hydropower, good market and well-developed transport facility favour the cotton textile industries in Mumbai.
 
 The major cotton textile industries are concentrated in the states of Maharashtra, Gujarat, West Bengal, Uttar Pradesh and Tamil Nadu. Coimbatore is the most important centre in Tamil Nadu with 200 mills out of its 435 and called as “Manchester of South India”. Erode, Tirupur, Karur, Chennai, Thirunelveli, Madurai, Thoothukudi, Salem and Virudhunagar are the other major cotton textiles centres in the state.
@@ -312,6 +329,9 @@ India has been well known for the production of silk since the ancient times. In
 Karnataka is the largest producer of silk. Other major producers of silk are West Bengal, Jammu & Kashmir, Bihar, Jharkhand, Chhattisgarh, Uttar Pradesh, Punjab, Assam and Tamil Nadu states.
 
 Office of the Development Commissioner for Handlooms was set up as an attached non-participating office on 20th November, 1975 under the Ministry of Commerce. At present, it is functioning under the Ministry of Textiles, headquarter is at Udyog Bhawan, New Delhi.
+
+CSTRI is the only research institute in the country dedicated to the Research & Developmental activities related to silk technology. CSTRI was established in the year 1983 by the Central Silk Board, Ministry of Textiles, Govt. of India having headquarter at Bengaluru.
+
 
 ![](assets/page_011_picture_002.png)
 
@@ -348,6 +368,20 @@ Iron and steel industry is called a basic metallurgical industry as its finished
 The first attempt to produce iron and steel unit was set up at Porto Novo in Tamil Nadu in 1830.
 
 The modernization of the industry was started in 1907 with the establishment of Tata Iron and Steel Company at Sakchi, now called Jamshedpur. Iron and steel industry of India is mainly concentrated in the states of Jharkhand, West Bengal and Odisha. Proximity to the coal fields of Jharia, Raniganj, Bokaro and Karanpura and the iron ore mines of Mayurbhanj, Keonjar and Brona are responsible for this. This area also has sufficient deposits of limestone, dolomite, manganese and silicon which are required for the industry.
+
+| S.No | Name of Industry | Place | Establishment Year | Product |
+|---|---|---|---|---|
+| 1 | Tata Iron and Steel Company (TISCO) | Jamshedpur, Jharkhand | 1907 | Pig Iron |
+| 2 | Indian Iron and Steel Company (IISCO) | Burnpur, Hirapur, Kulti, West Bengal | 1972 | Pig Iron & Crude steel |
+| 3 | Visweshwaraya Iron Steel Ltd. (VISL) | Bhadravati, Karnataka | 1923 | Alloy and Sponge steel |
+| 4 | Hindustan Steel Ltd. (HSL) Collaborated with Russia | Bhilai, Chattisgarh | 1957 | Railway Equipments and Ship Building |
+| 5 | Hindustan Steel Ltd. (HSL) Collaborated with Germany | Rourkela, Odisha | 1965 | Hot and Cold rolled sheets, Galvanized sheets and electrical plates |
+| 6 | Hindustan Steel Ltd. (HSL) Collaborated with United kingdom | Durgapur, West Bengal | 1959 | Alloy steel, Construction materials and railway equipments |
+| 7 | Hindustan Steel Ltd. (HSL) Collaborated with Russia | Bokaro, Jharkhand | 1972 | Sludge and Slog |
+| 8 | Salem Steel Ltd. | Salem, Tamil Nadu | 1982 | Stainless Steel |
+| 9 | Vijayanagar Steel Plant | Tornagal, Karnataka | 1994 | Flat Steel and Long Steel |
+| 10 | Visakhapatnam Steel Plant (VSP) | Visakhapatnam, Andhra Pradesh | 1981 | Hot Metal |
+
 
 ### Automobile Industry
 
@@ -420,6 +454,15 @@ Inappropriate living conditions nearby industrial estates.
 ![](assets/page_014_picture_001.png)
 
 **Challenges of Indian Industries**
+
+- Wealth Creation and Sharing
+- Create Jobs
+- Community Development
+- Entrepreneurship
+- Balanced Regional Development
+- Exports
+- Standard of Living
+- GDP and Per Capita Income
 
 ## SUMMARY
 

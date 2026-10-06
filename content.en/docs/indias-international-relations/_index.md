@@ -38,6 +38,8 @@ India would prefer a peaceful, wealthy neighbourhood responsive to its own needs
 
 ![](assets/page_001_picture_003.png)
 
+**Neighbouring Countries of India** (Not to Scale)
+
 ## 5.1 India and Its Neighbours
 
 India’s position is unique in its neighbourhood. India’s neighbours had been a part of a homogenous culture prevailing in the Indian subcontinent for last five thousand years.
@@ -248,9 +250,9 @@ India is actively engaged in general economic diplomacy, which is evident in the
 |---|---|---|
 | IBSA | India, Brazil, South Africa | To focus on agriculture, education, energy, trade, culture and defence among others |
 | BCIM | Bangladesh, China, India, Myanmar | To respond to threats such as natural disasters and data breaches and protect business interests |
-| MGC (Mekong-Ganga Cooperation) | India, Cambodia, Laos PDR Myanmar, Tahiland, Vietnam | To create necessary infrastructural facilities in the Ganga-Mekong basin |
-| BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) | Bangladesh, India, Myanmar, Sri Lanka, Tahiland, Bhutan and Nepal | To strengthen and improve the technological economic cooperation, international trade and foreign direct investment cooperation |
-| RCEP (Regional Comprehensive Economic Partnership) | Australia, Brunei, Cambodia, China, India, Indonesia, Japan, Korea, Laos, Malaysia, Myanmar, New Zealand, Philippines, Singapore, Tahiland, Vietnam | To achieve modern high- quality and mutually beneficial agreement that covers trade in goods, trade in service, investments, technical cooperation dispute settlement and other issues |
+| MGC (Mekong-Ganga Cooperation) | India, Cambodia, Laos PDR Myanmar, Thailand, Vietnam | To create necessary infrastructural facilities in the Ganga-Mekong basin |
+| BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) | Bangladesh, India, Myanmar, Sri Lanka, Thailand, Bhutan and Nepal | To strengthen and improve the technological economic cooperation, international trade and foreign direct investment cooperation |
+| RCEP (Regional Comprehensive Economic Partnership) | Australia, Brunei, Cambodia, China, India, Indonesia, Japan, Korea, Laos, Malaysia, Myanmar, New Zealand, Philippines, Singapore, Thailand, Vietnam | To achieve modern high- quality and mutually beneficial agreement that covers trade in goods, trade in service, investments, technical cooperation dispute settlement and other issues |
 | EAS (East Asia Summit) | 10 ASEAN nations + 8 strategic partners including US, China, India, Japan | To promote peace and stability |
 | GCC Gulf Cooperation Council | Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates, India | To achieve unity based on their common objectives and their similar political and cultural identities |
 | BBIN | Bangladesh, Bhutan, India, Nepal | For energy development |
@@ -357,6 +359,18 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 ![](assets/page_011_picture_001.png)
 
 ![](assets/page_012_picture_001.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| homogenous | of the same kind/alike |
+| bilateral trade | trading between two countries |
+| hydroelectric project | producing electricity by using the power of fast moving water |
+| infrastructure | the basic organisational facilities |
+| antiquity | the ancient past |
+| bifurcation | to divide into two parts |
+| surveillance | close observation |
 
 ### EXERCISE
 

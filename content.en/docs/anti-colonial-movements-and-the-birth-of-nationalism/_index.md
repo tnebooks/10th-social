@@ -156,6 +156,10 @@ Bahadur Shah II
 
 ![](assets/page_005_picture_001.png)
 
+**Important Centres of Great Rebellion (First War of Indian Independence) - 1857** (Not to Scale)
+
+Centres shown: Delhi, Meerut, Ambala, Agra, Bareilly, Lucknow, Kanpur, Allahabad, Banaras, Jhansi, Gwalior, Barrackpore
+
 Emperor Bahadur Shah II to become their leader. After much hesitation he accepted the offer and was proclaimed as the Shahenshah-e- Hindustan (the Emperor of Hindustan). Soon the rebels captured the north-western province and Awadh. As the news of the fall of Delhi reached the Ganges valley, cantonment after cantonment mutinied till, by the beginning of June, British rule in North India, except in Punjab and Bengal, had disappeared.
 
 ### Civil Rebellion
@@ -369,6 +373,20 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
 ![](assets/page_011_picture_001.png)
 
 ![](assets/page_012_picture_001.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| orchestrated | organized to achieve a desired effect |
+| clandestine | secret |
+| restorative | re-establishing |
+| subletting | property leased by one lessee to another |
+| egalitarian | equal rights for all people |
+| coercive | forcible |
+| extortion | the practice of taking something from an unwilling person by physical force |
+| disgruntled | dissatisfied, frustrated |
+| abysmal | extremely bad, deep and bottomless |
 
 ### EXERCISE
 

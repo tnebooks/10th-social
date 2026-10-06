@@ -168,13 +168,13 @@ The non-Brahmins organised themselves into political organisations to protect th
 
 The Congress boycotted the elections of 1920. The Justice Party won 63 of 98 elected seats in the Legislative Council. A. Subburayalu of the Justice Party became the first chief minister. After the 1923 elections, Raja of Panagal of the Justice Party formed the ministry.
 
-![](assets/page_005_picture_001.png)
-
 ![](assets/page_005_picture_002.png)
 
-A Subbarayalu
-
 Raja of Panagal
+
+![](assets/page_005_picture_001.png)
+
+A Subbarayalu
 
 ### (b) Government’s Repressive
 
@@ -319,6 +319,22 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 ![](assets/page_009_picture_001.png)
 
 ![](assets/page_009_picture_002.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| hegemony | leadership or dominance, especially by one state or social group over others |
+| obnoxious | extremely unpleasant |
+| consensus | a general agreement |
+| hypocrisy | insincerity/two-facedness, dishonesty, lip service |
+| seditious | inciting or causing people to rebel against the authority of a state or monarch |
+| demonstration | a protest meeting or march against something |
+| picket | a blockade of a workplace or other venue |
+| boycott | refuse to cooperate with or participate in |
+| brutal | savagely violent |
+| patriotic | having devotion to and vigorous support for one’s own country |
+| repression | action of subduing someone or something with force |
 
 ### EXERCISE
 

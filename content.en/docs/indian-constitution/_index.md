@@ -136,6 +136,15 @@ When the President makes a Proclamation of Emergency under Article 352, the free
 
 ### Differences between Fundamental Rights and Directive Principles of State Policy
 
+| Fundamental Rights | Directive Principles of State Policy |
+|---|---|
+| It was derived from the Constitution of the USA. | It was drawn on the model of the Constitution of Ireland. |
+| Even the Government cannot take away or abridge these rights. | These are mere instructions to the Government. |
+| These are enforceable by a court of law. | These are not enforceable in any court. |
+| These have legal sanctions. | These have moral and political sanctions. |
+| These rights strengthen political democracy in the country. | The implementation of these principles ensures social and economic democracy. |
+
+
 ![](assets/page_004_picture_001.png)
 
 ![](assets/page_005_picture_001.png)
@@ -143,6 +152,41 @@ When the President makes a Proclamation of Emergency under Article 352, the free
 ![](assets/page_005_picture_002.png)
 
 ![](assets/page_005_picture_003.png)
+
+Violation of which Fundamental right is associated with the theme depicted in the stamps?
+
+**I. RIGHT TO EQUALITY**
+
+- Art. 14 - Equality before law.
+- Art. 15 - Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+- Art. 16 - Equality of opportunity in matters of public employment.
+- Art. 17 - Abolition of Untouchability.
+- Art. 18 - Abolition of titles except military and academic.
+
+**II. RIGHT TO FREEDOM**
+
+- Art. 19 - Freedom of speech and expression, assembly, association, movement, residence and profession.
+- Art. 20 - Protection in respect of conviction for offences.
+- Art. 21 - Protection of life and personal liberty.
+- Art. 21A - Right to elementary education.
+- Art. 22 - Protection against arrest and detention in certain cases.
+
+**III. RIGHT AGAINST EXPLOITATION**
+
+- Art. 23 - Prohibition of traffic in human beings and forced labour.
+- Art. 24 - Prohibition of employment of children in factories, etc.
+
+**IV. RIGHT TO RELIGION**
+
+- Art. 25 - Freedom of conscience and free profession, practice and propagation of religion.
+- Art. 26 - Freedom to manage religious affairs.
+- Art. 27 - Freedom from payment of taxes for promotion of any religion.
+- Art. 28 - Freedom from attending religious instruction or worship in certain educational institutions.
+
+**V. CULTURAL & EDUCATIONAL RIGHTS**
+
+- Art. 29 - Protection of language, script and culture of minorities.
+- Art. 30 - Right of minorities to establish and administer educational institutions.
 
 **Right to Property (Art. 31)**
 
@@ -277,6 +321,19 @@ Democratic Republic.
 ![](assets/page_009_picture_001.png)
 
 ![](assets/page_009_picture_002.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| Preamble | the introduction to the Constitution of India |
+| Secular state | A state which treats all religions equally |
+| Discrimination | unfair treatment of a person or group |
+| Writ | written command of court |
+| Sovereignty | supreme power or authority |
+| Heritage | something handed down from one’s ancestors |
+| Autonomy | independence in one’s thoughts or actions |
+| Proclamation | an announcement |
 
 ### EVALUATION
 

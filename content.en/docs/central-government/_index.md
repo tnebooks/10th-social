@@ -316,6 +316,15 @@ The Lok Sabha is presided over by the ‘speaker’ who is elected by its member
 
 Speaker continues to be in the office even in the houses dissolved, till a new Speaker is elected by the new Lok Sabha. The Speaker presides over a joint sitting of the two Houses of Parliament. He has the power to decide whether a Bill is Money Bill or an ordinary one. While the office of speaker is vacant or the speaker is absent from the sitting of the house, the deputy speaker presides, except when a resolution for his own removal is under consideration.
 
+**Parliament Session**
+
+| Session | Period |
+|---|---|
+| Budget Session | February to May |
+| Monsoon Session | July to September |
+| Winter Session | November to December |
+
+
 ![](assets/page_007_picture_002.png)
 
 ### Powers and Functions of the Parliament
@@ -414,15 +423,14 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
 
 ### GLOSSARY
 
-| bring to an untimely end. | முடிவுக்கு கொ>ொண்டு வருதல் |
+| Term | Meaning |
 |---|---|
-| an amount of money that can be used to pay for problems that might happen. | எதிர் பாரா செலவு நிதி |
-| Absolving the convict of all guilt and punishment. | பொ�ொதுமன்னிப்பு |
-| Quantitative reduction of punishment without afefcting Nature of punishment. | தண் னை குறைப்பு |
-| priority of importance. | முன்னுரிமை |
-| because of an office. | பப தவியின் நிமித்தமாக |
-
-Contingency fund
+| Terminate | bring to an untimely end. |
+| Contingency fund | an amount of money that can be used to pay for problems that might happen. |
+| Pardon | Absolving the convict of all guilt and punishment. |
+| Remission | Quantitative reduction of punishment without affecting Nature of punishment. |
+| Precedence | priority of importance. |
+| Ex-officio | because of an office. |
 
 ![](assets/page_010_picture_001.png)
 

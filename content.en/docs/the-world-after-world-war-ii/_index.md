@@ -378,6 +378,19 @@ Arab-Israeli Wars and Vietnam War.
 
 ![](assets/page_012_picture_002.png)
 
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| antagonistic | acting against or indicating |
+| wriggle out | to avoid doing something |
+| ascension | the act of rising to an important position or a higher level, a movement upward |
+| disillusioned | disappointed on finding out something is not as good as hoped |
+| abstaining | restrain oneself from doing something |
+| embitter | cause to feel bitter – to make hateful |
+| incapacitated | lacking in or deprived of strength or power |
+| bacteriological weapons | the use of harmful bacteria as a weapon |
+
 ### EXERCISE
 
 **I Choose the correct answer**

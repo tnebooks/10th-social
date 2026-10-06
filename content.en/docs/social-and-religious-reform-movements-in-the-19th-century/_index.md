@@ -296,6 +296,18 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 
 ![](assets/page_008_picture_002.png)
 
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| Alleged | stated but not proved |
+| Ecstatic | in a state of extreme happiness |
+| Voluminous | bulky |
+| Reiterated | repeat a statement for emphasis |
+| Idolatry | the practice of worshipping idols |
+| Tract | a small booklet |
+| Revelation | disclosure |
+
 ### EXERCISE
 
 **I Choose the correct answer**

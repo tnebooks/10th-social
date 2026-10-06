@@ -138,41 +138,16 @@ A concept related to purchasing power is purchasing price parity (PPP). PPP is a
 
 PPP can be used to compare countries income levels and other relevant economic data concerning the cost of living, or possible rates of inflation and deflation. Recently, India became the third largest economy in terms of PPP. China became the largest economy, pushing the US to the second position.
 
-27.4 Largest economies by PPP - GDP in 2019
+**Largest economies by PPP - GDP in 2019** (Int $ Tn)
 
-(Int $ Tn)
-
-27
-
-24
-
-21.4
-
-21
-
-18
-
-15
-
-11.4
-
-12
-
-9
-
-5.8
-
-6
-
-4.5 4.3
-
-3
-
-0
-
-China
-
-US India Japan Russia Germany
+| Country | GDP (PPP, Int $ Tn) |
+|---|---|
+| China | 27.4 |
+| US | 21.4 |
+| India | 11.4 |
+| Japan | 5.8 |
+| Russia | 4.5 |
+| Germany | 4.3 |
 
 ## 3.4 Agricultural Policy in India
 
@@ -237,6 +212,15 @@ After 1994, poverty has declined steadily in both rural and urban areas of Tamil
 These policies and programmes, if continued, will completely eradicate the poverty in the state. In future, Tamil Nadu can become a model of development in India.
 
 Top and Bottom MPI districts in Tamil Nadu
+
+| Top 5 Districts | Bottom 5 Districts |
+|---|---|
+| Kancheepuram | Dharmapuri |
+| Chennai | Perambalur |
+| Cuddalore | Ramanathapuram |
+| Coimbatore | Virudhunagar |
+| Nagapattinam | Ariyalur |
+
 
 ![](assets/page_006_picture_001.png)
 
@@ -331,6 +315,20 @@ Mid-Day Meal Programme
 ![](assets/page_008_picture_001.png)
 
 ![](assets/page_008_picture_002.png)
+
+### GLOSSARY
+
+| Term | Meaning |
+|---|---|
+| Availability | that which can be used, attainable |
+| Accessibility | right to enter |
+| Affordability | ability to be afforded |
+| Sufficient | enough |
+| Purchasing power | the financial ability to buy produce |
+| Productivity | power of producing |
+| Degradation | to reduce to a lower rank |
+| Unidimensional | having one direction |
+| Malnourished | lack of proper nutrition |
 
 ### EXERCISE
 
