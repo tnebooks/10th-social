@@ -1,6 +1,7 @@
 ---
 title: "Social Transformation in Tamil Nadu"
 categories:
+- history
 - social-transformation-in-tamil-nadu
 weight: 10
 summary: "Europeans established their political power over Indian subcontinent in the latter half of the eighteenth century. While they were concerned with annexing India, by the beginning of the nineteenth century, they were reordering Indian society. New revenue settlements were made. I…"

@@ -1,6 +1,7 @@
 ---
 title: "மொத்த உள்நாட்டு உற்பத்தி (GDP) மற்றும் அதன் வளர்ச்சி: ஓர் அறிமுகம்"
 categories:
+- economics
 - gross-domestic-product-and-its-growth-an-introduction
 weight: 23
 summary: "இந்தியப் பொருளாதாரம் எவ்வாறு செயல்படுகிறது என்பதனை மொத்த உள்நாட்டு உற்பத்தி (GDP- Gross Domestic Product) விளக்குகிறது. அதனால், GDP என்றால் என்னஎன்பதைப் பற்றி முதலில் நீங்கள் புரிந்துக் கொள்ள வேண்டும்."

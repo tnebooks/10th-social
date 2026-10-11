@@ -1,6 +1,7 @@
 ---
 title: "Early Revolts against British Rule in Tamil Nadu"
 categories:
+- history
 - early-revolts-against-british-rule-in-tamil-nadu
 weight: 6
 summary: "After defeating the French and their Indian allies in the three Carnatic Wars, the East India Company began to consolidate and extend its power and influence. However, local kings and feudal chieftains resisted this. The first resistance to East India Company’s territorial aggra…"

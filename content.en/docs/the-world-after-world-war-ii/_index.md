@@ -1,6 +1,7 @@
 ---
 title: "The World after World War II"
 categories:
+- history
 - the-world-after-world-war-ii
 weight: 4
 summary: "In the aftermath of Second World War a new era began. It was the beginning of the decline of European colonial empires and the independence of colonies in Asia and Africa. If the effects of World War I led to the communist revolution of Russia, the Second World War played a big…"

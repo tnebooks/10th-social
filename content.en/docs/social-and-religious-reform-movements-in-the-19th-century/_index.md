@@ -1,6 +1,7 @@
 ---
 title: "Social and Religious Reform Movements in the 19th Century"
 categories:
+- history
 - social-and-religious-reform-movements-in-the-19th-century
 weight: 5
 summary: "English education, introduced with the objective of producing clerks, also produced a new English-educated middle class. This class came under the influence of western ideas and thoughts. Christianity also had its effect on the newly emerging middle class. Though small in number…"

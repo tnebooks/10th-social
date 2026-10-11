@@ -1,6 +1,7 @@
 ---
 title: "Freedom Struggle in Tamil Nadu"
 categories:
+- history
 - freedom-struggle-in-tamil-nadu
 weight: 9
 summary: "Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepo…"

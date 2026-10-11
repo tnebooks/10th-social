@@ -1,6 +1,7 @@
 ---
 title: "இந்தியா அமைவிடம் நிலத்தோற்றம் மற்றும் வடிகாலமைப்புe"
 categories:
+- geography
 - india-location-relief-and-drainage
 weight: 11
 summary: "India is the seventh largest country in the world. It is separated by the Himalayas from the rest of the continent. India accounts for about 2.4 % of the total area of the world with an area of 32,87,263 sq.km, many of the India states are larger than several countries of the wo…"

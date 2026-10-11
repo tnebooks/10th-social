@@ -1,6 +1,7 @@
 ---
 title: "Outbreak of World War I and Its Aftermath"
 categories:
+- history
 - outbreak-of-world-war-i-and-its-aftermath
 weight: 1
 summary: "The year 1914 is a turning point in world history. The political and social processes that began in 1789, culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteen…"

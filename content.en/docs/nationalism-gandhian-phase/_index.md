@@ -1,6 +1,7 @@
 ---
 title: "Nationalism: Gandhian Phase"
 categories:
+- history
 - nationalism-gandhian-phase
 weight: 8
 summary: "Mahatma Gandhi arrived in India in 1915 from South Africa after fighting for the civil rights of the Indians there for about twenty years. He brought with him a new impulse to Indian politics. He introduced satyagraha, which he had perfected in South Africa, that could be practi…"

@@ -1,6 +1,7 @@
 ---
 title: "The World between two World Wars"
 categories:
+- history
 - the-world-between-two-world-wars
 weight: 2
 summary: "The First World War shattered the global capitalist system based on European imperialism. The European powers were gravely weakened by the War, financially and politically. The conflict between the workers and the ruling classes that controlled the government became intense. As…"
