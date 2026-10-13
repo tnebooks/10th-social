@@ -508,13 +508,13 @@ Trade is an exchange of goods and services. Internal and International trades ar
 
 4. The National Remote sensing Centre(NRSC) is located at _________.
 
-a) Bengaluru b) Chennai c) Delhi d) Hyderabad
+    a) Bengaluru b) Chennai c) Delhi d) Hyderabad
 
 5. The transport useful in the inaccessible areas is a) Roadways b) Railways c) Airways d) Waterways
 
 6. Which of the following is associated with helicopter service?
 
-a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans
+    a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans
 
 7. The major import item of India is a) Cement b) Jewells c) Tea d) Petroleum
 
@@ -565,7 +565,7 @@ a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans
 
 3. Classify and explain the roadways in
 
-India.
+    India.
 
 **VI On the outline map of India mark the**
 
@@ -587,15 +587,15 @@ India.
 
 1. D.R. Khullar (2014) India, A comprehensive
 
-Geography.
+    Geography.
 
 2. Surender Singh and Jitender Saroha (2014)
 
-Geography of India, New Delhi: Access publishing
+    Geography of India, New Delhi: Access publishing
 
 3. Census of India (2011) Provisional
 
-Population Totals, “Urban Agglomerations and Cities”.
+    Population Totals, “Urban Agglomerations and Cities”.
 
 ### INTERNET RESOURCES
 

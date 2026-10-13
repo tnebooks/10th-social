@@ -1,0 +1,20 @@
+{{ $resources := partial "docs/lesson-resources-data.html" . }}
+{{ $ta := eq .Language.Lang "ta" }}
+{{ with $resources }}
+  {{ $source := $.Site.GetPage (printf "/docs/%s/source" (path.Base (strings.TrimSuffix "/" $.File.Dir))) }}
+  <p><a class="btn btn-outline-primary w-100 text-wrap" href="{{ $source.RelPermalink }}">{{ if $ta }}மூலப் பாடநூல் பக்கங்கள்{{ else }}Original textbook pages{{ end }} (PDF {{ index .source_pages 0 }}–{{ index .source_pages 1 }})</a></p>
+  <p class="small">{{ if $ta }}பாடத்தின் அச்சிடப்பட்ட மேற்கோள் நூல்களுக்கு நூல்கள் தாவலைத் திறக்கவும்.{{ else }}Open the Books tab for this lesson's printed bibliography.{{ end }}</p>
+  <ul class="list-unstyled lesson-resource-list">
+    {{ range .references }}
+      <li class="mb-3">{{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .label }}</a>{{ else }}<code>{{ .label }}</code><small class="d-block">{{ if $ta }}இந்த உரலியின் வடிவம் தவறாக உள்ளது.{{ else }}This recorded URL is malformed.{{ end }}</small>{{ end }}
+        <small class="d-block text-body-secondary">{{ if $ta }}பாட உரலி · சோதனை நாள்{{ else }}Lesson URL · checked{{ end }} {{ .checked_date }}</small>
+        <small class="d-block" data-original-check-status="{{ .status }}">{{ partial "docs/resource-status.html" (dict "status" .status "ta" $ta) }}</small>
+        {{ range .alternatives }}<a class="small d-block mt-1" href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ if $ta }}மாற்று வளம்{{ else }}Alternative resource{{ end }}</a><small class="d-block text-body-secondary">{{ partial "docs/resource-status.html" (dict "status" .status "ta" $ta) }}</small>{{ end }}</li>
+    {{ end }}
+    {{ range .activities }}
+      <li class="mb-3"><a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a><small class="d-block text-body-secondary">{{ .provider }}</small></li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>{{ if $ta }}வளங்களைப் பார்க்க ஒரு பாடத்தைத் தேர்ந்தெடுக்கவும்.{{ else }}Select a lesson to view its references.{{ end }}</p>
+{{ end }}

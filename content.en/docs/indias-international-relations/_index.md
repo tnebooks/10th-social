@@ -572,31 +572,31 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 
 1. V.K. Malhotra, International Relations,
 
-Calcutta: Anmol publication
+    Calcutta: Anmol publication
 
 2. Prakash Chandra, International Relations
 
-New Delhi: Vikas Publishing
+    New Delhi: Vikas Publishing
 
 3. Prakash Chandra, Theories of International
 
-Relations: Aman publishing
+    Relations: Aman publishing
 
 4. Baldev Raj Nayar and Thazha Varkey Paul,
 
-India in the world order: Searching for major-power status, Cambridge University Press (2003)
+    India in the world order: Searching for major-power status, Cambridge University Press (2003)
 
 5. Deep Datta Ray, The making of modern
 
-Indian Diplomacy; A critique of Eurocentrism, Oxford University Press, India (2015)
+    Indian Diplomacy; A critique of Eurocentrism, Oxford University Press, India (2015)
 
 6. Jon C.W. Pevehouse, Joshna S. Goldstein,
 
-International Relations, Pearson Education, Noida (2017)
+    International Relations, Pearson Education, Noida (2017)
 
 7. Rajendra M. Abhyankar., Indian Diplomacy,
 
-Oxford University Press, India (2018)
+    Oxford University Press, India (2018)
 
 ### INTERNET RESOURCES
 

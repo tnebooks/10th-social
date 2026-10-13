@@ -473,7 +473,7 @@ Mid-Day Meal Programme
 
 2. Ministry of Agriculture & Farmers
 
-Welfare. Annual report 2016–17.
+    Welfare. Annual report 2016–17.
 
 3. Nutrition & Food Security. UN India.
 
@@ -483,7 +483,7 @@ Welfare. Annual report 2016–17.
 
 6. The Gazette of India–“The National Food
 
-Security Act 2013”.
+    Security Act 2013”.
 
 ### INTERNET RESOURCES
 

@@ -1,0 +1,26 @@
+<div class="container-fluid px-4">
+  <div class="row">
+    <section id="article-container" class="col-lg-9 py-4 pe-lg-5">
+      <div id="fullscreen-translate-dropdown">
+        <button class="btn rounded-circle shadow" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Translate"><i class="bi bi-translate"></i></button>
+        <ul class="dropdown-menu dropdown-menu-end shadow-sm border-0">
+          {{ range .Translations }}<li><a class="dropdown-item" data-code="{{ .Language.Lang }}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>{{ end }}
+        </ul>
+      </div>
+      {{ with partial "docs/lesson-resources-data.html" . }}
+      <nav class="lesson-resource-shortcuts d-flex flex-wrap gap-2 mb-4" aria-label="{{ if eq $.Language.Lang "ta" }}பாட வளங்கள்{{ else }}Lesson resources{{ end }}">
+        <button class="btn btn-outline-primary btn-sm" data-bs-toggle="offcanvas" data-bs-target="#referencepanel" aria-controls="referencepanel">{{ if eq $.Language.Lang "ta" }}மேற்கோள்கள்{{ else }}References{{ end }}</button>
+        <button class="btn btn-outline-primary btn-sm" data-bs-toggle="offcanvas" data-bs-target="#videopanel" aria-controls="videopanel">{{ if eq $.Language.Lang "ta" }}காணொலிகள்{{ else }}Videos{{ end }}</button>
+        <a class="btn btn-outline-primary btn-sm" href="#lesson-activities">{{ if eq $.Language.Lang "ta" }}செயல்பாடுகள் மற்றும் மாதிரிகள்{{ else }}Activities & simulations{{ end }}</a>
+        {{ if .simulation }}<a class="btn btn-outline-primary btn-sm" href="#lesson-simulation">{{ if eq $.Language.Lang "ta" }}கணக்கீட்டு மாதிரி{{ else }}Calculator simulation{{ end }}</a>{{ end }}
+      </nav>
+      {{ end }}
+      <article class="w-100">
+        {{ .Content }}
+        {{ partial "docs/lesson-activities.html" . }}
+      </article>
+      <article class="side-article w-100 border-start bg-light-subtle ps-3">Side Content</article>
+    </section>
+    {{ partial "toc.html" . }}
+  </div>
+</div>

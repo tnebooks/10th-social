@@ -1,0 +1,552 @@
+{
+  "status": "pass",
+  "lessons": 54,
+  "topic_activities": 360,
+  "video_references": 372,
+  "external_activity_references": 62,
+  "calculator_instances": 6,
+  "teacher_approval": false,
+  "full_video_playback_verified": false,
+  "rows": [
+    {
+      "language": "en",
+      "slug": "outbreak-of-world-war-i-and-its-aftermath",
+      "bibliography_entries": 4,
+      "videos": 5,
+      "topics": 5,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "a88c41b8d21cdc01a089fda02d417e015ae882059442958bb9b3d41048f6eab3"
+    },
+    {
+      "language": "en",
+      "slug": "the-world-between-two-world-wars",
+      "bibliography_entries": 5,
+      "videos": 5,
+      "topics": 5,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "774b343bd1fae699e717cf63b9f6991fdf359263f88ff3a228f5db21f0c51930"
+    },
+    {
+      "language": "en",
+      "slug": "world-war-ii",
+      "bibliography_entries": 4,
+      "videos": 7,
+      "topics": 4,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "ade45c64579fcdcfcb502b90d8ec573f62f5cc4fdf267202df9e2f094f60d6cb"
+    },
+    {
+      "language": "en",
+      "slug": "the-world-after-world-war-ii",
+      "bibliography_entries": 3,
+      "videos": 12,
+      "topics": 10,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "998bdae55ed8ef21d22fd431fc8113ad27aa52435ebb82f1f674fc9f608151b3"
+    },
+    {
+      "language": "en",
+      "slug": "social-and-religious-reform-movements-in-the-19th-century",
+      "bibliography_entries": 4,
+      "videos": 6,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "87daa9feedd9522222b0c28b9f7914f0b8206c3ce2ef34d674d44c4df397f106"
+    },
+    {
+      "language": "en",
+      "slug": "early-revolts-against-british-rule-in-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 3,
+      "topics": 3,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "0762c03c15a2b77ad698efdd9752fe15b12f4c7d572507f33861b8edcc86f9c8"
+    },
+    {
+      "language": "en",
+      "slug": "anti-colonial-movements-and-the-birth-of-nationalism",
+      "bibliography_entries": 3,
+      "videos": 5,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "a242434880b8a6c1501bc8bd4b388bc4305b16977bb0217d066298955f0bf632"
+    },
+    {
+      "language": "en",
+      "slug": "nationalism-gandhian-phase",
+      "bibliography_entries": 6,
+      "videos": 7,
+      "topics": 8,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "9cde27c94b27a0cde72195afd624d5831834034888b7e51e2b8f587191c77de8"
+    },
+    {
+      "language": "en",
+      "slug": "freedom-struggle-in-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 7,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "a4795aa6c69d980087f47ecc48e16d54de04473634e84155d888d8b2d9b41903"
+    },
+    {
+      "language": "en",
+      "slug": "social-transformation-in-tamil-nadu",
+      "bibliography_entries": 6,
+      "videos": 9,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "522353e17d5648fa59f33846fbebf5e3157396b3407494aecbc8c56e8a6c2e9e"
+    },
+    {
+      "language": "en",
+      "slug": "india-location-relief-and-drainage",
+      "bibliography_entries": 4,
+      "videos": 4,
+      "topics": 3,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "4dffb409e8463a2b4daeb06a5456396baebce879069268a87823e96da0a5dd28"
+    },
+    {
+      "language": "en",
+      "slug": "climate-and-natural-vegetation-of-india",
+      "bibliography_entries": 4,
+      "videos": 6,
+      "topics": 5,
+      "external_activities": 1,
+      "simulation": "climate",
+      "source_sha256": "8c317a1df568656253d86552e6af55f4ba0719b4f1af732f6e45a0eb08f13fe1"
+    },
+    {
+      "language": "en",
+      "slug": "india-agriculture",
+      "bibliography_entries": 5,
+      "videos": 8,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "14786e69f98c85a3c4e37809a55bc2436d6b88a838ec203a934c05355d296320"
+    },
+    {
+      "language": "en",
+      "slug": "india-resources-and-industries",
+      "bibliography_entries": 5,
+      "videos": 3,
+      "topics": 3,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "e82186015c9515924317722ab2ae6447a41280a57c35cd2f31b27017be92453c"
+    },
+    {
+      "language": "en",
+      "slug": "india-population-transport-communication-and-trade",
+      "bibliography_entries": 3,
+      "videos": 7,
+      "topics": 6,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "ab9ec195daf9aa101b121ebe605675291869d71964b1de0aaf062f2451fc76b6"
+    },
+    {
+      "language": "en",
+      "slug": "physical-geography-of-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 8,
+      "topics": 12,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "e1c23df3753212fecc75bfe2965e404ae432582712e628fcba5fa542c38c23e2"
+    },
+    {
+      "language": "en",
+      "slug": "human-geography-of-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 13,
+      "topics": 14,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "9e798c30da4d2a3b0333e5af7ad099626918660e5f6bd898d568525624b4d232"
+    },
+    {
+      "language": "en",
+      "slug": "indian-constitution",
+      "bibliography_entries": 2,
+      "videos": 15,
+      "topics": 13,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "aa68e0eebaa23f1ff5c432150a6e242105646d93f6e14dcfc1132188523fd2b5"
+    },
+    {
+      "language": "en",
+      "slug": "central-government",
+      "bibliography_entries": 3,
+      "videos": 5,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "93f61d0c97b906e0a8971e9527e069f71ac221d115d5d0671c20eb8972c6e6ee"
+    },
+    {
+      "language": "en",
+      "slug": "state-government",
+      "bibliography_entries": 2,
+      "videos": 5,
+      "topics": 5,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "b74d750b614857f53eb0660daad3901d004524b7243c5ddd129085feb7ab6b6c"
+    },
+    {
+      "language": "en",
+      "slug": "indias-foreign-policy",
+      "bibliography_entries": 8,
+      "videos": 6,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "f3478bea74222026f5bd12c40804049dd27c0c65c42e4b54a427ec94012d2c2f"
+    },
+    {
+      "language": "en",
+      "slug": "indias-international-relations",
+      "bibliography_entries": 7,
+      "videos": 6,
+      "topics": 4,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "30e65f4115e4a6f48069cef273cc1ca7000e9f36a44cc48d564d8b5e22a9eaad"
+    },
+    {
+      "language": "en",
+      "slug": "gross-domestic-product-and-its-growth-an-introduction",
+      "bibliography_entries": 3,
+      "videos": 3,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": "gdp",
+      "source_sha256": "ab5907bc9a700cbe97a5175902f2026854801b4f0ef369de8a5fc4d46040aff5"
+    },
+    {
+      "language": "en",
+      "slug": "globalization-and-trade",
+      "bibliography_entries": 4,
+      "videos": 8,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "0ac9935e84f0662a7e02624e14de0cd4560240bb6e27b3d720acc3cd7d2183aa"
+    },
+    {
+      "language": "en",
+      "slug": "food-security-and-nutrition",
+      "bibliography_entries": 6,
+      "videos": 6,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "ce0f2ffc738a684a82f3904bc7eb1aca4a3ded3aca807cb687c8f231edbca530"
+    },
+    {
+      "language": "en",
+      "slug": "government-and-taxes",
+      "bibliography_entries": 3,
+      "videos": 7,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": "gst",
+      "source_sha256": "1561d460cfb4cd5b0fa5a9d2856b9234e22f804aeb0c3f88085b33c2e37a8f41"
+    },
+    {
+      "language": "en",
+      "slug": "industrial-clusters-in-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 10,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "410638980b2385a9600a338544cbd2808cf2dfbf4479351196e0ba22c20c8e52"
+    },
+    {
+      "language": "ta",
+      "slug": "outbreak-of-world-war-i-and-its-aftermath",
+      "bibliography_entries": 4,
+      "videos": 5,
+      "topics": 5,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "d3d0c103fb80b9dc2d5e562c767d143baa1ad9c078606b134a233834959fdcea"
+    },
+    {
+      "language": "ta",
+      "slug": "the-world-between-two-world-wars",
+      "bibliography_entries": 5,
+      "videos": 5,
+      "topics": 5,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "64287aac6a2cac5254bf1368686be03e6205a5587cfa9444f81f036f0cbeaf0d"
+    },
+    {
+      "language": "ta",
+      "slug": "world-war-ii",
+      "bibliography_entries": 3,
+      "videos": 7,
+      "topics": 4,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "58b08702e891285826e7677e385189462a31a0981c1558c0f2bbddcbb6674409"
+    },
+    {
+      "language": "ta",
+      "slug": "the-world-after-world-war-ii",
+      "bibliography_entries": 3,
+      "videos": 12,
+      "topics": 10,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "4969bd7d82486aaebfde262dd71228ca1a89ae87a53aedd725b9325bd43580da"
+    },
+    {
+      "language": "ta",
+      "slug": "social-and-religious-reform-movements-in-the-19th-century",
+      "bibliography_entries": 3,
+      "videos": 6,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "8e713a8d757e8327a2e83ee72d9f0e459aac062545729b9374f91b8da577f7f1"
+    },
+    {
+      "language": "ta",
+      "slug": "early-revolts-against-british-rule-in-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 3,
+      "topics": 3,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "ed0fe018123a6b3a71527c5335dfca69d0790a5097f10bccf0df7392057be40f"
+    },
+    {
+      "language": "ta",
+      "slug": "anti-colonial-movements-and-the-birth-of-nationalism",
+      "bibliography_entries": 3,
+      "videos": 5,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "7d203a14fedc4d41326da9c1055728840a24c7aacc33bf7020a571e5ea17f9ef"
+    },
+    {
+      "language": "ta",
+      "slug": "nationalism-gandhian-phase",
+      "bibliography_entries": 6,
+      "videos": 7,
+      "topics": 8,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "dd00507ff97aaef97e6b7081cfa4642e79ea6c4c07937a294e22f1a4d0e693bd"
+    },
+    {
+      "language": "ta",
+      "slug": "freedom-struggle-in-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 7,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "e4329b63dfebe684c75af74cb1bee4f8c9b9516225007b734761e68af2c4f1cf"
+    },
+    {
+      "language": "ta",
+      "slug": "social-transformation-in-tamil-nadu",
+      "bibliography_entries": 6,
+      "videos": 9,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "d86be680dac923aea6290e8e3354739808202c8044baaa10422ac9b414822c2b"
+    },
+    {
+      "language": "ta",
+      "slug": "india-location-relief-and-drainage",
+      "bibliography_entries": 4,
+      "videos": 4,
+      "topics": 3,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "13d631352bf65fdd2c98e12ea86c623c9dfca48a10e359753d2ff634a94b2b85"
+    },
+    {
+      "language": "ta",
+      "slug": "climate-and-natural-vegetation-of-india",
+      "bibliography_entries": 4,
+      "videos": 6,
+      "topics": 5,
+      "external_activities": 1,
+      "simulation": "climate",
+      "source_sha256": "ee2754d1c545d9600932e0b911c81579e0072a39190849f53689d6863244473f"
+    },
+    {
+      "language": "ta",
+      "slug": "india-agriculture",
+      "bibliography_entries": 5,
+      "videos": 8,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "18ae9a5f078bb52c302238208893a517b88030e9491b229f41e39be6587842d6"
+    },
+    {
+      "language": "ta",
+      "slug": "india-resources-and-industries",
+      "bibliography_entries": 5,
+      "videos": 3,
+      "topics": 3,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "7976df4b472ba71dd7f8457112f4228d36992998f53f40a18cff0ca89aeece7f"
+    },
+    {
+      "language": "ta",
+      "slug": "india-population-transport-communication-and-trade",
+      "bibliography_entries": 3,
+      "videos": 7,
+      "topics": 6,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "faeaad9412c8d19ba055698ddbe2b42011d1eb97c615e8c06391b9daa4f8ace7"
+    },
+    {
+      "language": "ta",
+      "slug": "physical-geography-of-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 8,
+      "topics": 12,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "3d12be59708c31945e566f0a6f776e288c38937fa8de18099f19777e0be62122"
+    },
+    {
+      "language": "ta",
+      "slug": "human-geography-of-tamil-nadu",
+      "bibliography_entries": 4,
+      "videos": 13,
+      "topics": 14,
+      "external_activities": 2,
+      "simulation": null,
+      "source_sha256": "a209693da8eacccecf088c499889b89b85aac37b63b1d1673567df403e903df8"
+    },
+    {
+      "language": "ta",
+      "slug": "indian-constitution",
+      "bibliography_entries": 2,
+      "videos": 15,
+      "topics": 13,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "15e82a169b39d84438811b2ba46169a5eb3c7bcb821b00883fa09c890ae7b1fe"
+    },
+    {
+      "language": "ta",
+      "slug": "central-government",
+      "bibliography_entries": 3,
+      "videos": 5,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "d7b74386df3cd2e2e35c69147cb3f8be33eab5acc7cad1a868bc1d6521bd81e5"
+    },
+    {
+      "language": "ta",
+      "slug": "state-government",
+      "bibliography_entries": 2,
+      "videos": 5,
+      "topics": 5,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "3e95eb6d5f9b063749f7c7299ba2e0135ee96c3970c1cac85e6ea2d31f121e67"
+    },
+    {
+      "language": "ta",
+      "slug": "indias-foreign-policy",
+      "bibliography_entries": 4,
+      "videos": 6,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "2796f6bf97f7f1cc7614d7f30d50d9332479df0313ec4ee80a695964f99abac9"
+    },
+    {
+      "language": "ta",
+      "slug": "indias-international-relations",
+      "bibliography_entries": 7,
+      "videos": 6,
+      "topics": 4,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "0b0845a6725a3c4cfcb1d552f652b5aa654982ab0c6b90298833d3fbeeba07ad"
+    },
+    {
+      "language": "ta",
+      "slug": "gross-domestic-product-and-its-growth-an-introduction",
+      "bibliography_entries": 3,
+      "videos": 3,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": "gdp",
+      "source_sha256": "edc8209de26e6cf4e9f64b655e1895e15d9babacfe275aafb23c56c8049ec314"
+    },
+    {
+      "language": "ta",
+      "slug": "globalization-and-trade",
+      "bibliography_entries": 4,
+      "videos": 8,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "fa1e73b7e2967661120842b2f384acf418ddb37ae7e8b0a279a5ee3180b29115"
+    },
+    {
+      "language": "ta",
+      "slug": "food-security-and-nutrition",
+      "bibliography_entries": 7,
+      "videos": 6,
+      "topics": 6,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "5d8207e5b18880f4861cdf89e39a587071b7b0ee22870756bd77fc63e56e0985"
+    },
+    {
+      "language": "ta",
+      "slug": "government-and-taxes",
+      "bibliography_entries": 4,
+      "videos": 7,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": "gst",
+      "source_sha256": "3981bb47f0dda18d48da57ab8ddcd2320c0fee36893c2f24bf13581b58acd627"
+    },
+    {
+      "language": "ta",
+      "slug": "industrial-clusters-in-tamil-nadu",
+      "bibliography_entries": 5,
+      "videos": 10,
+      "topics": 7,
+      "external_activities": 1,
+      "simulation": null,
+      "source_sha256": "2f8dfb37048d3d0209f617c56ef1c6f96679e86b0c3dc9d5b35171acc3e7400a"
+    }
+  ]
+}

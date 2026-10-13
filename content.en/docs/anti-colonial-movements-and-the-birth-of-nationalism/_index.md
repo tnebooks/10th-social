@@ -546,15 +546,15 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
 
 1. Bipan Chandra, India’s Struggle for
 
-Independence (New Delhi: Penguin, 2000)
+    Independence (New Delhi: Penguin, 2000)
 
 2. Sekhar Bandyopadhyay, From Plassey to
 
-Partition and After (New Delhi: Orient Longman, 2004)
+    Partition and After (New Delhi: Orient Longman, 2004)
 
 3. Sumit Sarkar, Modern India (1885-1947)
 
-(New Delhi: Pearson, 2014).
+    (New Delhi: Pearson, 2014).
 
 ### INTERNET RESOURCES
 

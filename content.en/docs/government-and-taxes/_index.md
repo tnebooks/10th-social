@@ -483,13 +483,13 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 
 1. Gaurav Aklani, Role of Taxation in
 
-Developing Country in India.
+    Developing Country in India.
 
 2. Sankaran, Fiscal Economics.
 
 3. Dr.U.K. Sudha Nayak, B.P. Tygai, and
 
-Dr.H. Girija, Public Finance.
+    Dr.H. Girija, Public Finance.
 
 ### INTERNET RESOURCES
 

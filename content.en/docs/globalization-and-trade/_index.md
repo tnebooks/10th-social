@@ -518,7 +518,7 @@ This caused, the degradation of health and spread of diseases.
 
 1. Dr. S. Shankaran [2007], “Indian Economy”
 
-[Problem, Policies and Development]
+    [Problem, Policies and Development]
 
 2. Dutt and Sundharam's “Indian Economy”
 

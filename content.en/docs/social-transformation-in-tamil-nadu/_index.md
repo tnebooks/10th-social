@@ -435,17 +435,17 @@ Presidency.
 
 2. V. Geetha and S.V. Rajadurai, Towards a
 
-Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.
+    Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.
 
 3. Robert Hardgrave, The Dravidian Movement. Bombay: Popular Prakashan, 1965.
 
 4. Eugene F. Irschick, Politics and Social
 
-Conflict in South India. Berkeley: University of California Press, 1969.
+    Conflict in South India. Berkeley: University of California Press, 1969.
 
 5. Periyar. E.V. Ramasami, Women Enslaved.
 
-New Delhi: Critical Quest, 2009.
+    New Delhi: Critical Quest, 2009.
 
 6. Thoughts of Periyar E.V.R.: Speeches and Writings of Periyar E.V. Ramasamy. V. Anaimuthu. Comp. Chennai: Periyar E.V. Ramasamy–Nagammai Education and Research Trust, 1974.
 

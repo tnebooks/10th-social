@@ -407,17 +407,17 @@ In which river the Gerosappa (Jog) fall is found?
 
 1. The north-south extent of
 
-India is a. 2,500 km b. 2,933 km c. 3,214 km d. 2,814 km
+    India is a. 2,500 km b. 2,933 km c. 3,214 km d. 2,814 km
 
 2. _________ River is known as ‘Sorrow of
 
-Bihar’.
+    Bihar’.
 
-a. Narmada b. Godavari c. Kosi d. Damodar
+    a. Narmada b. Godavari c. Kosi d. Damodar
 
 3. A landmass bounded by sea on three sides is referred to as _________.
 
-a. Coast b. Island c. Peninsula d. Strait
+    a. Coast b. Island c. Peninsula d. Strait
 
 4. The Palk Strait and Gulf of Mannar separates India from _______ a. Goa b. West Bengal c. Sri Lanka d. Maldives
 
@@ -425,7 +425,7 @@ a. Coast b. Island c. Peninsula d. Strait
 
 6. _____________ Plains are formed by the older alluviums.
 
-a. Bhabar b. Tarai c. Bhangar d. Khadar
+    a. Bhabar b. Tarai c. Bhangar d. Khadar
 
 7. Pulicat Lake is located between the states of a. West Bengal and Odisha b. Karnataka and Kerala c. Odisha and Andhra Pradesh d. Tamil Nadu and Andhra Pradesh
 
@@ -455,7 +455,7 @@ a. Bhabar b. Tarai c. Bhangar d. Khadar
 
 3. Western Coastal Plains and Eastern Coastal
 
-Plains.
+    Plains.
 
 **V Answer in brief**
 
@@ -469,7 +469,7 @@ Plains.
 
 5. Write a brief note on the island group of
 
-Lakshadweep.
+    Lakshadweep.
 
 **VI Answer in a paragraph**
 

@@ -1,0 +1,2517 @@
+[
+  {
+    "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+    "expected_sha256": "d6115bd094d3c94f42ae723af01c0d13113ef7746255c94ae0f7e7ee7f04a8db",
+    "result_sha256": "130702cf9626d8f105e8b180cc6aae0600f5f4190272631306799f2f6efd67aa",
+    "edits": [
+      {
+        "line": 549,
+        "before": "Independence (New Delhi: Penguin, 2000)\n",
+        "after": "    Independence (New Delhi: Penguin, 2000)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 553,
+        "before": "Partition and After (New Delhi: Orient Longman, 2004)\n",
+        "after": "    Partition and After (New Delhi: Orient Longman, 2004)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+    "expected_sha256": "2f78e72561d44312cd0cb1b0f4bf4ee235c085e74e327945f626cae9bdea1471",
+    "result_sha256": "2dc7bb83d939f773d743300ae086a31f44f23e765c4500998cda26ef57a8c7d1",
+    "edits": [
+      {
+        "line": 250,
+        "before": "_________.\n",
+        "after": "    _________.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 252,
+        "before": "a) Tamil Nadu b) Kerala c) Punjab d) Madhya Pradesh\n",
+        "after": "    a) Tamil Nadu b) Kerala c) Punjab d) Madhya Pradesh\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 256,
+        "before": "a) Loo b) Norwester c) Mango showers d) Jet stream\n",
+        "after": "    a) Loo b) Norwester c) Mango showers d) Jet stream\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 260,
+        "before": "a) Isohyets b) Isobar c) Isotherm d) Latitudes\n",
+        "after": "    a) Isohyets b) Isobar c) Isotherm d) Latitudes\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 264,
+        "before": "a) Tropical humid b) Equatorial Climate c) Tropical Monsoon Climate d) Temperate Climate\n",
+        "after": "    a) Tropical humid b) Equatorial Climate c) Tropical Monsoon Climate d) Temperate Climate\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 268,
+        "before": "_________.\n",
+        "after": "    _________.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 270,
+        "before": "a) Tropical evergreen forest b) Deciduous forest c) Mangrove forest d) Mountain forest\n",
+        "after": "    a) Tropical evergreen forest b) Deciduous forest c) Mangrove forest d) Mountain forest\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 274,
+        "before": "a) Tamil Nadu b) Andhra Pradesh c) Madhya Pradesh d) Karnataka\n",
+        "after": "    a) Tamil Nadu b) Andhra Pradesh c) Madhya Pradesh d) Karnataka\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 278,
+        "before": "A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch\n",
+        "after": "    A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 296,
+        "before": "Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions) a) Both (A) and (R) are true: R explains A b) Both (A) and (R) are true: R does not explain A c) (A) is true (R) is false d) (A) is false (R) is true\n",
+        "after": "    Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions) a) Both (A) and (R) are true: R explains A b) Both (A) and (R) are true: R does not explain A c) (A) is true (R) is false d) (A) is false (R) is true\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 302,
+        "before": "(a) Desert (b) The Deltas of Ganga and Brahmaputra (c) The Delta of Godavari (d) The Delta of Mahanadhi\n",
+        "after": "    (a) Desert (b) The Deltas of Ganga and Brahmaputra (c) The Delta of Godavari (d) The Delta of Mahanadhi\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 306,
+        "before": "(a) Latitudinal extent\n",
+        "after": "    (a) Latitudinal extent\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 308,
+        "before": "(b) Altitude\n",
+        "after": "    (b) Altitude\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 310,
+        "before": "(c) Distance from the sea\n",
+        "after": "    (c) Distance from the sea\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 312,
+        "before": "(d) Soil\n",
+        "after": "    (d) Soil\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 340,
+        "before": "Forest.\n",
+        "after": "    Forest.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 378,
+        "before": "Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.\n",
+        "after": "    Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 384,
+        "before": "Tata McGraw-Hill Publishing House Company Ltd. New Delhi.\n",
+        "after": "    Tata McGraw-Hill Publishing House Company Ltd. New Delhi.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+    "expected_sha256": "ae9eb3d549e3c31291254ed9bda2086190d6f29cfb25165a2e35a6c670b779da",
+    "result_sha256": "f98844b693cfdb4144fd822041ef19373bb9377a26b55996b763ff886eed6a08",
+    "edits": [
+      {
+        "line": 400,
+        "before": "Medieval South India, New Delhi:Oxford University Press, 1980.\n",
+        "after": "    Medieval South India, New Delhi:Oxford University Press, 1980.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 404,
+        "before": "Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.\n",
+        "after": "    Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 408,
+        "before": "1800–1801, Madurai, Ratna Publication, 2000 (Reprint).\n",
+        "after": "    1800–1801, Madurai, Ratna Publication, 2000 (Reprint).\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/food-security-and-nutrition/_index.md",
+    "expected_sha256": "d6ec0f62be458e71d42d5b1b7b4e4cfc8aee81f4806f0f44f4d2ad5bf561088c",
+    "result_sha256": "d31defc675f546d0db4554c8b75cdeaaa909dfc55b47dea6f98ab7375e3e5d51",
+    "edits": [
+      {
+        "line": 476,
+        "before": "Welfare. Annual report 2016–17.\n",
+        "after": "    Welfare. Annual report 2016–17.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+    "expected_sha256": "5f5a2d75b56b8f073bdbb4b068945a7cea217bfdf45038c5ac11b0b9a238c197",
+    "result_sha256": "a5a72e3378dd4f39db2f4b6e27b32e9fd28c2bc12e38c3d1b8619e72568e88f8",
+    "edits": [
+      {
+        "line": 464,
+        "before": "Ratna Publications, Trivandrum, 2005.\n",
+        "after": "    Ratna Publications, Trivandrum, 2005.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 470,
+        "before": "Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.\n",
+        "after": "    Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/globalization-and-trade/_index.md",
+    "expected_sha256": "226bc51d1d60514dd3ed0790ac3a92729e1868aea49292ef8d60d495e69c15bb",
+    "result_sha256": "0ac9935e84f0662a7e02624e14de0cd4560240bb6e27b3d720acc3cd7d2183aa",
+    "edits": [
+      {
+        "line": 521,
+        "before": "[Problem, Policies and Development]\n",
+        "after": "    [Problem, Policies and Development]\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/government-and-taxes/_index.md",
+    "expected_sha256": "1d7213764dbf8ea6225c731e9aeed1b21a44c594c7863cfbb16f6a0319f74fb5",
+    "result_sha256": "7c792fa67aa48030c7618d27df29aed2804662d7b6702379f1061def2c8e6f01",
+    "edits": [
+      {
+        "line": 486,
+        "before": "Developing Country in India.\n",
+        "after": "    Developing Country in India.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+    "expected_sha256": "acb01b5f8f7f8383e105a391b139964bbae26f6c625be6274da6532afcc7474a",
+    "result_sha256": "0fd29d0ab602416bd293893fc79eac533d1d8368e47d5f489e93c2eb88676ca2",
+    "edits": [
+      {
+        "line": 625,
+        "before": "Edition).\n",
+        "after": "    Edition).\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+    "expected_sha256": "453a15f3d1154824ca908d6b88eda0cea43d98dce2bf6952490aad1403b0a6c7",
+    "result_sha256": "44272db4751106a118c257d99b08c9792a4f722dc1d7fa6aa7cf08cfbdac18f9",
+    "edits": [
+      {
+        "line": 516,
+        "before": "South India is a) Cauvery delta b) Mahanadi delta c) Godavari delta d) Krishna delta\n",
+        "after": "    South India is a) Cauvery delta b) Mahanadi delta c) Godavari delta d) Krishna delta\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 520,
+        "before": "Tamil Nadu is a) Pulses b) Millets c) Oilseeds d) Rice\n",
+        "after": "    Tamil Nadu is a) Pulses b) Millets c) Oilseeds d) Rice\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 524,
+        "before": "Tamil Nadu is a) Mettur b) Papansam c) Sathanur d) Thungabahdra\n",
+        "after": "    Tamil Nadu is a) Mettur b) Papansam c) Sathanur d) Thungabahdra\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 534,
+        "before": "____________ % of its economy.\n",
+        "after": "    ____________ % of its economy.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 540,
+        "before": "India after Mumbai and Delhi.\n",
+        "after": "    India after Mumbai and Delhi.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 559,
+        "before": "Erode, Karur and Salem region is called as The Textile Valley of Tamil Nadu.\n",
+        "after": "    Erode, Karur and Salem region is called as The Textile Valley of Tamil Nadu.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 561,
+        "before": "Reason (R): They contribute a major share to the states economy through textiles.\n",
+        "after": "    Reason (R): They contribute a major share to the states economy through textiles.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 563,
+        "before": "(a) Both (A) and (R) are true and (R) explains (A)\n",
+        "after": "    (a) Both (A) and (R) are true and (R) explains (A)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 565,
+        "before": "(b) Both (A) and (R) are true but, (R) does not explain (A)\n",
+        "after": "    (b) Both (A) and (R) are true but, (R) does not explain (A)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 567,
+        "before": "(c) (A) is true but (R) is false\n",
+        "after": "    (c) (A) is true but (R) is false\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 569,
+        "before": "(d) (A) is false but (R) is true\n",
+        "after": "    (d) (A) is false but (R) is true\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 573,
+        "before": "Reason (R): It is located in the western most part of Tamil Nadu.\n",
+        "after": "    Reason (R): It is located in the western most part of Tamil Nadu.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 575,
+        "before": "(a) Both (A) and (R) are true and (R) explains (A)\n",
+        "after": "    (a) Both (A) and (R) are true and (R) explains (A)\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 577,
+        "before": "(b) Both (A) and (R) are true but, (R) does not explain (A)\n",
+        "after": "    (b) Both (A) and (R) are true but, (R) does not explain (A)\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 579,
+        "before": "(c) (A) is true but (R) is false\n",
+        "after": "    (c) (A) is true but (R) is false\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 581,
+        "before": "(d) (A) is false but (R) is true\n",
+        "after": "    (d) (A) is false but (R) is true\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 629,
+        "before": "Coimbatore.\n",
+        "after": "    Coimbatore.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/india-agriculture/_index.md",
+    "expected_sha256": "5fb66994ff4099dc64a35cc5ef12ac0688f366b07fcd2a3055fa58e5bbed9836",
+    "result_sha256": "14786e69f98c85a3c4e37809a55bc2436d6b88a838ec203a934c05355d296320",
+    "edits": [
+      {
+        "line": 553,
+        "before": "a) Cotton b) Wheat c) Jute d) Tobacco\n",
+        "after": "    a) Cotton b) Wheat c) Jute d) Tobacco\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 577,
+        "before": "Reason (R): Paddy and wheat are grown well in the soil.\n",
+        "after": "    Reason (R): Paddy and wheat are grown well in the soil.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 579,
+        "before": "(a) Both (A) and (R) are true and (R) explains (A)\n",
+        "after": "    (a) Both (A) and (R) are true and (R) explains (A)\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 581,
+        "before": "(b) Both (A) and (R)are true and (R) does not explain (A)\n",
+        "after": "    (b) Both (A) and (R)are true and (R) does not explain (A)\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 583,
+        "before": "(c) (A) is correct (R) is false\n",
+        "after": "    (c) (A) is correct (R) is false\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 585,
+        "before": "(d) (A) is false (R) is true\n",
+        "after": "    (d) (A) is false (R) is true\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+    "expected_sha256": "e64b19d3aee5f643967ff966d0da3dfa09c0add69077b549eb4bada39b68c761",
+    "result_sha256": "e6175b89e86ff6d26296ccba97fa94145a8573d091e5415ed60da9440cdfde84",
+    "edits": [
+      {
+        "line": 410,
+        "before": "India is a. 2,500 km b. 2,933 km c. 3,214 km d. 2,814 km\n",
+        "after": "    India is a. 2,500 km b. 2,933 km c. 3,214 km d. 2,814 km\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 414,
+        "before": "Bihar’.\n",
+        "after": "    Bihar’.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 416,
+        "before": "a. Narmada b. Godavari c. Kosi d. Damodar\n",
+        "after": "    a. Narmada b. Godavari c. Kosi d. Damodar\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 420,
+        "before": "a. Coast b. Island c. Peninsula d. Strait\n",
+        "after": "    a. Coast b. Island c. Peninsula d. Strait\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 428,
+        "before": "a. Bhabar b. Tarai c. Bhangar d. Khadar\n",
+        "after": "    a. Bhabar b. Tarai c. Bhangar d. Khadar\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+    "expected_sha256": "442bb2ccbdbc3ad5eb5439e52e808c64201b34c2b1ef34e8c67eb7176cfe4168",
+    "result_sha256": "447d6fad9a67b67d55a3873edf051a631a08087a7cafe0bec4cc4664c234e7a1",
+    "edits": [
+      {
+        "line": 511,
+        "before": "a) Bengaluru b) Chennai c) Delhi d) Hyderabad\n",
+        "after": "    a) Bengaluru b) Chennai c) Delhi d) Hyderabad\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 517,
+        "before": "a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans\n",
+        "after": "    a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 590,
+        "before": "Geography.\n",
+        "after": "    Geography.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 594,
+        "before": "Geography of India, New Delhi: Access publishing\n",
+        "after": "    Geography of India, New Delhi: Access publishing\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/india-resources-and-industries/_index.md",
+    "expected_sha256": "96ad90483a41b0c3cf46a5ec8036a07601ff8e9b2f2e042594d53190b12bb545",
+    "result_sha256": "dd3d91f4d42888ed2be08487105ae3d3fc232061c3f82798869b970a3345c02c",
+    "edits": [
+      {
+        "line": 491,
+        "before": "a) Paper industry b) Steel Making c) Copper smelting d) Petroleum Refining\n",
+        "after": "    a) Paper industry b) Steel Making c) Copper smelting d) Petroleum Refining\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 495,
+        "before": "a) 80 to 90% Carbon b) Above 70% Carbon c) 60 to 70% Carbon d) Below 50% Carbon\n",
+        "after": "    a) 80 to 90% Carbon b) Above 70% Carbon c) 60 to 70% Carbon d) Below 50% Carbon\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 501,
+        "before": "South India is a) Chennai b) Salem c) Madurai d) Coimbatore\n",
+        "after": "    South India is a) Chennai b) Salem c) Madurai d) Coimbatore\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 571,
+        "before": "New Delhi, Access Publishing Inida Pvt Ltd.\n",
+        "after": "    New Delhi, Access Publishing Inida Pvt Ltd.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 575,
+        "before": "Prayag Pustak Bhawan.\n",
+        "after": "    Prayag Pustak Bhawan.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 579,
+        "before": "Coal, Textiles, Steel, Petroleum and Natural gas – Annual report 2017 -18\n",
+        "after": "    Coal, Textiles, Steel, Petroleum and Natural gas – Annual report 2017 -18\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 583,
+        "before": "Professor S.A. Ghazi\n",
+        "after": "    Professor S.A. Ghazi\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/indias-foreign-policy/_index.md",
+    "expected_sha256": "f24035466e255d81424b872c408badbaeeb342b17e56dcba3a24106a5b41540b",
+    "result_sha256": "8f599519e94c7259a17793fcab213bb0086f8d91cdf2ca235250a09c6da96269",
+    "edits": [
+      {
+        "line": 468,
+        "before": "Relations: Aman publishing\n",
+        "after": "    Relations: Aman publishing\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 472,
+        "before": "University Press\n",
+        "after": "    University Press\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 478,
+        "before": "Neighbours, Gyan Publishing House, Delhi (2001)\n",
+        "after": "    Neighbours, Gyan Publishing House, Delhi (2001)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 482,
+        "before": "Policy of India, Vikas Publishing House Pvt. Ltd., (2018), Noida\n",
+        "after": "    Policy of India, Vikas Publishing House Pvt. Ltd., (2018), Noida\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 486,
+        "before": "Orient Black Swan Pvt. Ltd., New Delhi (2015)\n",
+        "after": "    Orient Black Swan Pvt. Ltd., New Delhi (2015)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/indias-international-relations/_index.md",
+    "expected_sha256": "eb5bc3f73921fd50faedc52139b973c29b8d159bb7b179e6056ef6e57b0c06c4",
+    "result_sha256": "8b0c2971b08cba047a2014b94ea8150c0f8ac54b5aa1104566b95119163bb399",
+    "edits": [
+      {
+        "line": 575,
+        "before": "Calcutta: Anmol publication\n",
+        "after": "    Calcutta: Anmol publication\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 579,
+        "before": "New Delhi: Vikas Publishing\n",
+        "after": "    New Delhi: Vikas Publishing\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 583,
+        "before": "Relations: Aman publishing\n",
+        "after": "    Relations: Aman publishing\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 587,
+        "before": "India in the world order: Searching for major-power status, Cambridge University Press (2003)\n",
+        "after": "    India in the world order: Searching for major-power status, Cambridge University Press (2003)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 591,
+        "before": "Indian Diplomacy; A critique of Eurocentrism, Oxford University Press, India (2015)\n",
+        "after": "    Indian Diplomacy; A critique of Eurocentrism, Oxford University Press, India (2015)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 595,
+        "before": "International Relations, Pearson Education, Noida (2017)\n",
+        "after": "    International Relations, Pearson Education, Noida (2017)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+    "expected_sha256": "7c71dbe50b239158c555476f4c7b8d20ef1e50459b6c110f176316eb73a74306",
+    "result_sha256": "1c44b6bc34773127e4031dcbd9987247e7520291ebd28750f13f997341828f9e",
+    "edits": [
+      {
+        "line": 631,
+        "before": "Orient BlackSwan, 2016.\n",
+        "after": "    Orient BlackSwan, 2016.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 635,
+        "before": "Barun De, Freedom Struggle, NBT,1993.\n",
+        "after": "    Barun De, Freedom Struggle, NBT,1993.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 639,
+        "before": "Independence, Penguin Books, 1989.\n",
+        "after": "    Independence, Penguin Books, 1989.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 643,
+        "before": "Pearson, 2014.\n",
+        "after": "    Pearson, 2014.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 647,
+        "before": "Partition, Orient BlackSwan, 2013.\n",
+        "after": "    Partition, Orient BlackSwan, 2013.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+    "expected_sha256": "7bade77bf962e7903637dca40b5dca7d9246d5233889f38f9528fdbbf84a36f8",
+    "result_sha256": "a88c41b8d21cdc01a089fda02d417e015ae882059442958bb9b3d41048f6eab3",
+    "edits": [
+      {
+        "line": 234,
+        "before": "War and therefore was to pay reparations for the losses suffered. All Central Powers were directed to pay war indemnity.\n",
+        "after": "    War and therefore was to pay reparations for the losses suffered. All Central Powers were directed to pay war indemnity.\n",
+        "reason": "numbered treaty continuation verified in English PDF page 14 image"
+      },
+      {
+        "line": 238,
+        "before": "100,000 men. A small navy was allowed.\n",
+        "after": "    100,000 men. A small navy was allowed.\n",
+        "reason": "numbered treaty continuation verified in English PDF page 14 image"
+      },
+      {
+        "line": 246,
+        "before": "Brest-Litovsk (with Russia) and Bucharest (Bulgaria).\n",
+        "after": "    Brest-Litovsk (with Russia) and Bucharest (Bulgaria).\n",
+        "reason": "numbered treaty continuation verified in English PDF page 14 image"
+      },
+      {
+        "line": 252,
+        "before": "Estonia, Latvia and Lithuania were to be independent\n",
+        "after": "    Estonia, Latvia and Lithuania were to be independent\n",
+        "reason": "numbered treaty continuation verified in English PDF page 14 image"
+      },
+      {
+        "line": 260,
+        "before": "Allies. The area on the east bank of the Rhine was to be demilitarized.\n",
+        "after": "    Allies. The area on the east bank of the Rhine was to be demilitarized.\n",
+        "reason": "numbered treaty continuation verified in English PDF page 14 image"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+    "expected_sha256": "ef931d3ba30baaabe91993ea5939d939bd0947406e731206f4b38933936a9fd9",
+    "result_sha256": "6ad2ab7118550dcc46eecb65b0c5a1440fbe09fa307beb7d2fc91a4522b5a59a",
+    "edits": [
+      {
+        "line": 651,
+        "before": "a) Palghat b) Shencottah c) Bhorghat d) Achankoil\n",
+        "after": "    a) Palghat b) Shencottah c) Bhorghat d) Achankoil\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 655,
+        "before": "a) Periyar b) Cauvery c) Chittar d) Bhavani\n",
+        "after": "    a) Periyar b) Cauvery c) Chittar d) Bhavani\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 687,
+        "before": "a) Both (A) and (R) are true and\n",
+        "after": "    a) Both (A) and (R) are true and\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 689,
+        "before": "(R) explains (A).\n",
+        "after": "    (R) explains (A).\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 691,
+        "before": "b) Both (A) and (R) are true but, (R) does not explain (A).\n",
+        "after": "    b) Both (A) and (R) are true but, (R) does not explain (A).\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 693,
+        "before": "c) (A) is true but, (R) is false.\n",
+        "after": "    c) (A) is true but, (R) is false.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 695,
+        "before": "d) (R) is true but, (A) is false.\n",
+        "after": "    d) (R) is true but, (A) is false.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 741,
+        "before": "(2018), Varthamana Publication, T. Nagar, Chennai.\n",
+        "after": "    (2018), Varthamana Publication, T. Nagar, Chennai.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 745,
+        "before": "Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam, Coimbatore.\n",
+        "after": "    Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam, Coimbatore.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 749,
+        "before": "Department of Economics and Statistics, Government of Tamil Nadu, Chennai.\n",
+        "after": "    Department of Economics and Statistics, Government of Tamil Nadu, Chennai.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+    "expected_sha256": "49661563e0386a15506c06a3c300a4004aeb77fb3414e7a4c1bf2733aefcae9c",
+    "result_sha256": "522353e17d5648fa59f33846fbebf5e3157396b3407494aecbc8c56e8a6c2e9e",
+    "edits": [
+      {
+        "line": 438,
+        "before": "Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.\n",
+        "after": "    Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 444,
+        "before": "Conflict in South India. Berkeley: University of California Press, 1969.\n",
+        "after": "    Conflict in South India. Berkeley: University of California Press, 1969.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 448,
+        "before": "New Delhi: Critical Quest, 2009.\n",
+        "after": "    New Delhi: Critical Quest, 2009.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+    "expected_sha256": "537ebaca30af8f15e389ea4852754088dc45b59b87880b3a44ae4acb28e7bcb9",
+    "result_sha256": "a64143f89047d2a2c8a40695a8995c57c2ed3642f765a5a42ff41f375aab29dd",
+    "edits": [
+      {
+        "line": 526,
+        "before": "Twentieth Century (London: Longman, 1972)\n",
+        "after": "    Twentieth Century (London: Longman, 1972)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 530,
+        "before": "World (London: Harper Collins, 2006)\n",
+        "after": "    World (London: Harper Collins, 2006)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+    "expected_sha256": "dc991919f7cf9c2d2c00fc8ceb576b4724ea5a5e7295ff7ee22c8892967076e5",
+    "result_sha256": "7d203a14fedc4d41326da9c1055728840a24c7aacc33bf7020a571e5ea17f9ef",
+    "edits": [
+      {
+        "line": 335,
+        "before": "அ) வஹாபி கிளர்ச்சி ஆ) ஃபராசி இயக்கம் இ) பழங்குடியினர் எழுச்சி ஈ) கோல் கிளர்ச்சி\n",
+        "after": "    அ) வஹாபி கிளர்ச்சி ஆ) ஃபராசி இயக்கம் இ) பழங்குடியினர் எழுச்சி ஈ) கோல் கிளர்ச்சி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 339,
+        "before": "அ) டிடு மீர் ஆ) சித்து இ) டுடு மியான் ஈ) ஷரியத்துல்லா\n",
+        "after": "    அ) டிடு மீர் ஆ) சித்து இ) டுடு மியான் ஈ) ஷரியத்துல்லா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 343,
+        "before": "அ) சாந்தலர்கள் ஆ) டிடு மீர் இ) முண்டா ஈ) கோல்\n",
+        "after": "    அ) சாந்தலர்கள் ஆ) டிடு மீர் இ) முண்டா ஈ) கோல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 347,
+        "before": "அ) தாதாபாய் நௌரோஜி ஆ) நீதிபதி கோவிந்த் ரானடே இ) பிபின் சந்திர பால் ஈ) ரொமேஷ் சந்திரா\n",
+        "after": "    அ) தாதாபாய் நௌரோஜி ஆ) நீதிபதி கோவிந்த் ரானடே இ) பிபின் சந்திர பால் ஈ) ரொமேஷ் சந்திரா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 351,
+        "before": "அ) 1905 ஜூன் 19 ஆ) 1906 ஜூலை 18 இ) 1907 ஆகஸ்ட் 19 ஈ) 1905 அக்டோபர் 16\n",
+        "after": "    அ) 1905 ஜூன் 19 ஆ) 1906 ஜூலை 18 இ) 1907 ஆகஸ்ட் 19 ஈ) 1905 அக்டோபர் 16\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 355,
+        "before": "அ) கோல் கிளர்ச்சி ஆ) இண்டிகோ கிளர்ச்சி இ) முண்டா கிளர்ச்சி ஈ) தக்காண கலவரங்கள்\n",
+        "after": "    அ) கோல் கிளர்ச்சி ஆ) இண்டிகோ கிளர்ச்சி இ) முண்டா கிளர்ச்சி ஈ) தக்காண கலவரங்கள்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 359,
+        "before": "அ) அன்னி பெசன்ட் அம்மையார் ஆ) பிபின் சந்திர பால் இ) லாலா லஜபதி ராய் ஈ) திலகர்\n",
+        "after": "    அ) அன்னி பெசன்ட் அம்மையார் ஆ) பிபின் சந்திர பால் இ) லாலா லஜபதி ராய் ஈ) திலகர்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 363,
+        "before": "அ) தீன பந்து மித்ரா ஆ) ரொமேஷ் சந்திர த் இ) தாதாபாய் நௌரோஜி ஈ) பிர்சா முண்டா\n",
+        "after": "    அ) தீன பந்து மித்ரா ஆ) ரொமேஷ் சந்திர த் இ) தாதாபாய் நௌரோஜி ஈ) பிர்சா முண்டா\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 379,
+        "before": "(ii) 1831 - 1832 ஆம் ஆண்டு அரசு அதிகாரிகள் மற்றும் கடன்கொடுப்போருக்கு எதிரான கிளர்ச்சியைக் கோல் மக்கள் ஒருங்கிணைத்தனர்.\n",
+        "after": "    (ii) 1831 - 1832 ஆம் ஆண்டு அரசு அதிகாரிகள் மற்றும் கடன்கொடுப்போருக்கு எதிரான கிளர்ச்சியைக் கோல் மக்கள் ஒருங்கிணைத்தனர்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 381,
+        "before": "(iii) 1855ஆம் ஆண்டில் சாந்தலர் கிளர்ச்சிக்கு சித்து, கணு ஆகிய இரண்டு சாந்தலர் சகோதரர்கள் தலைமை ஏற்றனர்.\n",
+        "after": "    (iii) 1855ஆம் ஆண்டில் சாந்தலர் கிளர்ச்சிக்கு சித்து, கணு ஆகிய இரண்டு சாந்தலர் சகோதரர்கள் தலைமை ஏற்றனர்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 383,
+        "before": "(iv) 1879ஆம் ஆண்டில் சாந்தலர்கள் வசம் இருந்த பகுதிகளை ஒழுங்குமுறைப்படுத்த ஒரு சட்டம் இயற்றப்பட்டது.\n",
+        "after": "    (iv) 1879ஆம் ஆண்டில் சாந்தலர்கள் வசம் இருந்த பகுதிகளை ஒழுங்குமுறைப்படுத்த ஒரு சட்டம் இயற்றப்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 385,
+        "before": "அ) (i) (ii) மற்றும் (iii) சரியானவை ஆ) (ii) மற்றும் (iii) சரியானவை இ) (iii) மற்றும் (iv) சரியானவை ஈ) (i) மற்றும் (iv) சரியானவை\n",
+        "after": "    அ) (i) (ii) மற்றும் (iii) சரியானவை ஆ) (ii) மற்றும் (iii) சரியானவை இ) (iii) மற்றும் (iv) சரியானவை ஈ) (i) மற்றும் (iv) சரியானவை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 389,
+        "before": "(ii) இந்தியாவில் வறுமை அதிகரிக்க சமய ரீதியிலான சுரண்டலே மிக முதன்மையான காரணம் என்று ஆரம்பகால காங்கிரஸ் தலைவர்கள் தெரிவித்தனர்.\n",
+        "after": "    (ii) இந்தியாவில் வறுமை அதிகரிக்க சமய ரீதியிலான சுரண்டலே மிக முதன்மையான காரணம் என்று ஆரம்பகால காங்கிரஸ் தலைவர்கள் தெரிவித்தனர்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 391,
+        "before": "(iii) சுயராஜ்ஜியம் அல்லது தன்னாட்சியை எட்டுவதே மிததேசியவாத காங்கிரஸ் தலைவர்களின் குறிக்கோள்களில் ஒன்றாக இருந்தது.\n",
+        "after": "    (iii) சுயராஜ்ஜியம் அல்லது தன்னாட்சியை எட்டுவதே மிததேசியவாத காங்கிரஸ் தலைவர்களின் குறிக்கோள்களில் ஒன்றாக இருந்தது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 393,
+        "before": "(iv) வங்காளத்தின் ஆதிக்கத்தை குறைப்பதையும் தேசியவாத இயக்கத்தை வலுவிழக்கச் செய்வதையும் குறிக்கோளாகக் கொண்டு வங்கப் பிரிவினை நடந்தது.\n",
+        "after": "    (iv) வங்காளத்தின் ஆதிக்கத்தை குறைப்பதையும் தேசியவாத இயக்கத்தை வலுவிழக்கச் செய்வதையும் குறிக்கோளாகக் கொண்டு வங்கப் பிரிவினை நடந்தது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 395,
+        "before": "அ) (i) மற்றும் (iii) சரியானவை ஆ) (i) மற்றும் (iv) சரியானவை இ) (ii) மற்றும் (iii) சரியானவை ஈ) (iii) மற்றும் (iv) சரியானவை\n",
+        "after": "    அ) (i) மற்றும் (iii) சரியானவை ஆ) (i) மற்றும் (iv) சரியானவை இ) (ii) மற்றும் (iii) சரியானவை ஈ) (iii) மற்றும் (iv) சரியானவை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 399,
+        "before": "காரணம்: இண்டிகோ விவசாயம் செய்யுமாறு விவசாயிகளை நிர்ப்பந்திக்க தொழில் செய்வோர் மிரட்டல் மற்றும் வன்முறையைக் கையாண்டனர்.\n",
+        "after": "    காரணம்: இண்டிகோ விவசாயம் செய்யுமாறு விவசாயிகளை நிர்ப்பந்திக்க தொழில் செய்வோர் மிரட்டல் மற்றும் வன்முறையைக் கையாண்டனர்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 401,
+        "before": "அ) கூற்று மற்றும் காரணம் இரண்டுமே சரி;\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் இரண்டுமே சரி;\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 403,
+        "before": "ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "after": "    ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 405,
+        "before": "ஆ) கூற்று மற்றும் காரணம் இரண்டுமே தவறு.\n",
+        "after": "    ஆ) கூற்று மற்றும் காரணம் இரண்டுமே தவறு.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 407,
+        "before": "இ) கூற்று மற்றும் காரணம் இரண்டுமே சரி;\n",
+        "after": "    இ) கூற்று மற்றும் காரணம் இரண்டுமே சரி;\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 409,
+        "before": "அத்துடன் காரணம் கூற்றுக்கான சரியான விளக்கமாகும்.\n",
+        "after": "    அத்துடன் காரணம் கூற்றுக்கான சரியான விளக்கமாகும்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 411,
+        "before": "ஈ) கூற்று தவறு காரணம் சரி.\n",
+        "after": "    ஈ) கூற்று தவறு காரணம் சரி.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 415,
+        "before": "காரணம்: மையப்படுத்தப்பட்ட நிருவாகம் இல்லாதால் கிளர்ச்சி தோல்வி கண்டது.\n",
+        "after": "    காரணம்: மையப்படுத்தப்பட்ட நிருவாகம் இல்லாதால் கிளர்ச்சி தோல்வி கண்டது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 417,
+        "before": "அ) கூற்று மற்றும் காரணம் இரண்டுமே தவறு.\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் இரண்டுமே தவறு.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 419,
+        "before": "ஆ) கூற்று தவறு காரணம் சரி.\n",
+        "after": "    ஆ) கூற்று தவறு காரணம் சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 421,
+        "before": "இ) கூற்று மற்றும் காரணம் இரண்டுமே சரி.\n",
+        "after": "    இ) கூற்று மற்றும் காரணம் இரண்டுமே சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 423,
+        "before": "அத்துடன் காரணம் கூற்றுக்கான சரியான விளக்கமாகும்.\n",
+        "after": "    அத்துடன் காரணம் கூற்றுக்கான சரியான விளக்கமாகும்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 425,
+        "before": "ஈ) கூற்று மற்றும் காரணம் இரண்டுமே சரி.\n",
+        "after": "    ஈ) கூற்று மற்றும் காரணம் இரண்டுமே சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 427,
+        "before": "ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "after": "    ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/central-government/_index.md",
+    "expected_sha256": "a1c39a2c455d30737e1870e4a6f63284f4e2255a03d4287b2d939db332ab4838",
+    "result_sha256": "1be984c3e08073fee3411ca63fb367463d433891d959208a082bb1623e12665e",
+    "edits": [
+      {
+        "line": 446,
+        "before": "அ) குடியரசுத் தலைவர் ஆ) தலைமை நீதிபதி இ) பிரதம அமைச்சர் ஈ) அமைச்சர்கள் குழு\n",
+        "after": "    அ) குடியரசுத் தலைவர் ஆ) தலைமை நீதிபதி இ) பிரதம அமைச்சர் ஈ) அமைச்சர்கள் குழு\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 450,
+        "before": "அ) குடியரசுத் தலைவர் ஆ) இந்திய அரசின் தலைமை வழக்குரைஞர் இ) நாடாளுமன்ற விவகார அமைச்சர் ஈ) லோக் சபாவின் சபாநாயகர்\n",
+        "after": "    அ) குடியரசுத் தலைவர் ஆ) இந்திய அரசின் தலைமை வழக்குரைஞர் இ) நாடாளுமன்ற விவகார அமைச்சர் ஈ) லோக் சபாவின் சபாநாயகர்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 454,
+        "before": "அ) குடியரசுத் தலைவர் ஆ) மக்களவை இ) பிரதம அமைச்சர் ஈ) மாநிலங்களவை\n",
+        "after": "    அ) குடியரசுத் தலைவர் ஆ) மக்களவை இ) பிரதம அமைச்சர் ஈ) மாநிலங்களவை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 460,
+        "before": "அ) குடியரசுத் தலைவர் ஆ) பிரதம அமைச்சர் இ) மாநில அரசாங்கம் ஈ) நாடாளுமன்றம்\n",
+        "after": "    அ) குடியரசுத் தலைவர் ஆ) பிரதம அமைச்சர் இ) மாநில அரசாங்கம் ஈ) நாடாளுமன்றம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 464,
+        "before": "அ) சட்டப்பிரிவு 352 ஆ) சட்டப்பிரிவு 360 இ) சட்டப்பிரிவு 356 ஈ) சட்டப்பிரிவு 365\n",
+        "after": "    அ) சட்டப்பிரிவு 352 ஆ) சட்டப்பிரிவு 360 இ) சட்டப்பிரிவு 356 ஈ) சட்டப்பிரிவு 365\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 468,
+        "before": "அ) குடியரசுத் தலைவர் ஆ) இந்திய அரசின் தலைமை வழக்குரைஞர் இ) ஆளுநர் ஈ) பிரதம அமைச்சர்\n",
+        "after": "    அ) குடியரசுத் தலைவர் ஆ) இந்திய அரசின் தலைமை வழக்குரைஞர் இ) ஆளுநர் ஈ) பிரதம அமைச்சர்\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 488,
+        "before": "(ii) இலக்கியம், அறிவியல், கலை மற்றும் சமூக சேவை ஆகிய துறைகளில் சிறந்த அறிவும் மற்றும் அனுபவமும் பெற்ற 12 நபர்களை மாநிலங்களவைக்கு குடியரசுத் தலைவர் நியமிக்கிறார்.\n",
+        "after": "    (ii) இலக்கியம், அறிவியல், கலை மற்றும் சமூக சேவை ஆகிய துறைகளில் சிறந்த அறிவும் மற்றும் அனுபவமும் பெற்ற 12 நபர்களை மாநிலங்களவைக்கு குடியரசுத் தலைவர் நியமிக்கிறார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 490,
+        "before": "(iii) மாநிலங்களவைஉறுப்பினராவதற்கு 30 வயதுக்குக் குறைவாக இருத்தல் கூடாது.\n",
+        "after": "    (iii) மாநிலங்களவைஉறுப்பினராவதற்கு 30 வயதுக்குக் குறைவாக இருத்தல் கூடாது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 492,
+        "before": "(iv) மாநிலங்களவைஉறுப்பினர்கள் நேரடியாக மக்களால் தேர்ந்தெடுக்கப்படுகின்றனர்.\n",
+        "after": "    (iv) மாநிலங்களவைஉறுப்பினர்கள் நேரடியாக மக்களால் தேர்ந்தெடுக்கப்படுகின்றனர்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 494,
+        "before": "அ) ii & iv சரியானவை ஆ) iii & iv சரியானவை இ) i & iv சரியானவை ஈ) i, ii & iii சரியானவை\n",
+        "after": "    அ) ii & iv சரியானவை ஆ) iii & iv சரியானவை இ) i & iv சரியானவை ஈ) i, ii & iii சரியானவை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 498,
+        "before": "(ii) நடுவண் அரசின் மூன்றாவது அங்கம் நீதித்துறை ஆகும்.\n",
+        "after": "    (ii) நடுவண் அரசின் மூன்றாவது அங்கம் நீதித்துறை ஆகும்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 500,
+        "before": "(iii) அடிப்படை உரிமைகள் தொடர்பான வழக்குகள் உச்ச நீதிமன்றத்தின் மேல்முறையீட்டு அதிகாரங்களுக்கு உட்பட்டது.\n",
+        "after": "    (iii) அடிப்படை உரிமைகள் தொடர்பான வழக்குகள் உச்ச நீதிமன்றத்தின் மேல்முறையீட்டு அதிகாரங்களுக்கு உட்பட்டது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 502,
+        "before": "(iv) உச்ச நீதிமன்றம் பிறப்பிக்கும் ஆணை இந்தியாவின் அனைத்துப் பகுதியிலுள்ள நீதிமன்றங்களைக் கட்டுப்படுத்தும்.\n",
+        "after": "    (iv) உச்ச நீதிமன்றம் பிறப்பிக்கும் ஆணை இந்தியாவின் அனைத்துப் பகுதியிலுள்ள நீதிமன்றங்களைக் கட்டுப்படுத்தும்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 504,
+        "before": "அ) ii & iv சரியானவை ஆ) iii & iv சரியானவை இ) i & iv சரியானவை ஈ) i & ii சரியானவை\n",
+        "after": "    அ) ii & iv சரியானவை ஆ) iii & iv சரியானவை இ) i & iv சரியானவை ஈ) i & ii சரியானவை\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 564,
+        "before": "Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.\n",
+        "after": "    Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 568,
+        "before": "Universal Law Publishing - an imprint of LexisNexis, 2018.\n",
+        "after": "    Universal Law Publishing - an imprint of LexisNexis, 2018.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/climate-and-natural-vegetation-of-india/_index.md",
+    "expected_sha256": "86b4fe4537721fb2749dff7c136275be5794125d526747d3e8940edce691768f",
+    "result_sha256": "ee2754d1c545d9600932e0b911c81579e0072a39190849f53689d6863244473f",
+    "edits": [
+      {
+        "line": 235,
+        "before": "அ) லூ ஆ) நார்வெஸ்டர்ஸ் இ) மாஞ்சாரல் ஈ) ஜெட் காற்றோட்டம்\n",
+        "after": "    அ) லூ ஆ) நார்வெஸ்டர்ஸ் இ) மாஞ்சாரல் ஈ) ஜெட் காற்றோட்டம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 239,
+        "before": "அ) சம மழைக்கோடுகள் ஆ) சம அழுத்தக் கோடுகள் இ) சமவெப்பக் கோடுகள் ஈ) அட்சக் கோடுகள்\n",
+        "after": "    அ) சம மழைக்கோடுகள் ஆ) சம அழுத்தக் கோடுகள் இ) சமவெப்பக் கோடுகள் ஈ) அட்சக் கோடுகள்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 243,
+        "before": "அ) அயன மண்டல ஈரக் காலநிலை ஆ) நிலநடுக்கோட்டுக் காலநிலை இ) அயனமண்டல பருவக்காற்றுக் காலநிலை ஈ) மித அயனமண்டலக் காலநிலை\n",
+        "after": "    அ) அயன மண்டல ஈரக் காலநிலை ஆ) நிலநடுக்கோட்டுக் காலநிலை இ) அயனமண்டல பருவக்காற்றுக் காலநிலை ஈ) மித அயனமண்டலக் காலநிலை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 247,
+        "before": "அ) அயன மண்டல பசுமை மாறாக் காடுகள் ஆ) இலையுதிர்க் காடுகள் இ) மாங்குரோவ் காடுகள் ஈ) மலைக் காடுகள்\n",
+        "after": "    அ) அயன மண்டல பசுமை மாறாக் காடுகள் ஆ) இலையுதிர்க் காடுகள் இ) மாங்குரோவ் காடுகள் ஈ) மலைக் காடுகள்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 253,
+        "before": "அ) நீலகிரி ஆ) அகத்திய மலை இ) பெரிய நிக்கோபார் ஈ) கட்ச்\n",
+        "after": "    அ) நீலகிரி ஆ) அகத்திய மலை இ) பெரிய நிக்கோபார் ஈ) கட்ச்\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 271,
+        "before": "காரணம்: இமயமலை மத்திய ஆசியாவிலிருந்து வீசும் குளிர்க்காற்றை தடுத்து இந்தியத் துணைக்கண்டத்தை மிதவெப்பமாக வைத்திருக்கிறது.\n",
+        "after": "    காரணம்: இமயமலை மத்திய ஆசியாவிலிருந்து வீசும் குளிர்க்காற்றை தடுத்து இந்தியத் துணைக்கண்டத்தை மிதவெப்பமாக வைத்திருக்கிறது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 273,
+        "before": "அ) கூற்று மற்றும் காரணம் இரண்டும் சரி, கூற்றுக்கான காரணம் சரி. ஆ) கூற்று மற்றும் காரணம் இரண்டும் சரி, கூற்றுக்கான காரணம் தவறு. இ) கூற்று சரி காரணம் தவறு. ஈ) கூற்று தவறு காரணம் சரி.\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் இரண்டும் சரி, கூற்றுக்கான காரணம் சரி. ஆ) கூற்று மற்றும் காரணம் இரண்டும் சரி, கூற்றுக்கான காரணம் தவறு. இ) கூற்று சரி காரணம் தவறு. ஈ) கூற்று தவறு காரணம் சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 279,
+        "before": "அ) பாலைவனம் ஆ) கங்கை பிரம்மபுத்ரா டெல்டா இ) கோதாவரி டெல்டா ஈ) மகாநதி டெல்டா 2. இந்தியாவின் காலநிலையைப் பாதிக்கும் காரணிகள் அ) அட்ச பரவல் ஆ) உயரம் இ) கடலிலிருந்து அமைந்துள்ள தூரம் ஈ) மண்\n",
+        "after": "    அ) பாலைவனம் ஆ) கங்கை பிரம்மபுத்ரா டெல்டா இ) கோதாவரி டெல்டா ஈ) மகாநதி டெல்டா 2. இந்தியாவின் காலநிலையைப் பாதிக்கும் காரணிகள் அ) அட்ச பரவல் ஆ) உயரம் இ) கடலிலிருந்து அமைந்துள்ள தூரம் ஈ) மண்\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+    "expected_sha256": "c11c38d826b3906a969446ce955865285b57ed667480d691db259c10a2f7b453",
+    "result_sha256": "ed0fe018123a6b3a71527c5335dfca69d0790a5097f10bccf0df7392057be40f",
+    "edits": [
+      {
+        "line": 256,
+        "before": "அ) மருது சகோதரர்கள் ஆ) பூலித்தேவர் இ) வேலுநாச்சியார் ஈ) வீரபாண்டிய கட்டபொம்மன்\n",
+        "after": "    அ) மருது சகோதரர்கள் ஆ) பூலித்தேவர் இ) வேலுநாச்சியார் ஈ) வீரபாண்டிய கட்டபொம்மன்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 260,
+        "before": "அ) வேலுநாச்சியார் ஆ) கட்டபொம்மன் இ) பூலித்தேவர் ஈ) ஊமைத்துரை\n",
+        "after": "    அ) வேலுநாச்சியார் ஆ) கட்டபொம்மன் இ) பூலித்தேவர் ஈ) ஊமைத்துரை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 264,
+        "before": "அ) கயத்தாறு ஆ) நாகலாபுரம் இ) விருப்பாட்சி ஈ) பாஞ்சாலங்குறிச்சி\n",
+        "after": "    அ) கயத்தாறு ஆ) நாகலாபுரம் இ) விருப்பாட்சி ஈ) பாஞ்சாலங்குறிச்சி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 268,
+        "before": "அ) மருது சகோதரர்கள் ஆ) பூலித்தேவர் இ) வீரபாண்டிய கட்டபொம்மன் ஈ) கோபால நாயக்கர்\n",
+        "after": "    அ) மருது சகோதரர்கள் ஆ) பூலித்தேவர் இ) வீரபாண்டிய கட்டபொம்மன் ஈ) கோபால நாயக்கர்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 272,
+        "before": "அ) 1805 மே 24 ஆ) 1805 ஜூலை 10 இ) 1806 ஜூலை 10 ஈ) 1806 செப்டம்பர் 10\n",
+        "after": "    அ) 1805 மே 24 ஆ) 1805 ஜூலை 10 இ) 1806 ஜூலை 10 ஈ) 1806 செப்டம்பர் 10\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 276,
+        "before": "அ) கர்னல் பேன்கோர்ட் ஆ) மேஜர் ஆர்ம்ஸ்டட்ராங் இ) சர் ஜான் கிரடாக் ஈ) கர்னல் அக்னியூ\n",
+        "after": "    அ) கர்னல் பேன்கோர்ட் ஆ) மேஜர் ஆர்ம்ஸ்டட்ராங் இ) சர் ஜான் கிரடாக் ஈ) கர்னல் அக்னியூ\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 280,
+        "before": "அ) கல்கத்தா ஆ) மும்பை இ) டெல்லி ஈ) மைசூர்\n",
+        "after": "    அ) கல்கத்தா ஆ) மும்பை இ) டெல்லி ஈ) மைசூர்\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 300,
+        "before": "(ii) கான் சாகிப்பின் இறப்பிற்குப்பின் பூலித்தேவர் நெற்கட்டும்செவலை 1764இல் மீண்டும் கைப்பற்றினார்.\n",
+        "after": "    (ii) கான் சாகிப்பின் இறப்பிற்குப்பின் பூலித்தேவர் நெற்கட்டும்செவலை 1764இல் மீண்டும் கைப்பற்றினார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 302,
+        "before": "(iii) கம்பெனி நிருவாகத்திற்கு தகவல் அளிக்காமல் பாளையக்கார்களோடு பேச்சுவார்த்தையில் ஈடுபட்டதால் யூசுப் கான் துரோகி என்று குற்றம் சுமத்தப்பட்டு 1764இல் தூக்கிலிடப்பட்டார்.\n",
+        "after": "    (iii) கம்பெனி நிருவாகத்திற்கு தகவல் அளிக்காமல் பாளையக்கார்களோடு பேச்சுவார்த்தையில் ஈடுபட்டதால் யூசுப் கான் துரோகி என்று குற்றம் சுமத்தப்பட்டு 1764இல் தூக்கிலிடப்பட்டார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 304,
+        "before": "(iv) ஒண்டிவீரன் கட்டபொம்மனின் படைப்பிரிவுகளில் ஒன்றைத் தலைமையேற்று வழிநடத்தினார்.\n",
+        "after": "    (iv) ஒண்டிவீரன் கட்டபொம்மனின் படைப்பிரிவுகளில் ஒன்றைத் தலைமையேற்று வழிநடத்தினார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 306,
+        "before": "அ) (i), (ii) மற்றும் (iv) ஆகியவை சரி ஆ) (i), (ii) மற்றும் (iii) ஆகியவை சரி இ) (iii) மற்றும் (iv) மட்டும் சரி ஈ) (i) மற்றும் (iv) மட்டும் சரி\n",
+        "after": "    அ) (i), (ii) மற்றும் (iv) ஆகியவை சரி ஆ) (i), (ii) மற்றும் (iii) ஆகியவை சரி இ) (iii) மற்றும் (iv) மட்டும் சரி ஈ) (i) மற்றும் (iv) மட்டும் சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 310,
+        "before": "(ii) காளையார்கோவில் போரில் முத்துவடுகநாதர் கொல்லப்பட்டப் பின் வேலுநாச்சியார் மீண்டும் அரியணையைப் பெறுவதற்கு மருது சகோதரர்கள் துணைபுரிந்தனர்.\n",
+        "after": "    (ii) காளையார்கோவில் போரில் முத்துவடுகநாதர் கொல்லப்பட்டப் பின் வேலுநாச்சியார் மீண்டும் அரியணையைப் பெறுவதற்கு மருது சகோதரர்கள் துணைபுரிந்தனர்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 312,
+        "before": "(iii) திண்டுக்கல் கூட்டமைப்புக்கு கோபால நாயக்கர் தலைமையேற்று ழிநடத்தினார்.\n",
+        "after": "    (iii) திண்டுக்கல் கூட்டமைப்புக்கு கோபால நாயக்கர் தலைமையேற்று ழிநடத்தினார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 314,
+        "before": "(iv) காரன்வாலிஸ் மே 1799இல் கம்பெனிப் படைகளை திருநெல்வேலி நோக்கிச் செல்ல உத்தரவிட்டார்.\n",
+        "after": "    (iv) காரன்வாலிஸ் மே 1799இல் கம்பெனிப் படைகளை திருநெல்வேலி நோக்கிச் செல்ல உத்தரவிட்டார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 316,
+        "before": "அ) (i) மற்றும் (ii) ஆகியவை சரி ஆ) (ii) மற்றும் (iii) ஆகியவை சரி இ) (ii), (iii) மற்றும் (iv) ஆகியவை சரி ஈ) (i) மற்றும் (iv) ஆகியவை சரி\n",
+        "after": "    அ) (i) மற்றும் (ii) ஆகியவை சரி ஆ) (ii) மற்றும் (iii) ஆகியவை சரி இ) (ii), (iii) மற்றும் (iv) ஆகியவை சரி ஈ) (i) மற்றும் (iv) ஆகியவை சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 320,
+        "before": "காரணம்: மராத்தியர்களோடு ஏற்கனவேதொடர் போர்களில் ஈடுபட்டுக் கொண்டிருந்ததால் ஹைதர் அலியால் பூலித்தேவருக்கு உதவ முடியாமல் போனது.\n",
+        "after": "    காரணம்: மராத்தியர்களோடு ஏற்கனவேதொடர் போர்களில் ஈடுபட்டுக் கொண்டிருந்ததால் ஹைதர் அலியால் பூலித்தேவருக்கு உதவ முடியாமல் போனது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 322,
+        "before": "அ) கூற்று மற்றும் காரணம் ஆகியவை சரி எனினும் காரணம், கூற்றைச் சரியாக விளக்கவில்லை.\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் ஆகியவை சரி எனினும் காரணம், கூற்றைச் சரியாக விளக்கவில்லை.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 324,
+        "before": "ஆ) கூற்று மற்றும் காரணம் ஆகிய இரண்டுமே தவறானவை.\n",
+        "after": "    ஆ) கூற்று மற்றும் காரணம் ஆகிய இரண்டுமே தவறானவை.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 326,
+        "before": "இ) கூற்று மற்றும் காரணம் ஆகியவை சரி காரணம், கூற்றைச் சரியாகவேவிளக்குகிறது.\n",
+        "after": "    இ) கூற்று மற்றும் காரணம் ஆகியவை சரி காரணம், கூற்றைச் சரியாகவேவிளக்குகிறது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 328,
+        "before": "ஈ) கூற்று தவறானது காரணம் சரியானது\n",
+        "after": "    ஈ) கூற்று தவறானது காரணம் சரியானது\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/food-security-and-nutrition/_index.md",
+    "expected_sha256": "fdd11951f31d803ffd766c796b4f93092ced67d3b5894884d9e757740f8c20b5",
+    "result_sha256": "5d8207e5b18880f4861cdf89e39a587071b7b0ee22870756bd77fc63e56e0985",
+    "edits": [
+      {
+        "line": 291,
+        "before": "அ) FCI ஆ) நுகர்வோர் கூட்டுறவு இ) ICICI ஈ) IFCI\n",
+        "after": "    அ) FCI ஆ) நுகர்வோர் கூட்டுறவு இ) ICICI ஈ) IFCI\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 295,
+        "before": "i) HYV – அதிக விளைச்சல் தரும் வகைகள் ii) MSP – குறைந்தபட்ச ஆதரவு விலை iii) PDS – பொது விநியோக முறை iv) FCI – இந்திய உணவுக் கழகம் அ) i மற்றும் ii சரியானவை ஆ) iii மற்றும் iv சரியானவை இ) ii மற்றும் iii சரியானவை ஈ) மேற்கூறிய அனைத்தும் சரி.\n",
+        "after": "    i) HYV – அதிக விளைச்சல் தரும் வகைகள் ii) MSP – குறைந்தபட்ச ஆதரவு விலை iii) PDS – பொது விநியோக முறை iv) FCI – இந்திய உணவுக் கழகம் அ) i மற்றும் ii சரியானவை ஆ) iii மற்றும் iv சரியானவை இ) ii மற்றும் iii சரியானவை ஈ) மேற்கூறிய அனைத்தும் சரி.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 299,
+        "before": "அ) அமெரிக்கா ஆ) இந்தியா இ) சிங்கப்பூர் ஈ) இங்கிலாந்து\n",
+        "after": "    அ) அமெரிக்கா ஆ) இந்தியா இ) சிங்கப்பூர் ஈ) இங்கிலாந்து\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 303,
+        "before": "அ) நீலப் புரட்சி ஆ) வெள்ளைப் புரட்சி இ) பசுமைப் புரட்சி ஈ) சாம்பல் புரட்சி\n",
+        "after": "    அ) நீலப் புரட்சி ஆ) வெள்ளைப் புரட்சி இ) பசுமைப் புரட்சி ஈ) சாம்பல் புரட்சி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 307,
+        "before": "அ) கேரளா ஆ) ஆந்திரபிரதேசம் இ) தமிழ்நாடு ஈ) கர்நாடகா\n",
+        "after": "    அ) கேரளா ஆ) ஆந்திரபிரதேசம் இ) தமிழ்நாடு ஈ) கர்நாடகா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 311,
+        "before": "அ) ஆரோக்கியம் ஆ) ஊட்டச்சத்து இ) சுகாதாரம் ஈ) பாதுகாப்பு\n",
+        "after": "    அ) ஆரோக்கியம் ஆ) ஊட்டச்சத்து இ) சுகாதாரம் ஈ) பாதுகாப்பு\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 335,
+        "before": "அ) கூற்று சரியானது, காரணம் தவறானது ஆ) கூற்று மற்றும் காரணம் இரண்டும் தவறானது இ) கூற்று சரியானது, ஆனால் காரணம் சரியான விளக்கம் அல்ல ஈ) கூற்று சரியானது, காரணம் கூற்றின் சரியான விளக்கம்\n",
+        "after": "    அ) கூற்று சரியானது, காரணம் தவறானது ஆ) கூற்று மற்றும் காரணம் இரண்டும் தவறானது இ) கூற்று சரியானது, ஆனால் காரணம் சரியான விளக்கம் அல்ல ஈ) கூற்று சரியானது, காரணம் கூற்றின் சரியான விளக்கம்\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/freedom-struggle-in-tamil-nadu/_index.md",
+    "expected_sha256": "c9af094648fdbc6ee2274d3897377360ccf040f24b5f6b502f22fa39f817f438",
+    "result_sha256": "e4329b63dfebe684c75af74cb1bee4f8c9b9516225007b734761e68af2c4f1cf",
+    "edits": [
+      {
+        "line": 351,
+        "before": "அ) மெரினா ஆ) மைலாப்பூர் இ) புனித ஜார்ஜ் கோட்டை ஈ) ஆயிரம் விளக்கு\n",
+        "after": "    அ) மெரினா ஆ) மைலாப்பூர் இ) புனித ஜார்ஜ் கோட்டை ஈ) ஆயிரம் விளக்கு\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 355,
+        "before": "அ) அன்னிபெசன்ட் ஆ) M. வீராகவாச்சாரி இ) B.P. வாடியா ஈ) G.S. அருண்டேல்\n",
+        "after": "    அ) அன்னிபெசன்ட் ஆ) M. வீராகவாச்சாரி இ) B.P. வாடியா ஈ) G.S. அருண்டேல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 359,
+        "before": "அ) S. சத்தியமூர்த்தி ஆ) கஸ்தூரிரங்கர் இ) P. சுப்பராயன் ஈ) பெரியார் ஈ.வெ.ரா\n",
+        "after": "    அ) S. சத்தியமூர்த்தி ஆ) கஸ்தூரிரங்கர் இ) P. சுப்பராயன் ஈ) பெரியார் ஈ.வெ.ரா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 363,
+        "before": "அ) K. காமராஜ் ஆ) C. இராஜாஜி இ) K. சந்தானம் ஈ) T. பிரகாசம்\n",
+        "after": "    அ) K. காமராஜ் ஆ) C. இராஜாஜி இ) K. சந்தானம் ஈ) T. பிரகாசம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 367,
+        "before": "அ) ஈரோடு ஆ) சென்னை இ) சேலம் ஈ) மதுரை\n",
+        "after": "    அ) ஈரோடு ஆ) சென்னை இ) சேலம் ஈ) மதுரை\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 385,
+        "before": "(ii) தமிழில் வெளிவந்த்த தேசியப் பருவ இதழான சுதேசமித்திரன் 1891இல் தொடங்கப்பட்டது.\n",
+        "after": "    (ii) தமிழில் வெளிவந்த்த தேசியப் பருவ இதழான சுதேசமித்திரன் 1891இல் தொடங்கப்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 387,
+        "before": "(iii) குடிமைப்பணித் தேர்வுகள் இந்தியாவில் மட்டுமே நடத்தப்படவேண்டுமென சென்னை மகாஜன சபை கோரியது.\n",
+        "after": "    (iii) குடிமைப்பணித் தேர்வுகள் இந்தியாவில் மட்டுமே நடத்தப்படவேண்டுமென சென்னை மகாஜன சபை கோரியது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 389,
+        "before": "(iv) V.S. சீனிவாசனார் ஒரு தீவிர தேசியவாதியாவார்.\n",
+        "after": "    (iv) V.S. சீனிவாசனார் ஒரு தீவிர தேசியவாதியாவார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 391,
+        "before": "அ) (i) மற்றும் (ii) ஆகியவை சரி ஆ) (iii) மட்டும் சரி இ) (iv) மட்டும் சரி ஈ) அனைத்தும் சரி\n",
+        "after": "    அ) (i) மற்றும் (ii) ஆகியவை சரி ஆ) (iii) மட்டும் சரி இ) (iv) மட்டும் சரி ஈ) அனைத்தும் சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 395,
+        "before": "(ii) முஸ்லிம் லீக்கைச் சேர்ந்த யாகூப் ஹசனுடன்இராஜாஜி நெருக்கமாகப் பணியாற்றினார்.\n",
+        "after": "    (ii) முஸ்லிம் லீக்கைச் சேர்ந்த யாகூப் ஹசனுடன்இராஜாஜி நெருக்கமாகப் பணியாற்றினார்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 397,
+        "before": "(iii) ஒத்துழையாமை இயக்கத்தில் தொழிலாளர்கள் கலந்து கொள்ளவில்லை.\n",
+        "after": "    (iii) ஒத்துழையாமை இயக்கத்தில் தொழிலாளர்கள் கலந்து கொள்ளவில்லை.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 399,
+        "before": "(iv) தமிழ்நாட்டில் கள்ளுக் கடைகளுக்கு முன்பாக மறியல் செய்யப்படவில்லை.\n",
+        "after": "    (iv) தமிழ்நாட்டில் கள்ளுக் கடைகளுக்கு முன்பாக மறியல் செய்யப்படவில்லை.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 401,
+        "before": "அ) (i) மற்றும் (ii) ஆகியவை சரி ஆ) (i) மற்றும் (iii) ஆகியவை சரி இ) (ii) மட்டும் சரி ஈ) (i), (iii) மற்றும் (iv) ஆகியவை சரி\n",
+        "after": "    அ) (i) மற்றும் (ii) ஆகியவை சரி ஆ) (i) மற்றும் (iii) ஆகியவை சரி இ) (ii) மட்டும் சரி ஈ) (i), (iii) மற்றும் (iv) ஆகியவை சரி\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 407,
+        "before": "- இந்தி எதிர்ப்புப் போராட்டம்\n",
+        "after": "    - இந்தி எதிர்ப்புப் போராட்டம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/globalization-and-trade/_index.md",
+    "expected_sha256": "cd2b03c5a2641b1d8d60ec6fcb47aea7edea6f5d4e451ecbddfa0c003b6e3940",
+    "result_sha256": "fa1e73b7e2967661120842b2f384acf418ddb37ae7e8b0a279a5ee3180b29115",
+    "edits": [
+      {
+        "line": 324,
+        "before": "அ) அமைச்சரவை ஆ) தலைமை இயக்குநர் இ) துணை தலைமை இயக்குநர் ஈ) இவற்றில் எதுவுமில்லை\n",
+        "after": "    அ) அமைச்சரவை ஆ) தலைமை இயக்குநர் இ) துணை தலைமை இயக்குநர் ஈ) இவற்றில் எதுவுமில்லை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 332,
+        "before": "அ) 1984 ஆ) 1976 இ) 1950 ஈ) 1994\n",
+        "after": "    அ) 1984 ஆ) 1976 இ) 1950 ஈ) 1994\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 336,
+        "before": "அ) ஜஹாங்கீர் ஆ) கோல்கொண்டா சுல்தான் இ) அக்பர் ஈ) ஔரங்கசீப்\n",
+        "after": "    அ) ஜஹாங்கீர் ஆ) கோல்கொண்டா சுல்தான் இ) அக்பர் ஈ) ஔரங்கசீப்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 388,
+        "before": "(தென்னிந்திய ர்த்தகம், ர்த்தகர்கள் படங்கள், பட்டு ழிப்பாதை வரைபடம், நறுமணப் பொருள்கள் வழி வரைபடம் மற்றும் கலிங்க வர்த்தக வரைபடம் முதலியன)\n",
+        "after": "    (தென்னிந்திய ர்த்தகம், ர்த்தகர்கள் படங்கள், பட்டு ழிப்பாதை வரைபடம், நறுமணப் பொருள்கள் வழி வரைபடம் மற்றும் கலிங்க வர்த்தக வரைபடம் முதலியன)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/government-and-taxes/_index.md",
+    "expected_sha256": "7dbf33478894344abe2d54c85a66d6205e6c727916ac2655fea5f392f98e6e0f",
+    "result_sha256": "3981bb47f0dda18d48da57ab8ddcd2320c0fee36893c2f24bf13581b58acd627",
+    "edits": [
+      {
+        "line": 265,
+        "before": "ஈ) ஏதுமில்லை\n",
+        "after": "    ஈ) ஏதுமில்லை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 269,
+        "before": "அ) பாதுகாப்பு ஆ) வெளிநாட்டுக் கொள்கை இ) பொருளாதாரத்தை கட்டுப்படுத்தல் ஈ) மேற்கூறிய அனைத்தும்\n",
+        "after": "    அ) பாதுகாப்பு ஆ) வெளிநாட்டுக் கொள்கை இ) பொருளாதாரத்தை கட்டுப்படுத்தல் ஈ) மேற்கூறிய அனைத்தும்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 275,
+        "before": "அ) மதிப்புக் கூட்டு வரி (VAT)\n",
+        "after": "    அ) மதிப்புக் கூட்டு வரி (VAT)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 277,
+        "before": "ஆ) வருமான வரி இ) பண்டங்கள் மற்றும் பணிகள் வரி ஈ) விற்பனை வரி\n",
+        "after": "    ஆ) வருமான வரி இ) பண்டங்கள் மற்றும் பணிகள் வரி ஈ) விற்பனை வரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 281,
+        "before": "அ) 1860 ஆ) 1870 இ) 1880 ஈ) 1850\n",
+        "after": "    அ) 1860 ஆ) 1870 இ) 1880 ஈ) 1850\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 285,
+        "before": "அ) வருமான வரி ஆ) சொத்து வரி இ) நிறுவன வரி ஈ) கலால் வரி\n",
+        "after": "    அ) வருமான வரி ஆ) சொத்து வரி இ) நிறுவன வரி ஈ) கலால் வரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 289,
+        "before": "அ) பண்டங்களின் பற்றாக்குறை ஆ) அதிக வரி விகிதம் இ) கடத்தல் ஈ) மேற்கூறிய அனைத்தும்\n",
+        "after": "    அ) பண்டங்களின் பற்றாக்குறை ஆ) அதிக வரி விகிதம் இ) கடத்தல் ஈ) மேற்கூறிய அனைத்தும்\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 307,
+        "before": "i) GST ‘ஒரு முனைவரி’ ii) இது மத்திய மற்றும் மாநில அரசாங்கங்களால் பொருட்கள் மற்றும் சேவைகளுக்கு விதிக்கப்படும் அனைத்து நேரடி வரிகளையும் மாற்றுவதை நோக்கமாகக் கொண்டுள்ளது iii) இது ஜூலை 1, 2017 முதல் நாடு முழுவதும் அமுல்படுத்தப்பட்டது.\n",
+        "after": "    i) GST ‘ஒரு முனைவரி’ ii) இது மத்திய மற்றும் மாநில அரசாங்கங்களால் பொருட்கள் மற்றும் சேவைகளுக்கு விதிக்கப்படும் அனைத்து நேரடி வரிகளையும் மாற்றுவதை நோக்கமாகக் கொண்டுள்ளது iii) இது ஜூலை 1, 2017 முதல் நாடு முழுவதும் அமுல்படுத்தப்பட்டது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 309,
+        "before": "iv) இது இந்தியாவில் வரி கட்டமைப்பை ஒன்றிணைக்கும்.\n",
+        "after": "    iv) இது இந்தியாவில் வரி கட்டமைப்பை ஒன்றிணைக்கும்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 311,
+        "before": "அ) (i) மற்றும் (ii) சரி ஆ) (ii), (iii) மற்றும் (iv) சரி இ) (i), (iii) மற்றும் (iv) சரி ஈ) மேற்கூறிய அனைத்தும் சரியானவை .\n",
+        "after": "    அ) (i) மற்றும் (ii) சரி ஆ) (ii), (iii) மற்றும் (iv) சரி இ) (i), (iii) மற்றும் (iv) சரி ஈ) மேற்கூறிய அனைத்தும் சரியானவை .\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/human-geography-of-tamil-nadu/_index.md",
+    "expected_sha256": "c733a953fd125bb08d323f0228d8d2afb7a260389367ae21f24170a148978ff0",
+    "result_sha256": "a209693da8eacccecf088c499889b89b85aac37b63b1d1673567df403e903df8",
+    "edits": [
+      {
+        "line": 443,
+        "before": "அ) காவிரி டெல்டா ஆ) மகாநதி டெல்டா இ) கோதாவரி டெல்டா ஈ) கிருஷ்ணா டெல்டா\n",
+        "after": "    அ) காவிரி டெல்டா ஆ) மகாநதி டெல்டா இ) கோதாவரி டெல்டா ஈ) கிருஷ்ணா டெல்டா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 447,
+        "before": "அ) பருப்பு வகைகள் ஆ) சிறுதானியங்கள் இ) எண்ணெய் வித்துக்கள் ஈ) நெல்\n",
+        "after": "    அ) பருப்பு வகைகள் ஆ) சிறுதானியங்கள் இ) எண்ணெய் வித்துக்கள் ஈ) நெல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 451,
+        "before": "அ) மேட்டூர் ஆ) பாபநாசம் இ) சாத்தனூர் ஈ) துங்கபத்ரா\n",
+        "after": "    அ) மேட்டூர் ஆ) பாபநாசம் இ) சாத்தனூர் ஈ) துங்கபத்ரா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 479,
+        "before": "காரணம்: இவைகள் நெசவாலைகள் மூலம் நாட்டின் பொருளாதாரத்திற்கு முக்கிய பங்களிப்பை அளிக்கின்றன.\n",
+        "after": "    காரணம்: இவைகள் நெசவாலைகள் மூலம் நாட்டின் பொருளாதாரத்திற்கு முக்கிய பங்களிப்பை அளிக்கின்றன.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 481,
+        "before": "அ) கூற்று மற்றும் காரணம் இரண்டும் சரி.\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் இரண்டும் சரி.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 483,
+        "before": "காரணம், கூற்றுக்கான சரியான விளக்கம் ஆகும்.\n",
+        "after": "    காரணம், கூற்றுக்கான சரியான விளக்கம் ஆகும்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 485,
+        "before": "ஆ) கூற்று மற்றும் காரணம் இரண்டும் சரி.\n",
+        "after": "    ஆ) கூற்று மற்றும் காரணம் இரண்டும் சரி.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 487,
+        "before": "ஆனால், காரணம் கூற்றின் சரியான விளக்கம் அல்ல.\n",
+        "after": "    ஆனால், காரணம் கூற்றின் சரியான விளக்கம் அல்ல.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 489,
+        "before": "இ) கூற்று சரி ஆனால் காரணம் தவறு.\n",
+        "after": "    இ) கூற்று சரி ஆனால் காரணம் தவறு.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 491,
+        "before": "ஈ) கூற்று தவறு ஆனால் காரணம் சரி.\n",
+        "after": "    ஈ) கூற்று தவறு ஆனால் காரணம் சரி.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 495,
+        "before": "காரணம்: இது தமிழ்நாட்டின் மேற்கு பகுதியில் அமைந்துள்ளது.\n",
+        "after": "    காரணம்: இது தமிழ்நாட்டின் மேற்கு பகுதியில் அமைந்துள்ளது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 497,
+        "before": "அ)  கூற்று மற்றும் காரணம் இரண்டும் சரி.\n",
+        "after": "    அ)  கூற்று மற்றும் காரணம் இரண்டும் சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 499,
+        "before": "காரணம், கூற்றை விளக்குகிறது.\n",
+        "after": "    காரணம், கூற்றை விளக்குகிறது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 501,
+        "before": "ஆ) கூற்று மற்றும் காரணம் சரி. ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் அல்ல.\n",
+        "after": "    ஆ) கூற்று மற்றும் காரணம் சரி. ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் அல்ல.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 503,
+        "before": "இ) கூற்று சரி. ஆனால், காரணம் தவறு.\n",
+        "after": "    இ) கூற்று சரி. ஆனால், காரணம் தவறு.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 505,
+        "before": "ஈ) கூற்று தவறு. ஆனால், காரணம் சரி.\n",
+        "after": "    ஈ) கூற்று தவறு. ஆனால், காரணம் சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 513,
+        "before": "'மான்செஸ்டர்' என அழைக்கப்படுகிறது?\n",
+        "after": "    'மான்செஸ்டர்' என அழைக்கப்படுகிறது?\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/india-population-transport-communication-and-trade/_index.md",
+    "expected_sha256": "6f5f6f3b39bdcf7ad84155597b21abd385d4eef0f51d7bc4381c36d9e299479a",
+    "result_sha256": "faeaad9412c8d19ba055698ddbe2b42011d1eb97c615e8c06391b9daa4f8ace7",
+    "edits": [
+      {
+        "line": 450,
+        "before": "அ) இரயில்வே ஆ) சாலை இ) வான்வழி ஈ) நீர்வழி\n",
+        "after": "    அ) இரயில்வே ஆ) சாலை இ) வான்வழி ஈ) நீர்வழி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 466,
+        "before": "அ) ஏர் இந்தியா ஆ) இந்தியன் ஏர்லைன்ஸ் இ) வாயுதூத் ஈ) பவன்ஹான்ஸ்\n",
+        "after": "    அ) ஏர் இந்தியா ஆ) இந்தியன் ஏர்லைன்ஸ் இ) வாயுதூத் ஈ) பவன்ஹான்ஸ்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/india-resources-and-industries/_index.md",
+    "expected_sha256": "eaf9c7da050fef4871b9d5d47131de1c3fa52ebd7ccf6865e25dbf5d1fe81046",
+    "result_sha256": "7976df4b472ba71dd7f8457112f4228d36992998f53f40a18cff0ca89aeece7f",
+    "edits": [
+      {
+        "line": 402,
+        "before": "அ) காகித தொழிற்சாலை ஆ) எஃகு தயாரிப்பு இ) செம்பு உருக்குதல் ஈ) பெட்ரோலிய சுத்திகரிப்பு 2. ஆந்த்ரசைட் நிலக்கரி ____________ கார்பன் அளவை கொண்டுள்ளது.\n",
+        "after": "    அ) காகித தொழிற்சாலை ஆ) எஃகு தயாரிப்பு இ) செம்பு உருக்குதல் ஈ) பெட்ரோலிய சுத்திகரிப்பு 2. ஆந்த்ரசைட் நிலக்கரி ____________ கார்பன் அளவை கொண்டுள்ளது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 414,
+        "before": "அ) சென்னை ஆ) சேலம் இ) மதுரை ஈ) கோயம்புத்தூர்\n",
+        "after": "    அ) சென்னை ஆ) சேலம் இ) மதுரை ஈ) கோயம்புத்தூர்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 420,
+        "before": "அ) உயிரி சக்தி ஆ) சூரியன் இ) நிலக்கரி ஈ) எண்ணெய்\n",
+        "after": "    அ) உயிரி சக்தி ஆ) சூரியன் இ) நிலக்கரி ஈ) எண்ணெய்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/indian-constitution/_index.md",
+    "expected_sha256": "35e926e9a850b1efa2e73c815d54d22d623c3c6bee03471704e87ce08257442d",
+    "result_sha256": "15e82a169b39d84438811b2ba46169a5eb3c7bcb821b00883fa09c890ae7b1fe",
+    "edits": [
+      {
+        "line": 336,
+        "before": "அ) குடியரசு, ஜனநாயக, சமயச் சார்பற்ற, சமதர்ம, இறையாண்மை.\n",
+        "after": "    அ) குடியரசு, ஜனநாயக, சமயச் சார்பற்ற, சமதர்ம, இறையாண்மை.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 338,
+        "before": "ஆ) இறையாண்மை, சமதர்ம, சமயச் சார்பற்ற, குடியரசு, ஜனநாயக.\n",
+        "after": "    ஆ) இறையாண்மை, சமதர்ம, சமயச் சார்பற்ற, குடியரசு, ஜனநாயக.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 340,
+        "before": "இ) இறையாண்மை, குடியரசு, சமயச் சார்பற்ற, சமதர்ம, ஜனநாயக.\n",
+        "after": "    இ) இறையாண்மை, குடியரசு, சமயச் சார்பற்ற, சமதர்ம, ஜனநாயக.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 342,
+        "before": "ஈ) இறையாண்மை, சமதர்ம, சமயச் சார்பற்ற, ஜனநாயக, குடியரசு.\n",
+        "after": "    ஈ) இறையாண்மை, சமதர்ம, சமயச் சார்பற்ற, ஜனநாயக, குடியரசு.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 346,
+        "before": "அ) ஒரு முறை   ஆ) இரு முறை இ) மூன்று முறை   ஈ) எப்பொழும் இல்லை\n",
+        "after": "    அ) ஒரு முறை   ஆ) இரு முறை இ) மூன்று முறை   ஈ) எப்பொழும் இல்லை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 350,
+        "before": "அ) வம்சாவளி ஆ) பதிவு இ) இயல்புரிமை ஈ) மேற்கண்ட அனைத்தும்.\n",
+        "after": "    அ) வம்சாவளி ஆ) பதிவு இ) இயல்புரிமை ஈ) மேற்கண்ட அனைத்தும்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 354,
+        "before": "அ) சமத்துவ உரிமை ஆ) சுரண்டலுக்கெதிரான உரிமை இ) சொத்துரிமை ஈ) கல்வி மற்றும் கலாச்சார உரிமை\n",
+        "after": "    அ) சமத்துவ உரிமை ஆ) சுரண்டலுக்கெதிரான உரிமை இ) சொத்துரிமை ஈ) கல்வி மற்றும் கலாச்சார உரிமை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 358,
+        "before": "அ) கர்நாடகாவிலிருந்து, கேரளா பண்ணைகளில் வேலையாட்கள் பணிசெய்தல் ஆ) கிறித்துவ சமயக்குழு, தொடர்ச்சியாக, பள்ளிகளை அமைத்தல் இ) ஆண், பெண் இருபாலரும் அரசுப்பணிகளுக்கு சம ஊதியம் பெறுதல் ஈ) பெற்றோர்களின் பூர்வீக சொத்துகள் அவர்களது பிள்ளைகளுக்குச் செல்லுதல்\n",
+        "after": "    அ) கர்நாடகாவிலிருந்து, கேரளா பண்ணைகளில் வேலையாட்கள் பணிசெய்தல் ஆ) கிறித்துவ சமயக்குழு, தொடர்ச்சியாக, பள்ளிகளை அமைத்தல் இ) ஆண், பெண் இருபாலரும் அரசுப்பணிகளுக்கு சம ஊதியம் பெறுதல் ஈ) பெற்றோர்களின் பூர்வீக சொத்துகள் அவர்களது பிள்ளைகளுக்குச் செல்லுதல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 362,
+        "before": "அ) சமய உரிமை ஆ) சமத்துவ உரிமை இ) அரசியலமைப்புக்குட்பட்டு தீர்வு காணும் உரிமை ஈ) சொத்துரிமை\n",
+        "after": "    அ) சமய உரிமை ஆ) சமத்துவ உரிமை இ) அரசியலமைப்புக்குட்பட்டு தீர்வு காணும் உரிமை ஈ) சொத்துரிமை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 366,
+        "before": "அ) உச்ச நீதிமன்றம் விரும்பினால் ஆ) பிரதமரின் ஆணையினால் இ) தேசிய அவசரநிலையின் போது குடியரசு தலைவரின் ஆணையினால் ஈ) மேற்கண்ட அனைத்தும்\n",
+        "after": "    அ) உச்ச நீதிமன்றம் விரும்பினால் ஆ) பிரதமரின் ஆணையினால் இ) தேசிய அவசரநிலையின் போது குடியரசு தலைவரின் ஆணையினால் ஈ) மேற்கண்ட அனைத்தும்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 370,
+        "before": "அ) அமெரிக்க அரசியலமைப்பு ஆ) கனடா அரசியலமைப்பு இ) ரஷ்யா அரசியலமைப்பு ஈ) ஐரிஷ் அரசியலமைப்பு\n",
+        "after": "    அ) அமெரிக்க அரசியலமைப்பு ஆ) கனடா அரசியலமைப்பு இ) ரஷ்யா அரசியலமைப்பு ஈ) ஐரிஷ் அரசியலமைப்பு\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 374,
+        "before": "அ) சட்டப்பிரிவு 352 ஆ) சட்டப்பிரிவு 356 இ) சட்டப்பிரிவு 360 ஈ) சட்டப்பிரிவு 368\n",
+        "after": "    அ) சட்டப்பிரிவு 352 ஆ) சட்டப்பிரிவு 356 இ) சட்டப்பிரிவு 360 ஈ) சட்டப்பிரிவு 368\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 454,
+        "before": "India, S.C. Sarkar & Sons (Private) Ltd, 1982.\n",
+        "after": "    India, S.C. Sarkar & Sons (Private) Ltd, 1982.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/indias-foreign-policy/_index.md",
+    "expected_sha256": "21e06b633136735ccb3c591fe1b63e10ea449ae8cb2b5135a3a9c61829bedbb0",
+    "result_sha256": "2796f6bf97f7f1cc7614d7f30d50d9332479df0313ec4ee80a695964f99abac9",
+    "edits": [
+      {
+        "line": 284,
+        "before": "அ) இந்தியா மற்றும் நேபாளம் ஆ) இந்தியா மற்றும் பாகிஸ்தான் இ) இந்தியா மற்றும் சீனா ஈ) இந்தியா மற்றும் ஸ்ரீலங்கா\n",
+        "after": "    அ) இந்தியா மற்றும் நேபாளம் ஆ) இந்தியா மற்றும் பாகிஸ்தான் இ) இந்தியா மற்றும் சீனா ஈ) இந்தியா மற்றும் ஸ்ரீலங்கா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 288,
+        "before": "அ) சட்டப்பிரிவு 50 ஆ) சட்டப்பிரிவு 51 இ) சட்டப்பிரிவு 52 ஈ) சட்டப்பிரிவு 53\n",
+        "after": "    அ) சட்டப்பிரிவு 50 ஆ) சட்டப்பிரிவு 51 இ) சட்டப்பிரிவு 52 ஈ) சட்டப்பிரிவு 53\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 292,
+        "before": "அ) வியாபாரம் மற்றும் வணிகம் ஆ) சாதாரண உறவுகளை மீட்டெடுப்பது இ) கலாச்சார பரிமாற்றங்கள் ஈ) ஐந்து கொள்கைகளுடன் இணைந்திருத்தல்\n",
+        "after": "    அ) வியாபாரம் மற்றும் வணிகம் ஆ) சாதாரண உறவுகளை மீட்டெடுப்பது இ) கலாச்சார பரிமாற்றங்கள் ஈ) ஐந்து கொள்கைகளுடன் இணைந்திருத்தல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 296,
+        "before": "அ) உலக ஒத்துழைப்பு ஆ) உலக அமைதி இ) இனச் சமத்துவம் ஈ) காலனித்துவம்\n",
+        "after": "    அ) உலக ஒத்துழைப்பு ஆ) உலக அமைதி இ) இனச் சமத்துவம் ஈ) காலனித்துவம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 300,
+        "before": "அ) யுகோஸ்லாவியா ஆ) இந்தோனேசியா இ) எகிப்து ஈ) பாகிஸ்தான்\n",
+        "after": "    அ) யுகோஸ்லாவியா ஆ) இந்தோனேசியா இ) எகிப்து ஈ) பாகிஸ்தான்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 318,
+        "before": "(i) பஞ்சசீலம்\n",
+        "after": "    (i) பஞ்சசீலம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 320,
+        "before": "(ii) சீனாவின் அணுவெடிப்புச் சோதனை\n",
+        "after": "    (ii) சீனாவின் அணுவெடிப்புச் சோதனை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 322,
+        "before": "(iii) இந்திய - சோவியத் ஒப்பந்தம்\n",
+        "after": "    (iii) இந்திய - சோவியத் ஒப்பந்தம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 324,
+        "before": "(iv) இந்தியாவின் முதல் அணுவெடிப்புச் சோதனை அ) (i), (iii), (iv), (ii) ஆ) (i), (ii), (iii), (iv)\n",
+        "after": "    (iv) இந்தியாவின் முதல் அணுவெடிப்புச் சோதனை அ) (i), (iii), (iv), (ii) ஆ) (i), (ii), (iii), (iv)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 326,
+        "before": "இ) (i), (ii), (iv), (iii) ஈ) (i), (iii), (ii), (iv)\n",
+        "after": "    இ) (i), (ii), (iv), (iii) ஈ) (i), (iii), (ii), (iv)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 330,
+        "before": "(i) அணிசேரா இயக்கம் என்ற சொல் வி.கே. கிருஷ்ணமேனன் என்பவரால் உருவாக்கப்பட்டது.\n",
+        "after": "    (i) அணிசேரா இயக்கம் என்ற சொல் வி.கே. கிருஷ்ணமேனன் என்பவரால் உருவாக்கப்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 332,
+        "before": "(ii) இதன் நோக்கம் இராணுவக் கூட்டமைப்பில் சேர்ந்து வெளி விவகாரங்களில் தேசிய சுதந்திரத்தைப் பராமரித்தல் ஆகும்.\n",
+        "after": "    (ii) இதன் நோக்கம் இராணுவக் கூட்டமைப்பில் சேர்ந்து வெளி விவகாரங்களில் தேசிய சுதந்திரத்தைப் பராமரித்தல் ஆகும்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 334,
+        "before": "(iii) தற்போது இது 120 உறுப்பு நாடுகளைக் கொண்டுள்ளது.\n",
+        "after": "    (iii) தற்போது இது 120 உறுப்பு நாடுகளைக் கொண்டுள்ளது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 336,
+        "before": "(iv) இது பொருளாதார இயக்கமாக மாற்றமடைந்துள்ளது.\n",
+        "after": "    (iv) இது பொருளாதார இயக்கமாக மாற்றமடைந்துள்ளது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 338,
+        "before": "அ) (i) மற்றும் (ii) ஆ) (iii) மற்றும் (iv)\n",
+        "after": "    அ) (i) மற்றும் (ii) ஆ) (iii) மற்றும் (iv)\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 340,
+        "before": "இ) (ii) மட்டும் ஈ) (iv) மட்டும்\n",
+        "after": "    இ) (ii) மட்டும் ஈ) (iv) மட்டும்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 344,
+        "before": "காரணம்: உலகில் அதிக மக்கள் தொகையைக் கொண்ட நாடு இந்தியா ஆகும்.\n",
+        "after": "    காரணம்: உலகில் அதிக மக்கள் தொகையைக் கொண்ட நாடு இந்தியா ஆகும்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 346,
+        "before": "அ) கூற்று சரி மற்றும் காரணம் கூற்றுக்கான சரியான விளக்கமாகும் ஆ) கூற்று சரி ஆனால் காரணம் கூற்றுக்கான சரியான விளக்கமல்ல இ) கூற்று தவறு காரணம் சரி ஈ) கூற்று மற்றும் காரணம் இரண்டும் தவறு\n",
+        "after": "    அ) கூற்று சரி மற்றும் காரணம் கூற்றுக்கான சரியான விளக்கமாகும் ஆ) கூற்று சரி ஆனால் காரணம் கூற்றுக்கான சரியான விளக்கமல்ல இ) கூற்று தவறு காரணம் சரி ஈ) கூற்று மற்றும் காரணம் இரண்டும் தவறு\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/indias-international-relations/_index.md",
+    "expected_sha256": "50f9008c7265aa2f300b3155d7a11f9732af3bca00eaef29b2c84b1c782c69de",
+    "result_sha256": "0b0845a6725a3c4cfcb1d552f652b5aa654982ab0c6b90298833d3fbeeba07ad",
+    "edits": [
+      {
+        "line": 365,
+        "before": "காரணம்: இது கடகரேகை மற்றும் மகரரேகை ஆகியவற்றுக்கு இடையேயான நாடுகளைச் சூரிய ஆற்றலுக்கான ஒத்துழைப்பில் ஒன்றிணைப்பதற்காகும். அ) கூற்று சரி. காரணம் கூற்றிற்கான சரியான விளக்கமாகும். ஆ) கூற்று சரி. காரணம் கூற்றிற்கான சரியான விளக்கமல்ல. இ) கூற்று தவறு; காரணம் சரி ஈ) கூற்று, காரணம் இரண்டும் தவறு\n",
+        "after": "    காரணம்: இது கடகரேகை மற்றும் மகரரேகை ஆகியவற்றுக்கு இடையேயான நாடுகளைச் சூரிய ஆற்றலுக்கான ஒத்துழைப்பில் ஒன்றிணைப்பதற்காகும். அ) கூற்று சரி. காரணம் கூற்றிற்கான சரியான விளக்கமாகும். ஆ) கூற்று சரி. காரணம் கூற்றிற்கான சரியான விளக்கமல்ல. இ) கூற்று தவறு; காரணம் சரி ஈ) கூற்று, காரணம் இரண்டும் தவறு\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/industrial-clusters-in-tamil-nadu/_index.md",
+    "expected_sha256": "ae34d260a5e02044b4ada58dc556457f0a298b3caa73f8365f7a666ae19b7711",
+    "result_sha256": "2f8dfb37048d3d0209f617c56ef1c6f96679e86b0c3dc9d5b35171acc3e7400a",
+    "edits": [
+      {
+        "line": 319,
+        "before": "அ) தூத்துக்குடி ஆ) கோயம்புத்தூர் இ) சென்னை ஈ) மதுரை\n",
+        "after": "    அ) தூத்துக்குடி ஆ) கோயம்புத்தூர் இ) சென்னை ஈ) மதுரை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 323,
+        "before": "அ) சேலம் ஆ) கோயம்புத்தூர் இ) சென்னை ஈ) தருமபுரி\n",
+        "after": "    அ) சேலம் ஆ) கோயம்புத்தூர் இ) சென்னை ஈ) தருமபுரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 327,
+        "before": "அ) வேளாண்மை ஆ) தொழில் இ) இரயில்வே ஈ) மேற்கண்ட எதுவுமில்லை\n",
+        "after": "    அ) வேளாண்மை ஆ) தொழில் இ) இரயில்வே ஈ) மேற்கண்ட எதுவுமில்லை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 331,
+        "before": "அ) தோல் பதனிடுதல் ஆ) பூட்டு தயாரித்தல் இ) பின்னலாடை தயாரித்தல் ஈ) வேளாண் பதப்படுத்துதல்\n",
+        "after": "    அ) தோல் பதனிடுதல் ஆ) பூட்டு தயாரித்தல் இ) பின்னலாடை தயாரித்தல் ஈ) வேளாண் பதப்படுத்துதல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 335,
+        "before": "அ) ஓசூர் ஆ) திண்டுக்கல் இ) கோவில்பட்டி ஈ) திருநெல்வேலி\n",
+        "after": "    அ) ஓசூர் ஆ) திண்டுக்கல் இ) கோவில்பட்டி ஈ) திருநெல்வேலி\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 347,
+        "before": "அ) ராணிப்பேட்டை ஆ) தருமபுரி இ) ஆம்பூர் ஈ) வாணியம்பாடி\n",
+        "after": "    அ) ராணிப்பேட்டை ஆ) தருமபுரி இ) ஆம்பூர் ஈ) வாணியம்பாடி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 351,
+        "before": "அ) TIDCO ஆ) SIDCO இ) MEPG ஈ) SIPCOT\n",
+        "after": "    அ) TIDCO ஆ) SIDCO இ) MEPG ஈ) SIPCOT\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/nationalism-gandhian-phase/_index.md",
+    "expected_sha256": "15443b7089962444a456fc8f6de91bb746a432df06290ebe0f05ea2b1c451c5f",
+    "result_sha256": "dd00507ff97aaef97e6b7081cfa4642e79ea6c4c07937a294e22f1a4d0e693bd",
+    "edits": [
+      {
+        "line": 464,
+        "before": "அ) மோதிலால் நேரு ஆ) டாக்டர். சைஃபுதீன் கிச்லு இ) முகம்மது அலி ஈ) ராஜ் குமார் சுக்லா 2. இந்திய தேசிய காங்கிரசின் எந்த அமர்வில் ஒத்துழையாமை இயக்கத்துக்கு அனுமதி வழங்கப்பட்டது?\n",
+        "after": "    அ) மோதிலால் நேரு ஆ) டாக்டர். சைஃபுதீன் கிச்லு இ) முகம்மது அலி ஈ) ராஜ் குமார் சுக்லா 2. இந்திய தேசிய காங்கிரசின் எந்த அமர்வில் ஒத்துழையாமை இயக்கத்துக்கு அனுமதி வழங்கப்பட்டது?\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 466,
+        "before": "அ) பம்பாய் ஆ) மதராஸ் இ) கல்கத்தா ஈ) லக்னோ 3. விடுதலை நாளாக கீழ்க்காண்பவற்றில் எந்த நாள் அறிவிக்கப்பட்டது?\n",
+        "after": "    அ) பம்பாய் ஆ) மதராஸ் இ) கல்கத்தா ஈ) லக்னோ 3. விடுதலை நாளாக கீழ்க்காண்பவற்றில் எந்த நாள் அறிவிக்கப்பட்டது?\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 468,
+        "before": "அ) 1930 ஜனவரி 26 ஆ) 1929 டிசம்பர் 26 இ) 1946 ஜூன் 16 ஈ) 1947 ஜனவரி 15\n",
+        "after": "    அ) 1930 ஜனவரி 26 ஆ) 1929 டிசம்பர் 26 இ) 1946 ஜூன் 16 ஈ) 1947 ஜனவரி 15\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 472,
+        "before": "அ) 1858 ஆ) 1911 இ) 1865 ஈ) 1936 5. 1933 ஜனவரி 8 எந்த நாளாக அனுசரிக்கப்பட்டது?\n",
+        "after": "    அ) 1858 ஆ) 1911 இ) 1865 ஈ) 1936 5. 1933 ஜனவரி 8 எந்த நாளாக அனுசரிக்கப்பட்டது?\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 474,
+        "before": "அ) கோவில் நுழைவு நாள் ஆ) மீட்பு நாள் (டெலிவரன்ஸ் டே) இ) நேரடி நடவடிக்கை நாள் ஈ) சுதந்திரப் பெருநாள் 6. மாகாண தன்னாட்சியை அறிமுகம் செய்த சட்டம் எது?\n",
+        "after": "    அ) கோவில் நுழைவு நாள் ஆ) மீட்பு நாள் (டெலிவரன்ஸ் டே) இ) நேரடி நடவடிக்கை நாள் ஈ) சுதந்திரப் பெருநாள் 6. மாகாண தன்னாட்சியை அறிமுகம் செய்த சட்டம் எது?\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 476,
+        "before": "அ) 1858ஆம் ஆண்டு சட்டம் ஆ) இந்திய கவுன்சில் சட்டம், 1909 இ) இந்திய அரசுச் சட்டம், 1919 ஈ) இந்திய அரசுச் சட்டம், 1935\n",
+        "after": "    அ) 1858ஆம் ஆண்டு சட்டம் ஆ) இந்திய கவுன்சில் சட்டம், 1909 இ) இந்திய அரசுச் சட்டம், 1919 ஈ) இந்திய அரசுச் சட்டம், 1935\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 496,
+        "before": "(ii) M. சிங்காரவேலர் கான்பூர் சதித்திட்ட வழக்கில் விசாரணைக்கு உட்படுத்தப்பட்டார்.\n",
+        "after": "    (ii) M. சிங்காரவேலர் கான்பூர் சதித்திட்ட வழக்கில் விசாரணைக்கு உட்படுத்தப்பட்டார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 498,
+        "before": "(iii) ஜெயப்பிரகாஷ் நாராயண், ஆச்சார்ய நரேந்திர தேவ், மினு மசானி ஆகியோர் தலைமையில் காங்கிரஸ் பொதுவுடைமை கட்சி உருவானது.\n",
+        "after": "    (iii) ஜெயப்பிரகாஷ் நாராயண், ஆச்சார்ய நரேந்திர தேவ், மினு மசானி ஆகியோர் தலைமையில் காங்கிரஸ் பொதுவுடைமை கட்சி உருவானது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 500,
+        "before": "(iv) வெள்ளையனே      வெளியேறு போராட்டத்தில் பொதுவுடைமைவாதிகள் பங்கேற்கவில்லை.\n",
+        "after": "    (iv) வெள்ளையனே      வெளியேறு போராட்டத்தில் பொதுவுடைமைவாதிகள் பங்கேற்கவில்லை.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 502,
+        "before": "அ) (i) மற்றும் (ii) சரியானது ஆ) (ii) மற்றும் (iii) சரியானது இ) (iv) சரியானது ஈ) (i) (ii) மற்றும் (iii) சரியானது\n",
+        "after": "    அ) (i) மற்றும் (ii) சரியானது ஆ) (ii) மற்றும் (iii) சரியானது இ) (iv) சரியானது ஈ) (i) (ii) மற்றும் (iii) சரியானது\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 506,
+        "before": "காரணம்: காங்கிரஸ் இரண்டாவது வட்ட மேசை மாநாட்டில் கலந்துகொள்ள காந்தி- இர்வின் ஒப்பந்தம் வழிவகை செய்தது.\n",
+        "after": "    காரணம்: காங்கிரஸ் இரண்டாவது வட்ட மேசை மாநாட்டில் கலந்துகொள்ள காந்தி- இர்வின் ஒப்பந்தம் வழிவகை செய்தது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 508,
+        "before": "அ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது. ஆனால் காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது. ஆனால் காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 510,
+        "before": "ஆ) கூற்று சரியானது ஆனால் காரணம் தவறானது இ) கூற்று தவறானது ஆனால் காரணம் சரியானது.\n",
+        "after": "    ஆ) கூற்று சரியானது ஆனால் காரணம் தவறானது இ) கூற்று தவறானது ஆனால் காரணம் சரியானது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 512,
+        "before": "ஈ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது மற்றும் காரணம் கூற்றுக்கான சரியான விளக்கம் ஆகும்.\n",
+        "after": "    ஈ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது மற்றும் காரணம் கூற்றுக்கான சரியான விளக்கம் ஆகும்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 516,
+        "before": "காரணம்: காங்கிரஸ் அமைச்சரவைகளை ஆலோசிக்காமல் இந்தியாவின் காலனி ஆதிக்க அரசு போரில் பங்கேற்றது.\n",
+        "after": "    காரணம்: காங்கிரஸ் அமைச்சரவைகளை ஆலோசிக்காமல் இந்தியாவின் காலனி ஆதிக்க அரசு போரில் பங்கேற்றது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 518,
+        "before": "அ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது. ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "after": "    அ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது. ஆனால், காரணம் கூற்றுக்கான சரியான விளக்கம் இல்லை.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 520,
+        "before": "ஆ) கூற்று சரியானது. ஆனால், காரணம் தவறானது.\n",
+        "after": "    ஆ) கூற்று சரியானது. ஆனால், காரணம் தவறானது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 522,
+        "before": "இ) கூற்று மற்றும் காரணம் இரண்டுமே தவறானது.\n",
+        "after": "    இ) கூற்று மற்றும் காரணம் இரண்டுமே தவறானது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 524,
+        "before": "ஈ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது, மற்றும் காரணம் கூற்றுக்கான சரியான விளக்கம் ஆகும்.\n",
+        "after": "    ஈ) கூற்று மற்றும் காரணம் இரண்டும் சரியானது, மற்றும் காரணம் கூற்றுக்கான சரியான விளக்கம் ஆகும்.\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+    "expected_sha256": "c17b7342a9e372773d071b9e7ec4910a4e2de55f56287f6cb1615a88d3d58fd5",
+    "result_sha256": "7bc1bc5b530a80235fb9055b66d69e0a0fc8649cf8c1dd64eaa54ad06d37343f",
+    "edits": [
+      {
+        "line": 429,
+        "before": "அ) சீனா ஆ) ஜப்பான் இ) கொரியா ஈ) மங்கோலியா\n",
+        "after": "    அ) சீனா ஆ) ஜப்பான் இ) கொரியா ஈ) மங்கோலியா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 433,
+        "before": "அ) லெனின் ஆ) மார்க்ஸ் இ) சன் யாட் சென் ஈ) மா சே துங்\n",
+        "after": "    அ) லெனின் ஆ) மார்க்ஸ் இ) சன் யாட் சென் ஈ) மா சே துங்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 437,
+        "before": "அ) ஆகாயப் போர்முறை ஆ) பதுங்குக் குழிப்போர்முறை இ) நீர்மூழ்கிக் கப்பல் போர்முறை ஈ) கடற்படைப் போர்முறை\n",
+        "after": "    அ) ஆகாயப் போர்முறை ஆ) பதுங்குக் குழிப்போர்முறை இ) நீர்மூழ்கிக் கப்பல் போர்முறை ஈ) கடற்படைப் போர்முறை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 441,
+        "before": "அ) பிரிட்டன் ஆ) பிரான்ஸ் இ) டச்சு ஈ) அமெரிக்க ஐக்கிய நாடுகள்\n",
+        "after": "    அ) பிரிட்டன் ஆ) பிரான்ஸ் இ) டச்சு ஈ) அமெரிக்க ஐக்கிய நாடுகள்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 445,
+        "before": "அ) ஜெர்மனி ஆ) ரஷ்யா இ) இத்தாலி ஈ) பிரான்ஸ்\n",
+        "after": "    அ) ஜெர்மனி ஆ) ரஷ்யா இ) இத்தாலி ஈ) பிரான்ஸ்\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 467,
+        "before": "ii) துருக்கி மையநாடுகள் பக்கம் நின்று போரிட்டது.\n",
+        "after": "    ii) துருக்கி மையநாடுகள் பக்கம் நின்று போரிட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 469,
+        "before": "iii) சூயஸ் கால்வாயைத் தாக்க துருக்கி மேற்கொண்ட முயற்சி முறியடிக்கப்பட்டது.\n",
+        "after": "    iii) சூயஸ் கால்வாயைத் தாக்க துருக்கி மேற்கொண்ட முயற்சி முறியடிக்கப்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 471,
+        "before": "அ) i), ii) ஆகியன சரி ஆ) i), iii) ஆகியன சரி இ) ii), iii) ஆகியன சரி ஈ) i), ii), iii) ஆகியன சரி\n",
+        "after": "    அ) i), ii) ஆகியன சரி ஆ) i), iii) ஆகியன சரி இ) ii), iii) ஆகியன சரி ஈ) i), ii), iii) ஆகியன சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/physical-geography-of-tamil-nadu/_index.md",
+    "expected_sha256": "f58f1e450bc4996875dde762596044d017521046c80327b0028ea5abfd6f37ac",
+    "result_sha256": "3d12be59708c31945e566f0a6f776e288c38937fa8de18099f19777e0be62122",
+    "edits": [
+      {
+        "line": 584,
+        "before": "அ) 8°4´ வ முதல் 13° 35´ வ வரை ஆ) 8° 5´ தெ முதல் 13° 35´ தெ வரை இ) 8° 0´ வ முதல் 13° 05´ வ வரை ஈ) 8° 0´ தெ முதல் 13° 05´ தெ வரை\n",
+        "after": "    அ) 8°4´ வ முதல் 13° 35´ வ வரை ஆ) 8° 5´ தெ முதல் 13° 35´ தெ வரை இ) 8° 0´ வ முதல் 13° 05´ வ வரை ஈ) 8° 0´ தெ முதல் 13° 05´ தெ வரை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 588,
+        "before": "அ) 76°18´ கி முதல் 80°20´ கி வரை ஆ) 76°18´ மே முதல் 80°20´ மே வரை இ) 10°20´ கி முதல் 86°18´ கி வரை ஈ) 10°20´ மே முதல் 86°18´ மே வரை\n",
+        "after": "    அ) 76°18´ கி முதல் 80°20´ கி வரை ஆ) 76°18´ மே முதல் 80°20´ மே வரை இ) 10°20´ கி முதல் 86°18´ கி வரை ஈ) 10°20´ மே முதல் 86°18´ மே வரை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 592,
+        "before": "அ) ஆனைமுடி ஆ) தொட்டபெட்டா இ) மகேந்திரகிரி ஈ) சேர்வராயன்\n",
+        "after": "    அ) ஆனைமுடி ஆ) தொட்டபெட்டா இ) மகேந்திரகிரி ஈ) சேர்வராயன்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 596,
+        "before": "அ) பாலக்காடு ஆ) செங்கோட்டை இ) போர்காட் ஈ) அச்சன்கோவில்\n",
+        "after": "    அ) பாலக்காடு ஆ) செங்கோட்டை இ) போர்காட் ஈ) அச்சன்கோவில்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 600,
+        "before": "அ) பெரியார் ஆ) காவிரி இ) சிற்றார் ஈ) பவானி\n",
+        "after": "    அ) பெரியார் ஆ) காவிரி இ) சிற்றார் ஈ) பவானி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 604,
+        "before": "அ) இராமநாதபுரம் ஆ) நாகப்பட்டினம் இ) கடலூர் ஈ) தேனி\n",
+        "after": "    அ) இராமநாதபுரம் ஆ) நாகப்பட்டினம் இ) கடலூர் ஈ) தேனி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 608,
+        "before": "அ) அரபிக்கடல் ஆ) வங்கக் கடல் இ) இந்தியப் பெருங்கடல் ஈ) தைமுர்க்கடல்\n",
+        "after": "    அ) அரபிக்கடல் ஆ) வங்கக் கடல் இ) இந்தியப் பெருங்கடல் ஈ) தைமுர்க்கடல்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 638,
+        "before": "காரணம்: இது மேற்கு தொடர்ச்சி மலையின் மழை மறைவுப் பிரதேசத்தில் அமைந்துள்ளது அ) கூற்று, காரணம் இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது  ஆ) கூற்று, காரணம் இரண்டும் சரி. ஆனால் காரணம் கூற்றை விளக்கவில்லை  இ) கூற்று சரி. ஆனால் காரணம் தவறு ஈ)  காரணம் சரி. ஆனால் கூற்று தவறு\n",
+        "after": "    காரணம்: இது மேற்கு தொடர்ச்சி மலையின் மழை மறைவுப் பிரதேசத்தில் அமைந்துள்ளது அ) கூற்று, காரணம் இரண்டும் சரி. காரணம் கூற்றை விளக்குகிறது  ஆ) கூற்று, காரணம் இரண்டும் சரி. ஆனால் காரணம் கூற்றை விளக்கவில்லை  இ) கூற்று சரி. ஆனால் காரணம் தவறு ஈ)  காரணம் சரி. ஆனால் கூற்று தவறு\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+    "expected_sha256": "a95a0be298985eabb7110d4caef6cff6007650c797426771781a335f06711814",
+    "result_sha256": "8e713a8d757e8327a2e83ee72d9f0e459aac062545729b9374f91b8da577f7f1",
+    "edits": [
+      {
+        "line": 313,
+        "before": "அ) 1827 ஆ) 1829 இ) 1826 ஈ) 1927\n",
+        "after": "    அ) 1827 ஆ) 1829 இ) 1826 ஈ) 1927\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 317,
+        "before": "அ) ஆரிய சமாஜம் ஆ) பிரம்ம சமாஜம் இ) பிரார்த்தனை சமாஜம் ஈ) ஆதி பிரம்ம சமாஜம்\n",
+        "after": "    அ) ஆரிய சமாஜம் ஆ) பிரம்ம சமாஜம் இ) பிரார்த்தனை சமாஜம் ஈ) ஆதி பிரம்ம சமாஜம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 321,
+        "before": "அ) ஈஸ்வர் சந்திர வித்யாசாகர் ஆ) இராஜா ராம்மோகன் ராய் இ) அன்னிபெசன்ட் ஈ) ஜோதிபா புலே\n",
+        "after": "    அ) ஈஸ்வர் சந்திர வித்யாசாகர் ஆ) இராஜா ராம்மோகன் ராய் இ) அன்னிபெசன்ட் ஈ) ஜோதிபா புலே\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 325,
+        "before": "அ) பார்சி இயக்கம் ஆ) அலிகார் இயக்கம் இ) இராமகிருஷ்ணர் ஈ) திராவிட மகாஜன சபை\n",
+        "after": "    அ) பார்சி இயக்கம் ஆ) அலிகார் இயக்கம் இ) இராமகிருஷ்ணர் ஈ) திராவிட மகாஜன சபை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 329,
+        "before": "அ) பாபா தயாள் தாஸ் ஆ) பாபா ராம்சிங் இ) குருநானக் இ) ஜோதிபா புலே\n",
+        "after": "    அ) பாபா தயாள் தாஸ் ஆ) பாபா ராம்சிங் இ) குருநானக் இ) ஜோதிபா புலே\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 333,
+        "before": "அ) மகாதேவ் கோவிந்த் ரானடே ஆ) தேவேந்திரநாத் தாகூர் இ) ஜோதிபா புலே ஈ) அய்யன்காளி\n",
+        "after": "    அ) மகாதேவ் கோவிந்த் ரானடே ஆ) தேவேந்திரநாத் தாகூர் இ) ஜோதிபா புலே ஈ) அய்யன்காளி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 337,
+        "before": "அ) தயானந்த சரஸ்வதி ஆ) அயோத்தி தாசர் இ) அன்னிபெசன்ட் ஈ) நாராயண குரு\n",
+        "after": "    அ) தயானந்த சரஸ்வதி ஆ) அயோத்தி தாசர் இ) அன்னிபெசன்ட் ஈ) நாராயண குரு\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 357,
+        "before": "ii) அவர் உருவ வழிபாட்டை ஆதரித்தார்.\n",
+        "after": "    ii) அவர் உருவ வழிபாட்டை ஆதரித்தார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 359,
+        "before": "iii) சமூகத் தீமைகளைக் கண்டனம் செய்வதை எதிர்த்து அவர் சிற்றேடுகளை வெளியிட்டார்.\n",
+        "after": "    iii) சமூகத் தீமைகளைக் கண்டனம் செய்வதை எதிர்த்து அவர் சிற்றேடுகளை வெளியிட்டார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 361,
+        "before": "அ) i) சரி ஆ) i) மற்றும் ii) சரி இ) i), ii) மற்றும் iii) சரி ஈ) i) மற்றும் iii) சரி\n",
+        "after": "    அ) i) சரி ஆ) i) மற்றும் ii) சரி இ) i), ii) மற்றும் iii) சரி ஈ) i) மற்றும் iii) சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 365,
+        "before": "ii) இந்த சமாஜம் அனைத்துச் சாதியினரும் பங்கேற்கும் சமபந்திகளையும் சாதிக்கலப்புத் திருமணங்களையும் ஊக்குவித்தது.\n",
+        "after": "    ii) இந்த சமாஜம் அனைத்துச் சாதியினரும் பங்கேற்கும் சமபந்திகளையும் சாதிக்கலப்புத் திருமணங்களையும் ஊக்குவித்தது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 367,
+        "before": "iii) ஜோதிபா புலே ஆண்களின் மேம்பாட்டிற்காகப் பணியாற்றினார்.\n",
+        "after": "    iii) ஜோதிபா புலே ஆண்களின் மேம்பாட்டிற்காகப் பணியாற்றினார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 369,
+        "before": "iv) பிரார்த்தனை சமாஜம் பஞ்சாபைப் பிறப்பிடமாகக் கொண்டது.\n",
+        "after": "    iv) பிரார்த்தனை சமாஜம் பஞ்சாபைப் பிறப்பிடமாகக் கொண்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 371,
+        "before": "அ) i ) சரி ஆ) ii) சரி இ) i), ii) ஆகியன சரி ஈ) iii), iv) ஆகியன சரி\n",
+        "after": "    அ) i ) சரி ஆ) ii) சரி இ) i), ii) ஆகியன சரி ஈ) iii), iv) ஆகியன சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 375,
+        "before": "ii) பேரின்பநிலை எய்தும் பழக்கங்களின் மூலம் ஆன்ம ரீதியாக இறைவனோடு இணைவதை இராமகிருஷ்ணர் வலியுறுத்தினார்.\n",
+        "after": "    ii) பேரின்பநிலை எய்தும் பழக்கங்களின் மூலம் ஆன்ம ரீதியாக இறைவனோடு இணைவதை இராமகிருஷ்ணர் வலியுறுத்தினார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 377,
+        "before": "iii) இராமகிருஷ்ணர் இராமகிருஷ்ணாமிஷனை ஏற்படுத்தினார்.\n",
+        "after": "    iii) இராமகிருஷ்ணர் இராமகிருஷ்ணாமிஷனை ஏற்படுத்தினார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 379,
+        "before": "அ) i) சரி ஆ) i) மற்றும் ii) சரி இ) iii) சரி ஈ) i) மற்றும் iii) சரி\n",
+        "after": "    அ) i) சரி ஆ) i) மற்றும் ii) சரி இ) iii) சரி ஈ) i) மற்றும் iii) சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 383,
+        "before": "காரணம்: ஜோதிபா புலேகுழந்தைத் திருமணத்தை எதிர்த்தார். விதவைமறுமணத்தை ஆதரித்தார்.\n",
+        "after": "    காரணம்: ஜோதிபா புலேகுழந்தைத் திருமணத்தை எதிர்த்தார். விதவைமறுமணத்தை ஆதரித்தார்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 385,
+        "before": "அ) கூற்று சரி. ஆனால், காரணம் கூற்றுக்குப் பொருத்தமானதாக இல்லை.\n",
+        "after": "    அ) கூற்று சரி. ஆனால், காரணம் கூற்றுக்குப் பொருத்தமானதாக இல்லை.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 387,
+        "before": "ஆ) கூற்று சரி. காரணம் கூற்றுக்குப் பொருத்தமானதாக உள்ளது.\n",
+        "after": "    ஆ) கூற்று சரி. காரணம் கூற்றுக்குப் பொருத்தமானதாக உள்ளது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 389,
+        "before": "இ) இரண்டுமே தவறு.\n",
+        "after": "    இ) இரண்டுமே தவறு.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 391,
+        "before": "ஈ) காரணம் சரி. ஆனால், கூற்று பொருத்தமற்றதாக உள்ளது. IV. பொருத்துக.\n",
+        "after": "    ஈ) காரணம் சரி. ஆனால், கூற்று பொருத்தமற்றதாக உள்ளது. IV. பொருத்துக.\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/social-transformation-in-tamil-nadu/_index.md",
+    "expected_sha256": "5ae4b88d562fa846277a431657530a586e56efa134ed46256cf2d26e3c7cf1ec",
+    "result_sha256": "d86be680dac923aea6290e8e3354739808202c8044baaa10422ac9b414822c2b",
+    "edits": [
+      {
+        "line": 296,
+        "before": "அ) கால்டுவெல் ஆ) F.W. எல்லிஸ் இ) சீகன்பால்கு ஈ) மீனாட்சி சுந்தரனார்\n",
+        "after": "    அ) கால்டுவெல் ஆ) F.W. எல்லிஸ் இ) சீகன்பால்கு ஈ) மீனாட்சி சுந்தரனார்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 300,
+        "before": "அ) இரட்டைமலை சீனிவாசன் ஆ) B.R. அம்பேத்கார் இ) ராஜாஜி ஈ) எம்.சி. ராஜா\n",
+        "after": "    அ) இரட்டைமலை சீனிவாசன் ஆ) B.R. அம்பேத்கார் இ) ராஜாஜி ஈ) எம்.சி. ராஜா\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 304,
+        "before": "அ) 1918 ஆ) 1917 இ) 1916 ஈ) 1914\n",
+        "after": "    அ) 1918 ஆ) 1917 இ) 1916 ஈ) 1914\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 308,
+        "before": "அ) பணியாளர் தேர்வு வாரியம் ஆ) பொதுப் பணி ஆணையம் இ) மாநிலப் பணியாளர் ஆளெடுப்பு வாரியம் ஈ) பணியாளர் தேர்வாணையம்\n",
+        "after": "    அ) பணியாளர் தேர்வு வாரியம் ஆ) பொதுப் பணி ஆணையம் இ) மாநிலப் பணியாளர் ஆளெடுப்பு வாரியம் ஈ) பணியாளர் தேர்வாணையம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 312,
+        "before": "அ) எம்.சி. ராஜா ஆ) இரட்டை மலை சீனிவாசன் இ) டி.எம். நாயர் ஈ) பி. வரதராஜுலு\n",
+        "after": "    அ) எம்.சி. ராஜா ஆ) இரட்டை மலை சீனிவாசன் இ) டி.எம். நாயர் ஈ) பி. வரதராஜுலு\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 334,
+        "before": "(ii) பனையோலைகளில் எழுதப்பெற்ற பல்வேறு தமிழ் இலக்கண இலக்கிய கையெழுத்துப் பிரதிகளை மறைமலையடிகள் சேகரித்துத் தொகுத்தார்.\n",
+        "after": "    (ii) பனையோலைகளில் எழுதப்பெற்ற பல்வேறு தமிழ் இலக்கண இலக்கிய கையெழுத்துப் பிரதிகளை மறைமலையடிகள் சேகரித்துத் தொகுத்தார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 336,
+        "before": "(iii) இராபர்ட் கால்டுவெல் திராவிட மொழிகளுக்கும் சமஸ்கிருத்திற்கும் இடையில் இல்லாத ஒப்புமை திராவிட மொழிகளுக்கிடையேநெருக்கமாக நிலவுவதை நிரூபித்தார். தமிழின் தொன்மையையும் நிரூபித்தார்.\n",
+        "after": "    (iii) இராபர்ட் கால்டுவெல் திராவிட மொழிகளுக்கும் சமஸ்கிருத்திற்கும் இடையில் இல்லாத ஒப்புமை திராவிட மொழிகளுக்கிடையேநெருக்கமாக நிலவுவதை நிரூபித்தார். தமிழின் தொன்மையையும் நிரூபித்தார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 338,
+        "before": "(iv) திரு.வி. கல்யாணசுந்தரம் தொழில் சங்க இயக்கத்தின் தொடக்காலமுன்னோடியாக இருந்தார்.\n",
+        "after": "    (iv) திரு.வி. கல்யாணசுந்தரம் தொழில் சங்க இயக்கத்தின் தொடக்காலமுன்னோடியாக இருந்தார்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 340,
+        "before": "அ) (i), (ii) ஆகியன சரி ஆ) (i), (iii) ஆகியன சரி இ) (iv) சரி ஈ) (ii), (iii) ஆகியன சரி\n",
+        "after": "    அ) (i), (ii) ஆகியன சரி ஆ) (i), (iii) ஆகியன சரி இ) (iv) சரி ஈ) (ii), (iii) ஆகியன சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/state-government/_index.md",
+    "expected_sha256": "21e6ac6ccb17feafc3f9838ef6b25807c843e962419b6c22ec424d308752c700",
+    "result_sha256": "5f3668f1efe3bf26e26f2828502af243f7edd5d80ef1079e0022cd6b914fa96c",
+    "edits": [
+      {
+        "line": 383,
+        "before": "அ) குடியரசுத் தலைவர் ஆ) ஆளுநர் இ) முதலமைச்சர் ஈ) சட்டமன்ற சபாநாயகர்\n",
+        "after": "    அ) குடியரசுத் தலைவர் ஆ) ஆளுநர் இ) முதலமைச்சர் ஈ) சட்டமன்ற சபாநாயகர்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 387,
+        "before": "அ) முதலமைச்சர் ஆ) மாநில அரசுப் பணியாளர் தேர்வாணயத்தின் தலைவர் இ) மாநில தலைமை வழக்குரைஞர் ஈ) உயர் நீதிமன்ற நீதிபதிகள்\n",
+        "after": "    அ) முதலமைச்சர் ஆ) மாநில அரசுப் பணியாளர் தேர்வாணயத்தின் தலைவர் இ) மாநில தலைமை வழக்குரைஞர் ஈ) உயர் நீதிமன்ற நீதிபதிகள்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 395,
+        "before": "அ) ஆந்திரப் பிரதேசம் ஆ) தெலுங்கானா இ) தமிழ்நாடு ஈ) உத்தரப் பிரதேசம்\n",
+        "after": "    அ) ஆந்திரப் பிரதேசம் ஆ) தெலுங்கானா இ) தமிழ்நாடு ஈ) உத்தரப் பிரதேசம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 401,
+        "before": "அ) தமிழ்நாடு மற்றும் ஆந்திரப்பிரதேசம் ஆ) கேரளா மற்றும் தெலுங்கானா இ) பஞ்சாப் மற்றும் ஹரியானா ஈ) மகாராஷ்டிரா மற்றும் குஜராத்\n",
+        "after": "    அ) தமிழ்நாடு மற்றும் ஆந்திரப்பிரதேசம் ஆ) கேரளா மற்றும் தெலுங்கானா இ) பஞ்சாப் மற்றும் ஹரியானா ஈ) மகாராஷ்டிரா மற்றும் குஜராத்\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 467,
+        "before": "Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.\n",
+        "after": "    Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/the-world-after-world-war-ii/_index.md",
+    "expected_sha256": "bdc5ddf4956bc801bcd4f7f1664b9c6657d1494e55abc9962746e5197867cd7b",
+    "result_sha256": "4969bd7d82486aaebfde262dd71228ca1a89ae87a53aedd725b9325bd43580da",
+    "edits": [
+      {
+        "line": 382,
+        "before": "அ) உட்ரோ வில்சன் ஆ) ட்ரூமென் இ) தியோடர் ரூஸ்வெல்ட் ஈ) பிராங்க்ளின் ரூஸ்வெல்ட்\n",
+        "after": "    அ) உட்ரோ வில்சன் ஆ) ட்ரூமென் இ) தியோடர் ரூஸ்வெல்ட் ஈ) பிராங்க்ளின் ரூஸ்வெல்ட்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 386,
+        "before": "அ) செப்டம்பர் 1959 ஆ) செப்டம்பர் 1949 இ) செப்டம்பர் 1954 ஈ) செப்டம்பர் 1944\n",
+        "after": "    அ) செப்டம்பர் 1959 ஆ) செப்டம்பர் 1949 இ) செப்டம்பர் 1954 ஈ) செப்டம்பர் 1944\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 390,
+        "before": "அ) சீட்டோ ஆ) நேட்டோ இ) சென்டோ ஈ) வார்சா ஒப்பந்தம்\n",
+        "after": "    அ) சீட்டோ ஆ) நேட்டோ இ) சென்டோ ஈ) வார்சா ஒப்பந்தம்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 394,
+        "before": "அ) ஹபீஸ் அல் -ஆஸாத் ஆ) யாசர் அராபத் இ) நாசர் ஈ) சதாம் உசேன்\n",
+        "after": "    அ) ஹபீஸ் அல் -ஆஸாத் ஆ) யாசர் அராபத் இ) நாசர் ஈ) சதாம் உசேன்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 398,
+        "before": "அ) 1975 ஆ) 1976 இ) 1973 ஈ) 1974\n",
+        "after": "    அ) 1975 ஆ) 1976 இ) 1973 ஈ) 1974\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 402,
+        "before": "அ) 1979 ஆ) 1989 இ) 1990 ஈ) 1991\n",
+        "after": "    அ) 1979 ஆ) 1989 இ) 1990 ஈ) 1991\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 428,
+        "before": "ii) வடக்கு அட்லாண்டிக் பகுதியில் அமைதியையும் பாதுகாப்பையும் உறுதி செய்யவே நேட்டோ உருவாக்கப்பட்டது.\n",
+        "after": "    ii) வடக்கு அட்லாண்டிக் பகுதியில் அமைதியையும் பாதுகாப்பையும் உறுதி செய்யவே நேட்டோ உருவாக்கப்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 430,
+        "before": "iii) சீட்டோவின் உறுப்பு நாடுகள் அப்பகுதியில் மக்களாட்சி பரவுவதைத் தடுக்கும் நோக்கோடு செயல்பட்டார்கள்.\n",
+        "after": "    iii) சீட்டோவின் உறுப்பு நாடுகள் அப்பகுதியில் மக்களாட்சி பரவுவதைத் தடுக்கும் நோக்கோடு செயல்பட்டார்கள்.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 432,
+        "before": "அ) ii) மற்றும் iii) சரி ஆ) i) மற்றும் ii) சரி இ) i) மற்றும் iii) சரி ஈ) i), ii) மற்றும் iii) சரி\n",
+        "after": "    அ) ii) மற்றும் iii) சரி ஆ) i) மற்றும் ii) சரி இ) i) மற்றும் iii) சரி ஈ) i), ii) மற்றும் iii) சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 436,
+        "before": "காரணம்: அமெரிக்க நாடு அத்திட்டத்தின் மூலம் மேற்கு ஐரோப்பிய நாடுகளைத் தன் செல்வாக்கின் கீழ் கொண்டுவர நினைத்தது.\n",
+        "after": "    காரணம்: அமெரிக்க நாடு அத்திட்டத்தின் மூலம் மேற்கு ஐரோப்பிய நாடுகளைத் தன் செல்வாக்கின் கீழ் கொண்டுவர நினைத்தது.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 438,
+        "before": "அ) கூற்றும் காரணமும் இரண்டுமே சரி.\n",
+        "after": "    அ) கூற்றும் காரணமும் இரண்டுமே சரி.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 440,
+        "before": "ஆனால் காரணம், கூற்றிற்கான சரியான விளக்கமல்ல ஆ) கூற்றும் காரணமும் தவறானவை இ) கூற்றும் காரணமும் சரி. காரணம், கூற்றைத் சரியாக விளக்குகிறது ஈ) கூற்று தவறு ஆனால் காரணம் சரி\n",
+        "after": "    ஆனால் காரணம், கூற்றிற்கான சரியான விளக்கமல்ல ஆ) கூற்றும் காரணமும் தவறானவை இ) கூற்றும் காரணமும் சரி. காரணம், கூற்றைத் சரியாக விளக்குகிறது ஈ) கூற்று தவறு ஆனால் காரணம் சரி\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  },
+  {
+    "file": "content.ta/docs/the-world-between-two-world-wars/_index.md",
+    "expected_sha256": "5c25609e9f6a8604b5a4cfeb8de62b863c7f00026b187cba0e0ffcd4ac9cfa27",
+    "result_sha256": "64287aac6a2cac5254bf1368686be03e6205a5587cfa9444f81f036f0cbeaf0d",
+    "edits": [
+      {
+        "line": 303,
+        "before": "அ) ஜெர்மனி ஆ) ரஷ்யா இ) போப் ஈ) ஸ்பெயின்\n",
+        "after": "    அ) ஜெர்மனி ஆ) ரஷ்யா இ) போப் ஈ) ஸ்பெயின்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 307,
+        "before": "அ) ஹெர்மன் கோர்ட்ஸ் ஆ) பிரான்சிஸ்கோ பிசாரோ இ) தௌசெயின்ட் லாவெர்ட்யூர் ஈ) முதலாம் பெட்ரோ\n",
+        "after": "    அ) ஹெர்மன் கோர்ட்ஸ் ஆ) பிரான்சிஸ்கோ பிசாரோ இ) தௌசெயின்ட் லாவெர்ட்யூர் ஈ) முதலாம் பெட்ரோ\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 311,
+        "before": "அ) ஆங்கிலேயர் ஆ) ஸ்பானியர் இ) ரஷ்யர் ஈ) பிரெஞ்சுக்கார்\n",
+        "after": "    அ) ஆங்கிலேயர் ஆ) ஸ்பானியர் இ) ரஷ்யர் ஈ) பிரெஞ்சுக்கார்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 315,
+        "before": "அ) பிராங்க்ளின் D. ரூஸ்வெல்ட் ஆ) ட்ரூமன் இ) உட்ரோவில்சன் ஈ) ஐசனோவர்\n",
+        "after": "    அ) பிராங்க்ளின் D. ரூஸ்வெல்ட் ஆ) ட்ரூமன் இ) உட்ரோவில்சன் ஈ) ஐசனோவர்\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 319,
+        "before": "அ) ஐரோப்பா ஆ) லத்தீன் அமெரிக்கா இ) இந்தியா ஈ) சீனா\n",
+        "after": "    அ) ஐரோப்பா ஆ) லத்தீன் அமெரிக்கா இ) இந்தியா ஈ) சீனா\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 341,
+        "before": "ii) அமெரிக்காவில் மிகப்பெரும் பங்குச் சந்தை வீழ்ச்சி 1929ஆம் ஆண்டு அக்டோபர் மாதம் 24ஆம் நாளில் எற்பட்டது.\n",
+        "after": "    ii) அமெரிக்காவில் மிகப்பெரும் பங்குச் சந்தை வீழ்ச்சி 1929ஆம் ஆண்டு அக்டோபர் மாதம் 24ஆம் நாளில் எற்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 343,
+        "before": "iii) ஆப்பிரிக்க தேசிய காங்கிரசின் மீதானத் தடை\n",
+        "after": "    iii) ஆப்பிரிக்க தேசிய காங்கிரசின் மீதானத் தடை\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 345,
+        "before": "1966இல் விலக்கிக் கொள்ளப்பட்டது.\n",
+        "after": "    1966இல் விலக்கிக் கொள்ளப்பட்டது.\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 347,
+        "before": "அ) i), ii) ஆகியவை சரி ஆ) iii) சரி இ) ii), iii) ஆகியவை சரி ஈ) i), ii), iii) ஆகியவை சரி\n",
+        "after": "    அ) i), ii) ஆகியவை சரி ஆ) iii) சரி இ) ii), iii) ஆகியவை சரி ஈ) i), ii), iii) ஆகியவை சரி\n",
+        "reason": "plain continuation between consecutive source numbers"
+      },
+      {
+        "line": 351,
+        "before": "காரணம்: ஆங்கிலேயருக்கும் போயர்களுக்கும் தென்னாப்பிரிக்காவில் நடைபெற்ற போர் இத்தீர்மானத்திற்கு எதிர்ப்பானதாகும்.\n",
+        "after": "    காரணம்: ஆங்கிலேயருக்கும் போயர்களுக்கும் தென்னாப்பிரிக்காவில் நடைபெற்ற போர் இத்தீர்மானத்திற்கு எதிர்ப்பானதாகும்.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 353,
+        "before": "அ) கூற்று, காரணம் இரண்டுமே சரி ஆ) கூற்று சரி. ஆனால், காரணம் சரியான விளக்கமல்ல.\n",
+        "after": "    அ) கூற்று, காரணம் இரண்டுமே சரி ஆ) கூற்று சரி. ஆனால், காரணம் சரியான விளக்கமல்ல.\n",
+        "reason": "printed subquestion/option labels"
+      },
+      {
+        "line": 355,
+        "before": "இ) கூற்று, காரணம் ஆகிய இரண்டுமே தவறு ஈ) கூற்று தவறு. ஆனால், காரணம் கூற்றுடன் பொருந்த்தவில்லை.\n",
+        "after": "    இ) கூற்று, காரணம் ஆகிய இரண்டுமே தவறு ஈ) கூற்று தவறு. ஆனால், காரணம் கூற்றுடன் பொருந்த்தவில்லை.\n",
+        "reason": "printed subquestion/option labels"
+      }
+    ]
+  }
+]

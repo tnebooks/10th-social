@@ -523,15 +523,15 @@ Arab-Israeli Wars and Vietnam War.
 
 1. R.D. Cornvell, World History in the
 
-Twentieth Century (London: Longman, 1972)
+    Twentieth Century (London: Longman, 1972)
 
 2. Richard Overy, Complete History of the
 
-World (London: Harper Collins, 2006)
+    World (London: Harper Collins, 2006)
 
 3. Chris Harman, A People’s History of the
 
-World (London: Orient Longman, 2007)
+    World (London: Orient Longman, 2007)
 
 ### INTERNET RESOURCES
 

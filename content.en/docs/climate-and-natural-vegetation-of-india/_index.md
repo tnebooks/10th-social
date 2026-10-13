@@ -247,35 +247,35 @@ Natural vegetation can be classified as tropical evergreen forests, tropical dec
 
 1. Western disturbances cause rainfall in
 
-_________.
+    _________.
 
-a) Tamil Nadu b) Kerala c) Punjab d) Madhya Pradesh
+    a) Tamil Nadu b) Kerala c) Punjab d) Madhya Pradesh
 
 2. _________ helps in quick ripening of mangoes along the coast of Kerala and Karnataka.
 
-a) Loo b) Norwester c) Mango showers d) Jet stream
+    a) Loo b) Norwester c) Mango showers d) Jet stream
 
 3. _________ is a line joining the places of equal rainfall.
 
-a) Isohyets b) Isobar c) Isotherm d) Latitudes
+    a) Isohyets b) Isobar c) Isotherm d) Latitudes
 
 4. Climate of India is labelled as _________.
 
-a) Tropical humid b) Equatorial Climate c) Tropical Monsoon Climate d) Temperate Climate
+    a) Tropical humid b) Equatorial Climate c) Tropical Monsoon Climate d) Temperate Climate
 
 5. The monsoon forests are otherwise called as
 
-_________.
+    _________.
 
-a) Tropical evergreen forest b) Deciduous forest c) Mangrove forest d) Mountain forest
+    a) Tropical evergreen forest b) Deciduous forest c) Mangrove forest d) Mountain forest
 
 6. Sesahachalam hills, a Biosphere reserve is situated in _________.
 
-a) Tamil Nadu b) Andhra Pradesh c) Madhya Pradesh d) Karnataka
+    a) Tamil Nadu b) Andhra Pradesh c) Madhya Pradesh d) Karnataka
 
 7. _________ is not a part of the world network biosphere reserves of UNESCO
 
-A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch
+    A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch
 
 **II Match the following**
 
@@ -293,23 +293,23 @@ A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch
 
 1. Assertion(A): The Himalayas acts as a climatic barrier.
 
-Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions) a) Both (A) and (R) are true: R explains A b) Both (A) and (R) are true: R does not explain A c) (A) is true (R) is false d) (A) is false (R) is true
+    Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions) a) Both (A) and (R) are true: R explains A b) Both (A) and (R) are true: R does not explain A c) (A) is true (R) is false d) (A) is false (R) is true
 
 **IV Choose the inappropriate answer**
 
 1. Tidal forests are found in and around____.
 
-(a) Desert (b) The Deltas of Ganga and Brahmaputra (c) The Delta of Godavari (d) The Delta of Mahanadhi
+    (a) Desert (b) The Deltas of Ganga and Brahmaputra (c) The Delta of Godavari (d) The Delta of Mahanadhi
 
 2. Climate of India is affected by__________.
 
-(a) Latitudinal extent
+    (a) Latitudinal extent
 
-(b) Altitude
+    (b) Altitude
 
-(c) Distance from the sea
+    (c) Distance from the sea
 
-(d) Soil
+    (d) Soil
 
 **V Answer briefly**
 
@@ -337,11 +337,11 @@ Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indi
 
 2. Tropical Evergreen Forest and Deciduous
 
-Forest.
+    Forest.
 
 3. Northeast
 
-Monsoon and Southwest Monsoon.
+    Monsoon and Southwest Monsoon.
 
 **VII Give reasons**
 
@@ -375,13 +375,13 @@ Monsoon and Southwest Monsoon.
 
 1. Attri, S.D. and A. Tyagi, 2010. “Climate
 
-Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.
+    Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.
 
 2. Singh, S. and J. Saroha, 2014. “Geography of India”, Access Publishing India Pvt. Ltd. New Delhi.
 
 3. Hussain, M. 2008. “Geography of India”
 
-Tata McGraw-Hill Publishing House Company Ltd. New Delhi.
+    Tata McGraw-Hill Publishing House Company Ltd. New Delhi.
 
 4. Govt. of India, 2014. “India’s fifth National report to the Convention on Biological Diversity” Ministry of Environment and Forests.
 
