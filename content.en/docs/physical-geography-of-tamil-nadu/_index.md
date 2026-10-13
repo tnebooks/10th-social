@@ -7,15 +7,23 @@ weight: 16
 summary: "The study of one’s own region is the first step to become a global citizen. The purpose of studying our local territory is to understand life in our environment. In the last five lessons, you have learnt about various geographical characteristics of our country. In this lesson a…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 6: Physical Geography of Tamil Nadu
 
 ![](assets/page_001_picture_001.png)
 
 ## Learning Objectives
 
-![](assets/page_001_picture_002.png)
+- To know the history of formation of the state
+- To study the major physiographic divisions of the state
+- To understand the nature of climate, soils and natural vegetation
+- To familiarise the students with the geographical conditions of their living places
+- To know the major natural disasters and their occurrences in Tamil Nadu
 
-To know the history of formation of the state To study the major physiographic divisions of the state To understand the nature of climate, soils and natural vegetation To familiarise the students with the geographical conditions of their living places To know the major natural disasters and their occurrences in Tamil Nadu
+![](assets/page_001_picture_002.png)
 
 ## Introduction
 
@@ -33,6 +41,8 @@ As per, the States Reorganisation Act, 1956, state boundaries were reorganised o
 
 - Why was the capital of Tamil Nadu renamed?
 
+<a id="topic-6-1"></a>
+
 ## 6.1 Location and Size
 
 Tamil Nadu is one of the 28 states of India, located in the southern most part of the country. It extends from 8°4'N to 13°35'N latitudes and from 76°18'E to 80°20'E longitudes. Its extremities are, in eastern - Point Calimere in western - hills of Anaimalai in northern - Pulicat lake in southern - Cape Comorin
@@ -49,17 +59,11 @@ Already we have learnt that the state of Tamil Nadu had only 13 districts at the
 
 ### Activity
 
-- 
+- Find out the coastal districts of Tamil Nadu with the help of a map.
 
-Find out the coastal districts of Tamil Nadu with the help of a map.
+- Mark the districts of Tamil Nadu which share their boundary with the states of Andhra Pradesh, Karnataka and Kerala separately.
 
-- 
-
-Mark the districts of Tamil Nadu which share their boundary with the states of Andhra Pradesh, Karnataka and Kerala separately.
-
-- 
-
-Mention the districts of Tamil Nadu.
+- Mention the districts of Tamil Nadu.
 
 ### Find out and write:
 
@@ -71,11 +75,15 @@ Let’s see the major physical features of Tamil Nadu and their characteristics.
 
 Tamil Nadu is located on the Peninsular Plateau, known as Deccan Plateau. It is also a part of the ancient Gondwana land that broke away 135 million years ago during Cretaceous Period. Tamil Nadu is divided into the physical divisions of Western Ghats, Eastern Ghats, Plateaus, Coastal and Inland plains.
 
+<a id="topic-6-2"></a>
+
 ## 6.2 Western Ghats
 
 Western Ghats extend from the Nilgiris in the north to Marunthuvazh Malai at Swamithope in Kanyakumari district in the south. Height of the Western Ghats ranges from 2,000 to 3,000 metres. It covers an area of about 2,500 sq.km. Though the Western Ghats is a continuous range, it has some passes. The passes are Palghat, Shencottah, Aralvaimozhi, and Achankoil. The Nilgiris, Anaimalai, Palani hills, Cardamom hills, Varusanadu, Andipatti, Pothigai and Mahendragiri hills are the major hills of Western Ghats.
 
-Not to Scale
+![Tamil Nadu - Political](assets/source-2025-p202-tamil-nadu-political.png)
+
+**Tamil Nadu - Political** (Not to Scale)
 
 All districts of Tamil Nadu except the Chennai, The Nilgiris and Kanniyakumari were bifurcated at different points of time.
 
@@ -131,11 +139,13 @@ This continous range is situated along the border of Kanniyakumari and Tirunelve
 | Pagasura | 1,918 |
 
 
+<a id="topic-6-3"></a>
+
 ## 6.3 The Eastern Ghats
 
 Unlike Western Ghats, Eastern Ghats is a discontinuous and irregular one. It is dissected at many places by the rivers, which drain into the Bay of Bengal. Its height ranges from 1,100 to 1,600 metres. These hills separate the plains from plateaus. Javadhu, Servarayan, the Kalrayan, Kollimalai and Pachaimalai are the major hills of the Eastern Ghats of Tamil Nadu and are located in northern districts of the state.
 
-Javadhu Hills
+### Javadhu Hills
 
 Javadhu hills are an extension of the Eastern Ghats spread across parts of Vellore and Tiruvannamalai districts and separates these two districts. Many peaks with the height of 1,100–1,150 metres are located in this range. Melpattu is its highest peak. Many parts of this range are covered with bluish grey granites. It is noted for its fruit bearing trees, medicinal herbs and sandalwoods. Due to illegal logging, sandalwood trees are disappeared now.
 
@@ -149,7 +159,7 @@ It is a mountain range located near the Salem city with the height ranging from 
 
 ![](assets/page_005_picture_001.png)
 
-Why are mountain heights measured from mean sea level and not from ground level?
+Why are mountain heights measured from mean sea level and not from ground level?
 
 | Peaks in Eastern Ghats | Height (m) |
 |---|---|
@@ -194,9 +204,15 @@ Not to Scale
 
 Kosasthalai
 
+![Tamil Nadu - Physical](assets/source-2025-p205-tamil-nadu-physical.png)
+
+**Tamil Nadu - Physical** (Not to Scale)
+
 ### Pachaimalai
 
 It is the lowest hill range, spreads over the districts of Perambalur, Tiruchirapalli and Salem. In Tamil language, pachai means green. The vegetation in this range is greener than the vegetative cover of the other hills in this region. Hence, it is named as ‘Pachaimalai’. Jackfruit is a popular seasonal agricultural product of this hills.
+
+<a id="topic-6-4"></a>
 
 ## 6.4 Plateaus
 
@@ -209,6 +225,8 @@ Coimbatore plateau lies between the Nilgiris and Dharmapuri districts. Its heigh
 Rivers like Bhavani, Noyyal and Amaravathi, which originate from Western Ghats, form valleys in this region. Many intermontane plateaus are found in the region of the Nilgiris. Sigur plateau is one such plateau.
 
 Madurai plateau found in Madurai district extends up to the foothills of the Western Ghats. Vaigai and Thamirabarani basins are located in this zone.
+
+<a id="topic-6-5"></a>
 
 ## 6.5 Plains
 
@@ -228,6 +246,8 @@ Coastal plains of Tamil Nadu are also called Coromandel or Cholamandalam (land o
 
 The Coromandel Coast along the Bay of Bengal consists of many beautiful and exotic beaches. The golden sands of Tamil Nadu beaches are scattered with palm and casuarinas groves. Marina and Elliot beaches of Chennai, Kovalam beach in Kanchipuram and Silver beach in Cuddalore are some of the famous beaches in Tamil Nadu.
 
+<a id="topic-6-6"></a>
+
 ## 6.6 Drainage
 
 Rivers of Tamil Nadu are its lifeline. Though it has many rivers, the rivers of Cauvery, Palar, Ponnaiyar, Vaigai and Thamirabarani are the notable ones. Most of the rivers of Tamil Nadu originate from Western Ghats and flow towards east and drain into the Bay of Bengal. All the rivers of the state are non-perennial except Thamirabarani. It is perennial as it is fed by both the southwest and northeast monsoons.
@@ -246,7 +266,7 @@ The Palar river rises beyond Talagavara village in the Kolar district of Karnata
 
 Ponnai, Goundinya Nadhi, Malattar, Cheyyar and Kiliyar are its major tributaries. Its total length is 348 km, out of which 222 km of its course falls in Tamil Nadu. It flows through the districts of Vellore and Kancheepuram before entering into Bay of Bengal near Kuvattur.
 
-Then Pennaiyar/Then Ponnaiyar
+### Then Pennaiyar/Then Ponnaiyar
 
 It originates from the eastern slope of Nandi Durga hills in eastern Karnataka. It drains an area of 16,019 sq.km, of which nearly 77% lies in Tamil Nadu. It flows for a distance of 247 km in the southeasterly direction in the districts of Krishnagiri, Dharmapuri, Vellore, Tiruvannamalai, Cuddalore and Villupuram. It branches into two, viz. Gadilam and the Ponnaiyar near Tirukoilur Anaicut.
 
@@ -285,6 +305,8 @@ Chittar and Ramanathi are its main tributaries. It is the only perennial river i
 
 
 ![](assets/page_009_picture_001.png)
+
+<a id="topic-6-7"></a>
 
 ## 6.7 Climate
 
@@ -326,6 +348,8 @@ Tropical cyclones are common during this season. Cyclone originating from the Ba
 
 Chinnakallar near Valparai is the 3rd wettest place in India and the wettest place in Tamil Nadu.
 
+<a id="topic-6-8"></a>
+
 ## 6.8 Soils of Tamil Nadu
 
 The soils in Tamil Nadu are broadly classified into five types according to their characteristics. They are 1. alluvial soil, 2. black soil, 3. red soil, 4. laterite soil, 5. saline soil.
@@ -350,9 +374,13 @@ This soil is formed by the process of intense leaching. Laterite soils are found
 
 Saline soils in Tamil Nadu are confined to the Coromandel coast. Vedaranyam has a pocket of saline soil. However, the Tsunami waves on December 26, 2004 brought a lot of sand and deposited it all along the east coast of Tamil Nadu. The Tsunami made the coastal areas unsuitable for cultivation to a considerable extent.
 
+<a id="topic-6-9"></a>
+
 ## 6.9 Soil Erosion
 
 Soil is a non-renewable resource. It is very difficult to replace the soil once it gets degraded. Deforestation, overgrazing, urbanisation and heavy rain are responsible for soil erosion in Tamil Nadu. Soil erosion reduces the fertility of soils, which in turn reduces agricultural productivity. So, it is necessary to take intensive care to conserve the soil resources.
+
+<a id="topic-6-10"></a>
 
 ## 6.10 Natural Vegetation
 
@@ -394,6 +422,8 @@ Thorn forest in Tamil Nadu is found where there is a little rainfall. These fore
 
 ![](assets/page_012_picture_002.png)
 
+<a id="topic-6-11"></a>
+
 ## 6.11 Wild life
 
 Animals and birds live in forests constitute the wild life. Tamil Nadu has a variety of wild animals, birds and reptiles. Hills are an ideal refuge for elephants, bisons, tigers, deer and ­monkeys.
@@ -408,7 +438,9 @@ Several wildlife sanctuaries and National Parks have been set up to protect the 
 
 Tamil Nadu is a state with varied climate, landforms and resources. This makes our state a distinct one among the Indian states. In Tamil Nadu, if the available resources are utilised rationally, it may continue to be at top in the country. So, it is the duty of the every individual to strive towards achieving this goal.
 
-## 6.12 Natural Disasters in Tamil Nadu
+<a id="topic-6-12"></a>
+
+## 6.12 Natural Disasters in Tamil Nadu
 
 A sudden natural catastrophe that causes great damage or loss to lives and properties is called as disaster.
 
@@ -526,11 +558,11 @@ After: Proceed cautiously once the earthquake has stopped and always avoid roads
 
 **State/Union Territories organizations**
 
-1. State Disaster Management Authority
+1. State Disaster Management Authority
 
 (Chairman-Chief Minister)
 
-2. Relief/ Disaster Management Department
+2. Relief/ Disaster Management Department
 
 3. Police
 
@@ -548,11 +580,9 @@ After: Proceed cautiously once the earthquake has stopped and always avoid roads
 
 10. Food & Civil Supplied Department.
 
-### SUMMARY
-
 **District Organizations**
 
-1. District Magistrate (Chairman-District
+1. District Magistrate (Chairman-District
 
 Collector)
 
@@ -569,6 +599,8 @@ Collector)
 7. Home Guards (also Local Community,
 
 Non-Governmental Organisations, Voluntary Agencies) etc.
+
+### SUMMARY
 
 Physical geography is the branch of geography dealing with the different physical aspects such as landforms, drainage, climate, soil, natural vegetation, etc.
 
@@ -588,63 +620,65 @@ Natural disasters are earthquakes, volcanoes, landslides, cyclones, droughts and
 
 ### EXERCISE
 
-**I Choose the correct**
+**I Choose the correct**
 
 **answer**
 
-1. The latitudinal extent of
+1. The latitudinal extent of Tamil Nadu is
 
-Tamil Nadu is a) 8- 4- N to 13- 35- N b) 8- 5- S to 13- 35- S c) 8- 0- N to 13- 5- N d) 8- 0- S to 13- 05- S
+   a) 8°4′N to 13°35′N
 
-2. The longitudinal extent of Tamil Nadu is a) 76- 18- E to 80- 20- E b) 76- 18- W to 80- 20- W c) 86- 18- E to 10- 20- E d) 86- 18- W to 10- 20- W
+   b) 8°5′S to 13°35′S
+
+   c) 8°0′N to 13°5′N
+
+   d) 8°0′S to 13°05′S
+
+2. The longitudinal extent of Tamil Nadu is
+
+   a) 76°18′E to 80°20′E
+
+   b) 76°18′W to 80°20′W
+
+   c) 86°18′E to 10°20′E
+
+   d) 86°18′W to 10°20′W
 
 3. The highest peak in Tamil Nadu is a) Anaimudi b) Doddabetta c) Mahendragiri d) Servarayan
 
-4. Which of the following passes is not located in the Western Ghats of Tamil Nadu?
+4. Which of the following passes is not located in the Western Ghats of Tamil Nadu?
 
 a) Palghat b) Shencottah c) Bhorghat d) Achankoil
 
-5. Which one of the following rivers flows into the Arabian Sea?
+5. Which one of the following rivers flows into the Arabian Sea?
 
 a) Periyar b) Cauvery c) Chittar d) Bhavani
 
-6. The district with largest mangrove forest cover in Tamil Nadu is a) Ramanathapuram b) Nagapattinam c) Cuddalore d) Theni
+6. The district with largest mangrove forest cover in Tamil Nadu is a) Ramanathapuram b) Nagapattinam c) Cuddalore d) Theni
 
-7. Retreating monsoon wind picks up moisture from a) Arabian sea b) Bay of Bengal c) Indian Ocean d) Timor sea
+7. Retreating monsoon wind picks up moisture from a) Arabian sea b) Bay of Bengal c) Indian Ocean d) Timor sea
 
-8. The district which has the largest forest cover in Tamil Nadu is a) Dharmapuri b) Vellore c) Dindigul d) Erode
+8. The district which has the largest forest cover in Tamil Nadu is a) Dharmapuri b) Vellore c) Dindigul d) Erode
 
 **II Fill in the blanks**
 
-1. The plateau which lies between The Nilgiris and Dharmapuri districts is __________.
+1. The plateau which lies between The Nilgiris and Dharmapuri districts is __________.
 
-2. __________ is the highest peak in the southern most part of the Eastern Ghats.
+2. __________ is the highest peak in the southern most part of the Eastern Ghats.
 
-3. The riverine Island of Srirangam is located between __________ and __________ branches of Cauvery.
+3. The riverine Island of Srirangam is located between __________ and __________ branches of Cauvery.
 
-4. __________is the Tamil Nadu state animal.
+4. __________is the Tamil Nadu state animal.
 
 **III Match the following**
 
-1. Winter season
-
-- Pre-monsoon
-
-2. Summer season
-
-- June to September
-
-3. Southwest monsoon - March to May
-
-4. Northeast monsoon - January and
-
-February
-
-5. Mango Shower
-
-- October to
-
-December
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Winter season | Pre-monsoon |
+| 2 | Summer season | June to September |
+| 3 | Southwest monsoon | March to May |
+| 4 | Northeast monsoon | January and February |
+| 5 | Mango Shower | October to December |
 
 **IV Assertion type Question**
 
@@ -670,35 +704,35 @@ d) (R) is true but, (A) is false.
 
 4. Name the major islands of Tamil Nadu.
 
-5. Name the tributaries of river Thamirabarani.
+5. Name the tributaries of river Thamirabarani.
 
 6. Define : Disaster Risk Reduction.
 
-7. During cyclone, how does the Meterological department warn the fishermen?
+7. During cyclone, how does the Meterological department warn the fishermen?
 
-**VI Distinguish between the following**
+**VI Distinguish between the following**
 
 1. Thamiraparani and Cauvery
 
-**VII Give reasons for the following**
+**VII Give reasons for the following**
 
-1. Eastern Ghats are not a continuous range.
+1. Eastern Ghats are not a continuous range.
 
-2. Tamil Nadu receives low rainfall during southwest monsoon.
+2. Tamil Nadu receives low rainfall during southwest monsoon.
 
-**VIII Answer the following in a paragraph**
+**VIII Answer the following in a paragraph**
 
-1. Describe the nature of the plateau region of Tamil Nadu.
+1. Describe the nature of the plateau region of Tamil Nadu.
 
 2. Write an account on river Cauvery.
 
-3. Bring out the types and distribution of soils in Tamil Nadu.
+3. Bring out the types and distribution of soils in Tamil Nadu.
 
-4. What are the Risk reduction measures taken before and after cyclone.
+4. What are the Risk reduction measures taken before and after cyclone.
 
 **IX Map study**
 
-1. Mark important rivers, distribution of soil and forest types on different Tamil Nadu maps.
+1. Mark important rivers, distribution of soil and forest types on different Tamil Nadu maps.
 
 ### REFERENCE BOOKS
 
@@ -730,7 +764,7 @@ Department of Economics and Statistics, Government of Tamil Nadu, Chennai.
 
 5. http://agritech.tnau.ac.in/
 
-## Tamil Nadu: Disasters And Awareness
+## ICT CORNER: Tamil Nadu: Disasters And Awareness
 
 Through this activity you will learn about Disaster
 
@@ -740,9 +774,9 @@ Management Activities in Tamil Nadu.
 
 Step – 1 Open the Browser and type the URL given below (or) Scan the QR Code.
 
-Step – 2 Change ‘Language’ in Top menu and go to ‘Media and Public Awareness’ and select ‘Infographics’.
+Step – 2 Change ‘Language’ in Top menu and go to ‘Media and Public Awareness’ and select ‘Infographics’.
 
-Step – 3 Click on ‘Download’ to view details of precautions by Tamil Nadu State
+Step – 3 Click on ‘Download’ to view details of precautions by Tamil Nadu State
 
 Disaster Management Authority
 
@@ -765,3 +799,64 @@ https://tnsdma.tn.gov.in/
 ![](assets/page_019_picture_005.png)
 
 * If browser requires, allow Flash Player or Java Script to load the page
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Physical Geography of Tamil Nadu](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Class 10 \| தமிழ்நாடு - இயற்கை பிரிவுகள் \| Kalvi TV](https://www.youtube.com/watch?v=lfAdMZNuZYg) — KalviTVOfficial; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Tamil Nadu plateau, Cauvery and summer/winter seasons — Tamil](https://www.youtube.com/watch?v=CXBpK9ef82Y) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Landslide precautions before, during and after — Tamil](https://www.youtube.com/watch?v=B34XeSn1kZk) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Western Ghats in Tamil Nadu — Geography](https://www.youtube.com/watch?v=ggdokAgfuUE) — Let's Crack TN Exams / Saranya Revathi; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Tamil Nadu Physical Features — Eastern Ghats](https://www.youtube.com/watch?v=WUJoiV-vsT8) — Creator as indexed; language not verified. Covers selected concepts; see the topic table below.
+- [Soil Erosion in Tamil](https://www.youtube.com/watch?v=Rt5nK8Bq9Ks) — Tamil Geography News; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Tamil Nadu — Location and Physical Features](https://www.youtube.com/watch?v=Bc9TmVWhKlo) — Pudhuyugam Academy; language not verified. Covers selected concepts; see the topic table below.
+- [Tamil Nadu Tourism — A Journey into Wildlife](https://www.youtube.com/watch?v=BnJkNk-aX5g) — Tamil Nadu Tourism; language not verified. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Bhuvan 2D — explore Tamil Nadu terrain](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) — ISRO / NRSC; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [6.1 Location and Size](#topic-6-1) | [Topic video (language not verified)](https://www.youtube.com/watch?v=Bc9TmVWhKlo) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [6.2 Western Ghats](#topic-6-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=ggdokAgfuUE) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [6.3 The Eastern Ghats](#topic-6-3) | [Topic video (language not verified)](https://www.youtube.com/watch?v=WUJoiV-vsT8) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [6.4 Plateaus](#topic-6-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=CXBpK9ef82Y) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [6.5 Plains](#topic-6-5) | [Topic video (language not verified)](https://www.youtube.com/watch?v=Bc9TmVWhKlo) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [6.6 Drainage](#topic-6-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=CXBpK9ef82Y) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [6.7 Climate](#topic-6-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=lfAdMZNuZYg) | [Lesson activities](#interactive-resources) |
+| [6.8 Soils of Tamil Nadu](#topic-6-8) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=lfAdMZNuZYg) | [Lesson activities](#interactive-resources) |
+| [6.9 Soil Erosion](#topic-6-9) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Rt5nK8Bq9Ks) | [Lesson activities](#interactive-resources) |
+| [6.10 Natural Vegetation](#topic-6-10) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=lfAdMZNuZYg) | [Lesson activities](#interactive-resources) |
+| [6.11 Wild life](#topic-6-11) | [Topic video (language not verified)](https://www.youtube.com/watch?v=BnJkNk-aX5g) | [Lesson activities](#interactive-resources) |
+| [6.12 Natural Disasters in Tamil Nadu](#topic-6-12) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=lfAdMZNuZYg) | [Lesson activities](#interactive-resources) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://tnsdma.tn.gov.in/` | Access not confirmed; failure is not proof of a broken site | — |
+| `http://www.tn.gov.in/ta/Tamil Nadustate` | URL transcription or spacing issue | [Alternative](https://www.india.gov.in/) |
+| `https://www.forests.tn.gov.in` | Access not confirmed; failure is not proof of a broken site | — |
+| `http://www.india-wris.nrsc.gov.in/wrpinfo/ index.php?title=Major_Rivers_Flowing_ in_Tamil_Nadu` | URL transcription or spacing issue | [Alternative](https://www.isro.gov.in/ISRO_EN/River_Basin_Atlas.html) |
+| `http://www.environment.tn.nic.in/` | Access not confirmed; failure is not proof of a broken site | — |
+| `http://agritech.tnau.ac.in/` | Page opened in recent check | [Alternative](https://agritech.tnau.ac.in/) |
+
+<!-- supplemental-resources:end -->

@@ -7,6 +7,10 @@ weight: 22
 summary: "Independent India has been consistently fostering world peace and international cooperation. India abjured military alliances, but has been active in cooperating and co-ordinating with other nations for peace and economic development. As the first Prime Minister of India Jawahar…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Civics Unit 5: India’s International Relations
 
 ## Learning Objectives
@@ -29,29 +33,31 @@ summary: "Independent India has been consistently fostering world peace and inte
 
 **A bad neighbour is a misfortune, as much as a good one is a great blessing.**
 
+– Hesiod
+
 ## Introduction
 
 Independent India has been consistently fostering world peace and international cooperation. India abjured military alliances, but has been active in cooperating and co-ordinating with other nations for peace and economic development. As the first Prime Minister of India Jawaharlal Nehru stated “We can neither be absolutely dependent or independent, but we live in a world of interdependence.”
 
 India would prefer a peaceful, wealthy neighbourhood responsive to its own needs and wishes. India has always been known as a peace-loving country and has strived hard to champion the cause of peace in the world. For the country to progress in an adequate manner, the maintenance of international relations has been regarded as an important area. Being a country with a huge population, India is surrounded by many neighbouring countries with whom she has tried to maintain friendly and good neighbourly relations.
 
-– Hesiod
-
 ![](assets/page_001_picture_003.png)
 
 **Neighbouring Countries of India** (Not to Scale)
 
-## 5.1 India and Its Neighbours
+<a id="topic-5-1"></a>
+
+## 5.1 India and Its Neighbours
 
 India’s position is unique in its neighbourhood. India’s neighbours had been a part of a homogenous culture prevailing in the Indian subcontinent for last five thousand years.
 
-- India is a vast country with Pakistan and Afghanistan to the northwest
+- India is a vast country with Pakistan and Afghanistan to the northwest
 
-- China, Nepal, Bhutan to the north
+- China, Nepal, Bhutan to the north
 
-- Bangladesh to the east
+- Bangladesh to the east
 
-- Myanmar to the far east
+- Myanmar to the far east
 
 - Sri Lanka (from southeast) and Maldives (from southwest) are two countries that lie close to India separated by the Indian Ocean. India has cordial historical, religious, economic, ethnic and linguistic relationship with all of these countries. Let us know about India’s relations with its neighbours.
 
@@ -99,29 +105,13 @@ Maldives is located south of Lakshadweep Islands in the Indian Ocean. The relati
 
 India’s second largest border is shared with Myanmar (known as Burma till 1989). Four North-Eastern Indian states – Arunachala Pradesh, Nagaland, Manipur and Mizoram – also share their borders with Myanmar. Myanmar is India’s gateway to South East Asia. India is building the Kaladan Multi-Model Transit Transport, a road-river-port cargo transport project to link Kolkata to Sittwe in Myanmar. A project aiming to connect Kolkata with Ho Chi Minh City on the South Sea for the formation of an economic zone will have a road pass through Myanmar, Cambodia and Vietnam and work on the first phase connecting Guwahati with Mandalay is currently underway. Myanmar is an important partner in our energy needs for petroleum and natural gas. Some of the Indian companies such as Essar, GAIL and ONGC Videsh Ltd. have invested in Myanmar’s energy sector.
 
-![](assets/page_004_picture_001.png)
+![Original textbook diagram](assets/source-en-p287-figure-1.png)
 
 ### India and Nepal
 
-Nepal is a natural buff er between India and China. Being a small landlocked country, Nepal depends on India for economic support and transit facilities. India shares borders in fi ve Indian states – – Sikkim, West Bengal, Bihar, Uttar Pradesh and Uttarakhand – with Nepal. People residing in the border districts on both sides share deeper cultural bonds. Indian fi rms are the biggest investors in Nepal. India provides substantial fi nancial and technical development assistance with the focus on infrastructure, irrigation, health, energy projects and community development. India built the 204-kilometre long Mahendra Raj Marg to link Kathmandu and India. Nepal is endowed with fast-fl owing rivers and its terrain is ideal for hydroelectric power generation. India has taken up the work of 5600 MW Pancheshwar project, which remained stalled for 18 years aft er agreement. Nepali and Indian people visit each other’s country for religious pilgrimage. Pashupati and Janakpur are traditional centres in Nepal whereas Varanasi and the four Dhams (Badrinath, Puri, Dwaraka and Rameshwaram) are important pilgrimage destinations in India. Th e bond of friendship further increased when India included Nepalese language in the VIII
+Nepal is a natural buffer between India and China. Being a small landlocked country, Nepal depends on India for economic support and transit facilities. India shares borders in five Indian states – – Sikkim, West Bengal, Bihar, Uttar Pradesh and Uttarakhand – with Nepal. People residing in the border districts on both sides share deeper cultural bonds. Indian firms are the biggest investors in Nepal. India provides substantial financial and technical development assistance with the focus on infrastructure, irrigation, health, energy projects and community development. India built the 204-kilometre long Mahendra Raj Marg to link Kathmandu and India. Nepal is endowed with fast-flowing rivers and its terrain is ideal for hydroelectric power generation. India has taken up the work of 5600 MW Pancheshwar project, which remained stalled for 18 years after agreement. Nepali and Indian people visit each other’s country for religious pilgrimage. Pashupati and Janakpur are traditional centres in Nepal whereas Varanasi and the four Dhams (Badrinath, Puri, Dwaraka and Rameshwaram) are important pilgrimage destinations in India. The bond of friendship further increased when India included Nepalese language in the VIII
 
-![](assets/page_004_picture_002.png)
 
-![](assets/page_004_picture_003.png)
-
-![](assets/page_004_picture_004.png)
-
-![](assets/page_004_picture_005.png)
-
-![](assets/page_004_picture_006.png)
-
-![](assets/page_004_picture_007.png)
-
-![](assets/page_004_picture_008.png)
-
-![](assets/page_004_picture_009.png)
-
-![](assets/page_004_picture_010.png)
 
 schedule of the Constitution. A joint hydropower project is being built on the Sharda River. This power plant helps both India and Nepal with respect to electricity production and irrigation facilities. From the environmental perspective, there are a number of tiger reserves along Indo- Nepal border. The governments of India and Nepal have signed three sister-city agreements for twinning of Kathmandu-Varanasi, Lumbini- Bodhgaya and Janakpur-Ayodhya.
 
@@ -141,7 +131,9 @@ India has cultural, historical and religious ties with Sri Lanka. Separated by t
 
 Ashoka had sent his son Mahinda and daughter Sangamitra to Ceylon (Sri Lanka) for the propagation of Buddhism. Chola kings Rajaraja I and Rajendra I conquered the northern part of Ceylon.
 
-## 5.2 India’s Relationships with Developed Countries
+<a id="topic-5-2"></a>
+
+## 5.2 India’s Relationships with Developed Countries
 
 A developed country is a sovereign state that has a highly developed economy and advanced technological infrastructure relative to other less industrialised nations.
 
@@ -182,6 +174,8 @@ In the manufacturing sector Japan announced its co-operation of training 30,000 
 In 2017, the first four JIMs were started in the states of Gujarat, Karnataka, Rajasthan and Tamil Nadu and JEC (two Japanese Endowed Courses in engineering colleges) was established in Andhra Pradesh.
 
 Recent initiatives include the establishment of three India-Japan Joint Laboratories in the area of information and communication technology (Internet of Things, Artificial Intelligence and Big Data Analytics).
+
+<a id="topic-5-3"></a>
 
 ## 5.3 India and West Asia
 
@@ -227,6 +221,8 @@ One of the oldest maritime trading routes ran from ancient Sumeria via Bahrain t
 
 In medieval times, comments a noted scholar M.S. Agwani, “the Indian expertise in medicine, mathematics and astronomy was highly valued by Arab and Iranian scholars who eventually made it part of their own intellectual traditions.”
 
+<a id="topic-5-4"></a>
+
 ## 5.4 India and International Organisations
 
 India is a potential superpower and has a growing international infl uence all around the world. Being a newly industrialised country, India has a great history of collaboration with several countries. It has acted as prominent member of several international organisations and has been a founding member of some. India is a member of formal groupings like UNO, NAM, SAARC, G20 and the Commonwealth.
@@ -263,21 +259,21 @@ India is actively engaged in general economic diplomacy, which is evident in the
 
 **Objectives of BRICS**
 
-- To achieve regional development
+- To achieve regional development
 
-- It acts as a bridge between developed and developing countries
+- It acts as a bridge between developed and developing countries
 
-- To contribute extensively to development of humanity
+- To contribute extensively to development of humanity
 
-- To establish a more equitable and fair world
+- To establish a more equitable and fair world
 
-- Boost intra BRICS trade in their local currencies to increase trade cooperation and cope with the current international financial crisis
+- Boost intra BRICS trade in their local currencies to increase trade cooperation and cope with the current international financial crisis
 
-- To promote the technological information exchange among the member states
+- To promote the technological information exchange among the member states
+
+- To enhance inclusive economic growth that will lead to an increase in the creation of jobs, fight against poverty and accelerate the economic transformation of members.
 
 The acronym BRICS was coined by Jim O’Neill, a famous British economist. He predicted that by year 2050 Brazil, Russia, India and China would become bigger than the six most industrialised nations in dollar terms and would completely change the power dynamics of the last 300 years.
-
-- To enhance inclusive economic growth that will lead to an increase in the creation of jobs, fight against poverty and accelerate the economic transformation of members.
 
 **The Financial Architecture of BRICS**
 
@@ -305,15 +301,15 @@ There are three categories of memberships: Founder Members, Full Members and Ass
 
 **OPEC’s Mission**
 
-- To coordinate oil policies in its member countries
+- To coordinate oil policies in its member countries
 
-- Help stabilise oil markets
+- Help stabilise oil markets
 
-- To secure fair and stable income to petroleum producers
+- To secure fair and stable income to petroleum producers
 
-- An efficient, economic and regular supply of oil to consuming nations
+- An efficient, economic and regular supply of oil to consuming nations
 
-- A fair return on capital to those investing in the petroleum industry
+- A fair return on capital to those investing in the petroleum industry
 
 **How does OPEC help other countries?**
 
@@ -373,151 +369,190 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 | bifurcation | to divide into two parts |
 | surveillance | close observation |
 
+![GLOSSARY](assets/source-en-p294-glossary-1.png)
+
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. McMahon Line is a border between a) India and Burma b) India and Nepal c) India and China d) India and Bhutan
+1. McMahon Line is a border between
+
+    a) India and Burma
+
+    b) India and Nepal
+
+    c) India and China
+
+    d) India and Bhutan
 
 2. India is not a member of which of the following
 
-1) G20
+    1) G20
+    2) ASEAN
+    3) SAARC
+    4) BRICS
 
-2) ASEAN
+    a) 2 only
 
-3) SAARC
+    b) 2 and 4
 
-4) BRICS a) 2 only b) 2 and 4 c) 2, 4 and 1 d) 1, 2 and 3
+    c) 2, 4 and 1
 
-3. OPEC is a) An international insurance Co.
+    d) 1, 2 and 3
 
-b) An international sports club c) An Organisation of Oil Exporting
+3. OPEC is
 
-Countries d) An international company
+    a) An international insurance Co.
+
+    b) An international sports club
+
+    c) An Organisation of Oil Exporting Countries
+
+    d) An international company
 
 4. With which country does India share its longest land border?
 
-a) Bangladesh b) Myanmar c) Afghanistan d) China
+    a) Bangladesh
+
+    b) Myanmar
+
+    c) Afghanistan
+
+    d) China
 
 5. Match the following and choose the correct answer form the codes given below.
 
-i) Salma Dam
+    | Item | Left column | Right column |
+    |---|---|---|
+    | i | Salma Dam | 1. Bangladesh |
+    | ii | Farakka accord | 2. Nepal |
+    | iii | Chukha hydroelectric project | 3. Afghanistan |
+    | iv | Sharda River project | 4. Bhutan |
 
-- 1. Bangladesh ii) Farakka accord
+    a) 3 1 4 2
 
-- 2. Nepal iii) Chukha hydroelectric project
+    b) 3 1 2 4
 
-- 3. Afghanistan iv) Sharda River project
+    c) 3 4 1 2
 
-- 4. Bhutan a) 3 1 4 2 b) 3 1 2 4 c) 3 4 1 2 d) 4 3 2 1
+    d) 4 3 2 1
 
-6. How many countries share its border with
+6. How many countries share its border with India?
 
-India?
+    a) 5
 
-a) 5 b) 6 c) 7 d) 8
+    b) 6
+
+    c) 7
+
+    d) 8
 
 7. Which two island countries are India’s neighbours?
 
-a) Sri Lanka and Andaman island b) Maldieves and Lakshadweep island c) Maldieves and Nicobar island d) Sri Lanka and Maldieves
+    a) Sri Lanka and Andaman island
+
+    b) Maldives and Lakshadweep island
+
+    c) Maldives and Nicobar island
+
+    d) Sri Lanka and Maldives
 
 8. Which Indian state is surrounded by three countries?
 
-a) Arunachal Pradesh b) Meghalaya c) Mizoram d) Assam
+    a) Arunachal Pradesh
+
+    b) Meghalaya
+
+    c) Mizoram
+
+    d) Assam
 
 9. How many Indian states have their boundary with Nepal?
 
-a) Five b) Four c) Three d) Two
+    a) Five
 
-10. Who drew up the borders for independent
+    b) Four
 
-Pakistan?
+    c) Three
 
-a) Lord Mountbatten b) Sir Cyril Radcliffe c) Clement Atlee d) None of the above.
+    d) Two
+
+10. Who drew up the borders for independent Pakistan?
+
+    a) Lord Mountbatten
+
+    b) Sir Cyril Radcliffe
+
+    c) Clement Atlee
+
+    d) None of the above.
 
 **II Fill in the blanks**
 
 1. ____________ is a small Himalayan kingdom.
 
-2. India’s gateway to South East Asia is
-
-____________.
+2. India’s gateway to South East Asia is ____________.
 
 3. A strip of land ____________, belongs to India on West Bengal and Bangladesh border.
 
 4. ____________ is known as the Land of thunderbolt.
 
-**III Consider the following statement and**
+**III Consider the following statement and tick the appropriate answer**
 
-**tick the appropriate answer**
+1. The Kaladan transport project by India and Myanmar consists of which of the following modes of transport?
 
-1. The Kaladan transport project by India and
+    1. Roads
+    2. Railways
+    3. Shipping
+    4. Inland water transport
 
-Myanmar consists of which of the following modes of transport?
+    Select the correct answer using the codes given below
 
-1. Roads
+    a) 1, 2 and 3 only
 
-2. Railways
+    b) 1, 3 and 4 only
 
-3. Shipping
+    c) 2, 3 and 4 only
 
-4. Inland water transport
+    d) 1, 2, 3 and 4
 
-Select the correct answer using the codes given below a) 1, 2 and 3 only b) 1, 3 and 4 only c) 2, 3 and 4 only d) 1, 2, 3 and 4
+2. Assertion (A): India and France launched International Solar Alliance.
 
-2. Assertion (A): India and France launched
+    Reason (R): It was done to bring together countries between Tropic of Cancer and Tropic of Capricorn for co-operation of solar energy.
 
-International Solar Alliance.
+    a) A is correct and R is the correct explanation of A
 
-Reason (R): It was done to bring together countries between Tropic of Cancer and Tropic of Capricorn for co-operation of solar energy.
+    b) A is correct and R is not the correct explanation of A
 
-a) A is correct and R is the correct explanation of A b) A is correct and R is not the correct explanation of A c) A is wrong and R is correct d) Both are wrong
+    c) A is wrong and R is correct
+
+    d) Both are wrong
 
 **IV Match the following**
 
-1. Brandix
-
-- Vienna
-
-2. COMCASA
-
-- Japan
-
-3. Shinkansen system - Shanghai
-
-4. BRICS
-
-- USA
-
-5. OPEC
-
-- Garment city in Vishakapatnam
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Brandix | Vienna |
+| 2 | COMCASA | Japan |
+| 3 | Shinkansen system | Shanghai |
+| 4 | BRICS | USA |
+| 5 | OPEC | Garment city in Vishakapatnam |
 
 **V Give short answers**
 
 1. Name the neighbouring countries of India.
 
-2. Write a short note on Strategic partnership
+2. Write a short note on Strategic partnership Agreement (SPA).
 
-Agreement (SPA).
+3. What do you know about Kaladan Multi – Model Transit Transport?
 
-3. What do you know about Kaladan Multi –
+4. What is the role of Japan India Institute of Manufacturing (JIM)?
 
-Model Transit Transport?
-
-4. What is the role of Japan India Institute of
-
-Manufacturing (JIM)?
-
-5. How do you assess the importance of
-
-Chabahar agreement?
+5. How do you assess the importance of Chabahar agreement?
 
 6. Mention the member countries of BRICS.
 
-7. List out any five global groupings in which
-
-India is a member.
+7. List out any five global groupings in which India is a member.
 
 **VI Answer in detail**
 
@@ -525,9 +560,7 @@ India is a member.
 
 2. Mention OPEC missions and how does it help other countries?
 
-3. Highlight
-
-India and International organisation with special reference to any three India’s global groupings.
+3. Highlight India and International organisation with special reference to any three India’s global groupings.
 
 **VII Project and activity**
 
@@ -567,10 +600,57 @@ Oxford University Press, India (2018)
 
 ### INTERNET RESOURCES
 
-1. https://en.wikipedia.org/wiki/Foreign_ relations_of_India#Europe
+1. https://en.wikipedia.org/wiki/Foreign_relations_of_India#Europe
 
 2. https://www.un.org/en/
 
 3. https://mnoal.org/
 
 4. https://brics.ibge.gov.br/
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [India's World: West Asia Crisis and India](https://www.youtube.com/watch?v=R8EK4Nk7ONk) — Sansad TV; English. Covers selected concepts; see the topic table below.
+- [United Nations and its Organs](https://www.youtube.com/watch?v=4PnwHs803PI) — Study with Sudhir; English. Covers selected concepts; see the topic table below.
+- [Do All Nations Work with International Organisations?](https://www.thenational.academy/teachers/lessons/do-all-nations-work-with-international-organisations) — Oak National Academy; English. Covers selected concepts; see the topic table below.
+- [The Big Picture — India–Sri Lanka Relations](https://www.youtube.com/watch?v=f11HoPQ7nPU) — Sansad TV; English. Covers selected concepts; see the topic table below.
+- [Perspective — India–USA Dialogue](https://www.youtube.com/watch?v=y75N6FJO8lg) — Sansad TV; English. Covers selected concepts; see the topic table below.
+- [Class 10 \| இந்தியாவின் சர்வதேச உறவுகள் \| அலகு 5 \| பகுதி 5 \| KalviTV](https://www.youtube.com/watch?v=JqKqfp1zpkA) — KalviTVOfficial; Tamil explanation.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Asia countries — locate India's neighbours](https://www.geoguessr.com/vgp/3167) — Seterra / GeoGuessr; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [5.1 India and Its Neighbours](#topic-5-1) | [Topic video (English)](https://www.youtube.com/watch?v=f11HoPQ7nPU) | [Topic activity](https://www.geoguessr.com/vgp/3167) |
+| [5.2 India’s Relationships with Developed Countries](#topic-5-2) | [Topic video (English)](https://www.youtube.com/watch?v=y75N6FJO8lg) | [Lesson activities](#interactive-resources) |
+| [5.3 India and West Asia](#topic-5-3) | [Topic video (English)](https://www.youtube.com/watch?v=R8EK4Nk7ONk) | [Topic activity](https://www.geoguessr.com/vgp/3167) |
+| [5.4 India and International Organisations](#topic-5-4) | [Topic video (English)](https://www.youtube.com/watch?v=4PnwHs803PI) | [Lesson activities](#interactive-resources) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://en.wikipedia.org/wiki/Foreign_ relations_of_India#Europe` | URL transcription or spacing issue | [Alternative](https://www.mea.gov.in/foreign-relations.htm) |
+| `https://www.un.org/en/` | Access not confirmed; failure is not proof of a broken site | — |
+| `https://mnoal.org/` | Access not confirmed; failure is not proof of a broken site | — |
+| `https://brics.ibge.gov.br/` | Access not confirmed; failure is not proof of a broken site | — |
+
+<!-- supplemental-resources:end -->

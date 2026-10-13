@@ -1,0 +1,585 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-13",
+  "source_pdf": "/Users/apple/Downloads/Class_10_Social_Science_Tamil_2025_Edition-www.tntextbooks.in.pdf",
+  "reviewed_full_pdf_pages": [
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326
+  ],
+  "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+  "expected_file_sha256": "f907d2fee573d927aa676cc9e878f76cf7f1e66cec916ac3d007e699ee01790e",
+  "teacher_approval": false,
+  "findings": [
+    {
+      "id": "gdp321-split-figure-caption",
+      "pdf_pages": [
+        321
+      ],
+      "bbox_normalized": [
+        0.12,
+        0.203,
+        0.48,
+        0.232
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "### இந்தியாவில் மொத்த உள்நாட்டு உற்பத்தியில்\n\n### வெவ்வேறு துறைகளின் பங்களிப்பு",
+      "expected_sha256": "525297df917989c5f111e34b46cbcfb1462cc305b00c8639be0ece19a6106523",
+      "replacement": "### இந்தியாவில் மொத்த உள்நாட்டு உற்பத்தியில் வெவ்வேறு துறைகளின் பங்களிப்பு",
+      "current_occurrences": 1,
+      "kind": "broken_caption",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp321-growth-word",
+      "pdf_pages": [
+        321
+      ],
+      "bbox_normalized": [
+        0.12,
+        0.56,
+        0.48,
+        0.773
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "பொருளாதார ளர்ச்சி என்பது",
+      "expected_sha256": "f549460955bac77ff47c22debf9a92357203b8b0c467102a8e010965bf1ae9d7",
+      "replacement": "பொருளாதார வளர்ச்சி என்பது",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp321-trade-word",
+      "pdf_pages": [
+        321
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.45,
+        0.88,
+        0.691
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "நெருக்கமான ர்த்தகக் கொள்கையை",
+      "expected_sha256": "c89351ef9a79dbf768b6d2b8451a4bee77768ad5688f1c2f7a347d740fa369a8",
+      "replacement": "நெருக்கமான வர்த்தகக் கொள்கையை",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp321-growth-path-word",
+      "pdf_pages": [
+        321
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.69,
+        0.88,
+        0.824
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "இந்திய ளர்ச்சிப் பாதையின்",
+      "expected_sha256": "19c302c5e72989a216610811aa4d8412ae44664095b45354295bf22b3fa6aadc",
+      "replacement": "இந்திய வளர்ச்சிப் பாதையின்",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp322-table-growth-word",
+      "pdf_pages": [
+        322
+      ],
+      "bbox_normalized": [
+        0.55,
+        0.174,
+        0.879,
+        0.28
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "உற்பத்தியில் ளர்ச்சியைக் கருத்தில்",
+      "expected_sha256": "e5fab192446c42ebf39cd60d1a01f2a179a304bd4f99bc70a3737f6266e3a4b0",
+      "replacement": "உற்பத்தியில் வளர்ச்சியைக் கருத்தில்",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp322-table-broad-concept",
+      "pdf_pages": [
+        322
+      ],
+      "bbox_normalized": [
+        0.55,
+        0.28,
+        0.879,
+        0.326
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "ஒரு “பரந்த ருத்து”",
+      "expected_sha256": "552d49ae85c7ef97da44c39c9fa69060f2da72008fe2f5a4c52fdb5578d86a51",
+      "replacement": "ஒரு “பரந்த கருத்து”",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp322-table-developed",
+      "pdf_pages": [
+        322
+      ],
+      "bbox_normalized": [
+        0.3,
+        0.45,
+        0.551,
+        0.48
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "| ளர்ந்த்த நாடுகள் | ளர்ந்து வருகின்ற நாடுகள் |",
+      "expected_sha256": "92d82fd12076a22f3d644a5c63ea5f11815d9675c05cb88c397786c02d5f23d9",
+      "replacement": "| வளர்ந்த நாடுகள் | வளர்ந்து வருகின்ற நாடுகள் |",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp322-income",
+      "pdf_pages": [
+        322
+      ],
+      "bbox_normalized": [
+        0.12,
+        0.697,
+        0.48,
+        0.825
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "தனிநபர் ருமானம்",
+      "expected_sha256": "125f4f2d4c0f525158fcc8fd15d7f3a5d466257f4991a8f17fe51b74b5e9e57a",
+      "replacement": "தனிநபர் வருமானம்",
+      "current_occurrences": 2,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "note": "Exactly 2 occurrences, both in visually reviewed PDF322 paragraph; replace both. No broad global rule inferred."
+    },
+    {
+      "id": "gdp322-revenue",
+      "pdf_pages": [
+        322
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.67,
+        0.88,
+        0.71
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "நடுத்தர ருவாய் நாடுகளில்",
+      "expected_sha256": "72d1da0fd502f5315a649b92523c3cab94607bfa8f805a14bbba616f35a401c7",
+      "replacement": "நடுத்தர வருவாய் நாடுகளில்",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp322-demographic-age",
+      "pdf_pages": [
+        322
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.789,
+        0.88,
+        0.86
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "35 யதிற்கு உட்பட்ட",
+      "expected_sha256": "100fa427d76ac19b7555db781e5b3c6dd0b8e12a9d9a2f26473e25e2a548c78a",
+      "replacement": "35 வயதிற்கு உட்பட்ட",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp323-hdi-adult",
+      "pdf_pages": [
+        323
+      ],
+      "bbox_normalized": [
+        0.13,
+        0.22,
+        0.469,
+        0.26
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "யது வந்தோரின் கல்வியறிவு",
+      "expected_sha256": "f4405efa668ae85701d3208c660988f0dd9d322681e4f6e48ef608571ab112c2",
+      "replacement": "வயது வந்தோரின் கல்வியறிவு",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp323-hdi-increased",
+      "pdf_pages": [
+        323
+      ],
+      "bbox_normalized": [
+        0.13,
+        0.374,
+        0.469,
+        0.404
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "0.640 ஆக உயர்ந்த்தது.",
+      "expected_sha256": "506fd1f5ec3c5d58cd1ec1ea5557e53d4e609ed5f16a214c7bb7f59be7b30d61",
+      "replacement": "0.640 ஆக உயர்ந்தது.",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp323-gnh-point-boundary",
+      "pdf_pages": [
+        323
+      ],
+      "bbox_normalized": [
+        0.13,
+        0.828,
+        0.879,
+        0.906
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "4. நல்ல ஆட்சித் திறன் உளவியல் நலன்",
+      "expected_sha256": "9c8017c3f42145e5406679d8c71f046eabae3dbccd91e3247238af857071a342",
+      "replacement": "4. நல்ல ஆட்சித் திறன்\n\nஉளவியல் நலன்",
+      "current_occurrences": 1,
+      "kind": "merged_list_paragraph",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp323-agriculture-heading",
+      "pdf_pages": [
+        323
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.236,
+        0.879,
+        0.264
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "1. வேளாண் கொள்கை உள்நாட்டு",
+      "expected_sha256": "782dadd48207cdab1b9ad0f1f249a092a797eb1bbf4ac4b1722c53a533514102",
+      "replacement": "### 1. வேளாண் கொள்கை\n\nஉள்நாட்டு",
+      "current_occurrences": 1,
+      "kind": "merged_heading",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp323-agriculture-resources",
+      "pdf_pages": [
+        323
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.349,
+        0.879,
+        0.372
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "இயற்கை ளங்கள்",
+      "expected_sha256": "a134110c16dba64fb2c24ef51470290f60309bd567f3ad4a378729abb115320d",
+      "replacement": "இயற்கை வளங்கள்",
+      "current_occurrences": 1,
+      "kind": "source_transcription_error",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp323-industry-heading",
+      "pdf_pages": [
+        323
+      ],
+      "bbox_normalized": [
+        0.52,
+        0.522,
+        0.879,
+        0.553
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "2. தொழில்துறைக் கொள்கை தொழில்துறை",
+      "expected_sha256": "664b97419e520a550bee4882963e092867961f32a560edef9d290e8f7a87eb64",
+      "replacement": "### 2. தொழில்துறைக் கொள்கை\n\nதொழில்துறை",
+      "current_occurrences": 1,
+      "kind": "merged_heading",
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp324-source-reading-order-and-missing-letters",
+      "pdf_pages": [
+        324
+      ],
+      "bbox_normalized": [
+        0.12,
+        0.09,
+        0.879,
+        0.903
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "1948லிருந்து பல தொழில் துறை கொள்கைகள் பெரிய அளவிலான தொழிற்சாலைகளுக்காக ஏற்படுத்தப்பட்டன. எடுத்துக்காட்டாக, சில தொழில் துறை கொள்கைகள்: ஜவுளித் தொழில் கொள்கை, சர்க்கரைத் தொழில் கொள்கை, தொழில் துறை ளர்ச்சி விலைக் கொள்கை, சிறு தொழில்\n\n## பாடச்சுருக்கம்\n\n- ஓர் ஆண்டில் ஒரு நாட்டில் உற்பத்தி செய்யப்படுகின்ற பண்டங்கள் மற்றும் பணிகளின் மொத்த மதிப்பே மொத்த உள்நாட்டு உற்பத்தி (GDP)\n\n- இந்தியப் பொருளாதாரத்தை மூன்று துறைகளாக வகைப்படுத்தலாம். அவை வேளாண்துறை தொழில்கள் துறை மற்றும் பணிகள் துறை.\n\n- தேய்மானம் : அதிக பயன்பாட்டின் காரணமாக பொருள்கள் தேய்மானம் அடைதல் அல்லது பழமையாதல் போன்றவைகளால் சொத்தின் பணமதிப்பு குறைவதாகும்.\n\nருமானம் : ஒரு குறிப்பிட்ட காலத்திற்குள் சம்பாதித்த அல்லது சம்பாதிக்காத பணம் அல்லது பிற ருவாய்களாகும்.\n\n- மொத்த மதிப்புக் கூடுதல் (GVA): ஒரு பொருளாதாரத்தில் தொழில் அல்லது சேவைத் துறையில் உற்பத்தி செய்யப்பட்ட பண்டங்கள் மற்றும் பணிகளின் மதிப்பாகும்.\n\n### கலைச்சொற்கள்\n\n| தேய்மானம் | Depreciation | The process of lossing value |\n|---|---|---|\n| இடைநிலை | Intermediate | Being between two other related things |\n| சந்தை விலை | Market Price | A price that is likely to be paid for something |\n| இறுதிப் பொருள்கள் | Final Goods | A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs |\n| லவை | Composition | the nature of something's ingredients or constituents; the way in which a whole or mixture is made up |\n| பங்களிப்பு | Contribution | a gift or payment to a common fund or collection. |\n| தடுமாற்றத்தினை | Staggering | continue in existence or operation uncertainly or precariously. |\n\nதொழிற்கொள்கை மற்றும் தொழில் துறை தொழிலாளர் கொள்கை போன்றவைகளாகும்.\n\n3. புதிய பொருளாதாரக் கொள்கை\n\n1990களின் ஆரம்பத்தில் இந்தியாவின் பொருளாதாரம் கணிசமான கொள்கை மாற்றங்களுக்கு உட்பட்டது. இந்த புதிய பொருளாதார சீர்திருத்தம் பொதுவாக, LPG அல்லது தாராளமயமாக்கல், தனியார் மயமாக்கல் மற்றும் உலகமயமாக்கல் என அழைக்கப்படுகிறது. இந்த பொருளாதார சீர்திருத்தங்கள், நாட்டின் ஒட்டு மொத்த பொருளாதார வளர்ச்சியை ஒரு குறிப்பிடத் தக்க வகையில் முன்னேற்றமடையச் செய்தது.\n\n",
+      "expected_sha256": "4b3637482edebb5760f4c8678ffb0e90f7ad9d3cec5b8da8fee98bb269d13b8b",
+      "replacement": "1948லிருந்து பல தொழில் துறை கொள்கைகள் பெரிய அளவிலான தொழிற்சாலைகளுக்காக ஏற்படுத்தப்பட்டன. எடுத்துக்காட்டாக, சில தொழில் துறை கொள்கைகள்: ஜவுளித் தொழில் கொள்கை, சர்க்கரைத் தொழில் கொள்கை, தொழில் துறை வளர்ச்சி விலைக் கொள்கை, சிறு தொழில் தொழிற்கொள்கை மற்றும் தொழில் துறை தொழிலாளர் கொள்கை போன்றவைகளாகும்.\n\n### 3. புதிய பொருளாதாரக் கொள்கை\n\n1990களின் ஆரம்பத்தில் இந்தியாவின் பொருளாதாரம் கணிசமான கொள்கை மாற்றங்களுக்கு உட்பட்டது. இந்த புதிய பொருளாதார சீர்திருத்தம் பொதுவாக, LPG அல்லது தாராளமயமாக்கல், தனியார் மயமாக்கல் மற்றும் உலகமயமாக்கல் என அழைக்கப்படுகிறது. இந்த பொருளாதார சீர்திருத்தங்கள், நாட்டின் ஒட்டு மொத்த பொருளாதார வளர்ச்சியை ஒரு குறிப்பிடத் தக்க வகையில் முன்னேற்றமடையச் செய்தது.\n\n## பாடச்சுருக்கம்\n\n- ஓர் ஆண்டில் ஒரு நாட்டில் உற்பத்தி செய்யப்படுகின்ற பண்டங்கள் மற்றும் பணிகளின் மொத்த மதிப்பே மொத்த உள்நாட்டு உற்பத்தி (GDP)\n\n- இந்தியப் பொருளாதாரத்தை மூன்று துறைகளாக வகைப்படுத்தலாம். அவை வேளாண்துறை தொழில்கள் துறை மற்றும் பணிகள் துறை.\n\n- தேய்மானம் : அதிக பயன்பாட்டின் காரணமாக பொருள்கள் தேய்மானம் அடைதல் அல்லது பழமையாதல் போன்றவைகளால் சொத்தின் பணமதிப்பு குறைவதாகும்.\n\n- வருமானம் : ஒரு குறிப்பிட்ட காலத்திற்குள் சம்பாதித்த அல்லது சம்பாதிக்காத பணம் அல்லது பிற வருவாய்களாகும்.\n\n- மொத்த மதிப்புக் கூடுதல் (GVA): ஒரு பொருளாதாரத்தில் தொழில் அல்லது சேவைத் துறையில் உற்பத்தி செய்யப்பட்ட பண்டங்கள் மற்றும் பணிகளின் மதிப்பாகும்.\n\n### கலைச்சொற்கள்\n\n| தேய்மானம் | Depreciation | The process of lossing value |\n|---|---|---|\n| இடைநிலை | Intermediate | Being between two other related things |\n| சந்தை விலை | Market Price | A price that is likely to be paid for something |\n| இறுதிப் பொருள்கள் | Final Goods | A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs |\n| கலவை | Composition | the nature of something's ingredients or constituents; the way in which a whole or mixture is made up |\n| பங்களிப்பு | Contribution | a gift or payment to a common fund or collection. |\n| தடுமாற்றத்தினை | Staggering | continue in existence or operation uncertainly or precariously. |\n\n",
+      "current_occurrences": 1,
+      "kind": "reading_order_reconstruction",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "note": "Restore industrial policy continuation + section3 before summary and glossary. Source page324 spans left paragraph to top-right continuation, then section3 right; summary/glossary beneath. English glossary source spelling lossing preserved."
+    },
+    {
+      "id": "gdp325-326-exercises-complete-numbering",
+      "pdf_pages": [
+        325,
+        326
+      ],
+      "bbox_normalized": [
+        0.12,
+        0.09,
+        0.879,
+        0.91
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "### பயிற்சி\n\n### I சரியான விடையைத் தேர்ந்தெடுக்கவும்\n\n1. GNP யின் சமம் அ) பணவீக்கத்திற்காக சரிசெய்யப்பட்ட NNP ஆ) பணவீக்கத்திற்காக சரிசெய்யப்பட்ட GDP இ) GDP மற்றும் வெளிநாட்டில் ஈட்டப்பட்ட நிகர சொத்து வருமானம் ஈ) NNP மற்றும் வெளிநாட்டில் ஈட்டப்பட்ட நிகர சொத்து வருமானம்\n\n2. நாட்டு வருமானம் அளவிடுவது அ) பணத்தின் மொத்தமதிப்பு ஆ) உற்பத்தியாளர் பண்டத்தின் மொத்த மதிப்பு இ) நுகர்வு பண்டத்தின் மொத்த மதிப்பு ஈ) பண்டங்கள் மற்றும் பணிகளின் மொத்த மதிப்பு\n\n3. முதன்மைத் துறை இதனை உள்ளடக்கியது அ) வேளாண்மை ஆ) தானியங்கிகள் இ) வர்த்தகம் ஈ) வங்கி\n\n4. ________ முறையில் ஒவ்வொரு இடைநிலை பண்டத்தின் மதிப்பை கூட்டும்போது, இறுதிப் பண்டத்தின் மதிப்பை கணக்கிடலாம். அ) செலவு முறை ஆ) மதிப்பு கூட்டு முறை இ) வருமான முறை ஈ) நாட்டு வருமானம்\n\n5. பணிகள் துறையில் நடப்பு விலையில் மொத்த மதிப்பு கூடுதல் 2018 - 19இல் ________ லட்சம் கோடி என மதிப்பிடப்பட்டுள்ளது. அ) 91.06 ஆ) 92.26 இ) 80.07 ஈ) 98.29\n\n6. வேளாண் பண்டங்களின் உற்பத்தியில் இந்தியா ________ பெரிய உற்பத்தியாளர் ஆகும். அ) 1 வது ஆ) 3 வது இ) 4 வது ஈ) 2வது\n\n7. இந்தியாவில் சாரசரி ஆயுட்காலம் ________ ஆண்டுகள் ஆகும்.\n\nஅ) 65 ஆ) 60 இ) 70 ஈ) 55 8. கீழ்க்காண்பற்றில் எது வர்த்தக கொள்கை? அ) நீர்பாசன கொள்கை ஆ) இறக்குமதி மற்றும் ஏற்றுமதி கொள்கை இ) நிலச் சீர்திருத்தக் கொள்கை ஈ) கூலிக் கொள்கை\n\n### II கோடிட்ட இடங்களை நிரப்புக\n\n1. இந்தியாவில் ________ துறை முதன்மை துறையாகும்.\n\n2. ________ மக்களின் வாழ்க்கைத் தரத்தை உணர்த்தும் ஒரு கருவியாகும்\n\n3. இரண்டாம் துறையை வேறுவிதமான ________ துறை என அழைக்கலாம். III பொருத்துக\n\n| 1. | மின்சாரம் / எரிவாயு மற்றும் நீர் | - | நாட்டு வருமானம் / மக்கள் தொகை |\n|---|---|---|---|\n| 2. | விலைக் கொள்கை | - | மொத்த உள்நாட்டு உற்பத்தி |\n| 3. | GST | - | தொழில் துறை |\n| 4. | தலா ருமானம் | - | வேளாண்மை |\n| 5. | C+I+G+(X-M) | - | பண்டம் மற்றும் பணிகள் மீதானவரி |\n\n### IV கீழ்க்காணும் வினாக்களுக்கு குறுகிய விடையளி\n\n1. நாட்டு வருமானம் - வரையறு.\n\n2. மொத்த உள்நாட்டு உற்பத்தி என்றால் என்ன ?\n\n3. GDPயின் முக்கியத்துவத்தை எழுதுக\n\n4. தனி நபர் வருமானம் என்றால் என்ன ?\n\n5. மதிப்புக் கூட்டுமுறையை எடுத்துக்காட்டுடன் வரையறு\n\n6. இந்தியாவின் பொருளாதாரக் கொள்கைகளின் பெயர்களை எழுதுக.\n\n7. சிறு குறிப்பு வரைக.\n\n1) மொத்த தேசிய மகிழ்ச்சி (GNH) 2) மனித மேம்பாட்டுக் குறியீடு (HDI) V கீழ்க்காணும் வினாக்களுக்கு விரிவான விடையளி 1. நாட்டு ருமானத்தை கணக்கிடுவதற்கு தொடர்புடைய பல்வேறு கருத்துக்களை விவரி. 2. GDPஐ கணக்கிடும் முறைகள் யாவை? அவைகளை விவரி. 3. பொருளாதார ளர்ச்சிக்கும், முன்னேற்றத்திற்கும் இடையேயுள்ள ஏதேனும் ஐந்து வேறுபாடுகளைக் கூறுக.\n\n4. கீழ்க்காணும் பொருளாதாரக் கொள்கைகளை விவரி. 1) வேளாண் கொள்கை 2) தொழிற் கொள்கை 3) புதிய பொருளாதாரக் கொள்கை\n\n### VI செய்முறைகளும் செயல்பாடுகளும்\n\n1. தமிழ்நாட்டின் GDP புள்ளி விவரங்களை சேகரித்து கர்நாடகா மற்றும் கேரளா மாநிலங்களுடன் ஒப்பிடுக.\n\n2. தமிழ்நாட்டின் வேலை வாய்ப்பு வளர்ச்சிப் பற்றிய புள்ளி விவரங்களை சேகரிக்கக் கூறுக.\n\n### மேற்கோள் நூல்கள்\n\n1. Sankaran Indian Economy (problems, policies, and development).\n\n2. Ramesh Singh Indian Economy (10th Edition).\n\n3. Ministry of Statistics and Implementation Planning Commission. Government of India.\n\n### இணையதள வளங்கள்\n\n1. http://en.wikipedia.org\n\n2. http://www.statisticstimes.com\n\n## இணையச் செயல்பாடு செயல்முறை\n\nகீழ்க்காணும் உரலி / விரைவுக் குறியீட்டைப் பயன்படுத்தி இச்செயல்பாட்டிற்கான இணையப் பக்கத்திற்க்குச் செல்லவும்.\n\nலது பக்கம் கொடுக்கப்பட்டுள்ள ‘Real GDP Growth’ உள்ளே சென்று ‘ India’ வை சொடுக்கி இந்தியாவின் மொத்த உள்நாட்டு உற்பத்தியின் வளர்ச்சி பற்றி தெரிந்துகொள்ளலாம்.\n\n### உரலி: https://www.imf.org/external/datamapper/datasets/WEO/1\n\n![](assets/page_012_picture_001.png)\n\n\n<!-- supplemental-resources:start -->\n\n<a id=\"learning-resources\"></a>\n\n## கூடுதல் கற்றல் வளங்கள்\n\nஇவை பாடநூலுக்கு துணையான வெளித்தள வளங்கள். மூலப் பாடநூலின் உரையும் புள்ளிவிவரங்களும் மேலே தனியாக உள்ளன.\n\n**இணைப்புகள் சோதிக்கப்பட்ட நாள்: 12 அக்டோபர் 2026.** காணொலிகளின் தலைப்பும் வெளியீட்டாளரும் தேடல் பதிவுகளில் உறுதிப்படுத்தப்பட்டன; காணொலி இயக்கம் முழுமையாகச் சோதிக்கப்படவில்லை. வெளித்தளப் பயிற்சிகளின் விடைகள் பாடநூலின் அதிகாரப்பூர்வ விடைகளாகக் கருதப்படவில்லை.\n\n### காணொலிகள்\n\n- [Class 10 \\| மொத்த உள்நாட்டு உற்பத்தி மற்றும் அதன் வளர்ச்சி \\| Kalvi Tv](https://www.youtube.com/watch?v=-RcwhtCq7ac) — KalviTVOfficial; தமிழ்.\n- [Gross Domestic Product Chapter 1 — Full Summary — Tamil Explanation](https://www.youtube.com/watch?v=D2V1pLVa5YQ) — Matcha Kalai; தமிழ். சில துணைத்தலைப்புகளை மட்டும் உள்ளடக்கும் கூடுதல் வளம்.\n- [National income, GDP, per-capita income and value-added method](https://www.youtube.com/watch?v=1iqhPVIUfKo) — HTAS How To Approach Schooling; தமிழ்.\n\n<a id=\"interactive-resources\"></a>\n\n### இணையச் செயல்பாடுகள்\n\n- [IMF Data Mapper — India's real GDP growth](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) — International Monetary Fund; ஆங்கிலம்.\n\n### தலைப்புவாரியான வளங்கள்\n\n“பாடக் காணொலி” மற்றும் “பாடப் பயிற்சி” முழுப் பாடத்துக்கான வளங்கள். “காணொலி தேடல்” தனித்தலைப்புக்கான தேடல் இணைப்பு; குறிப்பிட்ட காணொலி உறுதிப்படுத்தப்பட்டதாக அது குறிக்காது.\n\n| பாடத் தலைப்பு | காணொலி | செயல்பாடு |\n|---|---|---|\n| [1.1 நாட்டு வருமானம்](#topic-1-1) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [பாடத்தின் செயல்பாடுகள்](#interactive-resources) |\n| [1.2 மொத்த உள்நாட்டு உற்பத்தி (GDP)](#topic-1-2) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [தலைப்புச் செயல்பாடு](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |\n| [1.3 மொத்த உள்நாட்டு உற்பத்தியின் இயைபு](#topic-1-3) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [பாடத்தின் செயல்பாடுகள்](#interactive-resources) |\n| [1.4 இந்தியாவில் மொத்த உள்நாட்டு உற்பத்தியில் வெவ்வேறு துறைகளின் பங்களிப்பு](#topic-1-4) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [தலைப்புச் செயல்பாடு](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |\n| [1.5 பொருளாதார வளர்ச்சி மற்றும் முன்னேற்றம்](#topic-1-5) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [தலைப்புச் செயல்பாடு](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |\n| [1.6 வளர்ச்சிப் பாதையில் GDP மற்றும் வேலைவாய்ப்பு](#topic-1-6) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [பாடத்தின் செயல்பாடுகள்](#interactive-resources) |\n| [1.7 GDPயின் வளர்ச்சி மற்றும் பொருளாதார கொள்கைகள்](#topic-1-7) | [தலைப்புக் காணொலி](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [தலைப்புச் செயல்பாடு](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |\n\n### முந்தைய உரலிகளின் சோதனை\n\nகீழே களஞ்சியத்தில் முன்பு இருந்த உரலிகளின் நிலையும் மாற்று வளங்களும் உள்ளன. பாடநூலில் அச்சிடப்பட்ட உரலியை உறுதிப்படுத்த [மூலப் பக்கங்களை]({{< relref \"source.md\" >}}) பார்க்கவும்.\n\n| முந்தைய உரலி | சோதனை நிலை | மாற்று வளம் |\n|---|---|---|\n| `http://en.wikipedia.org` | இணைப்பு திறக்கிறது | — |\n| `http://www.statisticstimes.com` | இணைப்பு திறக்கிறது | [மாற்று இணைப்பு](https://www.imf.org/external/datamapper/datasets/WEO) |\n| `https://www.imf.org/external/datamapper/datasets/WEO/1` | இணைப்பு திறக்கிறது | [மாற்று இணைப்பு](https://www.imf.org/external/datamapper/datasets/WEO) |\n\n<!-- supplemental-resources:end -->\n",
+      "expected_sha256": "3760bd45f1a71787d2a04c19d554a97b3a7f326ccd4832102477c28a099b5f85",
+      "replacement": "### பயிற்சி\n\n![பயிற்சி விரைவுக் குறியீடு — PDF பக்கம் 325](assets/page_011_picture_001.png)\n\n### I சரியான விடையைத் தேர்ந்தெடுக்கவும்\n\n1. GNP யின் சமம்\n   - அ) பணவீக்கத்திற்காக சரிசெய்யப்பட்ட NNP\n   - ஆ) பணவீக்கத்திற்காக சரிசெய்யப்பட்ட GDP\n   - இ) GDP மற்றும் வெளிநாட்டில் ஈட்டப்பட்ட நிகர சொத்து வருமானம்\n   - ஈ) NNP மற்றும் வெளிநாட்டில் ஈட்டப்பட்ட நிகர சொத்து வருமானம்\n2. நாட்டு வருமானம் அளவிடுவது\n   - அ) பணத்தின் மொத்தமதிப்பு\n   - ஆ) உற்பத்தியாளர் பண்டத்தின் மொத்த மதிப்பு\n   - இ) நுகர்வு பண்டத்தின் மொத்த மதிப்பு\n   - ஈ) பண்டங்கள் மற்றும் பணிகளின் மொத்த மதிப்பு\n3. முதன்மைத் துறை இதனை உள்ளடக்கியது\n   - அ) வேளாண்மை\n   - ஆ) தானியங்கிகள்\n   - இ) வர்த்தகம்\n   - ஈ) வங்கி\n4. ___________ முறையில் ஒவ்வொரு இடைநிலை பண்டத்தின் மதிப்பை கூட்டும்போது, இறுதிப் பண்டத்தின் மதிப்பை கணக்கிடலாம்.\n   - அ) செலவு முறை\n   - ஆ) மதிப்புக் கூட்டு முறை\n   - இ) வருமான முறை\n   - ஈ) நாட்டு வருமானம்\n5. பணிகள் துறையில் நடப்பு விலையில் மொத்த மதிப்பு கூடுதல் 2018–19இல் ___________ லட்சம் கோடி என மதிப்பிடப்பட்டுள்ளது.\n   - அ) 91.06\n   - ஆ) 92.26\n   - இ) 80.07\n   - ஈ) 98.29\n6. வேளாண் பண்டங்களின் உற்பத்தியில் இந்தியா ___________ பெரிய உற்பத்தியாளர் ஆகும்.\n   - அ) 1வது\n   - ஆ) 3வது\n   - இ) 4வது\n   - ஈ) 2வது\n7. இந்தியாவில் சராசரி ஆயுட்காலம் ___________ ஆண்டுகள் ஆகும்.\n   - அ) 65\n   - ஆ) 60\n   - இ) 70\n   - ஈ) 55\n8. கீழ்க்காண்பவற்றில் எது வர்த்தகக் கொள்கை?\n   - அ) நீர்பாசன கொள்கை\n   - ஆ) இறக்குமதி மற்றும் ஏற்றுமதி கொள்கை\n   - இ) நிலச் சீர்திருத்தக் கொள்கை\n   - ஈ) கூலிக் கொள்கை\n\n### II கோடிட்ட இடங்களை நிரப்புக\n\n1. இந்தியாவில் ___________ துறை முதன்மை துறையாகும்.\n2. ___________ மக்களின் வாழ்க்கைத் தரத்தை உணர்த்தும் ஒரு கருவியாகும்.\n3. இரண்டாம் துறையை வேறுவிதமான ___________ துறை என அழைக்கலாம்.\n\n### III பொருத்துக\n\n| எண் | இடது பக்கம் | வலது பக்கம் |\n|---|---|---|\n| 1 | மின்சாரம் / எரிவாயு மற்றும் நீர் | நாட்டு வருமானம் / மக்கள் தொகை |\n| 2 | விலைக் கொள்கை | மொத்த உள்நாட்டு உற்பத்தி |\n| 3 | GST | தொழில் துறை |\n| 4 | தலா வருமானம் | வேளாண்மை |\n| 5 | C+I+G+(X−M) | பண்டம் மற்றும் பணிகள் மீதானவரி |\n\n### IV கீழ்க்காணும் வினாக்களுக்கு குறுகிய விடையளி\n\n1. நாட்டு வருமானம் – வரையறு.\n2. மொத்த உள்நாட்டு உற்பத்தி என்றால் என்ன?\n3. GDPயின் முக்கியத்துவத்தை எழுதுக.\n4. தனி நபர் வருமானம் என்றால் என்ன?\n5. மதிப்புக் கூட்டுமுறையை எடுத்துக்காட்டுடன் வரையறு.\n6. இந்தியாவின் பொருளாதாரக் கொள்கைகளின் பெயர்களை எழுதுக.\n7. சிறு குறிப்பு வரைக.\n   1. மொத்த தேசிய மகிழ்ச்சி (GNH)\n   2. மனித மேம்பாட்டுக் குறியீடு (HDI)\n\n### V கீழ்க்காணும் வினாக்களுக்கு விரிவான விடையளி\n\n1. நாட்டு வருமானத்தை கணக்கிடுவதற்கு தொடர்புடைய பல்வேறு கருத்துக்களை விவரி.\n2. GDPஐ கணக்கிடும் முறைகள் யாவை? அவைகளை விவரி.\n3. பொருளாதார வளர்ச்சிக்கும், முன்னேற்றத்திற்கும் இடையேயுள்ள ஏதேனும் ஐந்து வேறுபாடுகளைக் கூறுக.\n4. கீழ்க்காணும் பொருளாதாரக் கொள்கைகளை விவரி.\n   1. வேளாண் கொள்கை\n   2. தொழிற் கொள்கை\n   3. புதிய பொருளாதாரக் கொள்கை\n\n### VI செய்முறைகளும் செயல்பாடுகளும்\n\n1. தமிழ்நாட்டின் GDP புள்ளி விவரங்களை சேகரித்து கர்நாடகா மற்றும் கேரளா மாநிலங்களுடன் ஒப்பிடுக.\n2. தமிழ்நாட்டின் வேலை வாய்ப்பு வளர்ச்சிப் பற்றிய புள்ளி விவரங்களை சேகரிக்கக் கூறுக.\n\n### மேற்கோள் நூல்கள்\n\n1. Sankaran Indian Economy (problems, policies, and development).\n2. Ramesh Singh Indian Economy (10th Edition).\n3. Ministry of Statistics and Implementation Planning Commission. Government of India.\n\n### இணையதள வளங்கள்\n\n1. http://en.wikipedia.org\n2. http://www.statisticstimes.com\n\n## இணையச் செயல்பாடு\n\nமொத்த உள்நாட்டு உற்பத்தி மற்றும் அதன் வளர்ச்சி: ஓர் அறிமுகம்\n\n### செயல்முறை\n\n- கீழ்க்காணும் உரலி / விரைவுக் குறியீட்டைப் பயன்படுத்தி இச்செயல்பாட்டிற்கான இணையப் பக்கத்திற்குச் செல்லவும்.\n- வலது பக்கம் கொடுக்கப்பட்டுள்ள ‘Real GDP Growth’ உள்ளே சென்று ‘India’ வை சொடுக்கி இந்தியாவின் மொத்த உள்நாட்டு உற்பத்தியின் வளர்ச்சி பற்றி தெரிந்துகொள்ளலாம்.\n\nஉரலி: https://www.imf.org/external/datamapper/datasets/WEO/1\n\n![இணையச் செயல்பாடு விரைவுக் குறியீடு — PDF பக்கம் 326](assets/page_012_picture_001.png)\n",
+      "current_occurrences": 1,
+      "kind": "exercise_reconstruction",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "note": "Visually compared all questions, options, blanks, matching columns, subquestions, practical activities, bibliography, web links and internet-panel procedure. Preserve any parent-added facsimile navigation if replacing against later revision. Existing QR asset images visually checked and complete: 5UGC4 (exercise), XYBJ0 (web activity). Source contains 8 MCQs,3 fill,5 matching,7 short (IV7 has2 subquestions),4 long (V4 has3 subquestions),2 practice. No answers inferred."
+    },
+    {
+      "id": "gdp320-remove-corrupt-duplicate-chart-labels",
+      "pdf_pages": [
+        320
+      ],
+      "bbox_normalized": [
+        0.119,
+        0.088,
+        0.882,
+        0.901
+      ],
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "ளர்ச்சி (%)\n\nஆண்டு\n\n### ஆதாரம்: Statistics times.com\n\nேவளாைம ைற வசாய, காக ம த ெதாைற ரக ம வா சார, எவா,  வழக – ற பய பா ேசைவக கமான பக ைற வதக, ேஹாடக, ேபாவர, தகவ ெதாட ம ஒபர ெதாடபான ேசைவக.\n\n, ய எேட – ெதாைற ேசைவக.\n\nெபா வாக, பாகா – றபக.\n\n",
+      "expected_sha256": "b16f4fc7e28d24aa5730c5f2817ec63350cd226c508ca65f88270aa95b767435",
+      "replacement": "",
+      "current_occurrences": 1,
+      "kind": "garbled_chart_label_extraction",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "note": "Existing source chart crops p320-figure-1/2 visually checked, fully contain labels, legends,axes and captions. This legacy duplicate extraction is garbled and omits source letters; remove it rather than reading as body text."
+    }
+  ],
+  "accepted_prior_repairs": [
+    {
+      "id": "gdp318-320-edit-01",
+      "pdf_page": 318,
+      "replacement_sha256": "fda718c64171f7dfc199fee08ef9713800035814a7f2df42bc518ae1f42bfab9",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-02",
+      "pdf_page": 318,
+      "replacement_sha256": "4b048821ef64e24ede205c7ff01f43e02054402abc14836954eb2f071f2f128a",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-03",
+      "pdf_page": 318,
+      "replacement_sha256": "2f1c3cabb622474f6a3d7a861443765eedeb23cefff49b36cf3627d432cc19cc",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-04",
+      "pdf_page": 318,
+      "replacement_sha256": "795fb659d5014379c438f094fc48a18ae98accb63cac41b11f71891f9b178051",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-05",
+      "pdf_page": 318,
+      "replacement_sha256": "1931d75b5919c7cc342fbe3adde8c42432eb374619eab9f7e239c4bf1001de06",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-06",
+      "pdf_page": 318,
+      "replacement_sha256": "105fe0473d54b882fb5ed447ddefd8b14954d4179e43ec123760d909f0021a50",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-07",
+      "pdf_page": 318,
+      "replacement_sha256": "ab4278c9781af79b9f1aeaf90f81383111d483c83d2b43e6f6700465b094357a",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-08",
+      "pdf_page": 319,
+      "replacement_sha256": "c50d2ecb753f60cba704fb19d011421095d26069e55b07e56ba6b926e0e14bef",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-09",
+      "pdf_page": 319,
+      "replacement_sha256": "27e9910d8c694e03ffb26ad55a26bb904cc40a3e3150d5267e48a9ea9b220716",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-10",
+      "pdf_page": 319,
+      "replacement_sha256": "8777a07b2703fe8a48cbbdcd9b5e4010278764ed491cb7fbb0d0a4e4970cc2c3",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-11",
+      "pdf_page": 319,
+      "replacement_sha256": "8bbec54a2fe22177ee095044a713e85c12faaf516d4578bea4e276f9fb338925",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-12",
+      "pdf_page": 320,
+      "replacement_sha256": "bfd26775ceb63b0df67b52b94be84aea35960b1d51a2c768f90e0827f0657b91",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-13",
+      "pdf_page": 320,
+      "replacement_sha256": "bf235b777f88c17372f4080bbf40c91152ba800d95720bf43c7ed2360fc1a678",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-14",
+      "pdf_page": 320,
+      "replacement_sha256": "10f2f59101e1bb4a083bf4a5f75766fb03110f7105b435535e93582d7b233df6",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "gdp318-320-edit-15",
+      "pdf_page": 320,
+      "replacement_sha256": "5e8d92608d33f5936ed5041a3970d3bd3d6edf004bbc18b450315d3fe6d8d877",
+      "named_material_accurate": true,
+      "replacement_present": true,
+      "teacher_approval": false
+    }
+  ],
+  "prior_asset_verification": [
+    {
+      "id": "p318-figure-1",
+      "signs_labels_captions_complete": true,
+      "source_visual_comparison_complete": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "p320-figure-1",
+      "signs_labels_captions_complete": true,
+      "source_visual_comparison_complete": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "p320-figure-2",
+      "signs_labels_captions_complete": true,
+      "source_visual_comparison_complete": true,
+      "teacher_approval": false
+    }
+  ],
+  "prior_numeric_table_verified": {
+    "pdf_page": 319,
+    "rows": 13,
+    "all_39_numeric_cells_match_source": true,
+    "source_caption_and_source_present": true
+  },
+  "source_chart_total_verified": {
+    "pdf_page": 320,
+    "values": [
+      15.87,
+      15.87,
+      29.73,
+      2.7,
+      16.83,
+      2.67,
+      7.54,
+      54.4,
+      18.62,
+      20.96,
+      14.82
+    ],
+    "sum": 200.01,
+    "editorial_note_accurate": true,
+    "note": "Source includes aggregates and subcomponents in one pie; keep note limited to observed 200.01% total."
+  },
+  "table_order": {
+    "pdf_page": 322,
+    "source_layout": "Comparison table occupies top of page322; government-role paragraph continues beneath. Current index inserts table mid-sentence at boundary மக்களின் / ஒரே பாதுகாப்பாளராகவும்.",
+    "suggestion": "Optionally join government paragraph after the table as continuous prose. Current source text retained, no replacement proposed here to avoid overlap with minor table-word findings."
+  },
+  "coverage_limits": [
+    "All remaining GDP pages321–326 visually inspected in full, but only named snippets and complete exercise reconstruction are accepted.",
+    "Prior GDP318–32015 replacements independently compared; current report actually contains15 entries; approval remains scoped to those named changed materials and3 source crops.",
+    "Source spelling lossing, numeric table inconsistencies and source GNP wording மொத்த நிகர are preserved; no modern factual update or external verification.",
+    "Whole-section patches contain exact current snippets+hashes; apply source ordering repair after individual earlier-page fixes or exclude overlapping replacements.",
+    "No index edits performed; no teacher signoff."
+  ]
+}

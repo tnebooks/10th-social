@@ -7,6 +7,10 @@ weight: 6
 summary: "After defeating the French and their Indian allies in the three Carnatic Wars, the East India Company began to consolidate and extend its power and influence. However, local kings and feudal chieftains resisted this. The first resistance to East India Company’s territorial aggra…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 6: Early Revolts against British Rule in Tamil Nadu
 
 ![](assets/page_001_picture_001.png)
@@ -29,7 +33,9 @@ After defeating the French and their Indian allies in the three Carnatic Wars, t
 
 Marudhu brothers, and Dheeran Chinnamalai. Known as the Palayakkarars Wars, the culmination of which was Vellore Revolt of 1806, this early resistance to British rule in Tamil Nadu is dealt with in this lesson.
 
-## 6.1 Resistance of Regional Powers against the British
+<a id="topic-6-1"></a>
+
+## 6.1 Resistance of Regional Powers against the British
 
 ### (a) Palayams and Palayakkarars
 
@@ -43,9 +49,11 @@ The Palayakkarars were free to collect revenue, administer the territory, settle
 
 Among the 72 Palayakkarars, created by the Nayak rulers, there were two blocs, namely the prominent eastern and the western Palayams. The eastern Palayams were Sattur, Nagalapuram, Ettayapuram, and Panchalankurichi and the prominent western palayams were Uthumalai, Thalavankottai, Naduvakurichi, Singampatti, Seithur.
 
-## 6.2 Palayakkarars’ Revolt 1755-1801
+<a id="topic-6-2"></a>
 
-### (a) Revolt of Puli Thevar
+## 6.2 Palayakkarars’ Revolt 1755-1801
+
+### (a) Revolt of Puli Thevar
 
 ### (1755–1767)
 
@@ -83,47 +91,35 @@ Ondiveeran: Ondiveeran led one of the army units of Puli Thevar. Fighting by the
 
 Born in 1730 to the Raja Sellamuthu Sethupathy of Ramanathapuram, Velunachiyar was the only daughter of this royal family. The king had no male heir. The royal family brought up the princess Velunachiyar, training her in martial arts like valari, stick fighting and to wield weapons. She was also adept in horse riding and archery, apart from her proficiency in English, French and Urdu.
 
-At the age of 16, Velunachiyar was married to Muthu Vadugar, the Raja of Sivagangai, and had a daughter by name Vellachinachiar. In 1772, the Nawab of Arcot and the
+At the age of 16, Velunachiyar was married to Muthu Vadugar, the Raja of Sivagangai, and had a daughter by name Vellachinachiar. In 1772, the Nawab of Arcot and the Company troops under the command of Lt. Col. Bon Jour stormed the Kalaiyar Kovil Palace. In the ensuing battle Muthu Vadugar was killed. Velunachiyar escaped with her daughter and lived under the protection of Gopala Nayak at Virupachi near Dindigul for eight years.
 
 ![](assets/page_003_picture_001.png)
 
-Company troops under the command of Lt. Col. Bon Jour stormed the Kalaiyar Kovil Palace. In the ensuing battle Muthu Vadugar was killed. Velunachiyar escaped with her
-
-Velunachiyar
+**Velunachiyar**
 
 **Gopala Nayak, the Palayakkarar of**
 
 Virupachi: Gopala Nayak spearheaded the famous Dindigul League, which was formed with Lakshmi Nayak of Manaparai and Poojai Nayak of Devadanapatti. He drew inspiration from Tipu Sultan who sent a deputation to show his camaraderie. He led the resistance against the British from Coimbatore and later joined Oomaidurai, Kattabomman’s brother. He put up a fierce fight at Aanamalai hills where the local peasants gave him full support. But Gopala Nayak was overpowered by the British forces in 1801.
 
-daughter and lived under the protection of Gopala Nayak at Virupachi near Dindigul for eight years.
-
 During her period in hiding, Velunachiyar organised an army and succeeded in securing an alliance with not only Gopala Nayakar but Hyder Ali as well. Dalavay (military chief) Thandavarayanar wrote a letter to Sultan Hyder Ali on behalf of Velunachiyar asking for 5,000 infantry and 5,000 cavalry to defeat the English. Velunachiyar explained in detail in Urdu all the problems she had with East India Company. She conveyed her strong determination to fight the English. Impressed by her courage, Hyder Ali ordered his Commandant Syed in Dindigul fort to provide the required military assistance.
 
-Velunachiyar employed agents for gathering intelligence to find where the British had stored their ammunition. With military assistance from Gopala Nayak and
+Velunachiyar employed agents for gathering intelligence to find where the British had stored their ammunition. With military assistance from Gopala Nayak and Hyder Ali she recaptured Sivagangai. She was crowned as Queen with the help of Marudhu brothers. She was the first female ruler or queen to resist the British colonial power in India.
 
-Kuyili, a faithful friend of Velunachiyar, is said to have led the unit of women soldiers named after Udaiyaal. Udaiyaal was a shepherd girl who was killed for not divulging information
+Kuyili, a faithful friend of Velunachiyar, is said to have led the unit of women soldiers named after Udaiyaal. Udaiyaal was a shepherd girl who was killed for not divulging information on Kuyili. Kuyili is said to have walked into the British arsenal (1780) after setting herself on fire, thus destroying all the ammunition.
 
 ![](assets/page_003_picture_002.png)
 
-Kuyili on Kuyili. Kuyili is said to have walked into the British arsenal (1780) after setting herself on fire, thus destroying all the ammunition.
+**Kuyili**
 
-Hyder Ali she recaptured Sivagangai. She was crowned as Queen with the help of Marudhu brothers. She was the first female ruler or queen to resist the British colonial power in India.
-
-### (c) Rebellion of Veerapandya
+### (c) Rebellion of Veerapandya
 
 ### Kattabomman 1790-1799
 
-Veerapandya Kattabomman became the Palayakkarar of Panchalankurichi at the age of thirty on the death of his father, Jagavira Pandya
+Veerapandya Kattabomman became the Palayakkarar of Panchalankurichi at the age of thirty on the death of his father, Jagavira Pandya Kattabomman. The Company’s administrators, James London and Colin Jackson, had considered him a man of peaceful disposition. However, soon several events led to conflicts between Veerapandya Kattabomman and the East India Company. The Nawab, under the provisions of a treaty signed in 1781, had assigned the revenue of the Carnatic to the Company to be entirely under their management and control during the war with Mysore Sultan. One-sixth of the revenue was to be allowed to meet the expenses of Nawab and his family. The Company had thus gained the right to collect taxes from Panchalankurichi. The Company appointed its Collectors to collect taxes from all the palayams. The Collectors humiliated the palayakkarars and adopted force to collect the taxes. This was the bone of contention between the English and Kattabomman.
 
 ![](assets/page_004_picture_001.png)
 
-Kattabomman. The
-
-Company’s administrators,
-
-James London and Colin Jackson, had considered him a man of peaceful disposition. However,
-
-Kattabomman soon several events led to conflicts between Veerapandya Kattabomman and the East India Company. The Nawab, under the provisions of a treaty signed in 1781, had assigned the revenue of the Carnatic to the Company to be entirely under their management and control during the war with Mysore Sultan. One-sixth of the revenue was to be allowed to meet the expenses of Nawab and his family. The Company had thus gained the right to collect taxes from Panchalankurichi. The Company appointed its Collectors to collect taxes from all the palayams. The Collectors humiliated the palayakkarars and adopted force to collect the taxes. This was the bone of contention between the English and Kattabomman.
+**Kattabomman**
 
 ### Confrontation with Jackson
 
@@ -185,7 +181,7 @@ In May 1801, the English attacked the rebels in Thanjavur and Tiruchirappalli. T
 
 The suppression of the Palayakkarars rebellion of 1799 and 1800–1801 resulted in the liquidation of all the local chieftains of Tamil Nadu. Under the terms of the Carnatic Treaty of 31 July 1801, the British assumed direct control over Tamilagam and the Palayakarar system came to an end with the demolition of all forts and disbandment of their army.
 
-### (e) Dheeran Chinnamalai
+### (e) Dheeran Chinnamalai
 
 ### (1756–1805)
 
@@ -198,6 +194,8 @@ Dheeran Chinnamalai
 Kongu region. As this region was under the control of the Mysore Sultan, tax was collected by Tipu’s Diwan Mohammed Ali. Once, when the Diwan was returning to Mysore with the tax money, Theerthagiri blocked his way and confiscated all the tax money. He let Mohammed Ali go by instructing him to tell his Sultan that “Chinnamalai”, who is between Sivamalai and Chennimalai, was the one who took away taxes. Thus he gained the name “Dheeran Chinnamalai”. The offended Diwan sent a contingent to attack Chinnamalai and both the forces met and fought at the Noyyal river bed. Chinnamalai emerged victorious.
 
 After Tipu’s death Dheeran Chinnamalai built a fort and fought the British without leaving the place. Hence the place is called Odanilai. He launched guerrilla attacks and evaded capture. Finally the English captured him and his brothers and kept them in prison in Sankagiri. When they were asked to accept the rule of the British, they refused. So they were hanged at the top of the Sankagiri Fort on 31 July 1805.
+
+<a id="topic-6-3"></a>
 
 ## 6.3 Vellore Revolt 1806
 
@@ -251,6 +249,10 @@ Gillespie are detailed.
 
 ### GLOSSARY
 
+![Source glossary, PDF page 77, including Tamil meanings](assets/source_glossary_pdf_077.png)
+
+![Source glossary, PDF page 78, including Tamil meanings](assets/source_glossary_pdf_078.png)
+
 | Term | Meaning |
 |---|---|
 | protege | dependent, a person who receives support from a patron |
@@ -268,101 +270,102 @@ Gillespie are detailed.
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. Who was the first Palayakkarars to resist the East India Company’s policy of territorial aggrandizement? a) Marudhu brothers b) Puli Thevar c) Velunachiyar d) Veerapandya Kattabomman
+1. Who was the first Palayakkarars to resist the East India Company’s policy of territorial aggrandizement?
+   - a) Marudhu brothers
+   - b) Puli Thevar
+   - c) Velunachiyar
+   - d) Veerapandya Kattabomman
 
-2. Who had established close relationship with the three agents of Chanda Sahib? a) Velunachiyar b) Kattabomman c) Puli Thevar d) Oomai thurai
+2. Who had established close relationship with the three agents of Chanda Sahib?
+   - a) Velunachiyar
+   - b) Kattabomman
+   - c) Puli Thevar
+   - d) Oomai thurai
 
 3. Where was Sivasubramanianar executed?
-
-a) Kayathar b) Nagalapuram c) Virupachi d) Panchalankurichi
+   - a) Kayathar
+   - b) Nagalapuram
+   - c) Virupachi
+   - d) Panchalankurichi
 
 4. Who issued the Tiruchirappalli proclamation of Independence?
-
-a) Marudhu brothers b) Puli Thevar c) Veerapandya Kattabomman d) Gopala Nayak
+   - a) Marudhu brothers
+   - b) Puli Thevar
+   - c) Veerapandya Kattabomman
+   - d) Gopala Nayak
 
 5. When did the Vellore Revolt breakout?
+   - a) 24 May 1805
+   - b) 10 July 1805
+   - c) 10 July 1806
+   - d) 10 September 1806
 
-a) 24 May 1805 b) 10 July 1805 c) 10 July 1806 d) 10 September 1806
+6. Who was the Commander-in-Chief responsible for the new military regulations in Vellore fort?
+   - a) Col. Fancourt
+   - b) Major Armstrong
+   - c) Sir John Cradock
+   - d) Colonel Agnew
 
-6. Who was the Commander-in-Chief responsible for the new military regulations in Vellore fort? a) Col. Fancourt b) Major Armstrong c) Sir John Cradock d) Colonel Agnew
-
-7. Where were the sons of Tipu Sultan sent after the Vellore Revolt? a) Calcutta b) Mumbai c) Delhi d) Mysore
+7. Where were the sons of Tipu Sultan sent after the Vellore Revolt?
+   - a) Calcutta
+   - b) Mumbai
+   - c) Delhi
+   - d) Mysore
 
 **II Fill in the blanks**
 
-1. The Palayakkarars system was put in place in Tamil Nadu by .
+1. The Palayakkarars system was put in place in Tamil Nadu by ________.
 
-2. Velunachiyar and her daughter were under the protection of for eight years.
+2. Velunachiyar and her daughter were under the protection of ________ for eight years.
 
-3. Bannerman deputed to convey his message, asking Kattabomman to surrender.
+3. Bannerman deputed ________ to convey his message, asking Kattabomman to surrender.
 
-4. Kattabomman was hanged to death at
+4. Kattabomman was hanged to death at ________.
 
-.
+5. The Rebellion of Marudhu Brothers was categorized in the British records as the ________.
 
-5. The Rebellion of Marudhu Brothers was categorized in the British records as the
-
-.
-
-6. was declared the new Sultan by the rebels in Vellore Fort.
+6. ________ was declared the new Sultan by the rebels in Vellore Fort.
 
 **III Choose the correct statement**
 
-1. i) The Palayakkarars system was in practice in the Kakatiya Kingdom.
+1.
+    - i) The Palayakkarars system was in practice in the Kakatiya Kingdom.
+    - ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.
+    - iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the Company administration was charged with treachery and hanged in 1764.
+    - iv) Ondiveeran led one of the army units of Kattabomman.
+    - a) (i), (ii) and (iv) are correct
+    - b) (i), (ii) and (iii) are correct
+    - c) (iii) and (iv) are correct
+    - d) (i) and (iv) are correct
 
-ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.
-
-iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the
-
-Company administration was charged with treachery and hanged in 1764.
-
-iv) Ondiveeran led one of the army units of
-
-Kattabomman.
-
-a) (i), (ii) and (iv) are correct b) (i), (ii) and (iii) are correct c) (iii) and (iv) are correct d) (i) and (iv) are correct
-
-2. i) Under Colonel Campbell, the English
-
-Army went along with Mahfuzkhan’s army.
-
-ii) After Muthu Vadugar’s death in Kalaiyar
-
-Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her.
-
-iii) Gopala Nayak spearheaded the famous
-
-Dindigul League.
-
-iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.
-
-a) (i) and (ii) are correct b) (ii) and (iii) are correct c) (ii), (iii) and (iv )are correct d) (i) and (iv) are correct
+2.
+    - i) Under Colonel Campbell, the English Army went along with Mahfuzkhan’s army.
+    - ii) After Muthu Vadugar’s death in Kalaiyar Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her.
+    - iii) Gopala Nayak spearheaded the famous Dindigul League.
+    - iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.
+    - a) (i) and (ii) are correct
+    - b) (ii) and (iii) are correct
+    - c) (ii), (iii) and (iv )are correct
+    - d) (i) and (iv) are correct
 
 3. Assertion (A):Puli Thevar tried to get the support of Hyder Ali and the French.
 
-Reason (R): Hyder Ali could not help Puli Thevar as he was already in a serious conflict with the Marathas.
-
-a) Both (A) and (R) are correct, but (R) is not the correct explanation of (A) b) Both (A) and (R) are wrong c) Both (A) and (R) are correct and (R) is the correct explanation of (A) d) (A) is wrong and (R) is correct
+   Reason (R): Hyder Ali could not help Puli Thevar as he was already in a serious conflict with the Marathas.
+   - a) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
+   - b) Both (A) and (R) are wrong
+   - c) Both (A) and (R) are correct and (R) is the correct explanation of (A)
+   - d) (A) is wrong and (R) is correct
 
 **IV Match the following**
 
-1. Theerthagiri
-
-- Vellore Revolt
-
-2. Gopala Nayak
-
-- Ramalinganar
-
-3. Bannerman
-
-- Dindigul
-
-4. Subedar Sheik Adam
-
-- Odanilai
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Theerthagiri | Vellore Revolt |
+| 2 | Gopala Nayak | Ramalinganar |
+| 3 | Bannerman | Dindigul |
+| 4 | Subedar Sheik Adam | Odanilai |
 
 **V Answer the questions briefly**
 
@@ -370,21 +373,15 @@ a) Both (A) and (R) are correct, but (R) is not the correct explanation of (A) 
 
 2. Identify the Palayams based on the division of east and west.
 
-3. What was the significance of the Battle of
-
-Kalakadu?
+3. What was the significance of the Battle of Kalakadu?
 
 4. What was the bone of contention between the Company and Kattabomman?
 
-5. Highlight the essence of the Tiruchirappalli
-
-Procalamation of 1801.
+5. Highlight the essence of the Tiruchirappalli Procalamation of 1801.
 
 **VI Answer in detail**
 
-1. Attempt an essay of the heroic fight
-
-Veerapandya Kattabomman conducted against the East India Company.
+1. Attempt an essay of the heroic fight Veerapandya Kattabomman conducted against the East India Company.
 
 2. Highlight the tragic fall of Sivagangai and its outcome.
 
@@ -419,3 +416,37 @@ Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.
 டாக்டர். கே.கே. பிள்்ள ளை, தமிழக வரலாறு
 
 - மக்்களும் பண்பாடும், தமிழ்்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம், சென்்ன னை (ஆவணப் பதிப்பு: ஆகஸ்ட் - 2017)
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Early Revolts against British Rule in Tamil Nadu](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [தமிழகத்தில் தொடக்ககால கிளர்ச்சிகள் — Part 1](https://www.youtube.com/watch?v=-Z8n97Xftgo) — EduDeck; Tamil explanation.
+- [Early Revolts against British Rule in Tamil Nadu — Part 1](https://www.youtube.com/watch?v=KueEWmgBHKc) — TIME TO LEARN EASY; Tamil explanation.
+- [Causes & Outbreak of Vellore Revolt — 10th Social](https://www.youtube.com/watch?v=_ow-UOpc9lk) — Vedantu 9th 10th State Board Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Early Revolts against British Rule in Tamil Nadu — chapter quiz](https://test.brainkart.com/topic/history--chapter-6--early-revolts-against-british-rule-in-tamil-nadu-415/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [6.1 Resistance of Regional Powers against the British](#topic-6-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=-Z8n97Xftgo) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-6--early-revolts-against-british-rule-in-tamil-nadu-415/) |
+| [6.2 Palayakkarars’ Revolt 1755-1801](#topic-6-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=-Z8n97Xftgo) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-6--early-revolts-against-british-rule-in-tamil-nadu-415/) |
+| [6.3 Vellore Revolt 1806](#topic-6-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_ow-UOpc9lk) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-6--early-revolts-against-british-rule-in-tamil-nadu-415/) |
+
+<!-- supplemental-resources:end -->

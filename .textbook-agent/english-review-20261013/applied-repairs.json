@@ -1,0 +1,3100 @@
+{
+  "teacher_approval": false,
+  "aids": [],
+  "edits": [
+    {
+      "id": "history-01-exercise",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "91cf525fcd8a2069737d5e0b9244deae71b089ed08bda53a7f47c7a4491fdc9e",
+      "result_snippet_sha256": "336e67030f3616f02bda2094a86e463ac934ecf4659eb0a709f458f121c521dd",
+      "pdf_pages": [
+        20,
+        21
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-01-paris-paragraph-and-caption",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "f757ba4fa9bfec430ae7dd2813a30c1c75d5ffb40e1be0acdff97f266ad0fdd2",
+      "result_snippet_sha256": "e36f1811f49a09984d971df34817f548d5b8de7206b62032a871565366c86a13",
+      "pdf_pages": [
+        13,
+        14
+      ],
+      "kind": "paris-paragraph-and-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-01-marne-and-trench-context",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "210c2c71f7260a4f1749db43884fd0ff3bc3fe8cb786acfb52568ed6f12edfa5",
+      "result_snippet_sha256": "910e99dce50074c3a13d29cad2dffb768164fc91ebc0c9eb7deace47b4a5e9a0",
+      "pdf_pages": [
+        12
+      ],
+      "kind": "marne-and-trench-context",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-01-font-mapping-14",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "d5284df9b8db3b5332ff6a2fd9ae9edcd61eab90f5bf8114c5598e8521578e1a",
+      "result_snippet_sha256": "3c78658693c4581f5b79184634a74601d8b4a5d8de330795a98cf435f57ff6fa",
+      "pdf_pages": [
+        14
+      ],
+      "kind": "font-mapping-14",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-02-exercise",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "46b7fafdc1882081fd2e14be24f17b75664417b959ca3c49009e6f848ac1fd47",
+      "result_snippet_sha256": "f657058fa2e36ce1de206d6f37851170202b495fd9a7fa3d3046de105475cfeb",
+      "pdf_pages": [
+        31,
+        32
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-02-font-mapping-24",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "b15c232a2cf845e5c25397a1a4855a7bd99f12528568593f40144ba0570983e3",
+      "result_snippet_sha256": "d9bcdd94dad55dd29cdf111e639b73f0b6803054519b7031816cb2b81ccb623d",
+      "pdf_pages": [
+        24
+      ],
+      "kind": "font-mapping-24",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-02-font-mapping-25",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "6c1f811a1bfdab588dec9684d2941be40e91c1bafe2c22d761184b70347e382b",
+      "result_snippet_sha256": "b66536db4abeed2805bb48e8707a9815eaf7c4edd1127bf90c6d9c422fb0bb37",
+      "pdf_pages": [
+        25
+      ],
+      "kind": "font-mapping-25",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-02-apartheid-mandela-caption",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "42066252c77e8cc05091d2a9c7ca493970f6e542e11d3216b381371ed036e62e",
+      "result_snippet_sha256": "1b8ebe7751feaa870bc8fcd50a21da88e59b9cdbefdc30cfcdb5a2be1111d459",
+      "pdf_pages": [
+        28
+      ],
+      "kind": "apartheid-mandela-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-03-exercise",
+      "file": "content.en/docs/world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "8b1b0f0a47b8591ee1d500debd8e4e9c696fb7c19b373fe69e3ff1a4edf063f4",
+      "result_snippet_sha256": "8c6e72aa2973bec027865908df5848d419f97cfc244a7c9d009318055a2da793",
+      "pdf_pages": [
+        43,
+        44
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-03-security-council-caption",
+      "file": "content.en/docs/world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "a33bbee2f3eb6353a1eb5f27bf0ee3e069f1640818700862416779c8c7b65754",
+      "result_snippet_sha256": "cb3397df73739c31d356379d292846886e742ae2fcc936c7f74e6ce81ccdb3be",
+      "pdf_pages": [
+        40,
+        41
+      ],
+      "kind": "security-council-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-04-exercise",
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "53c44e1afcad7cfa8c49a113887ecac029a9b972d7277540b90d071c3deef434",
+      "result_snippet_sha256": "0c9a003248550ddf45b7da91f944011d5c4a635c41c59b7901209aee0145ee17",
+      "pdf_pages": [
+        57,
+        58
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-04-arab-israeli-1967-plo-box",
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "507b02e41fd32edee433b7a6a40b132193edde22fb20224d2cc5f7824846e386",
+      "result_snippet_sha256": "1ff1f126cc33c17880cdf36d359c63c8c4062d7564bc49858be7afaa2fd292ca",
+      "pdf_pages": [
+        52
+      ],
+      "kind": "arab-israeli-1967-plo-box",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-04-arab-israeli-1973-captions",
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "6088fc9681a91a9d34fc3c2b67a1ba56a305f0bbff966ad2a8a0607de4f71bca",
+      "result_snippet_sha256": "4d599b3bd880647c325ef52efda79b42e1c97458bf043637155c77c76dd72d18",
+      "pdf_pages": [
+        52,
+        53
+      ],
+      "kind": "arab-israeli-1973-captions",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-05-exercise",
+      "file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "df71039c623cc0607e6c388894465d8f8121190424f4a5a86813c0dd296b56e8",
+      "result_snippet_sha256": "0d58f94295febabf7c47740ae64d6aa338de6e8a8f9f9ddb95826a9d7213dcd8",
+      "pdf_pages": [
+        66,
+        67
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-06-exercise",
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "f95ad99af6d20ad861452a57f19ca27f733badba351c1bd00afa862f172c9b80",
+      "result_snippet_sha256": "7ca2e972aa45d55e093377cda880d2d1ccd9ae0aef3212d31047c2110a03e9bb",
+      "pdf_pages": [
+        78,
+        79,
+        80
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-06-velunachiyar-kuyili-box",
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "e93d985e260429f7bd2f31dba9727bea3c51e8120519cfb4e58f86fc161e16be",
+      "result_snippet_sha256": "64324e7212a8ddc06297e3bf15d43c151f2fa6c2d5f45459b34bf6d67bb0d102",
+      "pdf_pages": [
+        71,
+        72
+      ],
+      "kind": "velunachiyar-kuyili-box",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-06-kattabomman-caption",
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "0f064b21cba312694468bdf61640c5faa228007452a9430f002c81e21deaead5",
+      "result_snippet_sha256": "59a6c5674144a9af87234e53dac6b6b866ab41ced58479a3c165e64fad4a8dbe",
+      "pdf_pages": [
+        72
+      ],
+      "kind": "kattabomman-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-07-exercise",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "94d489abd36e7fb49d5a64ac7ab8439587ed75a422dbfc45ce6f90bcd9b26325",
+      "result_snippet_sha256": "133496042b7818b2627507574d7b4ea9d759b317672e622993458e8db5db51de",
+      "pdf_pages": [
+        92,
+        93
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-07-british-response-continuation-summary",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "0c7375ca5e20520d6aad74e681aff6ce89326c3c87585db16bc9adbf5f877bce",
+      "result_snippet_sha256": "02c3f9fc422c5c9973a9c43c55f063962d8ed3cfc291678556f9eafd74acbac6",
+      "pdf_pages": [
+        91,
+        92
+      ],
+      "kind": "british-response-continuation-summary",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-08-exercise",
+      "file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "76faa096075bd16c8e70bc9310616eb1391ee2d101e3c57bc761a7a4a6e823f8",
+      "result_snippet_sha256": "a008d258ee96a532c9919ecb269334c2a12f1e218cec7ccf558f769e19dc1309",
+      "pdf_pages": [
+        109,
+        110
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-09-exercise",
+      "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "fae8882698317ea65083e26da592e7fb1772038febe6cd730e8730be853bacbc",
+      "result_snippet_sha256": "a815da1d5deb0fbc56b03b9fb54e871a899041bfb9fad3f973fc4e639942b3ae",
+      "pdf_pages": [
+        119,
+        120
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-10-exercise",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "1886ac9e15bacba1d524cfcee167899170b02578a03a5559e91ef8463747904d",
+      "result_snippet_sha256": "2644ae3a1800ca5b8b0667b730ae900272175500ec7b4351d16e4d15ed1bfa33",
+      "pdf_pages": [
+        129,
+        130
+      ],
+      "kind": "exercise",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-001",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "5b85c09db8238516258c73a226f3a123292ed487cd12cf745ee59f0eb5cbd42c",
+      "result_snippet_sha256": "87620a32159e212d7706fe73cfa938356200350d83880eaa15a4ff26b918c9df",
+      "pdf_pages": [
+        135
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-008",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "516dbbe5dcd65b613d821493336959f68320ba49ae3a86b4b3d287300dbe65d4",
+      "result_snippet_sha256": "01ee5f8ff2858c9f2f3864ec39b5e8948656e0a3947854b7b8f826218fd00692",
+      "pdf_pages": [
+        147
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-009",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "867a8b17921227c87f9a504ac8b82afa59a857ca30a3c9c64c590d5a9753be4d",
+      "result_snippet_sha256": "5ba9ee9b716f2237ca1f71745664acb9c3fa9871b46a1d9c50d180a7342aed87",
+      "pdf_pages": [
+        147
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-016",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "c194b65d1f37c4d6814f20c4de7750654b8e2c85a18c9d1635a9b3b3fc3bc3ff",
+      "result_snippet_sha256": "c1f7858eddb12afd96de6ea7cf60346bd3a80e935c295902a530c94ea9edcafa",
+      "pdf_pages": [
+        136
+      ],
+      "kind": "unit_notation",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-021",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "df5673e31fa4936cc345c6f21d1b4370f1292eee7893ccaaa8666915612783ae",
+      "result_snippet_sha256": "da7f4985f2040d429665b2a1b6c5384133e62307f6ecf130309df94f6dfd5e9d",
+      "pdf_pages": [
+        146
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-022",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "06a2221e61839023779ae7e89656adb5ed40784007d5adde295ff970a4708849",
+      "result_snippet_sha256": "0eefdc3cfa29d656efb208eb05188df67697ab7b58edb88407f879dd66431a00",
+      "pdf_pages": [
+        147
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-11-032",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "fe3779e2ecd76d3d10681abcfbb247c3660f33524d808b8cc2dad15e927150fe",
+      "result_snippet_sha256": "10226414cd39d0c1eb71861e39e1f9ffbfb43ad766e83a32c9dfc0137f184125",
+      "pdf_pages": [
+        148
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-002",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "5edf3790f7dd2feedd51bc08cde81ce501e3d05f13aa54ff9f74a2b0af2f8e8b",
+      "result_snippet_sha256": "645282f796065b01215a3eebb3349f51748beafe1d3652373f5cb71798e56522",
+      "pdf_pages": [
+        150
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-010",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "96dc3899e9b064476539ddbb000b9cf9e72d9fb5abcb3a34d85a8d06ebb44048",
+      "result_snippet_sha256": "8e006be5e2a7d44d40aabf3654f4061192942bd4d38ff5dd383e86241ec0f442",
+      "pdf_pages": [
+        157
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-011",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "0a77ef31eaa145f0165b1049f3d9178bb280524ffca73f8a0746515c73d2dbf6",
+      "result_snippet_sha256": "6c17cd64d8d0d82a2a4ce685cbc39938cd5e67424f0122113e69d6170fe15ce0",
+      "pdf_pages": [
+        157
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-017",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "e8d73122ba010d20c01380b6a4013ebf81d4208aac7cf221a4ae6c5fec56a270",
+      "result_snippet_sha256": "3de73c1499469ddfbd38f75cd00223e7e6690ec6103ec00fd0dc6cb59aa58a29",
+      "pdf_pages": [
+        150
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-018",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "6ae63f138ff39384f098ec38af643acada368d2326d43bb8d00dff0a8d2b06c4",
+      "result_snippet_sha256": "d8c193cc00900859d8561aaee11be6fe51d5be4b7337ca9869a37937590f9962",
+      "pdf_pages": [
+        152
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-019",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "dfd69fd56fc48098aa98a7c9963886d2881f65db7c8141fb2af3f77c79cae1e7",
+      "result_snippet_sha256": "7b2b187a300751c63a446573aa92e272ef17bd0732f0f5a6e1d2cf2c014c1fce",
+      "pdf_pages": [
+        150
+      ],
+      "kind": "unit_notation",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-020",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "74842e69080b308fbc6e117bae72d7173ec5b26f653c63a6057431f7ef0fb6a4",
+      "result_snippet_sha256": "f83711b5160bc1523feb48989fc394a3843782a1d201f98f3242bb7e3f1eeaab",
+      "pdf_pages": [
+        150
+      ],
+      "kind": "unit_notation",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-033",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "b22041fb07ec10158c264fb577abd6609d3507a73d7eef0c7cf4d6baf03903f5",
+      "result_snippet_sha256": "997eec32b6459bb267b0ee7d6ae62eaa64a352f4065a6e8d1a194c2ca242a4a3",
+      "pdf_pages": [
+        158
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-12-052",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "bb3b82101c9648a8388c6ede27e2990dbad513ff606d069c9e930e82ac483e2c",
+      "result_snippet_sha256": "6347c54fd692e8d1a1f7f1539b5a72543c67c7c371d69c72fe95b3c8cfb48745",
+      "pdf_pages": [
+        159
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-13-003",
+      "file": "content.en/docs/india-agriculture/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "234e227d3302231f19e5657827bac05d28e6cf034e14c3312accb9a564be0052",
+      "result_snippet_sha256": "bdbaf5cfb696c8145f2cd1b830b2f46e02c6d1247a6b235bab01f7571ca7d1ef",
+      "pdf_pages": [
+        160
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-13-023",
+      "file": "content.en/docs/india-agriculture/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "a8bea2c23c1ba12946029cca8ff2a924ed372b68daf2f316c84624c3f146e60f",
+      "result_snippet_sha256": "79bd58f4a8fa17b7d581af51244a6d203feea39952d683954aa4c228ccc9b7b2",
+      "pdf_pages": [
+        165
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-13-034",
+      "file": "content.en/docs/india-agriculture/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "13561abc1331d40e3633b96a305fd9b0a717fbb19ad53dff98524f65dbbc5f26",
+      "result_snippet_sha256": "2cacee638987b50c0cfd2c0d4f5a377311301ddfcc11192b8c328f25149736ed",
+      "pdf_pages": [
+        174
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-004",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "9a775637b2fa8a8422e62221a951009f4ffe427287309b719ca9ba3dfbf2bfc7",
+      "result_snippet_sha256": "984a4f922910f445765c04c8d8380ad669ee3661b65f514c74659475af0d5103",
+      "pdf_pages": [
+        176
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-024",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "7db6db3b58dcb0b180c22168b1ec361a0ef70d068741cb4e3d5c4b428ab34762",
+      "result_snippet_sha256": "0e75541fbff8eda7a242c098f2aa21e60de804a3595154e437e1c4abcaea0f17",
+      "pdf_pages": [
+        180
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-025",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "680c2c3845d22e4e40cd2c0c60daef58eba115b6768f3df3b371c95d5777ef7d",
+      "result_snippet_sha256": "6f52d610d7e07bebd01ad83914cb78bc44d0d06be19cd3e85259ac9304adf3f2",
+      "pdf_pages": [
+        183
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-035",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "5c9ae6dadd40f441b13aa5b94ba40e5852c3ed6612e09b877d3ad5abca2eaa02",
+      "result_snippet_sha256": "c358b9975a77d9973a51cc816d0bf63fe9e94cdf27b4f51bfd2b200487af0099",
+      "pdf_pages": [
+        190
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-039",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "9673663153645e2036749db514f045a8c6fcfb11b8685e79ecb55bc00902f530",
+      "result_snippet_sha256": "42ea6bf7eda81143e4fb696eea72915a9cc79b67cfca1a45333ac723764e7b24",
+      "pdf_pages": [
+        188
+      ],
+      "kind": "source_printed_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-048",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "b235a47cfe95710817c49bfd65c85f84b95a3f5337ccb16b954c6036da2c1465",
+      "result_snippet_sha256": "579727c37367c0452473a54dd88849681bdbbb573d2478eb23959b923ab357b9",
+      "pdf_pages": [
+        182
+      ],
+      "kind": "missing_source_figure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-14-053",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "342f5b8551ef29623480019ef6cead346f6a34b6811f7e9f42b5e2b98a9324db",
+      "result_snippet_sha256": "273d29a506bdef049b19c20b6e1ede362ed1d34c93243354b3fa894a8766662b",
+      "pdf_pages": [
+        191
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-005",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "4b1c7640dfbd8aac91f4074de9c4f84680d6f1b6d1b546d778ae61cd0f7dae87",
+      "result_snippet_sha256": "e0701494b11470e213a2ccff7d2ae55d37fc4518614a741105f78f45fb873ea6",
+      "pdf_pages": [
+        192
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-012",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "4676ce601c698c12fe23e38b476f4d43871e46acf77fa77368cbb83b5c866681",
+      "result_snippet_sha256": "ede614db7ebb08a591c7a03a164aa7abe00319b4e895b2395c635cb42be946b0",
+      "pdf_pages": [
+        204
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-013",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "2e4151d03895d5501eda5a76a0fc5317c061153513ae4545a1751b69bed8e4e5",
+      "result_snippet_sha256": "1749d8b598ffb9e797525816779ce0169591e0fd7b7294b736a499e7699f4c6b",
+      "pdf_pages": [
+        204
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-026",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "f35408ed0f7f6fc4854564c4ad52253ca34b09753a8809789a579b52bc9f28b7",
+      "result_snippet_sha256": "43dbbb5a3c657d219f3834fbb39b09674783170176a2ee3f0dc4b744ef9b5d75",
+      "pdf_pages": [
+        196
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-029",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "6c4211c7cea76513fe40759d720b23617c3d944d14adaf0294609745fdee6ee5",
+      "result_snippet_sha256": "b702f2c0ebb81bb3f2ac77cb0f655d35c107d21bbe077f1544d0dcec94c41669",
+      "pdf_pages": [
+        204
+      ],
+      "kind": "exercise_blank",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-030",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "08d75988f5648dec1a824a025695e40fad70b3c9006ee7ff6a1be6e6b8328fe1",
+      "result_snippet_sha256": "897da19acd635363311bf11616ebe8608209bf71e8080624c878e07d44b703cf",
+      "pdf_pages": [
+        205
+      ],
+      "kind": "exercise_blank",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-15-036",
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "a1f50f3135a8cc1693ed40f1bb9e0105dce7e482b0f73f5ba780ee5c240a4ce2",
+      "result_snippet_sha256": "fe9a54a948f5dbd4f77fc1d3e0eae4cc976cb02a8c3a341f7f3cd09c25fc21f7",
+      "pdf_pages": [
+        205
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-006",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "b98dfdc9fe197f9c2dde078085f5dfa4ab0933f43430444cadb19b338ca393a0",
+      "result_snippet_sha256": "cfaa22b4869ab649135d5a061e84e17b225f99680bc23af140a8c14d047da300",
+      "pdf_pages": [
+        206
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-014",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "17281a029c28bab089cdb9cd6d9f89e62875c6ab29246d54f0c2e9587db8c3ee",
+      "result_snippet_sha256": "aa944008cf9b021db98302654975ca9ab947d9690e649701ac9f97952574a7ef",
+      "pdf_pages": [
+        221
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-015",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "399103047229b426f2b187128d8a0583d548cedffe3cae0f58b87dd3dd421298",
+      "result_snippet_sha256": "0e45c3a73261159f6a9b7fba14d9d33a5298fd75913b036395f53c800d24209b",
+      "pdf_pages": [
+        221
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-027",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "5a21de343e8631e3c94ee04feeb4cdf80aa58a7489a54bc2aa2b9f4372f20f78",
+      "result_snippet_sha256": "30fcb81dd7eba381831e98d373822ba30c7961d997d92794314b285a44517db1",
+      "pdf_pages": [
+        210
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-028",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "1da374d12bbb1cc7677b7627513dfcab071053d466d97cf14231af63dd1d5f76",
+      "result_snippet_sha256": "bd37f05ab9c5bda5d5171f597293378ab2ec4caf1262fe033c21aa52cf97cc59",
+      "pdf_pages": [
+        213
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-031",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "85233d60843e670162f932415690617bf1db201e54a6fbaf3b21dc4094e75263",
+      "result_snippet_sha256": "a40ba9baec6e941bb824378aee5eb833b38266cde2f7261cea320e383a512683",
+      "pdf_pages": [
+        222
+      ],
+      "kind": "exercise_units",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-037",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "426714c9dbb253ed8b6a9bc811207b648f69537f5307909095b6be766a076711",
+      "result_snippet_sha256": "32d05b32b93769bce66dabebf740f18ea765bf6083879d2cfac6bdb38f2302f2",
+      "pdf_pages": [
+        223
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-049",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "5bc0eec14d56d1e4828bc79359e1c5acf5c427f15ccad793ef572f5384bb1490",
+      "result_snippet_sha256": "114fc9f8681ca872cecad5f206f876c1c7ad88fac7ebb8876b840c48cd82a047",
+      "pdf_pages": [
+        208
+      ],
+      "kind": "missing_source_figure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-050",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "6c6fda6d2adbdd6d3a0202f562005f832d51f4f907cd14f1f06c6d0c7b04cc1c",
+      "result_snippet_sha256": "33d954aa226ced31199ad5da1f05d80467a8b27c12c2d1488ce60e76226c140c",
+      "pdf_pages": [
+        211
+      ],
+      "kind": "missing_source_figure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-16-054",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "78104fc149051a129f1d21b3ca8687239a605a226b64c8a68a6a586d36abd885",
+      "result_snippet_sha256": "67a03a09336d18bc6f0389b8ab32e1118519d04456f13fcaecae21bb2966d8dd",
+      "pdf_pages": [
+        224
+      ],
+      "kind": "heading_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-007",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "228fef98e06770adf153236365c0cc023cb48fb3c71cc8ba887b07ab5f77c603",
+      "result_snippet_sha256": "6cad2675e9fee9096613a1f7e65c47e7aeeb8c0c4d3d22fe731af77beea0cf85",
+      "pdf_pages": [
+        225
+      ],
+      "kind": "list_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-038",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "0ca0192bdcf9ce4945dade1c9a74ddf98ed8bf37c7deeea3316f26bf01b782eb",
+      "result_snippet_sha256": "4571dd62cd91c9db96a4644568d3c0008cd2478c7152d50f617637e309983759",
+      "pdf_pages": [
+        239
+      ],
+      "kind": "exercise_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-040",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "2033dfa9d86c8d4de0f8ecabc0315027b6947776ed7229ea3c4fcbdb4d9bcbb0",
+      "result_snippet_sha256": "49ff83b200f19ab9e3be9d737f4db304d7dced87dec22fa64fcf42502e7a1261",
+      "pdf_pages": [
+        238
+      ],
+      "kind": "reading_order_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-041",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "316055cb433e904cbe9d8efb5c89d7eeec69828d5883b81f27e9322c6baae0be",
+      "result_snippet_sha256": "d548ac67fe188e75f08f12d567a18539f01c5b23ed536282489053f33676a468",
+      "pdf_pages": [
+        241
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-042",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "d5d03a550c6e4c738199f65168aac353c9398e5712c075c03307f81f8d31436e",
+      "result_snippet_sha256": "82d38a14ba15720e93e369632e5791b6b831cbedf3d58b41c717c9771945692a",
+      "pdf_pages": [
+        241
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-043",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "7ba6843040a5adfe7f3d099d4d8348e6de3d1aa60305d8a589b9084493f8cd6f",
+      "result_snippet_sha256": "a7e7457f610f31cecf4d4e235a2b77080b06f23cc3c1c58ae82ed3f7862e6431",
+      "pdf_pages": [
+        241
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-044",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "ebb415b486d87d711c22c072d8d853984f0ef34d720bff29947fc379d1317540",
+      "result_snippet_sha256": "80a31944542b6f25b148260b92a30dcf265aa20904ef6c850e0365f3ddb7cce5",
+      "pdf_pages": [
+        242
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-045",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "d4be5494343ed2dce596c4cb08d1ed2a1ac47a53696d0f076baf15af37eb968e",
+      "result_snippet_sha256": "2f6aa00d0cd58b060d3eb9e46317f2a0def2badc4c7802b9fdfe97988a64476f",
+      "pdf_pages": [
+        243
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-046",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "a513903e947f1a1c60ff60478358f39c94fe93a249fa5ec53c98f26f7de29b9d",
+      "result_snippet_sha256": "0741caf5317c415cb8a46f87e3f37638893cd60811cb08f1a6770587df753717",
+      "pdf_pages": [
+        243
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-047",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "2060e3fce6ba75e2be37ab7e7fe3f6f1eed6dcbaab6b7356a4a395294b6f5104",
+      "result_snippet_sha256": "83993461143d2137124687c28a0ed79604d90d54c7eb8323d8e79bdb01e308f3",
+      "pdf_pages": [
+        243
+      ],
+      "kind": "glossary_structure",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-17-051",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-findings.json",
+      "expected_snippet_sha256": "3569f81f6079b7415934756bd12aab94ad2978fd2e600d94dd1180bbc02ef0ed",
+      "result_snippet_sha256": "3e5a5309b68947b1bb31921fda4bc160e2185a21db00cdc0c1fd944f2ef2a382",
+      "pdf_pages": [
+        236
+      ],
+      "kind": "missing_source_figure",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-07-farazi-caption",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "62aeec17ecaa1a6c1c5167ae3c8bdd3ebe27bc5867ab670070f9b57fb42855d3",
+      "result_snippet_sha256": "cb8fd203cab09c0e8a454dffebb77d73a9b886dd4d53c8b289d5f8ae40972460",
+      "pdf_pages": [
+        82
+      ],
+      "kind": "farazi-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-07-wahhabi-caption",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "1a969f8bbc4f4b536d8d204034a4b9444dd73efcb9c8e4a0a26acd4c37b6dadc",
+      "result_snippet_sha256": "635116152cce4cfd6ba932f2691fa7643c17e5c64dbbab5472ba7a7833b9c08f",
+      "pdf_pages": [
+        82
+      ],
+      "kind": "wahhabi-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-09-mna-caption",
+      "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "506a575b317242844762ef46731fb6c86534dd902bd3165f3691a2ab0627884e",
+      "result_snippet_sha256": "15ac06cd6c2562bed0d47fffe2467214c3a411da0fd08971a4864f6933695bd1",
+      "pdf_pages": [
+        111,
+        112
+      ],
+      "kind": "mna-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-09-rukmani-caption",
+      "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "8aa4ab199e917afe96efa928a9085c934c1a9c8bd27fee468e684f41e6967092",
+      "result_snippet_sha256": "e489f65d0005984db4040e250f46752f81e77c0ca8fd183c644ff5c9d1873f37",
+      "pdf_pages": [
+        117
+      ],
+      "kind": "rukmani-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-10-periyar-caption",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "1f08fa990dcbe551c951b08a6d4959d35f671f9e8223c5f1e1763fdbd125fd63",
+      "result_snippet_sha256": "4ec7f8483fc5ee24af3bee5f9578e2a66a1c8145dd6002167faa9c69bc51233a",
+      "pdf_pages": [
+        125
+      ],
+      "kind": "periyar-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-10-muvalur-caption",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "74daf1193f66769017ca4d530cded6f3f53e1e0a434b112704a8fe3fed136c03",
+      "result_snippet_sha256": "9eea488c8e7f8ba4df844e18f293cf52021d85ee1da440c725cafc687a8dd873",
+      "pdf_pages": [
+        128
+      ],
+      "kind": "muvalur-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-10-thiru-vi-ka-caption",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "352d2fa1b7328fef07d4cecc132cc69d1d4020a9fa66b0f10430ed40f2b716ee",
+      "result_snippet_sha256": "80108178b8ff2000579da1c795acc519fcc671b747f52a561b1b7d78538f2151",
+      "pdf_pages": [
+        122,
+        123
+      ],
+      "kind": "thiru-vi-ka-caption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-10-justice-party-paragraph-and-captions",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "c42d706b995f93432948267d5d3ac893183a0b3e94b63f019d6216ce5252c0c4",
+      "result_snippet_sha256": "88550213d38607d80d1243138680cb2c37f326f5b9f48294d951bb52a74e421a",
+      "pdf_pages": [
+        124
+      ],
+      "kind": "justice-party-paragraph-and-captions",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-04-disintegration-box-interruption",
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "22a63e0e7c638883d58542e8af3ea202110481471c0cd26fa27e1dae65c635bb",
+      "result_snippet_sha256": "2902e0d94da5336125332cfa0437bdb708dad7386fcd4507bb22401b82afffa6",
+      "pdf_pages": [
+        55,
+        56
+      ],
+      "kind": "disintegration-box-interruption",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-06-velunachiyar-gopala-box",
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "ef8d0be4448c3ff4de5eed4f13052964578cda117a717867e7c0fac0dd8727d7",
+      "result_snippet_sha256": "2e0ed1de6dae536feba18fdf311b4a63f8a03a0defc87ca5c251ed139124169c",
+      "pdf_pages": [
+        71
+      ],
+      "kind": "velunachiyar-gopala-box",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-energy-map-caption",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "05b7d1e8e85b0c3fe42ab4b865254f0a7c93ecddd199d7780c3052110db0ebd2",
+      "result_snippet_sha256": "d8965cc581bae0183b96e93d9c22c38b483a95b046ec217187515b70cccfcec3",
+      "pdf_pages": [
+        182
+      ],
+      "kind": "caption_or_source_note",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-transport-source-edge-note",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "42c27c159ab889c0d0ead2d45b4e006c94638af980ed450d0af0514e6b953d8c",
+      "result_snippet_sha256": "88743e93e23daa8d848654ec0885a697f178bdfaf2e6ed8c0ad73860f3be59e4",
+      "pdf_pages": [
+        236
+      ],
+      "kind": "caption_or_source_note",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-01-glossary-source-crops",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "21747b3c371d9551e1595a00eef2a07c45b021d95436cfa829f752fc9364dd62",
+      "pdf_pages": [
+        19
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-02-glossary-source-crops",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "59b5a03718ff55b62c1cdccd73c46dccedb449323d297a257cbe417da2fb9847",
+      "pdf_pages": [
+        30
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-03-glossary-source-crops",
+      "file": "content.en/docs/world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "9f6a5bb3c44ce82d2d998309aa92e2c4821a875f896b5366e329c59495f7c8c6",
+      "pdf_pages": [
+        43
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-04-glossary-source-crops",
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "6b9e32722c3d67dd8144152256f491c7def07bcb37a1111f892524df2d5bb43b",
+      "pdf_pages": [
+        57
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-05-glossary-source-crops",
+      "file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "1e7cf4a4ae3a084248e43af69df2f6ddfa7bbde3b64194a14d55a4e7dcc65d4c",
+      "pdf_pages": [
+        66
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-06-glossary-source-crops",
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "bc88bd0236182f9e79ec7c0f3e68562201dc960c5d15a06134872ae34e817929",
+      "pdf_pages": [
+        77,
+        78
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-07-glossary-source-crops",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "894d7a405c36a1546e677c608f41dfe00b5ab5fbc075537fdd379c08c903e836",
+      "pdf_pages": [
+        91
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-08-glossary-source-crops",
+      "file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "6f03cf53ac2cbe9efc9bb5ed2ed72c223457d270850cb63dbe330de99b23446f",
+      "pdf_pages": [
+        108
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-09-glossary-source-crops",
+      "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "6f52a9765bf19dbc095adf96acddaace1c9db35a203227ecf4236fa0e66e2765",
+      "pdf_pages": [
+        119
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-10-glossary-source-crops",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "07497e5613b6ad533750381cfddaedb121aeed86dafc33200769474a0c18b809",
+      "result_snippet_sha256": "bc6119fd3a5d869de5ada8872d003d37a25e07188bc69571b14540aca32b1152",
+      "pdf_pages": [
+        129
+      ],
+      "kind": "glossary-source-crops",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-combined-glossary-insertion",
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "source_report": "geography-glossary-assets.json",
+      "expected_snippet_sha256": "10175242c61a061e511dd8b8683bdae793cf5d6d3d940265c570aafa6fbef771",
+      "result_snippet_sha256": "41e2871ab636ffec18e2a4c662526582f62a785d07073b3b49addc5f14f6696e",
+      "pdf_pages": [],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "history-01-ict-corner",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "1295334904e1404730d24d2fd6e90b455584c14719075966ad6d87bd660a7dc0",
+      "result_snippet_sha256": "88400e26c552985780a0bbcf84f5061e0ebe5fb35e60e9d15aaf616f6f66a8f8",
+      "pdf_pages": [
+        21
+      ],
+      "kind": "ict-corner",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-03-ict-corner",
+      "file": "content.en/docs/world-war-ii/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "b07749d241c5818d9d6b0a0165988ee7e1d4bbeb3db388633fa6919281844289",
+      "result_snippet_sha256": "6a6ab844c4d86fe435ab42afa55ad6d56bb0d81a5b810121581ef71b90ae9718",
+      "pdf_pages": [
+        45
+      ],
+      "kind": "ict-corner",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-05-ict-corner",
+      "file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "4a723e0d8ea0d29b2a30eb32ea29b73480ef8d6a5325adbdad71376e6e40612c",
+      "result_snippet_sha256": "46f11392bfc8babb4ab6481dfe352d354e35c8a8c684193fbb64ab99e7da5af3",
+      "pdf_pages": [
+        68
+      ],
+      "kind": "ict-corner",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-07-ict-corner",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "3252a8db8e7ea20fdf3ae3d877d82aeec6f580ce9d4fb846d776d036a1292693",
+      "result_snippet_sha256": "01f0a5caf5fe5670b240eabd614ec366747b0b71da2aad4d7ca649a0185268d5",
+      "pdf_pages": [
+        94
+      ],
+      "kind": "ict-corner",
+      "teacher_approval": false
+    },
+    {
+      "id": "history-08-ict-corner",
+      "file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+      "source_report": "history-findings.json",
+      "expected_snippet_sha256": "ff75caa981408654b7a767a96ac5eeb0bb41d9075bb79d918ae4db0d1cbfaa17",
+      "result_snippet_sha256": "015bd0cd238da56e354140002f16c284f894bc7d639af15b5dbbbaac7eb73b40",
+      "pdf_pages": [
+        110
+      ],
+      "kind": "ict-corner",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-history02-glossary-continuation",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "58dda372b78e5735338022daa14c005e13be8e53818aa11a387040d85acbc3cc",
+      "result_snippet_sha256": "ef6f06ea60273c1e5589ec16e7ce331de3ab256bdb8f123ad37ecc9e78203140",
+      "pdf_pages": [
+        31
+      ],
+      "kind": "source_glossary_continuation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-18-exercise-structure",
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a25b5f831d3688c0bcfa60b76fc8f32b3a41b9cf3750d0551a022ce933d8fc70",
+      "result_snippet_sha256": "caab0aef43f30b6235af31dfe1382ea26e7504f87cec2e44e742b55493fce62c",
+      "pdf_pages": [
+        252,
+        253
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-18-constitution-source-url",
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "3dc7022f77a384311e3387fe845b6d8dc361b4363777187fec17b74002ecb351",
+      "result_snippet_sha256": "215883340b744f30cae4ee525b88c4e451f230b1382c054cc7634b658cca4d7d",
+      "pdf_pages": [
+        253
+      ],
+      "kind": "broken_source_url",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p252-glossary-1",
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "6977b2ced73d9c2ebe921341976c9bcf8d0e5cbef47b8822fb0f69bf44d49531",
+      "result_snippet_sha256": "40973ce6b80d62e15e715447f6aaff50c35df2a6bc1a2fd4764bd7eabecb31d2",
+      "pdf_pages": [
+        252
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p248-figure-1",
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "5dbfbe79faa7a28027c4f63549bf1f44db56f810f001c7ad468e3b3d03ae912a",
+      "result_snippet_sha256": "b21e75c66b60b8e46a877480100ade4c1fac04f3df7629fee784f5503d06f8c5",
+      "pdf_pages": [
+        248
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-19-exercise-structure",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "600f6e9d124d2ff47f381aaff690f1a7bf354cf8f127127851aa88851b6bd4c4",
+      "result_snippet_sha256": "6eead5182e1f6b4335578534140636d81883489085920c01033a40b2a3f3e772",
+      "pdf_pages": [
+        263,
+        264
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-19-summary-order",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "ae79ff2cc8f39e58cb0c64cb8b75d39ca1e8f1f5919cf8f85eb38c8fafdacd70",
+      "result_snippet_sha256": "42cdccf4e5517184bd87769b5786b6fe1acb64e0998ef2c3c7077065a71848c8",
+      "pdf_pages": [
+        262
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-19-summary-heading-restore",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "3c9bd7abbddbd0682c1d7b55099c3cf8613562bb38254acf1c0c057a5a014f44",
+      "result_snippet_sha256": "0fc1a4a43ff9fea5911e4e99a0c6a81157cebb2ecc6f39b2907074cff1ec3ba8",
+      "pdf_pages": [
+        262
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-19-ict-heading-restore",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "04e379c6932bff1c589362d6982930b2c138dcfe9fe69c56c9c028b070168dc3",
+      "result_snippet_sha256": "3301954ae7199a04d4f9a0ecbf9b361230d7e3b03b7de431c5291eb8ec03a89d",
+      "pdf_pages": [
+        264
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-19-president-qualification-heading",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "1645f3c4abe31a9e3b99635343d66c2376b75e8675e0dc9b77320381e1052ba9",
+      "result_snippet_sha256": "c4a06638cc6d16147c74e2f21245c6b9ab625b784e2bc263c88c357ffe3e2c82",
+      "pdf_pages": [
+        255
+      ],
+      "kind": "heading_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p262-glossary-1",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "658273820bdf38d5dab87f0cd68357e7e3c8dae1b8ed7fc08c9ac0d3a542d819",
+      "result_snippet_sha256": "e4a2b5441f196716d9463c3e5c045f900d31596c5aea68ec366f1352fcddd409",
+      "pdf_pages": [
+        262
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p254-figure-1",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "67db24a5307af519958b788b5a9e3e280d2ffcb1af153b6be9560bb86a0ade07",
+      "result_snippet_sha256": "fcd850389c1df3e65c0e92d619e4d60043966194c2bdc86de75992c245ed9be8",
+      "pdf_pages": [
+        254
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-20-exercise-structure",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a2b3b930cb386fc47d60d2732dd3eebbe8844d99c1eb76bbdd61051a82457c26",
+      "result_snippet_sha256": "ab5f32b0c0d577a5f844596d08cf3ff86df3a9d35f76b934c7b1b0901da722c0",
+      "pdf_pages": [
+        273,
+        274
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-20-clear-cut",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "1319dcb7c48fd2748a752496f5c4a2dcf8d8c68371624841b481598221fbbe4d",
+      "result_snippet_sha256": "7d06106e219aace3939ce9322523076b7ef5f1d7d392374c493586a467e07ae2",
+      "pdf_pages": [
+        267
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-20-no-confidence",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "e4d91e0eb5e06b99f2ccb325b8dc21ef4b20d779af5347b200d4b963b1fffc11",
+      "result_snippet_sha256": "6b638dce53553df82ca5f6c1e5a6459f332653711a1bb015288e0d771443154f",
+      "pdf_pages": [
+        268
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p272-glossary-1",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "55a3710a9a00b3074bb046b7a4606eb394439cdc776dc693b1e44a6957a1e3de",
+      "result_snippet_sha256": "162df007f344ece463ae1ec8ef2b6734a81f5149cc3cc3235abc74fef65f5627",
+      "pdf_pages": [
+        272
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p265-figure-1",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "0c34bc62774b96eec00ac2bc73261e81798c50d8b44d5f47635f9d70ccdf458a",
+      "result_snippet_sha256": "6e5237d79738723a24aa1ce944ea47d89d44a944d1f10bd74400f6372471d6da",
+      "pdf_pages": [
+        265
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-21-exercise-structure",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "747f8c2fa2c0e60652aa47c95b10e97e8f64f360ccaecd53cd155cdd2847798c",
+      "result_snippet_sha256": "e7e8c04ea66dd3b26a84a40920e251aedf20e4565631660258704b037a38f360",
+      "pdf_pages": [
+        281,
+        282
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-21-objectives-heading",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "75ecb4168c49d4fe88c54d818cc005c788c5c01bc709432560a939cce9e293c0",
+      "result_snippet_sha256": "98b8f88da31cbad73faf34d600744777a7264cb4d2b87b6fb7e4909166e697ea",
+      "pdf_pages": [
+        275
+      ],
+      "kind": "heading_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-21-nam-heading",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "0b0321c6b45ec4bcea003dfe9636b3d0cd8177161beef527d62844393f41c4ae",
+      "result_snippet_sha256": "e523f0d7af5029a0ed7204120de0986dae7e9e5a17b3dcdcceb8cca7fbb20489",
+      "pdf_pages": [
+        276
+      ],
+      "kind": "heading_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-21-founders-heading",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "f5c8eeae0f1b822eee58ed19cda9cb4e8ee2bce5049cfd2e27e6a2db43ea0be4",
+      "result_snippet_sha256": "166d9d5d7298984c3398c9a382733d64e20555c5f12851909fb7905cdad9dafe",
+      "pdf_pages": [
+        277
+      ],
+      "kind": "heading_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-21-look-east-join",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "f61e6ebced3a88c7a04abe401f88a0a1be5e916c08418d5ffb27496961b84398",
+      "result_snippet_sha256": "6828d003e3e50c45644b5372f67ad2ade29d8b8d7b32ca4ce3a50db1f4b7dca6",
+      "pdf_pages": [
+        277
+      ],
+      "kind": "paragraph_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-21-israel-join",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "ec91e36f33305393adb27e025b58ff928234c6b598932a81790b77120640f0a6",
+      "result_snippet_sha256": "33179ea959c77bda8b7a3faa4b879e6ea0440b10a780f1822ad14ea7f2bec9cf",
+      "pdf_pages": [
+        277
+      ],
+      "kind": "paragraph_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p280-glossary-1",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "be2edf5c7b4b35240176830729492d2ab90542e4e4873f65adf163882de6298b",
+      "result_snippet_sha256": "20a6793baf76496604a7d8c03f64968c39e1a6ec58edf524f35ec6e397045e38",
+      "pdf_pages": [
+        280
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-exercise-structure",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "fa601bf452513868720e86f72c2f4aee1655ac7baf0f377308305ce0ecf37647",
+      "result_snippet_sha256": "26c34cbfb81f996ce68e721268f5ae7cb5522b54a5d872bbecbf63a7ea1ab5fb",
+      "pdf_pages": [
+        295,
+        296
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-international-source-url",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "f6cd96c3553c457ea69db9b5158887c30bdcae0e663c8bf59bb4248582b19225",
+      "result_snippet_sha256": "3b6535181bb24ed8a546f03661d3a22811fda4fc86a6595421e5cdf9679ac267",
+      "pdf_pages": [
+        296
+      ],
+      "kind": "broken_source_url",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-brics-objective-order",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "de67fb105a833773e4ea32b9ab949780f6f54241ec9ebad70c613cfe1f2044a4",
+      "result_snippet_sha256": "4cb62b7754ff2ed1f9761c18cd1e1375378d95a381dea3aaf80ab3918c2152de",
+      "pdf_pages": [
+        292
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-quote-attribution-placement",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "4f4a7e7e7b57272684dd1deefeb07ad9868e4fa6046a10888f5d5e3ce11cfa5b",
+      "result_snippet_sha256": "03b0abc06e968be41e554d15baf76302d6c6ea41aeb96093986132e4a9dd4db5",
+      "pdf_pages": [
+        284
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-quote-attribution-remove-stray",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a1689e8e7b1c50f90c4626306c332eff791fb19f7ac4745a0bbcbb569daa85bd",
+      "result_snippet_sha256": "71b3288bfdefc5d79cb4a47bef45d9ec1508fb74e3da678327b331a08a0c17c7",
+      "pdf_pages": [
+        284
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-buffer",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "00ad869be948d08a5033367e451510ed8ef3faf4470bd4df35eed6e77a5867cc",
+      "result_snippet_sha256": "d0ca8c2ac0dab879bf27bfb58227b301db17f5ca716d065e7c884253d3ab99e4",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-five",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "6f12f0727d687396f767d1e6b66df3f775c2026e2bd8fbf7060a396de23982b6",
+      "result_snippet_sha256": "222b0bd51fcef7e65c2e62db2ed65457013bab56be6fafeb19ee11d453153c80",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-firms",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "0120ee7f7df55aa1d892afce20228af60a620c9ec9db8f8aa8ba2f71f312c596",
+      "result_snippet_sha256": "19566f429bb5b5ed3c97e03fa1a3a6796f1bfff1ad7419f1ecb939f6148b301c",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-financial",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "8401b0e2db404f8bcf0d7e045bceeaf506bc93a2a16ba4cca574ad9d2660af2f",
+      "result_snippet_sha256": "fed0e4820af42571c936e28300ccb88026f72e075232358cd1fae4e802fe902b",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-flowing",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "5dd118b8539cbe2b929105ec82260bf45ee642e17f8cec0e2fcf7ee0f3316881",
+      "result_snippet_sha256": "b1165132d4dcc6f1a29f911c46c50aab8921110078cdb688ee7afe41ef4dfabd",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-after",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "62027243ff97d26d9bb4b2f8afb0900d9778b35d58704a744418674443470f76",
+      "result_snippet_sha256": "f39592393ef0859cb196a52693d2cea00fb2df784b3c04ae54aa7cadb8e562f8",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-nepal-the",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "fe5f6dafb0a72f060a291e2ee73ba99e6b652d4dbf6f31c0d18f5d121b7c9440",
+      "result_snippet_sha256": "cce7ec51e4aab956cfb4c85ccdefd67cf1f156a7774dabdcc0709f417c435d1a",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-22-map-fragments-remove",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "c45fe0ad16f25f5c6b1c25167691a0ba66fe6f643b5a863d6134b9bedc96e91c",
+      "result_snippet_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "fragmented_source_figure",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p294-glossary-1",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "7b9a2d965fe18650ead6c40117b3374213aa9858365cb4e4daa5716b3b888aea",
+      "result_snippet_sha256": "04a10bb1753a6a6711e56920bc213daab5adf561b986428d4b9d7961b0e58062",
+      "pdf_pages": [
+        294
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p287-figure-1",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "5dbfbe79faa7a28027c4f63549bf1f44db56f810f001c7ad468e3b3d03ae912a",
+      "result_snippet_sha256": "d73913542b9245b7e9140ce61c9e930eeff3618ad3b0eb14dc821b73c9306db8",
+      "pdf_pages": [
+        287
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-exercise-structure",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "8001acc415310cc2897a7bd7317fe7cb93fba243b6ec07e09e26ac04f7c9bf76",
+      "result_snippet_sha256": "ecc157d51b974634040288daac27f4ae869e68e022664ab282750b46e9896901",
+      "pdf_pages": [
+        307,
+        308
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-gdp-equation-boundaries",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a05e2ec8f8818988a69073af316916c50603e47cbb8c6c986d605a342a87442a",
+      "result_snippet_sha256": "3925cb4c7e865c1610b56a5d9ad335283ef071dda479e10956bc67aec3d4eef3",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "merged_equation_explanations",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-gdp-export-explanation-boundary",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "04ca4d894555642ffc4c0b420e258eb8f6e5d85fa25af740935f5dcc37dc86e8",
+      "result_snippet_sha256": "7e48239334c85a142623befd5460d8380524095004c9e6c6ef40597b58bf9778",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "merged_equation_explanations",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-tea-rupee-10",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "3866b30db5f9a21fc1d4192630a6865607f05a50ffd61b55dd1f546ec424d024",
+      "result_snippet_sha256": "6a3837feb76f58f460164fbd503ddcce7ecbb6f43d49b431362c8fd213c900eb",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-tea-rupee-2",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "b5e2482f07344f92e87e7a768d4174d9bf6179db882c088f044dffec8b584b03",
+      "result_snippet_sha256": "42c28e25c5625a4f4995c5d29c2dc61c4668b150b5fccf1dcab094aea8be6e84",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-happiness-domain-boundary",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "481aff0178e306bd14e764d1b922899d3e9337762aa00ccd7352c8be9975f620",
+      "result_snippet_sha256": "47398a256292a70ce7e056823094b61ace34414a40b410d38a882798f10dae30",
+      "pdf_pages": [
+        306
+      ],
+      "kind": "merged_list_paragraph",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-source-chart-total",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "5ef26c476f1cb359cf22cae54d2324b141be6cac2f5e956e9f1543772f22aab2",
+      "result_snippet_sha256": "179f5728c0fd27d324b9130cf198b54797198380ebbdc5fa12a28a0ebee14120",
+      "pdf_pages": [
+        302
+      ],
+      "kind": "source_inconsistency_note",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-gnp-source-error-label",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "6204b59cef3094ff4f7eda921d58395adc9b9a665775ff9448f9f67ffa9b7f0a",
+      "result_snippet_sha256": "22c44054e241b34ff7b6d3da62caa36d6e18b2d050faf08329aa69b94d28e3e8",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "source_error_label",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-23-nfia-source-error-label",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "ab62db12a8f7bd36eb4e104d5897a0c510b8446803a5c570f6db4fd1e5180925",
+      "result_snippet_sha256": "b71d491fe5095ea9401d6c9ba32c9b8adf3c045caf890f06f5ee01d9e121ae57",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "source_error_label",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p300-figure-1",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "09d3353c1c16724f5a4f428dbc0b9309e80e9ac7cf5dbd58a32f7932332c15f5",
+      "result_snippet_sha256": "b29cbf0279cd335ec34331e80631eab11fd3b22b60836018bb835aaa37ada577",
+      "pdf_pages": [
+        300
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p302-figure-1",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "c6667e3d736e34591a47fdfdf571f83c18e937be0f3a316240948acc0962778b",
+      "result_snippet_sha256": "87dc07b7e017694585287c9cf89d27b07e2917d6f9a1e0ce33c81833d031e6fb",
+      "pdf_pages": [
+        302
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p303-figure-1",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "e5e014018e754bceebb04eeed3d64701d9aeda89a85cff51f0e1972aac40b310",
+      "result_snippet_sha256": "891dd71ecc9d14435a9a55cdeae3a8ce34855cafc49a5250fa62e6a3663689b3",
+      "pdf_pages": [
+        303
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p306-glossary-1",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "2c8867bd6f7b3f558839fde51cbe3f1adb26224304d402cf59ff3c3a8bdb3730",
+      "result_snippet_sha256": "8609c2458949d1008b4429cf1a1dcecd3188eede44237c7c50a88e68961da972",
+      "pdf_pages": [
+        306
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p299-equation-gdp",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "7ff81d49851d16b1a79420d919d729861a212d0d9c61fdb54320d770ef5ed820",
+      "result_snippet_sha256": "badd43ffec4839a136f0ea9c6f659da40d38f4799f738be6e2f06896aea5c251",
+      "pdf_pages": [
+        299
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-24-exercise-structure",
+      "file": "content.en/docs/globalization-and-trade/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "e531e99729190cb7566d971201432aa2894425d02025aeb6fe70b77d70194118",
+      "result_snippet_sha256": "c23054cd67906a4613e76a790f29f23d88ffb3a2585595f91551ab3ae1053f11",
+      "pdf_pages": [
+        316
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-24-mncs-activity-table",
+      "file": "content.en/docs/globalization-and-trade/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "da1e6f146844e53a3edf0c40bf7d403b99728a23a84c116c60a627614187100d",
+      "result_snippet_sha256": "b6ce1a21b86437374dbea3424a80407260bfc68e704e569a931bf8112f874202",
+      "pdf_pages": [
+        312
+      ],
+      "kind": "missing_activity_table",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p315-glossary-1",
+      "file": "content.en/docs/globalization-and-trade/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a90a9769766033102ae7675b89d4e90bc7e7f4306d11d130eb42288b24c19616",
+      "result_snippet_sha256": "d53a067efdb45cf41545ed0816c62ec9a95ddff4b758d052042dae6f247e5b3a",
+      "pdf_pages": [
+        315
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p312-activity-1",
+      "file": "content.en/docs/globalization-and-trade/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "b6ce1a21b86437374dbea3424a80407260bfc68e704e569a931bf8112f874202",
+      "result_snippet_sha256": "2461ac347bff7b9a386ec3031ddde7902e4ab996a452f32ffc70c3b5bc1ba680",
+      "pdf_pages": [
+        312
+      ],
+      "kind": "source_crop_after_verified_body_repair",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-25-exercise-structure",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "c9e72c6dc20cda46c56a42ca77ced69a148474ef24dee6ac7bb0c44e9c399f0a",
+      "result_snippet_sha256": "bc576224fe2e214ee20dc9436a19992661bbabe3b729677de357c2fd98d27e0a",
+      "pdf_pages": [
+        324,
+        325
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-25-maternity-rupees",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "2b1bf5adef7de0a7ca6872283190566b36308c6ede33f01be5215eec96229ddf",
+      "result_snippet_sha256": "aa40d4ad30364fac56d599e1aa7e7a63e57d48d6877d531c708b41cdba8c09fb",
+      "pdf_pages": [
+        323
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-25-schemes-heading-order",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a9921a47c45d192ea96f590da3619878e84873bf5a253158e0dea2510fd19d5e",
+      "result_snippet_sha256": "bd92e033b2b97137dfd4686e7041845b3750ad4733398d525d4c61acdbbd5c11",
+      "pdf_pages": [
+        323
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-25-school-caption-order",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "f7547bc8a2e73a6074c7707d105f7d101fbec4073add2e8b47b34decab5c3017",
+      "result_snippet_sha256": "26b3506d45735222d289bfb891f4e0a264f4a9503b3ee71d27570b335178e890",
+      "pdf_pages": [
+        323
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p324-glossary-1",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "8f3113b74443c5fa1d9a164eee2ad9d7f49268f545c3406259df0318685f60ca",
+      "result_snippet_sha256": "aa7d75103e07378ea7ba15ab1e6bb27fb78e149e7daec7d81775f358f28de734",
+      "pdf_pages": [
+        324
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p320-figure-1",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "db31f2f754f04c4deb5b8a182243a754db82ddf8fc1be337add293e95640c912",
+      "result_snippet_sha256": "3d1f1e87233a1c20c9b879df4c6002752062ae827e98746994b1ce5b4ec1067f",
+      "pdf_pages": [
+        320
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p321-figure-1",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "45e9cd44d9da616a886edfcfbeeee91948ae269d03b6b35d192eeebf4d191264",
+      "result_snippet_sha256": "1c085977a11733a5d5d28a8eda5f86f521c68af103189d0cd44500c98bd57cf2",
+      "pdf_pages": [
+        321
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-exercise-structure",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "37394f88ba95f677aae32ac190e2f38e12a1f7f9255faf92366ff498c977ab28",
+      "result_snippet_sha256": "bb9c0d2dd987bf2d40bf404caeae960cb41f1bdf6e18b74c881537d381580da4",
+      "pdf_pages": [
+        332,
+        333
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-tax-example-rupee",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "a5159cfde3d95b2aa1d20b54beee5e95e6332083e8048c7afda6ed9baad96e6c",
+      "result_snippet_sha256": "8a42a81649820d8d2087ae69a57670f8780025c7f428e3afd9ca321c963d02bd",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-rupee-23",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "c940cea57dce50393ee469402490e07471c6132f3b522d6a199f55d3d0bc8063",
+      "result_snippet_sha256": "17c02e2f63869a34132b4de13c3e697cf810d8e67ffede4890ae3bf12599bd1b",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-rupee-24",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "75077cc0f397e55b7f34a5ed556976a8b6766851e1d20a616c858262fd94a2db",
+      "result_snippet_sha256": "ad6b95ed168b71787216fb7bd0d33af3a72a03d12a9f35eaade17d6323802bcc",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-rupee-25",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "d25c6946cb9d0deafce211ad5836550ba4f046196448590eeefc23e91526d61e",
+      "result_snippet_sha256": "96c40ba149f66377a1b8a40b6ea76381b4e8270db5e4aed18925c5f9e45493fa",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-rupee-26",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "2ff24f82ea25f0cb7eb43288352744901c35258347f03ae4f6968ed9424f7f2d",
+      "result_snippet_sha256": "8e33c1c0f02796c92b9fdb83e3e673d7ba4bbe9036caa77ff263d78b30a526ed",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-gst-sidebar-structure",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "9ee829df8413bc3a1e3494deb13c084a53c5e79a30bce44aa8c232855a7deffd",
+      "result_snippet_sha256": "f51ecb92e1c37161d2d77e31e88552732c108277df83459071754a8572c750db",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "merged_sidebar_sections",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-26-source-tax-comparison-label",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "680f910c42f86c6d192fe104181755963fb784aa06287bfa616902164110dd82",
+      "result_snippet_sha256": "64d39f68f7483aaba03f13244b9c91a36e6ff113d287ae4b5fddd65f8c139973",
+      "pdf_pages": [
+        331
+      ],
+      "kind": "source_error_label",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p332-glossary-1",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "5943cb8309d832ff5fdcc14702b2f3977b8d353f233a4f7a146f9544102153bc",
+      "result_snippet_sha256": "40a854385c6718af9b1a000a463b33f6593f9933ffcd0d99ec9a1816d47c1166",
+      "pdf_pages": [
+        332
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p330-sidebar-gst-1",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "f51ecb92e1c37161d2d77e31e88552732c108277df83459071754a8572c750db",
+      "result_snippet_sha256": "dd90eac012e2be15f4f85947c96a7fec3fb7bee6143cb666046cef4af435fced",
+      "pdf_pages": [
+        330
+      ],
+      "kind": "source_crop_after_verified_body_repair",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-exercise-structure",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "1afad2dbcc49184ac7b45e2687172f9b28006a11c339796ef1c17167062ea6c3",
+      "result_snippet_sha256": "94afa2bdce598b3bdd2e37a38f26cda251a91c4ebed4cde534564dc70d55dc28",
+      "pdf_pages": [
+        342,
+        343
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-reference-the",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "c392733c68ddc6472c7aa445d34894d987ae908c0aa162307d95200e13cf8c79",
+      "result_snippet_sha256": "88909c006ce7cd1f00d84de77a9eddbcf33014ad92999deb68beed91e31a08f0",
+      "pdf_pages": [
+        343
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-reference-profile",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "7c9d298ff92a95d011ddcfec82b393e429468c234a4ae7802c03243bcc3d4a7d",
+      "result_snippet_sha256": "a39b209960526e67de33b8a86a09aeb2016236df054ea50ad274b902e6e23591",
+      "pdf_pages": [
+        343
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-policy-heading-join",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "bfcde10ce8830be958e3120cbed546a0cf23bea9117a2ec3cb6dbcff89c683d7",
+      "result_snippet_sha256": "60046203fb4aec63aea0ae6a53694a74061dbba4ffce378ee7ea2f0b58f0291a",
+      "pdf_pages": [
+        340
+      ],
+      "kind": "heading_fragmentation",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-infrastructure-paragraph-order",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "6b8b6aac83be5500bfcdbfee54cc9c7ea2cdbd339eb7baca0ccf010b171e4d9b",
+      "result_snippet_sha256": "eb30e746dcba07fd9888999d495a704f8bba9a3153b3a218315189a6e4ded986",
+      "pdf_pages": [
+        340
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-sez-heading-placement",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "20fe51e37e997d2326cd9ea3c58c4da78b3039a499ae5e6e4a908ee2e547b5e5",
+      "result_snippet_sha256": "dfa2cd9ae3afbd36b1ab49a4b84188e74573e608db1febab71390f1f2116d8fe",
+      "pdf_pages": [
+        340
+      ],
+      "kind": "reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-thermal-transcription",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "44730bcb6cacd0dff1658dc933e161a3b84b14a2551a13e6c346568e0c83f28b",
+      "result_snippet_sha256": "b892947ca1fdb1dc3816b27ed9a475a1af599d4361c191009f1a7c4a776578cb",
+      "pdf_pages": [
+        340
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-standup-rupees",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "8e85659c306e2e1fc9f95abe4264cfa90ab3be6f795e3e6fa2399425c18d9e26",
+      "result_snippet_sha256": "540114403ae3ddd560f4d1b0203b5101237d67736ef25f1e1d8270b37be7eadd",
+      "pdf_pages": [
+        341
+      ],
+      "kind": "source_transcription_error",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-27-source-ict-label",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "6fe00a47822e294aa87231f10a231c8afb0ea0a915938e53a64ed62567f1c402",
+      "result_snippet_sha256": "b1bc0e41c251ee7381510b88b45e4d7e2a5ffca0d6066869510dea638db1e24b",
+      "pdf_pages": [
+        343
+      ],
+      "kind": "source_error_label",
+      "teacher_approval": false
+    },
+    {
+      "id": "en-p342-glossary-1",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-economics-ordered-edits.json",
+      "expected_snippet_sha256": "cf3baefb1b8efdfdc6fb6bd69c29f0ea025eb6f721efac5d08f058b60a18fb8c",
+      "result_snippet_sha256": "59e69cd54d44adc60f903004d9c502b523eb2fd316f96c3657f55932d5de5353",
+      "pdf_pages": [
+        342
+      ],
+      "kind": "exact_source_crop_in_context",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-dadabhai-sidebar-line-wrap",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "771b4d6b62377cffbd73399022c9986ab1d7124de84d93fda712cf5b2278d737",
+      "result_snippet_sha256": "46180b32d3ba0ba4453f0acd8b70d57556f9be16d3f06ced364fd4579167610c",
+      "pdf_pages": [
+        300
+      ],
+      "kind": "source_reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-gdp-pie-legend-transcription",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "a253b050d08ddc80dfe2f3450adb70f82d859aea8d6c0d92afbd4284dd9893bd",
+      "result_snippet_sha256": "1564d44ffcdde5dd879f61142e6f2c14e14c55fecb830fac1f72560c6860d467",
+      "pdf_pages": [
+        302
+      ],
+      "kind": "source_figure_context_or_reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-gdp-growth-axis-context",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "a4bb1fc5dfb37e52f4929ad77b5fa47ed6624d3ca3a07f326f0c6d302a8efb86",
+      "result_snippet_sha256": "eb362ff3df1ad78f52b256b571c11523874592bba0e9bad975ad6007ecaf91ac",
+      "pdf_pages": [
+        303
+      ],
+      "kind": "source_figure_context_or_reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-gdp-postal-caption-context",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "0cccabbf98b5ee2029ef8c62a975f8728fda5a38cab580afba356df8106d3609",
+      "result_snippet_sha256": "f5298c05d29c21f5c6e4e49529ddb7cd85dbad694b31e50cf51806b771472d20",
+      "pdf_pages": [
+        302
+      ],
+      "kind": "source_figure_context_or_reading_order",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-18-heading-after-matching-table",
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "6c443601d5b46164e7fdd61e4b5700a55ee14825b04896fd2d293fb739efd391",
+      "result_snippet_sha256": "07eb01f0f45454410b63400730c11cd23e9ce6b3b87085418baf06ec4898af06",
+      "pdf_pages": [
+        252,
+        253
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-18-nested-code-prompt",
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "28abd8c873d0d93a9d0a2083337087fabf0f4b494c1907b790fd228440d52609",
+      "result_snippet_sha256": "ab4584d3720800917b623b1afc873f33c7ae998108f403f0f28f76ebe431e211",
+      "pdf_pages": [
+        252,
+        253
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-19-heading-after-matching-table",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "94b877a187bcb872987c1b007800daa71bd68308475378958bc1d1ad943b9353",
+      "result_snippet_sha256": "7b8154182fcc18e63ff6efc7bb5c1f5900b2f1da4de773b6af8113759adf857a",
+      "pdf_pages": [
+        263,
+        264
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-19-statement1-nesting",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "88aeec40b483dc37c41cee37e93c5e28bc04c8f296fc83053a91b2907023d0f5",
+      "result_snippet_sha256": "29b1ec0bff058cd472f2fe9c8fabe9eda51db184a044f80029051e55c2aff352",
+      "pdf_pages": [
+        263
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-19-statement2-nesting",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "f2612291353b16fd64f99bd12fde2c1777216709e90bfa4f572aaff4cfef3f31",
+      "result_snippet_sha256": "39e7ef876d634144258abdd0e6d52a350397047dba6ee9ec62d4a5b4ffee7df4",
+      "pdf_pages": [
+        263
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-20-heading-after-matching-table",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "a1d11c77ff5382563dc9a16e8097e56f3be990e881c079b48df96b34353b46b4",
+      "result_snippet_sha256": "349bb9287e0d17a7aaadbe96357b44184148e72614a27cf9d24042ec7da99de3",
+      "pdf_pages": [
+        273,
+        274
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-21-heading-after-matching-table",
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "f5ee5d1348ef7aae88b4dbe63ae58b6b024e29784625c52139a581dfa38eaae7",
+      "result_snippet_sha256": "4b56a13647c013a7d626be4b21bcf687566564d27b806834399dc2db346a727a",
+      "pdf_pages": [
+        281,
+        282
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-22-heading-after-matching-table",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "b9faf3bf6e8286b2a8c187980a4a979bb181ec38ad1008c951a7e01624113637",
+      "result_snippet_sha256": "a99ca1d7bc7ca30979d84c9c17d32955520c464ba102af93e8f8b331883132f6",
+      "pdf_pages": [
+        295,
+        296
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-22-question5-nested-table",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "0d1bb8380e12a620160e941e2096e0acf2b5a0044503ee839fdac9c86ad4f412",
+      "result_snippet_sha256": "0205608409d37af114af0e4eeb2f02702fc1e73d442707d5363a6639e5ae7388",
+      "pdf_pages": [
+        295
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-22-transport-codes-prompt",
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "12d5e882dd52471d154a96f1ab694b16b6559c6aa649f6a58ee8f4ce0486f789",
+      "result_snippet_sha256": "16ffeeda595ac0f6e0ac875748bd4ef0e6afc426626a3bcb233c4b77418d0b31",
+      "pdf_pages": [
+        295
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-23-heading-after-matching-table",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "7b5b08ec342733784fe2601d3ce2faaadfa8013c2bbfcbdcc7d72d9488d73b91",
+      "result_snippet_sha256": "7ad7b3728feacd2e4953dbe84ac254ac57dd62dee10f0d229a7ee1f7d3f61816",
+      "pdf_pages": [
+        307,
+        308
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-24-heading-after-matching-table",
+      "file": "content.en/docs/globalization-and-trade/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "0f031dc4a400df58aeecae3c067b278ae9eaa7841e92b9e33a7ac505045b88fa",
+      "result_snippet_sha256": "86a744bf1ad3e61fc17e2f62a760cec51aa14fdff67aefa308e05d924c42ac01",
+      "pdf_pages": [
+        316
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-25-heading-after-matching-table",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "9666f6557e16c7062cb83e0aa1247ec5fc9ff9966eff4d50e8c1bc4ba83b074c",
+      "result_snippet_sha256": "436d0ca58781cba4e18086b8114104306941a3ed3dd18bd83532d9774935861e",
+      "pdf_pages": [
+        324,
+        325
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-26-heading-after-matching-table",
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "da8f220541988b9b98a068f969ea4d57a967b82b187900724636d4e0fad56e88",
+      "result_snippet_sha256": "8f689ce99c9a3f950622d56b2deb6393666c0c017408315dc55a47b4c04fae51",
+      "pdf_pages": [
+        332,
+        333
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-en-27-heading-after-matching-table",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "civics-exercise-markup-repairs.json",
+      "expected_snippet_sha256": "8d58898e6370a7b46c8f610472b51c483bdef9d3cc480b46bb7cd422debc1f04",
+      "result_snippet_sha256": "ce4f730eef97090e19bedf462edc4d93fcaf878db95d622bccdd4d4050f3394f",
+      "pdf_pages": [
+        342,
+        343
+      ],
+      "kind": null,
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-01-bare-numbered-question-children",
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "d21205d0796b3fa4ad5924af7236a521e1f0537d245460432ca4c20ccbff7687",
+      "result_snippet_sha256": "61a7f11a957cab460e54e5a3d07f4a584a1de0c58bd282e5be37ddb186922e6e",
+      "pdf_pages": [
+        20,
+        21
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-02-bare-numbered-question-children",
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "07d9004df9fc7a1fa51fab035baaee2bae6f29e119100f0ee7726315650c31b3",
+      "result_snippet_sha256": "2b61c499d872a9404ec2ef32dd8bbb37473bdd45b9d90e159ad48abdb9652e29",
+      "pdf_pages": [
+        31,
+        32
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-04-bare-numbered-question-children",
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "3ab1b8706229a5cdca38dd5da19eef71126345e6fa710ed957b13f8fca6f2db0",
+      "result_snippet_sha256": "7420a9bb41e1e2a1f251aeb3605a05a1d27e4b3bb3360dea025fb15352f6f713",
+      "pdf_pages": [
+        57,
+        58
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-05-bare-numbered-question-children",
+      "file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "2b7308ecb80e788569807c3135a469713acec1d2f6bc9df78207a83471e50bd0",
+      "result_snippet_sha256": "721d8c147f96cdbaa57809ba00c46604a9da4660d3963481ee41f8f34bac0de3",
+      "pdf_pages": [
+        66,
+        67,
+        68
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-05-III-4-separate-choice-a",
+      "file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "7843fc7b444337febaec7a024b285ae10f1fba8493392ec7858226d7cc926392",
+      "result_snippet_sha256": "0c9af47a26019b40081eebd1dafc6a8c3710e7622c2bad67de8bef0f5abd8e9c",
+      "pdf_pages": [
+        67
+      ],
+      "kind": "III-4-separate-choice-a",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-06-bare-numbered-question-children",
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "635ca9e8cccd86c5b092debe2d9d494c293b86323e18d9225e072b5be8902cfb",
+      "result_snippet_sha256": "9b942a96a21b5580868111198492fd932bd331480c5a3e550afdbae9765153ab",
+      "pdf_pages": [
+        78,
+        79,
+        80
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-07-bare-numbered-question-children",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "e1140a99ed92c207d5e84226441f05e78f822c7b35877b57e56eefc0decafc52",
+      "result_snippet_sha256": "cc3c9d4f63d1f31518e0c08084647c7a1264086001490987c42a8fe16f0549ab",
+      "pdf_pages": [
+        92,
+        93
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-07-remove-duplicate-matching-section",
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "314f6dabbb13540b28758200eb14ff3f9626469c07e3ad163187b3d1ce3ec08e",
+      "result_snippet_sha256": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "pdf_pages": [
+        93
+      ],
+      "kind": "remove-duplicate-matching-section",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-08-bare-numbered-question-children",
+      "file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "44e6181f9ebabc24c7495dc3962eeecd7b882fa2b56a4a0be45b63fa73feaf2d",
+      "result_snippet_sha256": "b3d8dd97504af758faa04d1624172a317fa83458c8e854b95b9b6d4d1a2d6466",
+      "pdf_pages": [
+        109,
+        110
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-09-bare-numbered-question-children",
+      "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "93d774f89324cac4a954bbd5fbf36e6a68bc8f1f624f4a7d3e837241011952d0",
+      "result_snippet_sha256": "4899d7e62c25462aa6bc26cc88eb8855a46e2625fc769dd9a1edce182e428880",
+      "pdf_pages": [
+        119,
+        120
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-10-bare-numbered-question-children",
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "source_report": "final-history-repairs.json",
+      "expected_snippet_sha256": "82c3da51618e7e4fec1c5523ea1547db76bb0858f201855f4d4278f6c1591609",
+      "result_snippet_sha256": "984688000a8587f21e1a00723813a1f531eac830ce1bd1b7546d595e6d2bc77a",
+      "pdf_pages": [
+        129,
+        130
+      ],
+      "kind": "bare-numbered-question-children",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-court-record-summary-order",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "e911807a36b585b0ba78f14d7a75acc86d6dc3e5e4a907e53f735bea83627d97",
+      "result_snippet_sha256": "e60b43c546c5d887db245c860f038cc6b5d6de97eadab784d673f3a1840c5f37",
+      "pdf_pages": [
+        272
+      ],
+      "kind": "source_reading_order_and_bullets",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-20-orphan-bullet-01",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ee35d41a1f22d653d9161a00594ce6245fd2a9e7f29e0e891af755bdec1710d7",
+      "result_snippet_sha256": "246adb1c71322346c9ea7b0b966b102b91de551f130371f498ef1a34cef82f76",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-20-orphan-bullet-02",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "eda8540a3c37768b88c95b077aa2b4c6711ac4d00fd79076db46b99173c9d1ac",
+      "result_snippet_sha256": "1172106ead7157ddf09cd5f635763d4311ee1e54b3ce43b157c03fa385f0d822",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-20-orphan-bullet-03",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "e22787f3292ae95402839c2ce0a9972f1cd6700d49c5d34e4c7f5c55f6bb2888",
+      "result_snippet_sha256": "2f9a0c8f2f77f8e32c9726b7dc57bd57ec4d16e4554e075f65bf94bbf0912b3b",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-20-orphan-bullet-04",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "e479c577d8ee5b00652da376363a036b218fb3af005f79856b79d668c3832c27",
+      "result_snippet_sha256": "6c95f54bd11a4cd17730318742e4f53f1f994aa50888749021c31a430987e7f4",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-11-orphan-bullet-01",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "715dc50eb9e0451934b5dfefce420d9e690ebdb0d2893d2c5362986bfc8ee37d",
+      "result_snippet_sha256": "1c2103fa8af6404795625c4cf1ae213e370629dcb1e288323c48f912dbb70567",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-11-orphan-bullet-02",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "4407c6a6088b73cd9af3c7db22146aaa96477643c904bac549fc13f6942bf3a6",
+      "result_snippet_sha256": "49d5dcea02c6d5798da61cfb90717ddd136a1da5849d8de67ad3f43e351143e4",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-11-orphan-bullet-03",
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "dcfd000afd89a4b3d0110be9b5145a4f809048af12c1fe0012033e19380efed3",
+      "result_snippet_sha256": "9e058fa9db879249a47a5ea9f977be5308abe5836f09497d605386fd6a739952",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-12-orphan-bullet-01",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "589c277f1ec7bf83c26241b83743287f863537f32633de0660f1ce984ddf1ac0",
+      "result_snippet_sha256": "acee7b3f01020d5207a4c9524380da3672fd6c5807c5a59842d6e00ac876c686",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-12-orphan-bullet-02",
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "bcc0436247581b7495ec56cd7da092360742908e41e76196d2d80a9c1100151d",
+      "result_snippet_sha256": "d317116c857dc38b6ad8959132edf480cede0d5d5d892178aa17193d38d0c135",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-01",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "5ed796f38212dc1e9e072afc9e6914afb05be6da14b8a63a980d660efd4da46b",
+      "result_snippet_sha256": "ca843d3b14912f790baa3ecd7d1c7b3da19fa6b0ed46289daece144aaa9fd025",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-02",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "d6707b3fb5fd51d20c67f4c0aaecaa2d0715486e7174c2c9b0fbf29f6a69e69d",
+      "result_snippet_sha256": "a4b9a3e7fe34e40b55b55732cde50f566a06704fc1f6c097eeafadb89b1b61ed",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-03",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "2b0e35e225ea0afdedb4d89c0540dc3323f6e0e63f1d519f544cd6b8964f9043",
+      "result_snippet_sha256": "0df006f724dcb7b80d5a740710c1d2b9193732ae4c101a1c833df03097b36ebc",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-04",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "5b25c42e762bf77ae31b81bb2caf029f4441da4ece5c12e20f19794365fc87d4",
+      "result_snippet_sha256": "fb10006e939e3108a936ececbb48177d6997557088b73049ccace41110090533",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-05",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "f34551be7d9208bb27d2f4dafde1c1b1b3afe3688436144611cf9cad7ae0f7da",
+      "result_snippet_sha256": "85e5a4ee690024746fecc56f57deddc1b44d978ab48d83905b76550da57d67dd",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-06",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "589e474a0a7f5894004176462687df1bec9320ae653e51836ecf9a9293171a46",
+      "result_snippet_sha256": "99bf54505eb596aef46ce2f340c50d7420440d11a71b533228307d7161194fa8",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-07",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ee38bd54d58e2980f5e73674968e6a8956fa3b75f8b9496fa85b2a06b269c6a5",
+      "result_snippet_sha256": "27c2d93c8f1d289f5b7206420e94aa4c376bfffd86b6a5343ff90f3a96b2644c",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-08",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "6813fdd9e90d6969be90bb40a6ac8d1d64bb497522e9317ba44b3f1325dd3811",
+      "result_snippet_sha256": "6eb95e813cad81cb39a1a7b0be211ff224ab4996c79b04b6a437eaa527430a02",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-09",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "589c277f1ec7bf83c26241b83743287f863537f32633de0660f1ce984ddf1ac0",
+      "result_snippet_sha256": "acee7b3f01020d5207a4c9524380da3672fd6c5807c5a59842d6e00ac876c686",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-14-orphan-bullet-10",
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "f61fb803038263aa35c92a24ab0f457b875a00678fdccc476d723f62e954df5c",
+      "result_snippet_sha256": "e664351cd8e96a50639bf450d8d33cedbc3dd2c6d348a1cbf5abfb188b01cd0f",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-16-orphan-bullet-01",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "bad5c0b6a03a600e4343ddad24a854e359f27f7d146a01f6e54c41901fa9a973",
+      "result_snippet_sha256": "957ee69e849c06189cd51f964a136476e117e1faeb685eab07c934f903f72545",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-16-orphan-bullet-02",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "65abac87bb8b2cb58ceafeb612396d4ca45b4210ad3feefce88f5c2e5c3692ce",
+      "result_snippet_sha256": "b21b9e4d174467bc2ec49306895b5f2f5957cfe1febab6a7cec78413759dfbe9",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-16-orphan-bullet-03",
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "386932bb95982f6e1a8cb47c8edad25dff382370d4e97518623fa17979c54fba",
+      "result_snippet_sha256": "3dea3e3d3be0becd8d5c82b1807d9a6c1fcd6a1ac512147d0569f933c2d87070",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-19-orphan-bullet-01",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ee35d41a1f22d653d9161a00594ce6245fd2a9e7f29e0e891af755bdec1710d7",
+      "result_snippet_sha256": "246adb1c71322346c9ea7b0b966b102b91de551f130371f498ef1a34cef82f76",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-19-orphan-bullet-02",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "7cbb8250aede811f6ee8a7fc293d14fba29ed7d515d04fc1b4c6857dacca5c0c",
+      "result_snippet_sha256": "f631aebc7c46f81cb4b79dada956d62cfb2b13bb70fa874ba20f977b86879af5",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-19-orphan-bullet-03",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "94d7e878b4488fd3a65f3b79d1ce29f7e71231fcf174583a1301bea727f3c0a8",
+      "result_snippet_sha256": "653dd95f6d8704675509fa1678fe625a1d12a0b537ea0b8e238e6b5c9c0e1d87",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-19-orphan-bullet-04",
+      "file": "content.en/docs/central-government/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "90f0ee99faf35c871fecf2e96dfc3eb36459ec3d390fa574db270bea09ec3793",
+      "result_snippet_sha256": "2da688c70e1ab8e27fcc67a1c70d8017246621437437ecc25b8ad47ee41442fb",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-23-orphan-bullet-01",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ffe3929960fdef196066714cd32232d8768915f841db04ca3a2d8006766f4252",
+      "result_snippet_sha256": "c6d3aa4e15aa3393629468103415a22c938ae507ea39ec0f39e3a218a46d87e6",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-23-orphan-bullet-02",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "b43982f23936d11823af938635888bc0e7d28e29305c66756bc427d3a3f6af05",
+      "result_snippet_sha256": "5382fe31424bfeed677a9bc95a51471fff3a0610eb962dfb7c5673a161c8d576",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-23-orphan-bullet-03",
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "3883856bb6fdc506657ac50625ceb445a1b5b59db1321800c1413b3efef37298",
+      "result_snippet_sha256": "8f304884a0f997bd2a736f508b9a30e63f01ac040ec162de223a12e3be482862",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-25-orphan-bullet-01",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "487242b31c04baed48dd6ba1618779d6837815774f006d561a9a17ba11b7f6f8",
+      "result_snippet_sha256": "d54efb965cb7283d6b46917ed07366e24efd12eb3b267e82f23a03b1c9eca96a",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-25-orphan-bullet-02",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "bda16713862db96e599b5afcc243cc04380639166a78daae0ac1c3210348d544",
+      "result_snippet_sha256": "29f5399f4cc5944608dd7c0385fe1c6d4d0c2c2a50926ef2e1a991a27da71b9d",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-25-orphan-bullet-03",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ea95913e07014ba46923efe5cb28c788934438eb18e046bfefd261e71b8d560e",
+      "result_snippet_sha256": "8e5b12746f53f77b231e043d83d8cba440e71beb865da4f188fdd73e0d38cde0",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-25-orphan-bullet-04",
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "5c56ce41cf54981d75885eb0c68a1f0cb65867b84ba03baf0dccbfae14bd7ae2",
+      "result_snippet_sha256": "151bfb735e79f9fc5889bdb1b148eefff408fbcf6daa08f7e7874a4fed141b7d",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-27-orphan-bullet-01",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ee35d41a1f22d653d9161a00594ce6245fd2a9e7f29e0e891af755bdec1710d7",
+      "result_snippet_sha256": "246adb1c71322346c9ea7b0b966b102b91de551f130371f498ef1a34cef82f76",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-27-orphan-bullet-02",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "4f53606c6c6c1e53e3894507f9de2a9df8ade22dae8c092bd2cff48b51f32da5",
+      "result_snippet_sha256": "8f42d001c7bc2bcc2813d8ac8f7776a4f375a1ac7237b4a3a3b30f7d79609cb9",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-27-orphan-bullet-03",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "ea95913e07014ba46923efe5cb28c788934438eb18e046bfefd261e71b8d560e",
+      "result_snippet_sha256": "8e5b12746f53f77b231e043d83d8cba440e71beb865da4f188fdd73e0d38cde0",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-27-orphan-bullet-04",
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "source_report": "orphan-bullet-markup-repairs.json",
+      "expected_snippet_sha256": "5c56ce41cf54981d75885eb0c68a1f0cb65867b84ba03baf0dccbfae14bd7ae2",
+      "result_snippet_sha256": "151bfb735e79f9fc5889bdb1b148eefff408fbcf6daa08f7e7874a4fed141b7d",
+      "pdf_pages": [],
+      "kind": "formatting_only_orphan_bullet",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-1",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "f515170c1a38498b4e6dc615e94cd7d91083e17ac45c535bf13d3c9fa011a549",
+      "result_snippet_sha256": "270461efe0f5824cd3d2bdc558d36e469249e1508095dd7df94b8d62f713bfcd",
+      "pdf_pages": [
+        272
+      ],
+      "kind": "source_font_mapping_transcription",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-2",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "9d22570b277ea33f44adefd623560eee1a66e2b63c2ae7759468fb1a3cab1a2d",
+      "result_snippet_sha256": "34a86af93091e8ac854ec7972c6c1f3c13be45fed72ab800d361277437078cff",
+      "pdf_pages": [
+        272
+      ],
+      "kind": "source_font_mapping_transcription",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-3",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "a1690306fccdd7eb90232a54442eb7b38c3b63c6d9383ad2afa9e4b3cb0ab7c0",
+      "result_snippet_sha256": "b287d23912e955b46f4a4f096345dff4dc361ff36913f24b9eec661ee62f0b25",
+      "pdf_pages": [
+        272
+      ],
+      "kind": "source_font_mapping_transcription",
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-4",
+      "file": "content.en/docs/state-government/_index.md",
+      "source_report": "parent-findings.json",
+      "expected_snippet_sha256": "c03f1c047b157ef2a0aa5b31bd233074b1f8f2cbe18d518fe0cb8997ba12f715",
+      "result_snippet_sha256": "46068367128c6775c5f93ff9684f73cb7a51bb3ff267dfc7bffb1a68fa4c6037",
+      "pdf_pages": [
+        272
+      ],
+      "kind": "source_font_mapping_transcription",
+      "teacher_approval": false
+    }
+  ]
+}

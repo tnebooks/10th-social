@@ -7,6 +7,10 @@ weight: 2
 summary: "The First World War shattered the global capitalist system based on European imperialism. The European powers were gravely weakened by the War, financially and politically. The conflict between the workers and the ruling classes that controlled the government became intense. As…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 2: The World between two World Wars
 
 ![](assets/page_001_picture_001.png)
@@ -33,6 +37,8 @@ The First World War shattered the global capitalist system based on European imp
 
 As we saw in the last chapter, the crisis in the Western world had led to the outbreak of World War I. We now turn to the social and political developments in the world after the end of the War.
 
+<a id="topic-2-1"></a>
+
 ## 2.1 The Great Depression
 
 ### Developments in the post-World War I
@@ -53,7 +59,9 @@ Gold Standard is a monetary system where a country’s currency or paper money c
 
 The Depression changed the political conditions in several countries. In England, the Labour Party was defeated in the general elections of 1931. In the USA, the Republican Party was rejected by the people in successive elections for about twenty years after the Depression.
 
-## 2.2 Rise of Fascism and Nazism
+<a id="topic-2-2"></a>
+
+## 2.2 Rise of Fascism and Nazism
 
 ### (a) The Impact of War in Italy
 
@@ -75,7 +83,7 @@ Mussolini murdered. The opposition parties boycotted the Parliament in protest. 
 
 ### Mussolini’s Pact with Pope
 
-In order to give respectability to the Fascist Party, Mussolini won over the Roman Catholic Church by recognising the Vatican City as an independent state. In return the Church recognised the Kingdom of Italy. The Roman Catholic faith was made the religion of Italy and compulsory religious teaching in school was ordered. T e Lateran Treaty incorporating the said provisions was signed in 1929.
+In order to give respectability to the Fascist Party, Mussolini won over the Roman Catholic Church by recognising the Vatican City as an independent state. In return the Church recognised the Kingdom of Italy. The Roman Catholic faith was made the religion of Italy and compulsory religious teaching in school was ordered. The Lateran Treaty incorporating the said provisions was signed in 1929.
 
 ### Italy during the Great Depression
 
@@ -105,7 +113,7 @@ Hitler replaced the flag of the Weimar republic by the swastika banners (
 
 ) of National Socialism. Germany was converted into a highly centralised state. All political parties except the Nazi party were declared illegal. The army of brown-shirted and jack-booted storm-troopers was expanded. The Hitler Youth was created, and the Labour Front set up. Trade unions were abolished, their leaders arrested. Strikes were made illegal, wages were fixed by the government. Total state control was extended over the press, the theatre, the cinema, radio and over education.
 
-T e Nazi Party’s propaganda was led by Josef Goebbels, who manipulated public opinion through planned propaganda. The Gestapo or Secret State Police was formed and run by Himmler.
+The Nazi Party’s propaganda was led by Josef Goebbels, who manipulated public opinion through planned propaganda. The Gestapo or Secret State Police was formed and run by Himmler.
 
 ### Nazi Policy towards Jews
 
@@ -115,7 +123,9 @@ Along with the repressive measures, Hitler’s government followed a policy of r
 
 In August 1934 Hindenburg died and Hitler, apart from being Chancellor, became both President and Commander–in-Chief of the armed forces. Hitler’s foreign policy aimed at restoring the armed strength of Germany and annulling provisions of Versailles Treaty.
 
-## 2.3 Anti-Colonial Movements and Decolonisation Processes in Asia
+<a id="topic-2-3"></a>
+
+## 2.3 Anti-Colonial Movements and Decolonisation Processes in Asia
 
 ### (a) French Indo-China Rise of Anti-Colonialism
 
@@ -153,7 +163,9 @@ The ‘Great Depression’ (1929) also dealt a death blow to Indian agriculture 
 
 The British had to appease the Indian nationalists and the outcome was the passage of the Government of India Act, 1935. This provided for greater power to the local governments and the introduction of direct elections. In the 1937, elections the Congress won a resounding victory in most of the provinces. However the decision of Britain to involve India in the Second World War, without consulting the popular Congress ministries, forced the latter to resign from office.
 
-## 2.4 Anti-Colonial Movements in Africa
+<a id="topic-2-4"></a>
+
+## 2.4 Anti-Colonial Movements in Africa
 
 ### Colonisation of Africa
 
@@ -191,15 +203,17 @@ Act passed in 1924 prevented blacks from striking work and from joining trade un
 
 **Apartheid in South Africa**
 
-Apartheid, which means separateness, became the racial policy of the Nationalist Party in 1947. From 1950 onwards a series of laws came to be enforced. The whole country
-
-![](assets/page_007_picture_001.png)
-
-Nelson Mandela was divided into separate areas for the different races. Marriage between white and non-white was forbidden. Nearly all schools were brought under government control so that education different from that of the Whites could be implemented for Africans. University education was also segregated. Apartheid is based on the belief that the political equality of White and Black in South Africa would mean Black rule. The ANC which fought the practice of racism was banned and its leader Nelson Mandela was put behind bars. Mounting pressure at the global level helped to end the racist regime in South Africa. In 1990 the ban on ANC was lifted and Mandela freed after 27 years. In the elections held subsequently the Africans were allowed to vote and ANC won the election and Mandela became the first black president of South Africa. Even though apartheid was dismantled the Whites completely dominate the economic sphere.
+Apartheid, which means separateness, became the racial policy of the Nationalist Party in 1947. From 1950 onwards a series of laws came to be enforced. The whole country was divided into separate areas for the different races. Marriage between white and non-white was forbidden. Nearly all schools were brought under government control so that education different from that of the Whites could be implemented for Africans. University education was also segregated. Apartheid is based on the belief that the political equality of White and Black in South Africa would mean Black rule. The ANC which fought the practice of racism was banned and its leader Nelson Mandela was put behind bars. Mounting pressure at the global level helped to end the racist regime in South Africa. In 1990 the ban on ANC was lifted and Mandela freed after 27 years. In the elections held subsequently the Africans were allowed to vote and ANC won the election and Mandela became the first black president of South Africa. Even though apartheid was dismantled the Whites completely dominate the economic sphere.
 
 ![](assets/page_007_picture_002.png)
 
-## 2.5 Political Developments in South America
+![](assets/page_007_picture_001.png)
+
+**Nelson Mandela**
+
+<a id="topic-2-5"></a>
+
+## 2.5 Political Developments in South America
 
 ### Mayas and Aztecs
 
@@ -279,6 +293,10 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 
 ### GLOSSARY
 
+![Source glossary, PDF page 30, including Tamil meanings](assets/source_glossary_pdf_030.png)
+
+![Source glossary, PDF page 31, including Tamil meanings](assets/source_glossary_pdf_031.png)
+
 | Term | Meaning |
 |---|---|
 | solidarity | a bond of unity, support for a common cause |
@@ -293,122 +311,152 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. With whom of the following was the
-
-Lateran Treaty signed by Italy?
-
-a) Germany b) Russia c) Pope d) Spain
+1. With whom of the following was the Lateran Treaty signed by Italy?
+   - a) Germany
+   - b) Russia
+   - c) Pope
+   - d) Spain
 
 2. With whose conquest did the Mexican civilization collapse?
-
-a) Hernan Cortes b) Francisco Pizarro c) Toussaint Louverture d) Pedro I
+   - a) Hernan Cortes
+   - b) Francisco Pizarro
+   - c) Toussaint Louverture
+   - d) Pedro I
 
 3. Who made Peru as part of their dominions?
+   - a) English
+   - b) Spaniards
+   - c) Russians
+   - d) French
 
-a) English b) Spaniards c) Russians d) French
-
-4. Which President of the USA pursued
-
-“Good Neighbour” policy towards Latin America?
-
-a) Franklin D. Roosevelt b) Truman c) Woodrow Wilson d) Eisenhower
+4. Which President of the USA pursued “Good Neighbour” policy towards Latin America?
+   - a) Franklin D. Roosevelt
+   - b) Truman
+   - c) Woodrow Wilson
+   - d) Eisenhower
 
 5. Which part of the world disliked dollar imperialism?
-
-a) Europe b) Latin America c) India d) China
+   - a) Europe
+   - b) Latin America
+   - c) India
+   - d) China
 
 **II Fill in the blanks**
 
-1. The founder of the Social Democratic
+1. The founder of the Social Democratic Party was ________.
 
-Party was .
+2. The Nazi Party’s propaganda was led by ________.
 
-2. The Nazi Party’s propaganda was led by
+3. The Vietnam Nationalist Party was formed in ________.
 
-.
+4. The Secret State Police in Nazi Germany was known as ________.
 
-3. The Vietnam Nationalist Party was formed in .
+5. The Union of South Africa came into being in May ________.
 
-4. The Secret State Police in Nazi Germany was known as .
+6. The ANC leader Nelson Mandela was put behind the bars for ________ years
 
-5. The Union of South Africa came into being in May .
+7. Boers were also known as ________.
 
-6. The ANC leader Nelson Mandela was put behind the bars for years
+**III Choose the correct statement**
 
-7. Boers were also known as
+1.
+    - i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front
+    - ii) The first huge market crash in the US occurred on 24 October 1929.
+    - iii) The ban on African National Congress was lifted in 1966.
+    - a) i) and ii) are correct
+    - b) iii) is correct
+    - c) ii) and iii) are correct
+    - d) i), ii) and iii) are correct
 
-.
+2. Assertion: The Berlin Colonial Conference of 1884–85 had resolved that Africa should be divided into spheres of influence of various colonial powers.
 
-**III Choose the correct statement**
+   Reason: The war between the British and Boers in South Africa, however, was in defiance of this resolution.
+   - a) Both A and R are right
+   - b) A is right but R is not the right reason
+   - c) Both A and R are wrong
+   - d) A is wrong and R has no relevance to A
 
-1. i) During World War I the primary task of
+**IV Match the following**
 
-Italy was to keep the Austrians occupied on the Southern Front ii) The first huge market crash in the US occurred on 24 October 1929.
-
-iii) The ban on African National Congress was lifted in 1966.
-
-a) i) and ii) are correct b) iii) is correct c) ii) and iii) are correct d) i), ii) and iii) are correct
-
-2. Assertion: The Berlin Colonial Conference of 1884–85 had resolved that Africa should be divided into spheres of influence of various colonial powers. Reason: The war between the British and Boers in South Africa, however, was in defiance of this resolution. a) Both A and R are right b) A is right but R is not the right reason c) Both A and R are wrong d) A is wrong and R has no relevance to A
-
-**IV Match the Following**
-
-1. Transvaal
-
-- President of Germany
-
-2. Hindenburg
-
-- Hitler
-
-3. Third Reich
-
-- Italy
-
-4. Matteotti
-
-- gold
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Transvaal | President of Germany |
+| 2 | Hindenburg | Hitler |
+| 3 | Third Reich | Italy |
+| 4 | Matteotti | gold |
 
 **V Answer briefly**
 
-1. What do you know of the White Terror in
+1. What do you know of the White Terror in Indo-China?
 
-Indo-China?
+2. What was the result of Mussolini’s march on Rome?
 
-2. What was the result of Mussolini’s march on
-
-Rome?
-
-3. How did Great Depression impact on the
-
-Indian agriculture?
+3. How did Great Depression impact on the Indian agriculture?
 
 4. Define “Dollar Imperialism.”
 
 **VI Answer in detail**
 
-1. Trace the circumstances that led to the rise of Hitler in Germany.
+1. Trace the circumstances that led to the rise of Hitler in Germany.
 
-2. Attempt a narrative account of how the process of decolonization happened in India during the inter-war period (1919-39).
+2. Attempt a narrative account of how the process of decolonization happened in India during the inter-war period (1919-39).
 
-3. Describe the rise and growth of nationalist politics in South Africa.
+3. Describe the rise and growth of nationalist politics in South Africa.
 
 **VII Activity**
 
-1. Each student may be asked to write an assignment on how each sector and each section of population in the USA came to be affected by the Stock Market Crash in 1929.
+1. Each student may be asked to write an assignment on how each sector and each section of population in the USA came to be affected by the Stock Market Crash in 1929.
 
-2. A group project work on Vietnam War is desirable. An album or pictures, portraying the air attacks of the US on Vietnam and the brave resistance put up by the Vietnamese may be prepared.
+2. A group project work on Vietnam War is desirable. An album or pictures, portraying the air attacks of the US on Vietnam and the brave resistance put up by the Vietnamese may be prepared.
 
 ### REFERENCE BOOKS
 
-1. Richard Overy (ed.) Complete History of the World (London: HarperCollins, 2007)
+1. Richard Overy (ed.) Complete History of the World (London: HarperCollins, 2007)
 
-2. Chris Harman, A People’s History of the World (New Delhi: Orient Longman, 2007).
+2. Chris Harman, A People’s History of the World (New Delhi: Orient Longman, 2007).
 
-3. R.D. Cornwell, World History in the Twentieth Century (London: Longman, 1972).
+3. R.D. Cornwell, World History in the Twentieth Century (London: Longman, 1972).
 
-4. E.H. Gombrich, A Little History of the World (London: Yale University Press, 2008).
+4. E.H. Gombrich, A Little History of the World (London: Yale University Press, 2008).
 
-5. Jawaharlal Nehru, Glimpses of World History (New Delhi: Penguin Books, 2004).
+5. Jawaharlal Nehru, Glimpses of World History (New Delhi: Penguin Books, 2004).
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — The World between two World Wars](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Latin American Revolutions — Crash Course World History 31](https://www.youtube.com/watch?v=ZBw35Ze3bg8) — CrashCourse; English. Covers selected concepts; see the topic table below.
+- [இரு உலகப் போர்களுக்கு இடையில் உலகம் — பொருளாதாரப் பெருமந்தம்](https://www.youtube.com/watch?v=gQ6TJsh6ueQ) — EduDeck; Tamil explanation.
+- [The World between Two World Wars — Part 3 — Asian anti-colonial movements](https://www.youtube.com/watch?v=SHux65ZqBs8) — EduDeck; Tamil explanation.
+- [Fascism and Nazism — simple Tamil explanation](https://www.youtube.com/watch?v=Y0StutxoCOo) — Meyira Maadu; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Anti-colonial movements in South Africa — Tamil](https://www.youtube.com/watch?v=t49dI9cEHvg) — SSLC (Social Science Learners Camp); Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [The World between two World Wars — chapter quiz](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [2.1 The Great Depression](#topic-2-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=gQ6TJsh6ueQ) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) |
+| [2.2 Rise of Fascism and Nazism](#topic-2-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Y0StutxoCOo) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) |
+| [2.3 Anti-Colonial Movements and Decolonisation Processes in Asia](#topic-2-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=SHux65ZqBs8) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) |
+| [2.4 Anti-Colonial Movements in Africa](#topic-2-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=t49dI9cEHvg) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) |
+| [2.5 Political Developments in South America](#topic-2-5) | [Topic video (English)](https://www.youtube.com/watch?v=ZBw35Ze3bg8) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) |
+
+<!-- supplemental-resources:end -->

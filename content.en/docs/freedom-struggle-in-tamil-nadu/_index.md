@@ -7,6 +7,10 @@ weight: 9
 summary: "Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepo…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 9: Freedom Struggle in Tamil Nadu
 
 ## Learning Objectives
@@ -29,19 +33,19 @@ summary: "Tamil Nadu showed the lead in resisting colonial rule. As early as the
 
 Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepoys and officers in Vellore Fort in 1806 that had its echoes in several cantonments in South India. Thanks to the introduction of Western education and eventual emergence of educated Indian middle class, the struggle against the British took the constitutional path. The freedom struggle in Tamil Nadu was unique, because from the beginning it was not only a struggle for independence from the English rule but also a struggle for independence from social disability imposed by the obnoxious caste system. In this lesson, we shall study the role played by nationalists, who followed diverse ideologies in Tamil Nadu.
 
-## 9.1 Early Nationalist Stirrings in Tamil Nadu
+<a id="topic-9-1"></a>
+
+## 9.1 Early Nationalist Stirrings in Tamil Nadu
 
 ### (a) Madras Native Association
 
-The Madras Native Association (MNA) was the earliest organisation to be founded in South India to articulate larger public rather than sectarian interests. It was started by Gazulu Lakshminarasu, Srinivasanar and their associates in 1852. It consisted primarily of merchants. The objective was to promote the interests of its members and their focus was on reduction in taxation. It also protested against the support of the government to Christian missionary activities. It drew the attention of the government to the condition and needs of the people. One of the important contributions of the MNA was its agitation against torture of the peasants by revenue officials. These efforts led to the establishment of the
+The Madras Native Association (MNA) was the earliest organisation to be founded in South India to articulate larger public rather than sectarian interests. It was started by Gazulu Lakshminarasu, Srinivasanar and their associates in 1852. It consisted primarily of merchants. The objective was to promote the interests of its members and their focus was on reduction in taxation. It also protested against the support of the government to Christian missionary activities. It drew the attention of the government to the condition and needs of the people. One of the important contributions of the MNA was its agitation against torture of the peasants by revenue officials. These efforts led to the establishment of the Torture Commission and the eventual abolition of the Torture Act, which justified the collection of land revenue through torture. However, by 1862, the Madras Native Association had ceased to exist.
 
 ![](assets/page_001_picture_003.png)
 
-Gazalu Lakshminarasu
+**Gazalu Lakshminarasu**
 
-Torture Commission and the eventual abolition of the Torture Act, which justified the collection of land revenue through torture. However, by 1862, the Madras Native Association had ceased to exist.
-
-### (b) Beginnings of the Nationalist Press: The Hindu and Swadesamitran
+### (b) Beginnings of the Nationalist Press: The Hindu and Swadesamitran
 
 The appointment of T. Muthuswami as the first Indian Judge of the Madras High Court in 1877 created a furore in Madras Presidency. The entire press in Madras criticized the appointment of an Indian as a Judge. The press opposed his appointment and the educated youth realized that the press was entirely owned by Europeans. The need for a newspaper to express the Indian perspective was keenly felt. G. Subramaniam, M. Veeraraghavachari and four other friends together started a newspaper The Hindu in 1878. It soon became the vehicle of nationalist propaganda. G. Subramaniam also started a Tamil nationalist periodical Swadesamitran in 1891 which became a daily in 1899. The founding of The Hindu and Swadesamitran provided encouragement to the starting of other native newspapers such as Indian Patriot, South Indian Mail, Madras Standard, Desabhimani, Vijaya, Suryodayam and India.
 
@@ -91,6 +95,8 @@ Badruddin Tyabji as president. Out of the 607 all India delegates of 362 were fr
 
 Tamil Nadu was then part of the Madras Presidency which included large parts of the present-day states of Andhra Pradesh (Coastal districts and Rayalaseema), Karnataka (Bengaluru, Bellary, South Canara), Kerala (Malabar) and even Odisha (Ganjam).
 
+<a id="topic-9-2"></a>
+
 ## 9.2 Swadeshi Movement
 
 The partition of Bengal (1905) led to the Swadeshi Movement and changed the course of the struggle for freedom. In various parts of India, especially Bengal, Punjab and Maharashtra popular leaders emerged. They implemented the programme of the Calcutta Congress, which called upon the nation to promote Swadeshi enterprise, boycott foreign goods and promote national education.
@@ -133,7 +139,7 @@ Bharati
 
 Bipin Chandra Pal
 
-### (b) Revolutionary Activities in Tamil Nadu
+### (b) Revolutionary Activities in Tamil Nadu
 
 Pondicherry provided a safe haven for the revolutionaries. Many of these revolutionaries in Tamil Nadu were introduced and trained in revolutionary activities at India House in London and in Paris. M.P.T. Acharya, V.V. Subramanianar and T.S.S. Rajan were prominent among them. Revolutionary literature was distributed by them in Madras through Pondicherry. Radical papers such as India, Vijaya and Suryodayam published from Pondicherry.
 
@@ -149,7 +155,7 @@ Aurobindo Gosh
 
 In 1904, Nilakanta Brahmachari and others started Bharata Matha Society, a secret society. The objective was to kill British officials and thereby kindle patriotic fervour among the people. Vanchinathan of Senkottai, was influenced by this organisation. On 17 June 1911, he shot dead Robert W.D’E. Ashe, Collector of Tirunelveli in Maniyachi Junction. After this he shot himself.
 
-### (c) Annie Besant and the Home
+### (c) Annie Besant and the Home
 
 ### Rule Movement
 
@@ -157,9 +163,11 @@ While the extremists and revolutionaries were suppressed with an iron hand, the 
 
 Thus when the national movement was in its ebb, Annie Besant, an Irish lady and leader of the Theosophical Society, proposed the Home Rule Movement on the model of Irish Home Rule League. She started Home Rule League in 1916 and carried forward the demand for home rule all over India. G.S. Arundale, B.P. Wadia and C.P. Ramaswamy assisted her in this campaign. They demanded home rule with only a nominal allegiance to British Crown. She started the newspapers New India and Commonweal to carry forward her agenda. She remarked, “Better bullock carts and freedom than a train deluxe with subjection”. Under the Press Act of 1910, Annie Besant was asked to pay hefty amount as security. She wrote two books, How India wrought for Freedom and India: A Nation and a pamphlet on self-government.
 
-## 9.3 Non-Brahmin Movement and the Challenge to Congress
+<a id="topic-9-3"></a>
 
-### (a) The South Indian Liberal
+## 9.3 Non-Brahmin Movement and the Challenge to Congress
+
+### (a) The South Indian Liberal
 
 ### Federation
 
@@ -177,7 +185,7 @@ Raja of Panagal
 
 A Subbarayalu
 
-### (b) Government’s Repressive
+### (b) Government’s Repressive
 
 ### Measures: Rowlatt Act
 
@@ -203,7 +211,9 @@ George Joseph
 
 Following the Jallianwala Bagh Massacre General Dyer who was responsible for it was not only acquitted of all charges but rewarded. After the First World War the Caliph of Turkey was humiliated and deprived of all powers. To restore the Caliph, the Khilafat Movement was started. Muslims who had largely kept from the nationalist movement now joined it in huge numbers. In Tamil Nadu, Khilafat Day was observed on 17 April 1920, with a meeting presided over by Maulana Shaukat Ali. Another such conference was held at Erode. Vaniyambadi was the epicenter of Khilafat agitation.
 
-## 9.4 Non-Cooperation Movement
+<a id="topic-9-4"></a>
+
+## 9.4 Non-Cooperation Movement
 
 Tamil Nadu was active during the Non-Cooperation Movement. C. Rajaji and
 
@@ -213,7 +223,7 @@ E.V. Ramaswamy (EVR, later known as Periyar) provided the leadership. Rajaji wor
 
 Yakub Hasan
 
-### (a) No Tax Campaigns and Temperance Movement
+### (a) No Tax Campaigns and Temperance Movement
 
 As part of the non-cooperation movement, in many places, cultivators refused to pay taxes. A no-tax campaign took place in Thanjavur. Councils, schools and courts were boycotted. Foreign goods were boycotted. There were a number of workers’ strikes all over region, many of them led by nationalist leaders. One of the important aspects of the movement in Tamil Nadu was the temperance movement or movement against liquor. In November 1921, it was decided to organise civil disobedience. Rajaji, Subramania Sastri and EVR were arrested. The visit of Prince of Wales on 13 January 1922 was boycotted. In the police repression two were killed and many injured. The Non-Cooperation Movement was withdrawn in 1922 after the Chauri Chaura incident, in which 22 policemen were killed.
 
@@ -237,7 +247,9 @@ In 1927, a statutory commission was constituted under Sir John Simon to review t
 
 James Neill of the Madras Fusiliers (infantry men with firearms) was brutal in wreaking vengeance at Kanpur (‘the Cawnpur massacre’, as it was called) in which many English women and children were killed in the Great Rebellion of 1857. Neill was later killed by an Indian sepoy. A statue was erected for him at Mount Road, Madras. Nationalists saw this as an insult to Indian sentiments, and organised a series of demonstrations in Madras. The statue was finally moved to Madras Museum when Congress Ministry, led by C. Rajaji, formed the government in 1937.
 
-## 9.5 Civil Disobedience Movement
+<a id="topic-9-5"></a>
+
+## 9.5 Civil Disobedience Movement
 
 ### (a) Towards Poorna Swaraj
 
@@ -251,15 +263,13 @@ When the Viceroy did not accept the demands put forward by Gandhi, he launched t
 
 Vedaranyam Salt March Memorial
 
-### (c) Widespread Agitations in Tamil Districts
+### (c) Widespread Agitations in Tamil Districts
 
-The satyagrahis under the leadership of T. Prakasam and K. Nageswara Rao set up a camp at Udayavanam near Madras. However, the police arrested them. It led to a hartal in Madras. The clashes with the police in Tiruvallikeni which lasted for three hours on 27 April 1930 left three dead. Volunteers who attempted to offer salt Satyagraha in
+The satyagrahis under the leadership of T. Prakasam and K. Nageswara Rao set up a camp at Udayavanam near Madras. However, the police arrested them. It led to a hartal in Madras. The clashes with the police in Tiruvallikeni which lasted for three hours on 27 April 1930 left three dead. Volunteers who attempted to offer salt Satyagraha in Rameswaram were arrested. Mill workers struck work across the province. Woman participated enthusiastically. Rukmani Lakshmipathi was the first woman to pay penalty for violation of salt laws. Police used brutal force to suppress the movement. Bhashyam, popularly known as Arya, hoisted the national flag atop Fort St. George on 26 January 1932.
 
 ![](assets/page_007_picture_002.png)
 
-Rameswaram were
-
-Rukmani Lakshmipathi arrested. Mill workers struck work across the province. Woman participated enthusiastically. Rukmani Lakshmipathi was the first woman to pay penalty for violation of salt laws. Police used brutal force to suppress the movement. Bhashyam, popularly known as Arya, hoisted the national flag atop Fort St. George on 26 January 1932.
+**Rukmani Lakshmipathi**
 
 ### Martyrdom of Tirupur Kumaran
 
@@ -288,6 +298,8 @@ C. Rajaji
 ### (e) Anti-Hindi Agitation
 
 One of the controversial measures of Rajaji was the introduction of Hindi as a compulsory subject in schools. This was considered to be a form of Aryan and North Indian imposition detrimental to Tamil language and culture, and therefore caused much public resentment. E.V.R. led a massive campaign against it. He organised an anti-Hindi Conference at Salem. It formulated a definite programme of action. The Scheduled Castes Federation and the Muslim League extended its support to the anti-Hindi agitation. Natarajan and Thalamuthu, two of the enthusiastic agitators died in prison. A rally was organised from Tiruchirappalli to Madras. More than 1200 protestors including E.V.R. were arrested. After the resignation of the Congress Ministry, the Governor of Madras who took over the reigns of administration removed Hindi as compulsory subject.
+
+<a id="topic-9-6"></a>
 
 ## 9.6 Quit India Struggle
 
@@ -323,6 +335,8 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 ### GLOSSARY
 
+![Source glossary, PDF page 119, including Tamil meanings](assets/source_glossary_pdf_119.png)
+
 | Term | Meaning |
 |---|---|
 | hegemony | leadership or dominance, especially by one state or social group over others |
@@ -339,113 +353,87 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 ### EXERCISE
 
-**I Choose the**
+**I Choose the** **correct answer**
 
-**correct answer**
+1. Who was the first President of the Madras Mahajana Sabha?
+   - a) T.M. Nair
+   - b) P. Rangaiah
+   - c) G. Subramaniam
+   - d) G.A. Natesan
 
-1. Who was the first President of the Madras Mahajana Sabha?
+2. Where was the third session of the Indian National Congress held?
+   - a) Marina
+   - b) Mylapore
+   - c) Fort St. George
+   - d) Thousand Lights
 
-a) T.M. Nair b) P. Rangaiah c) G. Subramaniam d) G.A. Natesan
+3. Who said “Better bullock carts and freedom than a train de luxe with subjection”?
+   - a) Annie Besant
+   - b) M. Veeraraghavachari
+   - c) B.P. Wadia
+   - d) G.S. Arundale
 
-2. Where was the third session of the Indian
+4. Who among the following were Swarajists?
+   - a) S. Satyamurti
+   - b) Kasturirangar
+   - c) P. Subbarayan
+   - d) Periyar EVR
 
-National Congress held?
+5. Who set up the satyagraha camp in Udyavanam near Madras?
+   - a) K. Kamaraj
+   - b) C. Rajaji
+   - c) K. Santhanam
+   - d) T. Prakasam
 
-a) Marina b) Mylapore c) Fort St. George d) Thousand Lights
-
-3. Who said “Better bullock carts and freedom than a train de luxe with subjection”?
-
-a) Annie Besant b) M. Veeraraghavachari c) B.P. Wadia d) G.S. Arundale
-
-4. Who among the following were Swarajists?
-
-a) S. Satyamurti b) Kasturirangar c) P. Subbarayan d) Periyar EVR
-
-5. Who set up the satyagraha camp in
-
-Udyavanam near Madras?
-
-a) K. Kamaraj b) C. Rajaji c) K. Santhanam d) T. Prakasam
-
-6. Where was the anti-Hindi Conference held?
-
-a) Erode b) Madras c) Salem d) Madurai
+6. Where was the anti-Hindi Conference held?
+   - a) Erode
+   - b) Madras
+   - c) Salem
+   - d) Madurai
 
 **II Fill in the blanks**
 
-1.  was appointed the first
+1. ________ was appointed the first Indian Judge of the Madras High Court.
 
-Indian Judge of the Madras High Court.
+2. Nilakanta Brahmachari started the secret society named ________.
 
-2. Nilakanta Brahmachari started the secret society named
+3. ________ formed the first Congress Ministry in Madras.
 
-.
+4. ________ was the founder of the Madras branch of the Muslim League.
 
-3.  formed the first
+5. ________ hoisted the national flag atop Fort St. George on 26 January 1932.
 
-Congress Ministry in Madras.
+**III Choose the correct statement**
 
-4.  was the founder of the
+1.
+    - (i) Madras Native Association was founded in 1852.
+    - (ii) Tamil nationalist periodical Swadesamitran was started in 1891.
+    - (iii) The Madras Mahajana Sabha demanded conduct of civil services examinations only in India
+    - (iv) V.S. Srinivasanar was an extremist.
+    - a) (i) and (ii) are correct
+    - b) (iii) is correct
+    - c) (iv) is correct
+    - d) All are correct
 
-Madras branch of the Muslim League.
+2.
+    - (i) E.V.R. did not participate in the Non-Cooperation Movement.
+    - (ii) Rajaji worked closely with Yakub Hasan of the Muslim League.
+    - (iii) Workers did not participate in the Non-Cooperation Movement.
+    - (iv) Toddy shops were not picketed in Tamil Nadu.
+    - a) (i) and (ii) are correct
+    - b) (i) and (iii) are correct
+    - c) (ii) is correct
+    - d) (i), (iii) and (iv) are correct
 
-5.  hoisted the national flag atop Fort St. George on 26 January 1932.
+**IV Match the following**
 
-**III Choose the correct statement**
-
-1. (i) Madras
-
-Native Association was founded in 1852.
-
-(ii) Tamil nationalist periodical
-
-Swadesamitran was started in 1891.
-
-(iii) The Madras Mahajana Sabha demanded conduct of civil services examinations only in India
-
-(iv) V.S. Srinivasanar was an extremist.
-
-a) (i) and (ii) are correct b) (iii) is correct c) (iv) is correct d) All are correct
-
-2. (i) E.V.R. did not participate in the
-
-Non-Cooperation Movement.
-
-(ii) Rajaji worked closely with Yakub
-
-Hasan of the Muslim League.
-
-(iii) Workers did not participate in the
-
-Non-Cooperation Movement.
-
-(iv) Toddy shops were not picketed in
-
-Tamil Nadu.
-
-a) (i) and (ii) are correct b) (i) and (iii) are correct c) (ii) is correct d) (i), (iii) and (iv) are correct
-
-**IV Match the Following**
-
-1. MNA
-
-- Anti-Hindi agitation
-
-2. EVR Periyar
-
-- Removal of Neill
-
-Statue
-
-3. S.N. Somayajulu - Salt Satyagraha
-
-4. Vedaranyam
-
-- Torture Commission
-
-5. Thalamuthu
-
-- Vaikom Hero
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | MNA | Anti-Hindi agitation |
+| 2 | EVR Periyar | Removal of Neill Statue |
+| 3 | S.N. Somayajulu | Salt Satyagraha |
+| 4 | Vedaranyam | Torture Commission |
+| 5 | Thalamuthu | Vaikom Hero |
 
 **V Answer the questions briefly**
 
@@ -453,40 +441,73 @@ Statue
 
 2. Write a note on the Tirunelveli Uprising.
 
-3. What is the contribution of Annie Besant to India's freedom struggle?
+3. What is the contribution of Annie Besant to India's freedom struggle?
 
 **VI Answer in detail**
 
-1. Discuss the response to Swadeshi
+1. Discuss the response to Swadeshi Movement in Tamil Nadu.
 
-Movement in Tamil Nadu.
+2. Examine the origin and growth of non- Brahmin Movement in Tamil Nadu.
 
-2. Examine the origin and growth of non-
-
-Brahmin Movement in Tamil Nadu.
-
-3. Describe the role of Tamil Nadu in the
-
-Civil Disobedience Movement.
+3. Describe the role of Tamil Nadu in the Civil Disobedience Movement.
 
 **VII Activity**
 
-1. Students can be asked to write a sentence or two about the important places of freedom struggle in Tamil Nadu.
+1. Students can be asked to write a sentence or two about the important places of freedom struggle in Tamil Nadu.
 
-2. Role Play: Students can be divided into groups and asked to debate the views of the Moderates, Extremists, Revolutionaries, Annie Besant’s supporters, Justice Party, and British Government.
+2. Role Play: Students can be divided into groups and asked to debate the views of the Moderates, Extremists, Revolutionaries, Annie Besant’s supporters, Justice Party, and British Government.
 
 ### REFERENCE BOOKS
 
-1. K. Rajayyan, Tamil Nadu: A Real History,
+1. K. Rajayyan, Tamil Nadu: A Real History,
 
 Ratna Publications, Trivandrum, 2005.
 
-2. Saroja Sundararajan, March to Freedom in Madras Presidency, 1916–1947, Lalitha Publications, Madras, 1989.
+2. Saroja Sundararajan, March to Freedom in Madras Presidency, 1916–1947, Lalitha Publications, Madras, 1989.
 
-3. N. Rajendran, National Movement in
+3. N. Rajendran, National Movement in
 
 Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.
 
-4. A.R. Venkatachalapathy, Tamil Characters:
+4. A.R. Venkatachalapathy, Tamil Characters:
 
 Personalities, Politics, Culture, Pan Macmillan, 2018.
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [Freedom Struggle in Tamil Nadu — Part 1 — Early Nationalist Movement](https://www.youtube.com/watch?v=hr3aqAceE_4) — KalviTVOfficial; English medium (speech unverified). Covers selected concepts; see the topic table below.
+- [Freedom Struggle in Tamil Nadu — 10th History Unit 9 — Part 1](https://www.youtube.com/watch?v=qll4dx8ncBM) — Kalaivani Matric Higher Secondary School Gingee; language not verified.
+- [Madras Mahajana Sabha — Tamil](https://www.youtube.com/watch?v=YuanRy3QaOE) — think before; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Swadesi & Non-Brahmin movements — 10th History](https://www.youtube.com/watch?v=m5S2HdVU1Bs) — Kaikoru Education - Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Non-Cooperation movement in Tamil Nadu — 10th](https://www.youtube.com/watch?v=7OeQQmE_LBY) — Kaikoru Education - Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [வேதாரணியம் உப்பு சத்தியாகிரகம்](https://www.youtube.com/watch?v=yz5AtJMFQKk) — FactDrops Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [தமிழ்நாட்டில் வெள்ளையனே வெளியேறு இயக்கம்](https://www.youtube.com/watch?v=Xom5nUM7_mI) — Sengo Academy; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Freedom Struggle in Tamil Nadu — chapter quiz](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [9.1 Early Nationalist Stirrings in Tamil Nadu](#topic-9-1) | [Topic video (English medium (speech unverified))](https://www.youtube.com/watch?v=hr3aqAceE_4) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
+| [9.2 Swadeshi Movement](#topic-9-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=m5S2HdVU1Bs) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
+| [9.3 Non-Brahmin Movement and the Challenge to Congress](#topic-9-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=m5S2HdVU1Bs) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
+| [9.4 Non-Cooperation Movement](#topic-9-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=7OeQQmE_LBY) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
+| [9.5 Civil Disobedience Movement](#topic-9-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=yz5AtJMFQKk) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
+| [9.6 Quit India Struggle](#topic-9-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Xom5nUM7_mI) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
+
+<!-- supplemental-resources:end -->

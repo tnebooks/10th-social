@@ -7,6 +7,10 @@ weight: 20
 summary: "The Constitution of India envisages for a federal government, having separate systems of administration for the union and the states. There are 28 states, 8 union territories including one national capital territory known as Delhi in India. The constitution contains provisions f…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Civics Unit 3: State Government
 
 ![](assets/page_001_picture_001.png)
@@ -27,37 +31,15 @@ summary: "The Constitution of India envisages for a federal government, having s
 
 The Constitution of India envisages for a federal government, having separate systems of administration for the union and the states. There are 28 states, 8 union territories including one national capital territory known as Delhi in India. The constitution contains provisions for the governance of both the union and the states. It lays down a uniform structure for the State Government, in part VI of the constitution from Article 152 to 237, which is applicable to all the states, The structure of the State Government, as formed in the Centre, consists of three branches. These are the Executive, the Legislature and the Judiciary.
 
-## 3.1 The Executive
+![Original textbook diagram](assets/source-en-p265-figure-1.png)
+
+<a id="topic-3-1"></a>
+
+## 3.1 The Executive
 
 ### The Governor
 
-The Governor is the constitutional head of the state executive. Generally, there is a separate Governor in each State but if the situation warrants so, the same person may be appointed
-
-Judiciary Legislature
-
-Executive
-
-Governor
-
-Legislative
-
-High Court
-
-Legislative
-
-Assembly (Lower House)
-
-Council (Upper House)
-
-Chief Minister
-
-Council of
-
-Ministers
-
-District Courts
-
-Other Courts as the Governor of two or more States. Article 154 vests the executive power of the State in the Governor.
+The Governor is the constitutional head of the state executive. Generally, there is a separate Governor in each State but if the situation warrants so, the same person may be appointed as the Governor of two or more States. Article 154 vests the executive power of the State in the Governor.
 
 ### Appointment
 
@@ -73,13 +55,13 @@ Article 157 and Article 158 of the Constitution of India specify eligibility req
 
 ![](assets/page_002_picture_001.png)
 
-- He should be a citizen of India.
+- He should be a citizen of India.
 
-- He must have completed 35 years of age.
+- He must have completed 35 years of age.
 
-- He should not be a member of Parliament or of any State Legislature. If he is a member of any of Legislature, he automatically vacates his seat on assuming the office.
+- He should not be a member of Parliament or of any State Legislature. If he is a member of any of Legislature, he automatically vacates his seat on assuming the office.
 
-- He should not hold any other profitable occupation.
+- He should not hold any other profitable occupation.
 
 ### Powers and Functions of the Governor
 
@@ -87,67 +69,67 @@ The Governor is the head of the state executive and he has other powers. In the 
 
 ### Executive Powers
 
-- He appoints the leader of the majority party in the State Legislative Assembly as the Chief Minister of the State.
+- He appoints the leader of the majority party in the State Legislative Assembly as the Chief Minister of the State.
 
-- He appoints other members of the Council of Ministers on the recommendation of the Chief Minister.
+- He appoints other members of the Council of Ministers on the recommendation of the Chief Minister.
 
-- He appoints the Chairman and Members of the State Public Service Commission.
+- He appoints the Chairman and Members of the State Public Service Commission.
 
-- He appoints the state election commissioner and determines his conditions of service and tenure of office.
+- He appoints the state election commissioner and determines his conditions of service and tenure of office.
 
-- He acts as the chancellor of universities in the state. He also appoints the Vice Chancellors of universities in the state.
+- He acts as the chancellor of universities in the state. He also appoints the Vice Chancellors of universities in the state.
 
-- He directly rules a State when there is the imposition of the President’s rule in the State.
+- He directly rules a State when there is the imposition of the President’s rule in the State.
 
 ### Legislative Powers
 
 The Governor is an integral part of the state legislature. But, he is not a member in the either house of the legislature. In this capacity, he enjoys the following legislative powers and functions:
 
-- He has the right to summon, prorogue the state legislature and dissolve the State Legislative Assembly.
+- He has the right to summon, prorogue the state legislature and dissolve the State Legislative Assembly.
 
-- He can address the state legislature at the commencement of the first session after each general election and the first session of each year.
+- He can address the state legislature at the commencement of the first session after each general election and the first session of each year.
 
-- He can send messages to the houses of the state legislature relating to a bill pending in the legislature.
+- He can send messages to the houses of the state legislature relating to a bill pending in the legislature.
 
-- He can appoint any member of the Legislative Assembly to preside over its proceedings when the offices of both the Speaker and the Deputy Speaker fall vacant.
+- He can appoint any member of the Legislative Assembly to preside over its proceedings when the offices of both the Speaker and the Deputy Speaker fall vacant.
 
-- He can nominate one member to the State Legislative Assembly from the Anglo- Indian Community.
+- He can nominate one member to the State Legislative Assembly from the Anglo- Indian Community.
 
-- He nominates 1/6 of the members of the State Legislative Council from amongst the persons having special knowledge or practical experience in literature, science, art, cooperative movement and social service.
+- He nominates 1/6 of the members of the State Legislative Council from amongst the persons having special knowledge or practical experience in literature, science, art, cooperative movement and social service.
 
-- Every bill passed by the state legislature will become law only after his signature. But, when a bill is sent to the Governor after it is passed by the legislature, he has the options to give his assent to the bill or withhold his assent to the bill or return the bill for the reconsideration of the legislature.
+- Every bill passed by the state legislature will become law only after his signature. But, when a bill is sent to the Governor after it is passed by the legislature, he has the options to give his assent to the bill or withhold his assent to the bill or return the bill for the reconsideration of the legislature.
 
-- He can promulgate ordinances when the state legislature is not in session under Article 213. But, these ordinances must be approved by the legislature within six months. He can also withdraw an ordinance at any time.
+- He can promulgate ordinances when the state legislature is not in session under Article 213. But, these ordinances must be approved by the legislature within six months. He can also withdraw an ordinance at any time.
 
-- He has to lay the annual reports of the State Finance Commission, the State Public Service Commission and the Comptroller and Auditor General relating to the accounts of the state, before the state legislature.
+- He has to lay the annual reports of the State Finance Commission, the State Public Service Commission and the Comptroller and Auditor General relating to the accounts of the state, before the state legislature.
 
 ### Financial Powers
 
-- The Constitution confers on the Governor, the duty to get prepared and introduced to the State Legislature, the annual budget and also the supplementary budgets, if necessary.
+- The Constitution confers on the Governor, the duty to get prepared and introduced to the State Legislature, the annual budget and also the supplementary budgets, if necessary.
 
-- Money Bills can be introduced in the Legislative Assembly only with his prior recommendation.
+- Money Bills can be introduced in the Legislative Assembly only with his prior recommendation.
 
-- He can make advances out of the state Contingency Fund to meet any unforeseen expenditure.
+- He can make advances out of the state Contingency Fund to meet any unforeseen expenditure.
 
-- He constitutes a Finance Commission after every five years to review the financial position of the panchayats and the municipalities.
+- He constitutes a Finance Commission after every five years to review the financial position of the panchayats and the municipalities.
 
 ### Judicial Powers
 
-- He appoints the Attorney-General of the State.
+- He appoints the Attorney-General of the State.
 
-- He makes appointment, postings and promotions of the District Judges in consultation with the State High Court.
+- He makes appointment, postings and promotions of the District Judges in consultation with the State High Court.
 
-- The Chief Justice of the High Court in the State is appointed by the President in consultation with him.
+- The Chief Justice of the High Court in the State is appointed by the President in consultation with him.
 
-- He can pardon, commute or reprieve punishment on receipt of appeals for mercy except death sentence.
+- He can pardon, commute or reprieve punishment on receipt of appeals for mercy except death sentence.
 
 ### Discretionary Powers
 
-- The Governor can reserve a bill for the consideration of the president.
+- The Governor can reserve a bill for the consideration of the president.
 
-- He can call the leader of any party to form ministry in the state when there is no clearcut majority to any party in the Legislative Assembly after the general elections.
+- He can call the leader of any party to form ministry in the state when there is no clear-cut majority to any party in the Legislative Assembly after the general elections.
 
-- He can dismiss the Council of Ministers when it is unable to prove the confidence of the Legislative Assembly.
+- He can dismiss the Council of Ministers when it is unable to prove the confidence of the Legislative Assembly.
 
 ### Emergency Powers
 
@@ -157,11 +139,13 @@ If the Governor is satisfied that the government of the state is not carried on 
 
 Article 361(1) provides for the following privileges for the Governor;
 
-- The Governor of a State, is not be answerable to any court for the exercise and performance of the powers and duties of his office or for any act done or purporting to be done by him in the exercise and performance of those powers and duties.
+- The Governor of a State, is not be answerable to any court for the exercise and performance of the powers and duties of his office or for any act done or purporting to be done by him in the exercise and performance of those powers and duties.
 
-- No process for the arrest or imprisonment of the Governor of a State, shall issue from any court during his term of office.
+- No process for the arrest or imprisonment of the Governor of a State, shall issue from any court during his term of office.
 
-## 3.2 Chief Minister
+<a id="topic-3-2"></a>
+
+## 3.2 Chief Minister
 
 In the scheme of Parliamentary system of government provided by the constitution, the governor is the nominal executive authority and the Chief Minister is the real executive authority. In other words, the governor is the head of the State while the Chief Minister is the head of the government.
 
@@ -171,31 +155,31 @@ The Chief Minister is appointed by the Governor of the State. Term of the Chief 
 
 ### Powers and functions of the Chief Minister
 
-### Relating to the Council of Ministers
+### Relating to the Council of Ministers
 
-- The Chief Minister recommends the persons who can be appointed as ministers by Governor.
+- The Chief Minister recommends the persons who can be appointed as ministers by Governor.
 
-- He allocates the portfolios among the ministers.
+- He allocates the portfolios among the ministers.
 
-- He shuffles and reshuffles his ministry.
+- He shuffles and reshuffles his ministry.
 
-- He presides over the meetings of the Council of Ministers and influences its decisions.
+- He presides over the meetings of the Council of Ministers and influences its decisions.
 
-- He guides, directs, controls and coordinates the activities of all the ministers.
+- He guides, directs, controls and coordinates the activities of all the ministers.
 
 ### Relating to the Governor
 
 He advises the Governor in relation to the appointment of the following officials:
 
-- Advocate General of the State.
+- Advocate General of the State.
 
-- State Election Commissioner.
+- State Election Commissioner.
 
-- Chairman and Members of the State Public Service Commission.
+- Chairman and Members of the State Public Service Commission.
 
-- Chairman and Members of the State Planning Commission.
+- Chairman and Members of the State Planning Commission.
 
-- Chairman and Members of the State Finance Commission.
+- Chairman and Members of the State Finance Commission.
 
 ### Relating to State Legislature
 
@@ -211,37 +195,39 @@ Assembly.
 
 ### Council of Ministers
 
-The Council of Ministers are collectively responsible to the State Legislature. All the members of the Council of Ministers must be the members of the State Legislature. Those who are not the members at the time of their appointment, must secure their seats in the Legislature within a period of 6 months. If a noconfidence motion is passed by the Legislative Assembly, the State Ministry shall resign.
+The Council of Ministers are collectively responsible to the State Legislature. All the members of the Council of Ministers must be the members of the State Legislature. Those who are not the members at the time of their appointment, must secure their seats in the Legislature within a period of 6 months. If a no-confidence motion is passed by the Legislative Assembly, the State Ministry shall resign.
 
 Article l63 provides for a Council of Ministers to aid and advise the Governor. According to Article 163(1) there shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except in so far as he is by or under this Constitution required to exercise his functions or any of them in his discretion.
 
-### Other Provisions relating to Ministers
+### Other Provisions relating to Ministers
 
 Article 164(1) holds that the Chief Minister shall be appointed by the Governor.
 
 Article 164(1A) states that the total number of Ministers, including the Chief Minister, in the Council of Ministers in a State shall not exceed fifteen percent of the total number of members of the Legislative Assembly.
 
-### The functions and powers of the Council of Ministers
+### The functions and powers of the Council of Ministers
 
-- It formulates and decides the policies of the state and implements them effectively.
+- It formulates and decides the policies of the state and implements them effectively.
 
-- It decides the legislative programmes of the Legislative Assembly and sponsors all important bills.
+- It decides the legislative programmes of the Legislative Assembly and sponsors all important bills.
 
-- It controls the financial policy and decides the tax structure for the public welfare of the state.
+- It controls the financial policy and decides the tax structure for the public welfare of the state.
 
-- It makes the important appointments of the Heads of Departments.
+- It makes the important appointments of the Heads of Departments.
 
-- It discusses and takes efforts on the dispute with other states
+- It discusses and takes efforts on the dispute with other states
 
-- It frames the proposal for incurring expenditure out of state reserves.
+- It frames the proposal for incurring expenditure out of state reserves.
 
-- It decides all the bills whether ordinary bills or money bills to be introduced in the Legislative Assembly.
+- It decides all the bills whether ordinary bills or money bills to be introduced in the Legislative Assembly.
 
-- Each minister of the Council of Ministers supervises, controls and coordinates the department concerned.
+- Each minister of the Council of Ministers supervises, controls and coordinates the department concerned.
 
-- Annual Financial Statement called as the Budget is finalised by the Council of Ministers.
+- Annual Financial Statement called as the Budget is finalised by the Council of Ministers.
 
-## 3.3 The State Legislature
+<a id="topic-3-3"></a>
+
+## 3.3 The State Legislature
 
 The Constitution provides a legislature for every state. Most of the States have only unicameral legislature i.e., Legislative assembly. Some State has bicameral legislatures (e.g., Bihar, Karnataka, Maharashtra, Uttar Pradesh, Andhra Pradesh and Telangana). The lower house, legislative assembly represents the people of the state the upper house; Legislative Council represents special interests like teachers, graduates and local governments.
 
@@ -261,7 +247,7 @@ The size of the Legislative Council cannot be more than one-third the membership
 
 The Legislative Assembly of Tamil Nadu consists of 235 members out of which 234 members are directly elected by the people from the constituencies on the basis of adult franchise and one member is nominated by the Governor from the Anglo-Indian community.
 
-### Cabinet and Cabinet Committees
+### Cabinet and Cabinet Committees
 
 A smaller body called Cabinet is the nucleus of the council of minister. It consists of only the cabinet ministers. It is the real centre of authority in the state government.
 
@@ -281,15 +267,15 @@ The Tamil Nadu Legislative Council was abolished by Tamil Nadu Legislative Counc
 
 ### Election to Legislative Council
 
-- 1/3 of the members are elected by local bodies.
+- 1/3 of the members are elected by local bodies.
 
-- 1/12 of the members are elected by Graduates of the universities in the State.
+- 1/12 of the members are elected by Graduates of the universities in the State.
 
-- 1 /12 of the members are elected by Graduate teachers.
+- 1 /12 of the members are elected by Graduate teachers.
 
-- 1/3 of the members are elected by the members of the Legislative Assembly.
+- 1/3 of the members are elected by the members of the Legislative Assembly.
 
-- 1/6 is nominated by the Governor who is eminent in the field of literary excellence, art, social services or co-operation.
+- 1/6 is nominated by the Governor who is eminent in the field of literary excellence, art, social services or co-operation.
 
 ### The Chairman
 
@@ -299,7 +285,9 @@ The Chairman is the Presiding Officer of the Upper house. The Members elect a Ch
 
 Article 169 deals with the creation or abolition of Legislative Council in a State. Article 169 holds that if the state Legislative Assembly passes a resolution by a majority of not less than 2/3rd of the members present and voting and by the majority of total strength of the House, requesting the Parliament to create or abolish the state Legislative council then the Parliament may by law provide for the abolition and creation of the Legislative Council.
 
-## 3.4 Functions of the State Legislature
+<a id="topic-3-4"></a>
+
+## 3.4 Functions of the State Legislature
 
 ### Legislative powers
 
@@ -312,6 +300,8 @@ The Legislature controls the finances of the State. The Lower House enjoys great
 ### Controls over the Executive
 
 The Council of Ministers is responsible to the Assembly. The Ministers have to answer questions asked by the members of the Legislature. They can be removed from office if the Assembly passes a vote of “no confidence motion” against the Ministry.
+
+<a id="topic-3-5"></a>
 
 ## 3.5 Judiciary of State
 
@@ -365,226 +355,190 @@ High court has the power of superintendence over all courts and tribunals functi
 
 ### Court of Record
 
-All the decisions and decrees issued by the High Court are printed and are kept as a record for
-
-### SUMMARY
-
-future references by the Court as well as by the lawyers, is such a need arises. Thus, it also acts as a Court of Record.
+All the decisions and decrees issued by the High Court are printed and are kept as a record for future references by the Court as well as by the lawyers, is such a need arises. Thus, it also acts as a Court of Record.
 
 ![](assets/page_008_picture_001.png)
 
-Statue of Sama Neethi Kanda Cholan at
+**Statue of Sama Neethi Kanda Cholan at Madras High Court**
 
-Madras High Court
+### SUMMARY
 
-The Governor is the constitutional head of the state executive.
+- The Governor is the constitutional head of the state executive.
 
-- -
+- The Chief Minister is appointed by the Governor of the State.
 
-The Chief Minister is appointed by the Governor of the State.
+- The Council of Ministers are collectively responsible to the State Legislature.
 
-- -
+- The Legislative Assembly is the real centre of power in the State.
 
-The Council of Ministers are collectively responsible to the State Legislature.
-
-- -
-
-The Legislative Assembly is the real centre of power in the State.
-
-- -
-
-At present there are 25 High Courts for 28 States and 8 Union Territories.
-
-- -
+- At present there are 25 High Courts for 28 States and 8 Union Territories.
 
 ### GLOSSARY
 
 | Constitution | It has been defined as the fundamental law of a State. | அரசியலமைப்பு |
 |---|---|---|
-| Cabinet | It is an inner body within the Council of Ministers which is responsible for formulating the policy of the Government. | அமைச் ரவை |
-| Legislature | the group of people in a country or part of a country who have the power to make and change laws. | சச ட் மன் ம் |
-| Tribunal | a special court chosen, especially by the government, to examine particular problem. | தீர் பாயம் |
-| Resolution | an official decision that is made after a group or organisation has voted. | தீர் மமாா னம் |
+| Cabinet | It is an inner body within the Council of Ministers which is responsible for formulating the policy of the Government. | அமைச்சரவை |
+| Legislature | the group of people in a country or part of a country who have the power to make and change laws. | சட்டமன்றம் |
+| Tribunal | a special court chosen, especially by the government, to examine particular problem. | தீர்ப்பாயம் |
+| Resolution | an official decision that is made after a group or organisation has voted. | தீர்மானம் |
 
 ![](assets/page_009_picture_001.png)
 
+![GLOSSARY](assets/source-en-p272-glossary-1.png)
+
 ### EVALUATION
 
-**I Choose the Correct Answer**
+**I Choose the Correct Answer**
 
-1. The Governor of the State is appointed by the
+1. The Governor of the State is appointed by the
 
-(a) Prime Minister
+    (a) Prime Minister
 
-(b) Chief Minister
+    (b) Chief Minister
 
-(c) President
+    (c) President
 
-(d) Chief Justice
+    (d) Chief Justice
 
 2. The Speaker of a State is a
 
-(a) Head of State
+    (a) Head of State
 
-(b) Head of government
+    (b) Head of government
 
-(c) President’s agent
+    (c) President’s agent
 
-(d) None of these
+    (d) None of these
 
-3. Which among the following is not one of the powers of the Governor?
+3. Which among the following is not one of the powers of the Governor?
 
-(a) Legislative
+    (a) Legislative
 
-(b) Executive
+    (b) Executive
 
-(c) Judicial
+    (c) Judicial
 
-(d) Diplomatic
+    (d) Diplomatic
 
-4. Who can nominate one representative of the Anglo-Indian Community to the State Legislative Assembly?
+4. Who can nominate one representative of the Anglo-Indian Community to the State Legislative Assembly?
 
-(a) The President
+    (a) The President
 
-(b) The Governor
+    (b) The Governor
 
-(c) The Chief Minister
+    (c) The Chief Minister
 
-(d) The Speaker of State legislature
+    (d) The Speaker of State legislature
 
-5. The Governor does not appoint
+5. The Governor does not appoint
 
-(a) Chief Minister
+    (a) Chief Minister
 
-(b) Chairman of the State Public Service
+    (b) Chairman of the State Public Service Commission
 
-Commission
+    (c) Advocate General of the State
 
-(c) Advocate General of the State
-
-(d) Judges of the High Court
+    (d) Judges of the High Court
 
 6. The State Council of Ministers is headed by
 
-(a) The Chief Minster
+    (a) The Chief Minster
 
-(b) The Governor
+    (b) The Governor
 
-(c) The Speaker
+    (c) The Speaker
 
-(d) The Prime Minister
+    (d) The Prime Minister
 
-7. The minimum age for the membership of the Legislative Council is
+7. The minimum age for the membership of the Legislative Council is
 
-(a) 25 years (b) 21 years
+    (a) 25 years
 
-(c) 30 years (d) 35 years
+    (b) 21 years
 
-8. Which one of the following States does not possess a bicameral legislature?
+    (c) 30 years
 
-(a) Andhra Pradesh
+    (d) 35 years
 
-(b) Telangana
+8. Which one of the following States does not possess a bicameral legislature?
 
-(c) Tamil Nadu
+    (a) Andhra Pradesh
 
-(d) Uttar Pradesh
+    (b) Telangana
 
-9. The High Courts in India were first started at
+    (c) Tamil Nadu
 
-(a) Calcutta, Bombay, Madras
+    (d) Uttar Pradesh
 
-(b) Delhi and Calcutta
+9. The High Courts in India were first started at
 
-(c) Delhi, Calcutta, Madras
+    (a) Calcutta, Bombay, Madras
 
-(d) Calcutta, Madras, Delhi
+    (b) Delhi and Calcutta
 
-10. Which of the following States have a common High Court?
+    (c) Delhi, Calcutta, Madras
 
-(a) Tamil Nadu and Andhra Pradesh
+    (d) Calcutta, Madras, Delhi
 
-(b) Kerala and Telangana
+10. Which of the following States have a common High Court?
 
-(c) Punjab and Haryana
+    (a) Tamil Nadu and Andhra Pradesh
 
-(d) Maharashtra and Gujarat
+    (b) Kerala and Telangana
+
+    (c) Punjab and Haryana
+
+    (d) Maharashtra and Gujarat
 
 **II Fill in the blanks**
 
-1. Governor of the state government surrenders his resignation to _______.
+1. Governor of the state government surrenders his resignation to _______.
 
-2. Members of the Legislative assembly
+2. Members of the Legislative assembly (MLAs) elected by the _______.
 
-(MLAs) elected by the _______.
+3. _______ acts as the chancellor of universities in the state.
 
-3. _______ acts as the chancellor of universities in the state.
-
-4. The Chairman and Members of the State
-
-Public Service Commission can be removed only by the _______.
+4. The Chairman and Members of the State Public Service Commission can be removed only by the _______.
 
 **III Match the following**
 
-1. Governor
-
-- Head of the Government
-
-2. Chief Minister
-
-- Head of the State
-
-3. Council of Ministers - Tribunals
-
-4. MLC
-
-- Responsible for the Assembly
-
-5. Armed forces
-
-- cannot vote for grants
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Governor | Head of the Government |
+| 2 | Chief Minister | Head of the State |
+| 3 | Council of Ministers | Tribunals |
+| 4 | MLC | Responsible for the Assembly |
+| 5 | Armed forces | cannot vote for grants |
 
 **IV Answer the brief questions**
 
-1. What is the importance of the Governor of a state?
+1. What is the importance of the Governor of a state?
 
-2. What are the qualifications for the appointment of Governor?
+2. What are the qualifications for the appointment of Governor?
 
-3. What is the original jurisdiction of the
+3. What is the original jurisdiction of the High Court?
 
-High Court?
-
-4. What do you understand by the “Appellate
-
-Jurisdiction” of the High Court?
+4. What do you understand by the “Appellate Jurisdiction” of the High Court?
 
 **V Answer in detail**
 
-1. Describe the legislative powers of the
+1. Describe the legislative powers of the Governor.
 
-Governor.
+2. What are the powers and functions of the Chief Minister?
 
-2. What are the powers and functions of the
-
-Chief Minister?
-
-3. Critically examine the functions and powers of the Council of Ministers
+3. Critically examine the functions and powers of the Council of Ministers
 
 **VI Project and Activity**
 
-1. Prepare a flow chart showing the State
+1. Prepare a flow chart showing the State Government’s Administrative setup.
 
-Government’s Administrative setup.
-
-2. Students to list out the names of the
-
-Tamil Nadu Governor, Chief Minister and Ministers.
+2. Students to list out the names of the Tamil Nadu Governor, Chief Minister and Ministers.
 
 ### REFERENCE BOOKS
 
-1. D.D. Basu - Introduction of the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
+1. D.D. Basu - Introduction of the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
 
-2. Subhash Kashyap - Our Constitution,
+2. Subhash Kashyap - Our Constitution,
 
 National Book Trust, India, 2011.
 
@@ -598,24 +552,62 @@ National Book Trust, India, 2011.
 
 ## Steps
 
-- 
+- Open the Browser and type the URL given below.
 
-Open the Browser and type the URL given below.
+- Click on any state of the Indian map to view the official website of the state and its function.
 
-- 
+- For example, click on the Tamil Nadu state. An additional tab will open in the browser where you can see the official website of Tamil Nadu.
 
-Click on any state of the Indian map to view the official website of the state and its function.
-
-- 
-
-For example, click on the Tamil Nadu state. An additional tab will open in the browser where you can see the official website of Tamil Nadu.
-
-- 
-
-Likewise you can view the details of the other states.
+- Likewise you can view the details of the other states.
 
 **Website URL:**
 
 https://www.mea.gov.in/india-at-glance.htm
 
 ![](assets/page_010_picture_001.png)
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — State Government](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Class 10 \| மாநில அரசு \| அலகு 3 \| KalviTv](https://www.youtube.com/watch?v=M-TyTMFRZus) — KalviTVOfficial; Tamil explanation.
+- [State Government: Governor importance and qualifications](https://www.youtube.com/watch?v=26UMK2zkLnI) — HTAS How To Approach Schooling; Tamil explanation.
+- [Chief Minister — Indian Polity — Tamil](https://www.youtube.com/watch?v=-ceSLWEdNXk) — Yogesh Exams; Tamil explanation. Covers selected concepts; see the topic table below.
+- [State Legislature — Assembly and Council — Tamil](https://www.youtube.com/watch?v=4Gauc-y9HTs) — Vimal ananthan AP; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Judicial System in India — Supreme Court and High Court — Tamil](https://www.youtube.com/watch?v=_H-EPTRiH4E) — Quick Learning 4 TNPSC, IBPS, SSC; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Virtual tour of Rajasthan Legislative Assembly](https://assembly.rajasthan.gov.in/DigitalMuseum/VirtualTour.html) — Rajasthan Legislative Assembly; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [3.1 The Executive](#topic-3-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=26UMK2zkLnI) | [Lesson activities](#interactive-resources) |
+| [3.2 Chief Minister](#topic-3-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=-ceSLWEdNXk) | [Lesson activities](#interactive-resources) |
+| [3.3 The State Legislature](#topic-3-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=4Gauc-y9HTs) | [Topic activity](https://assembly.rajasthan.gov.in/DigitalMuseum/VirtualTour.html) |
+| [3.4 Functions of the State Legislature](#topic-3-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=4Gauc-y9HTs) | [Topic activity](https://assembly.rajasthan.gov.in/DigitalMuseum/VirtualTour.html) |
+| [3.5 Judiciary of State](#topic-3-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_H-EPTRiH4E) | [Lesson activities](#interactive-resources) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.mea.gov.in/india-at-glance.htm` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.india.gov.in/) |
+
+<!-- supplemental-resources:end -->

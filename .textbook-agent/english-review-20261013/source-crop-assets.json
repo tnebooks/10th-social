@@ -1,0 +1,1514 @@
+{
+  "teacher_approval": false,
+  "assets": [
+    {
+      "finding_id": "geo-14-048",
+      "pdf_page": 182,
+      "printed_page": "176",
+      "bbox_normalized": [
+        0.18312894108741967,
+        0.09069811472631277,
+        0.8149237878390175,
+        0.9126497794335222
+      ],
+      "bbox_points": [
+        120,
+        80,
+        534,
+        805
+      ],
+      "page_size_points": [
+        655.276,
+        882.047
+      ],
+      "rotation_ccw_degrees": -90,
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/india-resources-and-industries/assets/source-2025-p176-energy-resources.png",
+      "markdown_path": "assets/source-2025-p176-energy-resources.png",
+      "preview": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/crop-182.png",
+      "rotated_preview": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/rotated-182.png",
+      "caption": "Non-renewable and Renewable Resources of India",
+      "insertion_context": "### e) Nuclear power",
+      "source_border_note": null,
+      "include": "Complete source frame/title, map labels, symbols, legend and Not to Scale. No prose/table substitution.",
+      "asset": "content.en/docs/india-resources-and-industries/assets/source-2025-p176-energy-resources.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "401de2478d0d881e250cfd2d436b2a143478bda4c6af197cdbc716d28f92af88",
+      "dimensions": [
+        2175,
+        1242
+      ]
+    },
+    {
+      "finding_id": "geo-16-049",
+      "pdf_page": 208,
+      "printed_page": "202",
+      "bbox_normalized": [
+        0.1251381097430701,
+        0.08729693542407604,
+        0.8729146191833671,
+        0.7879398716848421
+      ],
+      "bbox_points": [
+        82,
+        77,
+        572,
+        695
+      ],
+      "page_size_points": [
+        655.276,
+        882.047
+      ],
+      "rotation_ccw_degrees": 0,
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/physical-geography-of-tamil-nadu/assets/source-2025-p202-tamil-nadu-political.png",
+      "markdown_path": "assets/source-2025-p202-tamil-nadu-political.png",
+      "preview": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/crop-208.png",
+      "rotated_preview": null,
+      "caption": "Tamil Nadu - Political",
+      "insertion_context": "Not to Scale\n\nAll districts of Tamil Nadu except",
+      "source_border_note": null,
+      "include": "Complete source frame/title, map labels, symbols, legend and Not to Scale. No prose/table substitution.",
+      "asset": "content.en/docs/physical-geography-of-tamil-nadu/assets/source-2025-p202-tamil-nadu-political.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "13a95bb026e6c08e7fb6909e4fc9cc9ed55b3da69a77d35b7f7c7625730223b2",
+      "dimensions": [
+        1470,
+        1854
+      ]
+    },
+    {
+      "finding_id": "geo-16-050",
+      "pdf_page": 211,
+      "printed_page": "205",
+      "bbox_normalized": [
+        0.12666418425213194,
+        0.10997146410565423,
+        0.8729146191833671,
+        0.8945101564882597
+      ],
+      "bbox_points": [
+        83,
+        97,
+        572,
+        789
+      ],
+      "page_size_points": [
+        655.276,
+        882.047
+      ],
+      "rotation_ccw_degrees": 0,
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/physical-geography-of-tamil-nadu/assets/source-2025-p205-tamil-nadu-physical.png",
+      "markdown_path": "assets/source-2025-p205-tamil-nadu-physical.png",
+      "preview": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/crop-211.png",
+      "rotated_preview": null,
+      "caption": "Tamil Nadu - Physical",
+      "insertion_context": "### Pachaimalai",
+      "source_border_note": null,
+      "include": "Complete source frame/title, map labels, symbols, legend and Not to Scale. No prose/table substitution.",
+      "asset": "content.en/docs/physical-geography-of-tamil-nadu/assets/source-2025-p205-tamil-nadu-physical.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "0a51a1b401892d672c8243d006969389a503c044e11a5698dd77f67017e6bc9a",
+      "dimensions": [
+        1467,
+        2076
+      ]
+    },
+    {
+      "finding_id": "geo-17-051",
+      "pdf_page": 236,
+      "printed_page": "230",
+      "bbox_normalized": [
+        0.11292951367057547,
+        0.10090165263302295,
+        0.8759667682014908,
+        0.9001787886586542
+      ],
+      "bbox_points": [
+        74,
+        89,
+        574,
+        794
+      ],
+      "page_size_points": [
+        655.276,
+        882.047
+      ],
+      "rotation_ccw_degrees": -90,
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p230-roadways-railways.png",
+      "markdown_path": "assets/source-2025-p230-roadways-railways.png",
+      "preview": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/detail-236.png",
+      "rotated_preview": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/rotated-236.png",
+      "caption": "Tamilnadu - Transport: Roadways and Railways",
+      "insertion_context": "Not to Scale\n\nNot to Scale\n\n![](assets/page_013_picture_001.png)",
+      "source_border_note": "PDF236 itself has a clipped frame edge; retain source pixels rather than inventing borders.",
+      "include": "Complete source frame/title, map labels, symbols, legend and Not to Scale. No prose/table substitution.",
+      "asset": "content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p230-roadways-railways.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "7c48a0ce18ab16ab4732d5572a427c99daf52f8585792c3a6e15313dbf76288b",
+      "dimensions": [
+        2115,
+        1500
+      ]
+    },
+    {
+      "id": "geo-glossary-241",
+      "pdf_page": 241,
+      "printed_page": "235",
+      "bbox_normalized": [
+        0.1281902585701509,
+        0.09523302077894147,
+        0.8713885433756686,
+        0.9069811502756331
+      ],
+      "bbox_points": [
+        84,
+        84,
+        571,
+        800
+      ],
+      "page_size_points": [
+        655.2760009765625,
+        882.0469970703125
+      ],
+      "target_path": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p235-geography-glossary.png",
+      "markdown_path": "assets/source-2025-p235-geography-glossary.png",
+      "preview_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/glossary-crop-241.png",
+      "caption": "Geography glossary, source page 235",
+      "include": "Both complete English text panels including continuation fragments, original labels, blue frames, and source wording. Printer marks/footer excluded. No Tamil column exists in source.",
+      "teacher_approval": false,
+      "asset": "content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p235-geography-glossary.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "2de453e6a18bf7449b08499b3ba8b8923423adb2fd117f1c0269ebdee4e55367",
+      "dimensions": [
+        1461,
+        2148
+      ]
+    },
+    {
+      "id": "geo-glossary-242",
+      "pdf_page": 242,
+      "printed_page": "236",
+      "bbox_normalized": [
+        0.1281902585701509,
+        0.09523302077894147,
+        0.8713885433756686,
+        0.9069811502756331
+      ],
+      "bbox_points": [
+        84,
+        84,
+        571,
+        800
+      ],
+      "page_size_points": [
+        655.2760009765625,
+        882.0469970703125
+      ],
+      "target_path": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p236-geography-glossary.png",
+      "markdown_path": "assets/source-2025-p236-geography-glossary.png",
+      "preview_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/glossary-crop-242.png",
+      "caption": "Geography glossary, source page 236",
+      "include": "Both complete English text panels including continuation fragments, original labels, blue frames, and source wording. Printer marks/footer excluded. No Tamil column exists in source.",
+      "teacher_approval": false,
+      "asset": "content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p236-geography-glossary.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "8cb4d925663051c22ac352ab3adbac7e5618baab3cebbf0ae4912a3c6f55182a",
+      "dimensions": [
+        1461,
+        2148
+      ]
+    },
+    {
+      "id": "geo-glossary-243",
+      "pdf_page": 243,
+      "printed_page": "237",
+      "bbox_normalized": [
+        0.1281902585701509,
+        0.09523302077894147,
+        0.8713885433756686,
+        0.8344226582535824
+      ],
+      "bbox_points": [
+        84,
+        84,
+        571,
+        736
+      ],
+      "page_size_points": [
+        655.2760009765625,
+        882.0469970703125
+      ],
+      "target_path": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p237-geography-glossary.png",
+      "markdown_path": "assets/source-2025-p237-geography-glossary.png",
+      "preview_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/glossary-crop-243.png",
+      "caption": "Geography glossary, source page 237",
+      "include": "Both complete English text panels including continuation fragments, original labels, blue frames, and source wording. Printer marks/footer excluded. No Tamil column exists in source.",
+      "teacher_approval": false,
+      "asset": "content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p237-geography-glossary.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "3e45d2b3b5b14e74121694fe5447444274885a176b7923a174216939ce5db98b",
+      "dimensions": [
+        1461,
+        1956
+      ]
+    },
+    {
+      "finding_id": "history-01-glossary-source-crops",
+      "pdf_page": 19,
+      "bbox_normalized": [
+        0.13077,
+        0.45563,
+        0.86923,
+        0.90398
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source_glossary_pdf_019.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source_glossary_pdf_019.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "058f75b21ea79d66ee856601b1f5bdee78b7c83f795ab85ec0b6a7e54954d314",
+      "dimensions": [
+        1452,
+        1188
+      ]
+    },
+    {
+      "finding_id": "history-02-glossary-source-crops",
+      "pdf_page": 30,
+      "bbox_normalized": [
+        0.13077,
+        0.72685,
+        0.86923,
+        0.90398
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/the-world-between-two-world-wars/assets/source_glossary_pdf_030.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/the-world-between-two-world-wars/assets/source_glossary_pdf_030.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "8ecbf4615c136bcec1e98d5475edf78a481bca947f2e99cc6edaefc8e9baa16d",
+      "dimensions": [
+        1452,
+        470
+      ]
+    },
+    {
+      "finding_id": "history-02-glossary-source-crops",
+      "pdf_page": 31,
+      "bbox_normalized": [
+        0.13077,
+        0.09602,
+        0.86923,
+        0.23955
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/the-world-between-two-world-wars/assets/source_glossary_pdf_031.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/the-world-between-two-world-wars/assets/source_glossary_pdf_031.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "686b1d451bc2a730d06f1b838b9e58d33916168b908dda434cd88bfeddbe8641",
+      "dimensions": [
+        1452,
+        380
+      ]
+    },
+    {
+      "finding_id": "history-03-glossary-source-crops",
+      "pdf_page": 43,
+      "bbox_normalized": [
+        0.13077,
+        0.29395,
+        0.86923,
+        0.65478
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/world-war-ii/assets/source_glossary_pdf_043.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/world-war-ii/assets/source_glossary_pdf_043.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "13a03ec7fff7bdb2580069a5a2261c118273f2c4c3f9bc2a3df205c3d2977abe",
+      "dimensions": [
+        1452,
+        956
+      ]
+    },
+    {
+      "finding_id": "history-04-glossary-source-crops",
+      "pdf_page": 57,
+      "bbox_normalized": [
+        0.13077,
+        0.09602,
+        0.86923,
+        0.35669
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/the-world-after-world-war-ii/assets/source_glossary_pdf_057.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/the-world-after-world-war-ii/assets/source_glossary_pdf_057.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "f5671515b943e4718b0ff4415b55d07c41ecbe86be4ee8aac9a1db184b32477f",
+      "dimensions": [
+        1452,
+        690
+      ]
+    },
+    {
+      "finding_id": "history-05-glossary-source-crops",
+      "pdf_page": 66,
+      "bbox_normalized": [
+        0.13077,
+        0.3507,
+        0.86923,
+        0.56654
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source_glossary_pdf_066.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source_glossary_pdf_066.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "7cdd8a4057451948d7eeacd3dbf425597990bb8e528a76c28a4635998496be44",
+      "dimensions": [
+        1452,
+        572
+      ]
+    },
+    {
+      "finding_id": "history-06-glossary-source-crops",
+      "pdf_page": 77,
+      "bbox_normalized": [
+        0.13077,
+        0.72864,
+        0.86923,
+        0.90439
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source_glossary_pdf_077.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source_glossary_pdf_077.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "3e89f2ec0905d4903f7c243ef06b3eeae0c905d5651bdbaddc3511c002decf5b",
+      "dimensions": [
+        1452,
+        466
+      ]
+    },
+    {
+      "finding_id": "history-06-glossary-source-crops",
+      "pdf_page": 78,
+      "bbox_normalized": [
+        0.13077,
+        0.09561,
+        0.86923,
+        0.39348
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source_glossary_pdf_078.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source_glossary_pdf_078.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "5e01937ad7bcbe965785d159ee2a3f104b346dbc2abc37fd1bf47328b4208ade",
+      "dimensions": [
+        1452,
+        790
+      ]
+    },
+    {
+      "finding_id": "history-07-glossary-source-crops",
+      "pdf_page": 91,
+      "bbox_normalized": [
+        0.13077,
+        0.56522,
+        0.86923,
+        0.90398
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source_glossary_pdf_091.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source_glossary_pdf_091.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "ef4920d6600979516aa17a67a4b2371ac32a974292a07f44d237729011c5a894",
+      "dimensions": [
+        1452,
+        898
+      ]
+    },
+    {
+      "finding_id": "history-08-glossary-source-crops",
+      "pdf_page": 108,
+      "bbox_normalized": [
+        0.13077,
+        0.57676,
+        0.86923,
+        0.90398
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/nationalism-gandhian-phase/assets/source_glossary_pdf_108.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/nationalism-gandhian-phase/assets/source_glossary_pdf_108.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "8a9be59686893aa594eefdb565163073214b54d25a2355e0900c399c1b2cb798",
+      "dimensions": [
+        1452,
+        867
+      ]
+    },
+    {
+      "finding_id": "history-09-glossary-source-crops",
+      "pdf_page": 119,
+      "bbox_normalized": [
+        0.13077,
+        0.09602,
+        0.86923,
+        0.4584
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/freedom-struggle-in-tamil-nadu/assets/source_glossary_pdf_119.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/freedom-struggle-in-tamil-nadu/assets/source_glossary_pdf_119.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "9c46ee206e9aeca902834a84cc7955f96103376a70137193f07153236e6dfc74",
+      "dimensions": [
+        1452,
+        959
+      ]
+    },
+    {
+      "finding_id": "history-10-glossary-source-crops",
+      "pdf_page": 129,
+      "bbox_normalized": [
+        0.13077,
+        0.36228,
+        0.86923,
+        0.63154
+      ],
+      "target_asset": "/Users/apple/ariv/10th-social/content.en/docs/social-transformation-in-tamil-nadu/assets/source_glossary_pdf_129.png",
+      "source_caption": "GLOSSARY",
+      "source_visually_verified": true,
+      "asset": "content.en/docs/social-transformation-in-tamil-nadu/assets/source_glossary_pdf_129.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "d33f9ea70a84dda45b35164a1ab4567993f3017f210c9c622840abf07bc9bc05",
+      "dimensions": [
+        1452,
+        714
+      ]
+    },
+    {
+      "id": "en-p300-figure-1",
+      "lesson_id": "23",
+      "pdf_page": 300,
+      "bbox_normalized": [
+        0.52,
+        0.694,
+        0.87,
+        0.895
+      ],
+      "source_caption": "Value Added Approach",
+      "placement_anchor": "3. Value-Added Approach:",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "![](assets/page_004_picture_002.png)\n\n![](assets/page_004_picture_003.png)\n\n![](assets/page_004_picture_004.png)",
+      "expected_sha256": "09d3353c1c16724f5a4f428dbc0b9309e80e9ac7cf5dbd58a32f7932332c15f5",
+      "current_occurrences": 1,
+      "note": "Existing images are isolated ingredients; whole source includes Tea Powder,Milk,Sugar,Tea plus/equal signs and IntermediateGoods/FinalGood bracket labels.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p300-figure-1.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-figure-1.png",
+      "markdown": "![Value Added Approach](assets/source-en-p300-figure-1.png)",
+      "replacement": "![Value Added Approach](assets/source-en-p300-figure-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "6477abadde8bd3f8b26a6c22dfb436cc83fba85dc5b56c97932d464ed70d48c5",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "56899cb8f8e66c239c8c395ecf0c21d7796b18afdf1688b5fcdb1739a8beb9b7",
+      "dimensions": [
+        689,
+        533
+      ]
+    },
+    {
+      "id": "en-p302-figure-1",
+      "lesson_id": "23",
+      "pdf_page": 302,
+      "bbox_normalized": [
+        0.13,
+        0.597,
+        0.87,
+        0.907
+      ],
+      "source_caption": "Sector-wise contribution of GDP (2018-19) Percentage share (%)",
+      "placement_anchor": "**Source:** Central Statistical Organisation",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "![](assets/page_006_picture_003.png)",
+      "expected_sha256": "c6667e3d736e34591a47fdfdf571f83c18e937be0f3a316240948acc0962778b",
+      "current_occurrences": 1,
+      "note": "Existing pie clips2.7 label and omits complete source legend. Source crop must include title,eleven labels/legend,source andnote.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p302-figure-1.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p302-figure-1.png",
+      "markdown": "![Sector-wise contribution of GDP (2018-19) Percentage share (%)](assets/source-en-p302-figure-1.png)",
+      "replacement": "![Sector-wise contribution of GDP (2018-19) Percentage share (%)](assets/source-en-p302-figure-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "a8c5fb0f2da79a806d73583d094d6984ed612b559105f2afdeb378953f70baca",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p302-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "656e632aeb47c3d9c94191c6f3849659fc44dcd48d598256253ead5af03ee369",
+      "dimensions": [
+        1456,
+        822
+      ]
+    },
+    {
+      "id": "en-p303-figure-1",
+      "lesson_id": "23",
+      "pdf_page": 303,
+      "bbox_normalized": [
+        0.13,
+        0.099,
+        0.87,
+        0.44
+      ],
+      "source_caption": "Sector - wise GDP Growth of India (1950-2018)",
+      "placement_anchor": "## Sector - wise GDP Growth of India (1950-2018)",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "![](assets/page_007_picture_001.png)",
+      "expected_sha256": "e5e014018e754bceebb04eeed3d64701d9aeda89a85cff51f0e1972aac40b310",
+      "current_occurrences": 1,
+      "note": "Current plot has y-axis but omitsx ticklabels,Year,title,legend andsource. Whole-source crop preserves all.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p303-figure-1.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p303-figure-1.png",
+      "markdown": "![Sector - wise GDP Growth of India (1950-2018)](assets/source-en-p303-figure-1.png)",
+      "replacement": "![Sector - wise GDP Growth of India (1950-2018)](assets/source-en-p303-figure-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "58731d9dfd53514738c87df806b5ae372f03851194f6ba0a735a2cb8e08eddb2",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p303-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "d1ddbcff8b87de63b076cb00c01af5a337aca1a3b127522595a72e48ebe74351",
+      "dimensions": [
+        1456,
+        904
+      ]
+    },
+    {
+      "id": "en-p252-glossary-1",
+      "lesson_id": "18",
+      "pdf_page": 252,
+      "bbox_normalized": [
+        0.132,
+        0.286,
+        0.866,
+        0.48
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Preamble | the introduction to the Constitution of India |\n| Secular state | A state which treats all religions equally |\n| Discrimination | unfair treatment of a person or group |\n| Writ | written command of court |\n| Sovereignty | supreme power or authority |\n| Heritage | something handed down from one’s ancestors |\n| Autonomy | independence in one’s thoughts or actions |\n| Proclamation | an announcement |",
+      "expected_sha256": "6977b2ced73d9c2ebe921341976c9bcf8d0e5cbef47b8822fb0f69bf44d49531",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p252-glossary-1.png",
+      "target_asset": "content.en/docs/indian-constitution/assets/source-en-p252-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p252-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Preamble | the introduction to the Constitution of India |\n| Secular state | A state which treats all religions equally |\n| Discrimination | unfair treatment of a person or group |\n| Writ | written command of court |\n| Sovereignty | supreme power or authority |\n| Heritage | something handed down from one’s ancestors |\n| Autonomy | independence in one’s thoughts or actions |\n| Proclamation | an announcement |\n\n![GLOSSARY](assets/source-en-p252-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "74e7f53b04e7d5d41fb09f295c10b28c22d6ecf8e390a8b3b6fc56e828a19894",
+      "asset": "content.en/docs/indian-constitution/assets/source-en-p252-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "8513e20a79f47eabf295729d1092a0670d850684138d0514b8c6acfde05e1a18",
+      "dimensions": [
+        1444,
+        515
+      ]
+    },
+    {
+      "id": "en-p262-glossary-1",
+      "lesson_id": "19",
+      "pdf_page": 262,
+      "bbox_normalized": [
+        0.132,
+        0.68,
+        0.866,
+        0.901
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Terminate | bring to an untimely end. |\n| Contingency fund | an amount of money that can be used to pay for problems that might happen. |\n| Pardon | Absolving the convict of all guilt and punishment. |\n| Remission | Quantitative reduction of punishment without affecting Nature of punishment. |\n| Precedence | priority of importance. |\n| Ex-officio | because of an office. |\n\n![](assets/page_010_picture_001.png)",
+      "expected_sha256": "658273820bdf38d5dab87f0cd68357e7e3c8dae1b8ed7fc08c9ac0d3a542d819",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p262-glossary-1.png",
+      "target_asset": "content.en/docs/central-government/assets/source-en-p262-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p262-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Terminate | bring to an untimely end. |\n| Contingency fund | an amount of money that can be used to pay for problems that might happen. |\n| Pardon | Absolving the convict of all guilt and punishment. |\n| Remission | Quantitative reduction of punishment without affecting Nature of punishment. |\n| Precedence | priority of importance. |\n| Ex-officio | because of an office. |\n\n![](assets/page_010_picture_001.png)\n\n![GLOSSARY](assets/source-en-p262-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "fb3860e1f86e927c5e6b311b286038fb87329cee83f7dc4dcd0578389010f800",
+      "asset": "content.en/docs/central-government/assets/source-en-p262-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "f25b207b56376c1527276de81da1d685120b3baa3df6779a9407ab12e1619b98",
+      "dimensions": [
+        1444,
+        586
+      ]
+    },
+    {
+      "id": "en-p272-glossary-1",
+      "lesson_id": "20",
+      "pdf_page": 272,
+      "bbox_normalized": [
+        0.132,
+        0.674,
+        0.866,
+        0.901
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Constitution | It has been defined as the fundamental law of a State. | அரசியலமைப்பு |\n|---|---|---|\n| Cabinet | It is an inner body within the Council of Ministers which is responsible for formulating the policy of the Government. | அமைச் ரவை |\n| Legislature | the group of people in a country or part of a country who have the power to make and change laws. | சச ட் மன் ம் |\n| Tribunal | a special court chosen, especially by the government, to examine particular problem. | தீர் பாயம் |\n| Resolution | an official decision that is made after a group or organisation has voted. | தீர் மமாா னம் |\n\n![](assets/page_009_picture_001.png)",
+      "expected_sha256": "55a3710a9a00b3074bb046b7a4606eb394439cdc776dc693b1e44a6957a1e3de",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p272-glossary-1.png",
+      "target_asset": "content.en/docs/state-government/assets/source-en-p272-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p272-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Constitution | It has been defined as the fundamental law of a State. | அரசியலமைப்பு |\n|---|---|---|\n| Cabinet | It is an inner body within the Council of Ministers which is responsible for formulating the policy of the Government. | அமைச் ரவை |\n| Legislature | the group of people in a country or part of a country who have the power to make and change laws. | சச ட் மன் ம் |\n| Tribunal | a special court chosen, especially by the government, to examine particular problem. | தீர் பாயம் |\n| Resolution | an official decision that is made after a group or organisation has voted. | தீர் மமாா னம் |\n\n![](assets/page_009_picture_001.png)\n\n![GLOSSARY](assets/source-en-p272-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "edeb3fc786848e5c5af33fc22606f59e0389e48b524d94a5030960dd41eb54d9",
+      "asset": "content.en/docs/state-government/assets/source-en-p272-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "ed843b21ac8de2a1470ac6628f7890c7496743abac1d649de63da86831289c93",
+      "dimensions": [
+        1444,
+        602
+      ]
+    },
+    {
+      "id": "en-p280-glossary-1",
+      "lesson_id": "21",
+      "pdf_page": 280,
+      "bbox_normalized": [
+        0.132,
+        0.674,
+        0.866,
+        0.901
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| External affairs | matters having with international relations |\n| multilateral | involving more than two countries |\n| procurement | process of buying |\n| pluralism | the practice of holding more than one benefice at a time |\n| pandemics | an epidemic disease |",
+      "expected_sha256": "be2edf5c7b4b35240176830729492d2ab90542e4e4873f65adf163882de6298b",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p280-glossary-1.png",
+      "target_asset": "content.en/docs/indias-foreign-policy/assets/source-en-p280-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p280-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| External affairs | matters having with international relations |\n| multilateral | involving more than two countries |\n| procurement | process of buying |\n| pluralism | the practice of holding more than one benefice at a time |\n| pandemics | an epidemic disease |\n\n![GLOSSARY](assets/source-en-p280-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "357932ff092156a83539b17dd99feae2e5b2fc83e703027e593a7df5d9f246af",
+      "asset": "content.en/docs/indias-foreign-policy/assets/source-en-p280-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "95c6efd724d72c5219312d62c6f942ffe95249a5fdde3a21075200838366a4b5",
+      "dimensions": [
+        1444,
+        602
+      ]
+    },
+    {
+      "id": "en-p294-glossary-1",
+      "lesson_id": "22",
+      "pdf_page": 294,
+      "bbox_normalized": [
+        0.132,
+        0.464,
+        0.866,
+        0.901
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| homogenous | of the same kind/alike |\n| bilateral trade | trading between two countries |\n| hydroelectric project | producing electricity by using the power of fast moving water |\n| infrastructure | the basic organisational facilities |\n| antiquity | the ancient past |\n| bifurcation | to divide into two parts |\n| surveillance | close observation |",
+      "expected_sha256": "7b9a2d965fe18650ead6c40117b3374213aa9858365cb4e4daa5716b3b888aea",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p294-glossary-1.png",
+      "target_asset": "content.en/docs/indias-international-relations/assets/source-en-p294-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p294-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| homogenous | of the same kind/alike |\n| bilateral trade | trading between two countries |\n| hydroelectric project | producing electricity by using the power of fast moving water |\n| infrastructure | the basic organisational facilities |\n| antiquity | the ancient past |\n| bifurcation | to divide into two parts |\n| surveillance | close observation |\n\n![GLOSSARY](assets/source-en-p294-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "4e4e3dbf66d5d51046cb2ba0983c3aa655c2aa3a6d9b24f2899deeffca9b1a1c",
+      "asset": "content.en/docs/indias-international-relations/assets/source-en-p294-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "4cf3cf6ac09c804aed0a65992b120797364de94f8e2e6bf39c41938c94c28aaa",
+      "dimensions": [
+        1444,
+        1158
+      ]
+    },
+    {
+      "id": "en-p306-glossary-1",
+      "lesson_id": "23",
+      "pdf_page": 306,
+      "bbox_normalized": [
+        0.132,
+        0.787,
+        0.866,
+        0.901
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Depreciation | The process of losing value |\n| Intermediate | Being between two other related things |\n| Market Price | A price that is likely to be paid for something |\n| Final Goods | A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs |\n| Composition | the nature of something's ingredients or constituents; the way in which a whole or mixture is made up |\n| Contribution | a gift or payment to a common fund or collection. |\n| Staggering | continue in existence or operation uncertainly or precariously. |\n\n![](assets/page_011_picture_001.png)",
+      "expected_sha256": "2c8867bd6f7b3f558839fde51cbe3f1adb26224304d402cf59ff3c3a8bdb3730",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p306-glossary-1.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p306-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p306-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Depreciation | The process of losing value |\n| Intermediate | Being between two other related things |\n| Market Price | A price that is likely to be paid for something |\n| Final Goods | A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs |\n| Composition | the nature of something's ingredients or constituents; the way in which a whole or mixture is made up |\n| Contribution | a gift or payment to a common fund or collection. |\n| Staggering | continue in existence or operation uncertainly or precariously. |\n\n![](assets/page_011_picture_001.png)\n\n![GLOSSARY](assets/source-en-p306-glossary-1.png)\n\n![Original textbook glossary continuation](assets/source-en-p307-glossary-2.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "78923eb17301a2167c6416b2789218a6033d26539a4e62064cd46dccff76d9af",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p306-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "ccb40e0ee5677cb31dcadb929cedbd12bad1411fb03920f8e1dd9933dfbd381b",
+      "dimensions": [
+        1444,
+        303
+      ]
+    },
+    {
+      "id": "en-p307-glossary-2",
+      "lesson_id": "23",
+      "pdf_page": 307,
+      "bbox_normalized": [
+        0.132,
+        0.095,
+        0.866,
+        0.287
+      ],
+      "source_caption": null,
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "note": "Continuation of same glossary from PDF306; four remaining rows.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p307-glossary-2.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p307-glossary-2.png",
+      "markdown": "![Original textbook diagram](assets/source-en-p307-glossary-2.png)",
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Depreciation | The process of losing value |\n| Intermediate | Being between two other related things |\n| Market Price | A price that is likely to be paid for something |\n| Final Goods | A consumer good or final good is any commodity that is produced or consumed by the consumer to satisfy current wants or needs |\n| Composition | the nature of something's ingredients or constituents; the way in which a whole or mixture is made up |\n| Contribution | a gift or payment to a common fund or collection. |\n| Staggering | continue in existence or operation uncertainly or precariously. |\n\n![](assets/page_011_picture_001.png)",
+      "expected_sha256": "2c8867bd6f7b3f558839fde51cbe3f1adb26224304d402cf59ff3c3a8bdb3730",
+      "current_occurrences": 1,
+      "apply_mode": "included_in_asset_en-p306-glossary-1",
+      "crop_visual_qa": true,
+      "crop_sha256": "19cf5f523c3109a7a5e1841e70b90ae53a68595896ef5f95d7c24f111698ee28",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p307-glossary-2.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "88f0e4d043b32df30f53aa3035b192efeec716acee33034dfc7ce47efcd953ed",
+      "dimensions": [
+        1444,
+        509
+      ]
+    },
+    {
+      "id": "en-p315-glossary-1",
+      "lesson_id": "24",
+      "pdf_page": 315,
+      "bbox_normalized": [
+        0.132,
+        0.666,
+        0.866,
+        0.901
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| globalization | the process by which businesses or other organizations develop international influence or start operating on an international scale. | உலகமயமாக்கல் |\n|---|---|---|\n| archaic | of an early period of art or culture, especially the 7th–6th centuries BC in Greece. | தொன மையான |\n| evolution | the gradual development of something | பரிணாம வளர்ச்சி |\n| mortgaged | expose to future risk or constraint for the sake of immediate advantage. | அடமானம் வ க்கப்பட்ட |\n| spurt | cause to gush out suddenly. | திடீர |\n| detrimental | tending to cause harm | சீரழிவான |\n| thriving | prosperous and growing; flourishing. | வெற்றிகரமான |\n\n![](assets/page_008_picture_001.png)",
+      "expected_sha256": "a90a9769766033102ae7675b89d4e90bc7e7f4306d11d130eb42288b24c19616",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p315-glossary-1.png",
+      "target_asset": "content.en/docs/globalization-and-trade/assets/source-en-p315-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p315-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| globalization | the process by which businesses or other organizations develop international influence or start operating on an international scale. | உலகமயமாக்கல் |\n|---|---|---|\n| archaic | of an early period of art or culture, especially the 7th–6th centuries BC in Greece. | தொன மையான |\n| evolution | the gradual development of something | பரிணாம வளர்ச்சி |\n| mortgaged | expose to future risk or constraint for the sake of immediate advantage. | அடமானம் வ க்கப்பட்ட |\n| spurt | cause to gush out suddenly. | திடீர |\n| detrimental | tending to cause harm | சீரழிவான |\n| thriving | prosperous and growing; flourishing. | வெற்றிகரமான |\n\n![](assets/page_008_picture_001.png)\n\n![GLOSSARY](assets/source-en-p315-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "6590fd6ee7b0c7c96af4678a08d1fad1b266d79c175f6576104044e4bfa9ad70",
+      "asset": "content.en/docs/globalization-and-trade/assets/source-en-p315-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "87c7fb89a4f59fe3aea318c31d6126f2a21f9f47b77f1b2b82f6b1d32acf8a6a",
+      "dimensions": [
+        1444,
+        623
+      ]
+    },
+    {
+      "id": "en-p324-glossary-1",
+      "lesson_id": "25",
+      "pdf_page": 324,
+      "bbox_normalized": [
+        0.132,
+        0.269,
+        0.866,
+        0.506
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Availability | that which can be used, attainable |\n| Accessibility | right to enter |\n| Affordability | ability to be afforded |\n| Sufficient | enough |\n| Purchasing power | the financial ability to buy produce |\n| Productivity | power of producing |\n| Degradation | to reduce to a lower rank |\n| Unidimensional | having one direction |\n| Malnourished | lack of proper nutrition |",
+      "expected_sha256": "8f3113b74443c5fa1d9a164eee2ad9d7f49268f545c3406259df0318685f60ca",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p324-glossary-1.png",
+      "target_asset": "content.en/docs/food-security-and-nutrition/assets/source-en-p324-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p324-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Availability | that which can be used, attainable |\n| Accessibility | right to enter |\n| Affordability | ability to be afforded |\n| Sufficient | enough |\n| Purchasing power | the financial ability to buy produce |\n| Productivity | power of producing |\n| Degradation | to reduce to a lower rank |\n| Unidimensional | having one direction |\n| Malnourished | lack of proper nutrition |\n\n![GLOSSARY](assets/source-en-p324-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "833bbd22aaa94a95fa5d19aeb181b1e69ec2f48ac68c6ca748f2c543b798a69a",
+      "asset": "content.en/docs/food-security-and-nutrition/assets/source-en-p324-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "e4752146bf98c53845a4cc33e516d3ea9255c02647be854d2806d34580db1782",
+      "dimensions": [
+        1444,
+        628
+      ]
+    },
+    {
+      "id": "en-p332-glossary-1",
+      "lesson_id": "26",
+      "pdf_page": 332,
+      "bbox_normalized": [
+        0.132,
+        0.464,
+        0.866,
+        0.695
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Levied | To impose taxes |\n| Fluctuation | To change |\n| Defray | Meet the expenses |\n| Proponents | Person who advocates theory |\n| Progressive Tax | Happening or developing gradually or in stages |\n| Regressive Tax | Taking a proportionally greater amount from those on lower incomes. |\n| Proportionate Tax | (of a variable quantity) having a constant ratio to another quantity. |\n| Evasion | The action of evading something |",
+      "expected_sha256": "5943cb8309d832ff5fdcc14702b2f3977b8d353f233a4f7a146f9544102153bc",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p332-glossary-1.png",
+      "target_asset": "content.en/docs/government-and-taxes/assets/source-en-p332-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p332-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Term | Meaning |\n|---|---|\n| Levied | To impose taxes |\n| Fluctuation | To change |\n| Defray | Meet the expenses |\n| Proponents | Person who advocates theory |\n| Progressive Tax | Happening or developing gradually or in stages |\n| Regressive Tax | Taking a proportionally greater amount from those on lower incomes. |\n| Proportionate Tax | (of a variable quantity) having a constant ratio to another quantity. |\n| Evasion | The action of evading something |\n\n![GLOSSARY](assets/source-en-p332-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "c6dc5940a298f330cbbf36381cf792b016491004cae902e42c566ca9511f5653",
+      "asset": "content.en/docs/government-and-taxes/assets/source-en-p332-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "7eac4d40d283a49492be008ce937e239881639738993629aa3a3b06193ba4d9f",
+      "dimensions": [
+        1444,
+        613
+      ]
+    },
+    {
+      "id": "en-p342-glossary-1",
+      "lesson_id": "27",
+      "pdf_page": 342,
+      "bbox_normalized": [
+        0.132,
+        0.282,
+        0.866,
+        0.467
+      ],
+      "source_caption": "GLOSSARY",
+      "placement_anchor": "### GLOSSARY",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "### GLOSSARY\n\n| Agglomerations | a mass or collection of things | திரட்சிகள் |\n|---|---|---|\n| Industrial Clusters | Relating to or characterised by industry. | தொEொழில் உற் த்தி ெதா குப்புகள் |\n| Emergence | the process of coming into existence | தோEோற் ம் |\n| Diffusion | the spreading of something more widely | பப ரவல் |\n| Artisanal | relating to or characteristic of an artisan | கைவினை சார்்த |\n\n![](assets/page_009_picture_001.png)",
+      "expected_sha256": "cf3baefb1b8efdfdc6fb6bd69c29f0ea025eb6f721efac5d08f058b60a18fb8c",
+      "current_occurrences": 1,
+      "note": "Current table omits or corrupts Tamil third-column meanings. Preserve readable English text and insert complete original bilingual table crop. For GDP306first3rows plus307top4rows both needed.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p342-glossary-1.png",
+      "target_asset": "content.en/docs/industrial-clusters-in-tamil-nadu/assets/source-en-p342-glossary-1.png",
+      "markdown": "![GLOSSARY](assets/source-en-p342-glossary-1.png)",
+      "replacement": "### GLOSSARY\n\n| Agglomerations | a mass or collection of things | திரட்சிகள் |\n|---|---|---|\n| Industrial Clusters | Relating to or characterised by industry. | தொEொழில் உற் த்தி ெதா குப்புகள் |\n| Emergence | the process of coming into existence | தோEோற் ம் |\n| Diffusion | the spreading of something more widely | பப ரவல் |\n| Artisanal | relating to or characteristic of an artisan | கைவினை சார்்த |\n\n![](assets/page_009_picture_001.png)\n\n![GLOSSARY](assets/source-en-p342-glossary-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "87062573a4a1edab1672cd669da257f4ba66fb775817cf8252b129c1c30bb0c2",
+      "asset": "content.en/docs/industrial-clusters-in-tamil-nadu/assets/source-en-p342-glossary-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "1fe1adf6f0411c8943a9d26c6b6118cc36e03d18cf2ca36782388628bb414529",
+      "dimensions": [
+        1444,
+        490
+      ]
+    },
+    {
+      "id": "en-p330-sidebar-gst-1",
+      "lesson_id": "26",
+      "pdf_page": 330,
+      "bbox_normalized": [
+        0.131,
+        0.714,
+        0.87,
+        0.901
+      ],
+      "source_caption": "Structure of Goods and Service Tax (GST)",
+      "placement_anchor": "After all three SGST/CGST/IGST descriptions; below en-26 GST sidebar replacement",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "note": "Original three-sectiontext sidebar; no sourceflowchart here. Bold labels,linebreaks sufficient; crop optional sourcepreservation.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p330-sidebar-gst-1.png",
+      "target_asset": "content.en/docs/government-and-taxes/assets/source-en-p330-sidebar-gst-1.png",
+      "markdown": "![Structure of Goods and Service Tax (GST)](assets/source-en-p330-sidebar-gst-1.png)",
+      "apply_mode": "after_body_findings_exact_replacement",
+      "crop_visual_qa": true,
+      "crop_sha256": "be8460d148d30022253d0a49d3c4e044f8160b0a07690035d38b77f4cefa7cc3",
+      "post_repair_current_snippet": "**State Goods and Service Tax (SGST):** Intra state (within the state)\n\nVAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and cesses\n\n**Central Goods and Service Tax (CGST):** Intra state (within the state)\n\nCentral Excise Duty , service tax, countervailing duty, additional duty of customs, surcharge, education and secondary/higher secondary cess\n\n**Integrated Goods and Service Tax (IGST):** Inter state (integrated GST)",
+      "post_repair_expected_sha256": "f51ecb92e1c37161d2d77e31e88552732c108277df83459071754a8572c750db",
+      "post_repair_replacement": "**State Goods and Service Tax (SGST):** Intra state (within the state)\n\nVAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and cesses\n\n**Central Goods and Service Tax (CGST):** Intra state (within the state)\n\nCentral Excise Duty , service tax, countervailing duty, additional duty of customs, surcharge, education and secondary/higher secondary cess\n\n**Integrated Goods and Service Tax (IGST):** Inter state (integrated GST)\n\n![Structure of Goods and Service Tax (GST)](assets/source-en-p330-sidebar-gst-1.png)",
+      "asset": "content.en/docs/government-and-taxes/assets/source-en-p330-sidebar-gst-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "8c22b1d15c42032c848c7005db5850e155b94772b6f1c3458d0c89a08df1d3b4",
+      "dimensions": [
+        1454,
+        496
+      ]
+    },
+    {
+      "id": "en-p320-figure-1",
+      "lesson_id": "25",
+      "pdf_page": 320,
+      "bbox_normalized": [
+        0.55,
+        0.361,
+        0.837,
+        0.566
+      ],
+      "source_caption": "Largest economies by PPP - GDP in 2019 (Int $ Tn)",
+      "placement_anchor": "Immediately after the PPP table; source Germany 4.5 and Russia 4.3. Full chart with axes and original title.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p320-figure-1.png",
+      "target_asset": "content.en/docs/food-security-and-nutrition/assets/source-en-p320-figure-1.png",
+      "markdown": "![Largest economies by PPP - GDP in 2019 (Int $ Tn)](assets/source-en-p320-figure-1.png)",
+      "current_snippet": "| Russia | 4.5 |\n| Germany | 4.3 |",
+      "expected_sha256": "db31f2f754f04c4deb5b8a182243a754db82ddf8fc1be337add293e95640c912",
+      "replacement": "| Germany | 4.5 |\n| Russia | 4.3 |\n\n![Largest economies by PPP - GDP in 2019 (Int $ Tn)](assets/source-en-p320-figure-1.png)",
+      "supersedes_finding": "en-25-ppp-country-values",
+      "current_occurrences": 1,
+      "crop_visual_qa": true,
+      "crop_sha256": "0b19f7fc28f7129fa6c42901e03b95fbd4408420e5a65b7df7d616561cfd0cc8",
+      "asset": "content.en/docs/food-security-and-nutrition/assets/source-en-p320-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "0d418c80cd07e74bacb9fdd51759dec0a39d5331d6e3f81f123f8124b36831b9",
+      "dimensions": [
+        565,
+        543
+      ]
+    },
+    {
+      "id": "en-p321-figure-1",
+      "lesson_id": "25",
+      "pdf_page": 321,
+      "bbox_normalized": [
+        0.255,
+        0.613,
+        0.752,
+        0.906
+      ],
+      "source_caption": "Multi-Dimensional Poverty Index",
+      "placement_anchor": "At current MPI figure location",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "Over the last decades, Tamil Nadu has made a significant progress in poverty reduction. The districts in Tamil Nadu are classified into three categories, namely high-poverty districts (more\n\n![](assets/page_005_picture_001.png)\n\nChild & Adolescent Mortality\n\nAntenatal Care\n\nDrinking Water\n\nHousing\n\nBank Account\n\n**Multi-Dimensional Poverty Index**\n\nthan 40% of the population living below poverty line), moderately poor districts (30% to 40%) and low-level poverty districts (below 30%).",
+      "expected_sha256": "45e9cd44d9da616a886edfcfbeeee91948ae269d03b6b35d192eeebf4d191264",
+      "current_occurrences": 1,
+      "note": "Current image omits text printed over the source graphic. Use full original with all labels, preserve caption.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p321-figure-1.png",
+      "target_asset": "content.en/docs/food-security-and-nutrition/assets/source-en-p321-figure-1.png",
+      "markdown": "![Multi-Dimensional Poverty Index](assets/source-en-p321-figure-1.png)",
+      "replacement": "Over the last decades, Tamil Nadu has made a significant progress in poverty reduction. The districts in Tamil Nadu are classified into three categories, namely high-poverty districts (more than 40% of the population living below poverty line), moderately poor districts (30% to 40%) and low-level poverty districts (below 30%).\n\n![Multi-Dimensional Poverty Index](assets/source-en-p321-figure-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "586d93c3ad50a60548dd14ee58047e7fcaf354fdf4a4aaeb8de3e90f31fac5ed",
+      "asset": "content.en/docs/food-security-and-nutrition/assets/source-en-p321-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "6fb2ec84f79da62a5f1d8c2b5187c6579b3a825784dbf498a794af2478a439fb",
+      "dimensions": [
+        978,
+        776
+      ]
+    },
+    {
+      "id": "en-p312-activity-1",
+      "lesson_id": "24",
+      "pdf_page": 312,
+      "bbox_normalized": [
+        0.52,
+        0.606,
+        0.87,
+        0.797
+      ],
+      "source_caption": "Find and write the largest Multinational Companies in India",
+      "placement_anchor": "At the blank activity table",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p312-activity-1.png",
+      "target_asset": "content.en/docs/globalization-and-trade/assets/source-en-p312-activity-1.png",
+      "markdown": "![Find and write the largest Multinational Companies in India](assets/source-en-p312-activity-1.png)",
+      "apply_mode": "after_body_findings_exact_replacement",
+      "crop_visual_qa": true,
+      "crop_sha256": "a58394877d948bde4d8fbd6564220d03feaafd934be0be800a1aba9c539416d2",
+      "post_repair_current_snippet": "**Find and write the largest Multinational Companies in India**\n\n|  |  |\n|---|---|\n| ________ | ________ |\n| ________ | ________ |\n| ________ | ________ |\n| ________ | ________ |\n| ________ | ________ |",
+      "post_repair_expected_sha256": "b6ce1a21b86437374dbea3424a80407260bfc68e704e569a931bf8112f874202",
+      "post_repair_replacement": "**Find and write the largest Multinational Companies in India**\n\n|  |  |\n|---|---|\n| ________ | ________ |\n| ________ | ________ |\n| ________ | ________ |\n| ________ | ________ |\n| ________ | ________ |\n\n![Find and write the largest Multinational Companies in India](assets/source-en-p312-activity-1.png)",
+      "asset": "content.en/docs/globalization-and-trade/assets/source-en-p312-activity-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "a960eaccf7ad4adfa56ac267c200f9d418b8122d2fb61091418fe422b0f867e5",
+      "dimensions": [
+        689,
+        506
+      ]
+    },
+    {
+      "id": "en-p287-figure-1",
+      "lesson_id": "22",
+      "pdf_page": 287,
+      "bbox_normalized": [
+        0.13,
+        0.614,
+        0.87,
+        0.902
+      ],
+      "source_caption": null,
+      "placement_anchor": "After Myanmar’s energy sector paragraph, before India and Nepal",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "![](assets/page_004_picture_001.png)",
+      "expected_sha256": "5dbfbe79faa7a28027c4f63549bf1f44db56f810f001c7ad468e3b3d03ae912a",
+      "current_occurrences": 1,
+      "note": "Full Kaladan route map: Sea route 539km, Highway 129km in Myanmar, 158km River Kaladan, all labels, compass and Not to Scale.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p287-figure-1.png",
+      "target_asset": "content.en/docs/indias-international-relations/assets/source-en-p287-figure-1.png",
+      "markdown": "![Original textbook diagram](assets/source-en-p287-figure-1.png)",
+      "replacement": "![Original textbook diagram](assets/source-en-p287-figure-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "179cf32c6e93468d350e7baf25c93277d7e30dc3e9ea629132c2076430d0a04f",
+      "asset": "content.en/docs/indias-international-relations/assets/source-en-p287-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "1dd1dd010eddf714c8535a62a6496b7fa10c2dacf65796cad6c5f9c414f3aab5",
+      "dimensions": [
+        1456,
+        763
+      ]
+    },
+    {
+      "id": "en-p254-figure-1",
+      "lesson_id": "19",
+      "pdf_page": 254,
+      "bbox_normalized": [
+        0.13,
+        0.598,
+        0.87,
+        0.89
+      ],
+      "source_caption": null,
+      "placement_anchor": "After the introduction paragraph, before It consists of two houses",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "Judiciary Legislature Executive\n\nPresident of India\n\nParliament Supreme Court of India other Judges Lok Sabha Rajya Sabha Vice-President\n\nPrime Minister\n\nCouncil of\n\nMinisters\n\nChief Justice of India and\n\nIt consists of two houses, namely the Rajya Sabha and the Lok Sabha. The Union Judiciary consists of the Supreme Court of India.",
+      "expected_sha256": "67db24a5307af519958b788b5a9e3e280d2ffcb1af153b6be9560bb86a0ade07",
+      "current_occurrences": 1,
+      "note": "Complete vector organization flowchart with hierarchy and arrows; current diagram text is disordered and has no picture.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p254-figure-1.png",
+      "target_asset": "content.en/docs/central-government/assets/source-en-p254-figure-1.png",
+      "markdown": "![Original textbook diagram](assets/source-en-p254-figure-1.png)",
+      "replacement": "It consists of two houses, namely the Rajya Sabha and the Lok Sabha. The Union Judiciary consists of the Supreme Court of India.\n\n![Original textbook diagram](assets/source-en-p254-figure-1.png)",
+      "crop_visual_qa": true,
+      "crop_sha256": "8e3c97cb55167ea64752952fb3bd8bb5044024b60ec6081aac906dc313cd5a51",
+      "asset": "content.en/docs/central-government/assets/source-en-p254-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "82b6f1243abd8193574d3fab8ea56b18155202ea4d02739153c978b81be37e39",
+      "dimensions": [
+        1456,
+        774
+      ]
+    },
+    {
+      "id": "en-p248-figure-1",
+      "lesson_id": "18",
+      "pdf_page": 248,
+      "bbox_normalized": [
+        0.13,
+        0.097,
+        0.87,
+        0.763
+      ],
+      "source_caption": null,
+      "placement_anchor": "Below the complete six Fundamental Rights article groups",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "![](assets/page_004_picture_001.png)",
+      "expected_sha256": "5dbfbe79faa7a28027c4f63549bf1f44db56f810f001c7ad468e3b3d03ae912a",
+      "current_occurrences": 1,
+      "note": "Full original six-panel layout keeps rights illustrations with respective articles. Existing isolated illustrations can remain pending layout cleanup.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p248-figure-1.png",
+      "target_asset": "content.en/docs/indian-constitution/assets/source-en-p248-figure-1.png",
+      "markdown": "![Original textbook diagram](assets/source-en-p248-figure-1.png)",
+      "replacement": "![](assets/page_004_picture_001.png)\n\n![Original textbook diagram](assets/source-en-p248-figure-1.png)",
+      "apply_mode": "append_preserve_existing_image",
+      "crop_visual_qa": true,
+      "crop_sha256": "e0c7f10a1a318533893bb4e6c6a677d90155ed72991c0c927c4c96a795d76d50",
+      "asset": "content.en/docs/indian-constitution/assets/source-en-p248-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "affb1e544d293e9adb27d7f19f6b2639ff944a6723168da245b06442ad37e303",
+      "dimensions": [
+        1456,
+        1764
+      ]
+    },
+    {
+      "id": "en-p265-figure-1",
+      "lesson_id": "20",
+      "pdf_page": 265,
+      "bbox_normalized": [
+        0.13,
+        0.651,
+        0.87,
+        0.902
+      ],
+      "source_caption": null,
+      "placement_anchor": "After introductory explanation of three branches, before 3.1 The Executive",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet": "## 3.1 \u0007The Executive\n\n### The Governor\n\nThe Governor is the constitutional head of the state executive. Generally, there is a separate Governor in each State but if the situation warrants so, the same person may be appointed\n\nJudiciary Legislature\n\nExecutive\n\nGovernor\n\nLegislative\n\nHigh Court\n\nLegislative\n\nAssembly (Lower House)\n\nCouncil (Upper House)\n\nChief Minister\n\nCouncil of\n\nMinisters\n\nDistrict Courts\n\nOther Courts as the Governor of two or more States. Article 154 vests the executive power of the State in the Governor.",
+      "expected_sha256": "0c34bc62774b96eec00ac2bc73261e81798c50d8b44d5f47635f9d70ccdf458a",
+      "current_occurrences": 1,
+      "note": "Full State Government organization diagram with arrows; current extracted text incorrectly interrupts appointed as the Governor.",
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p265-figure-1.png",
+      "target_asset": "content.en/docs/state-government/assets/source-en-p265-figure-1.png",
+      "markdown": "![Original textbook diagram](assets/source-en-p265-figure-1.png)",
+      "replacement": "![Original textbook diagram](assets/source-en-p265-figure-1.png)\n\n## 3.1 \u0007The Executive\n\n### The Governor\n\nThe Governor is the constitutional head of the state executive. Generally, there is a separate Governor in each State but if the situation warrants so, the same person may be appointed as the Governor of two or more States. Article 154 vests the executive power of the State in the Governor.",
+      "crop_visual_qa": true,
+      "crop_sha256": "e6ba627018aaed30f89a4215a6987952d18676f72b17d2a5c4a43d84d1bd7bf1",
+      "asset": "content.en/docs/state-government/assets/source-en-p265-figure-1.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "5af2965d5e93634a25f054b61d1729571b3e2f531bcf8b9f90ed68194dcae0f6",
+      "dimensions": [
+        1456,
+        665
+      ]
+    },
+    {
+      "id": "en-p299-equation-gdp",
+      "lesson_id": "23",
+      "pdf_page": 299,
+      "bbox_normalized": [
+        0.13,
+        0.172,
+        0.48,
+        0.196
+      ],
+      "source_caption": "GDP = C + I + G + (X − M)",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p299-equation-gdp.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-gdp.png",
+      "markdown": "![GDP = C + I + G + (X − M)](assets/source-en-p299-equation-gdp.png)",
+      "apply_mode": "grouped_equation_facsimiles",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "2e659c4dc801ec0914163d1eb31581b9354299189e44ae053e341e2d59a95808",
+      "current_snippet": "### Importance of GDP",
+      "expected_sha256": "7ff81d49851d16b1a79420d919d729861a212d0d9c61fdb54320d770ef5ed820",
+      "current_occurrences": 1,
+      "replacement": "**Original textbook equations (PDF pp.299–300)**\n\n![GDP = C + I + G + (X − M)](assets/source-en-p299-equation-gdp.png)\n\n![Original textbook GNP equation](assets/source-en-p299-equation-gnp.png)\n\n![NNP = GNP − Depreciation](assets/source-en-p299-equation-nnp.png)\n\n![NDP = GDP − Depreciation](assets/source-en-p299-equation-ndp.png)\n\n![Per Capita Income = National Income / Population](assets/source-en-p300-equation-pci.png)\n\n![DPI = PI − Direct Taxes](assets/source-en-p300-equation-dpi.png)\n\n![DI = Consumption Expenditures + Savings](assets/source-en-p300-equation-di.png)\n\n![Y = C + I + G + (X − M)](assets/source-en-p300-equation-expenditure.png)\n\n![Y = wages + rent + interest + profit](assets/source-en-p300-equation-income.png)\n\n### Importance of GDP",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-gdp.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "c98146932c83a9bda8a47cd2f4ef4afa64a7ca6cfa6f079fa9b9bcba3b545f43",
+      "dimensions": [
+        689,
+        64
+      ]
+    },
+    {
+      "id": "en-p299-equation-gnp",
+      "lesson_id": "23",
+      "pdf_page": 299,
+      "bbox_normalized": [
+        0.55,
+        0.392,
+        0.87,
+        0.418
+      ],
+      "source_caption": "GNP = C + I + G + (X–M) + NFIA) — unmatched bracket retained from source",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p299-equation-gnp.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-gnp.png",
+      "markdown": "![Original textbook GNP equation](assets/source-en-p299-equation-gnp.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "97e2a261b233086e619c7593ab65e7e3e0f0dabb7596f12731d7d99e84285210",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-gnp.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "36b906df44dd42dd82f2cb2e2457858ab9ce70d224321783681e1a45946bdd50",
+      "dimensions": [
+        630,
+        70
+      ]
+    },
+    {
+      "id": "en-p299-equation-nnp",
+      "lesson_id": "23",
+      "pdf_page": 299,
+      "bbox_normalized": [
+        0.52,
+        0.746,
+        0.87,
+        0.77
+      ],
+      "source_caption": "NNP = GNP − Depreciation",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p299-equation-nnp.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-nnp.png",
+      "markdown": "![NNP = GNP − Depreciation](assets/source-en-p299-equation-nnp.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "bfd179cec24a83cc55d9a58e302c56df58cc9c06cdfa557bb8bc29f6204611b4",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-nnp.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "aefeaaf6bd54598de56af1ffc6422bb1815e5f58ae011337815152525203bcb7",
+      "dimensions": [
+        689,
+        64
+      ]
+    },
+    {
+      "id": "en-p299-equation-ndp",
+      "lesson_id": "23",
+      "pdf_page": 299,
+      "bbox_normalized": [
+        0.55,
+        0.887,
+        0.87,
+        0.911
+      ],
+      "source_caption": "NDP = GDP − Depreciation",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p299-equation-ndp.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-ndp.png",
+      "markdown": "![NDP = GDP − Depreciation](assets/source-en-p299-equation-ndp.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "5fb1b9ab1f5ae07b37b06cc6ba67fc35d304983d4925c97387906b514a90221d",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p299-equation-ndp.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "05b09515f211a0f19be27409839c01afbc22cd9cf6bc595b9d0b810cdc49d0a1",
+      "dimensions": [
+        630,
+        64
+      ]
+    },
+    {
+      "id": "en-p300-equation-pci",
+      "lesson_id": "23",
+      "pdf_page": 300,
+      "bbox_normalized": [
+        0.13,
+        0.204,
+        0.48,
+        0.245
+      ],
+      "source_caption": "Per Capita Income = National Income / Population",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p300-equation-pci.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-pci.png",
+      "markdown": "![Per Capita Income = National Income / Population](assets/source-en-p300-equation-pci.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "4f8890f60604f914c512352c63f0d4d3decc428be378d4c3b4ffb4d10c9b3bec",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-pci.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "df2f67a708dcfb9a723786b11aee7c3cf489ef0eb7363103518626e5cd68a311",
+      "dimensions": [
+        689,
+        110
+      ]
+    },
+    {
+      "id": "en-p300-equation-dpi",
+      "lesson_id": "23",
+      "pdf_page": 300,
+      "bbox_normalized": [
+        0.13,
+        0.527,
+        0.48,
+        0.552
+      ],
+      "source_caption": "DPI = PI − Direct Taxes",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p300-equation-dpi.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-dpi.png",
+      "markdown": "![DPI = PI − Direct Taxes](assets/source-en-p300-equation-dpi.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "853ae636196bdc170a22d37f10f82c2c5584f7905a17e76e67771daf9fe96adb",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-dpi.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "e296f0e24fbaec6ac902732db187bb52aa295a2db44827d0bb0865b5e5471a36",
+      "dimensions": [
+        689,
+        67
+      ]
+    },
+    {
+      "id": "en-p300-equation-di",
+      "lesson_id": "23",
+      "pdf_page": 300,
+      "bbox_normalized": [
+        0.13,
+        0.549,
+        0.48,
+        0.586
+      ],
+      "source_caption": "DI = Consumption Expenditures + Savings",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p300-equation-di.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-di.png",
+      "markdown": "![DI = Consumption Expenditures + Savings](assets/source-en-p300-equation-di.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "311b28a1a62283581a46336180c5d0e92bd0fda0f44ddb044d47265b3051ab28",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-di.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "8f5acc7364319ecde1fff8f0f2bb000dbb1aa04bfccf637bb29c13c0e5128c25",
+      "dimensions": [
+        689,
+        99
+      ]
+    },
+    {
+      "id": "en-p300-equation-expenditure",
+      "lesson_id": "23",
+      "pdf_page": 300,
+      "bbox_normalized": [
+        0.52,
+        0.326,
+        0.87,
+        0.351
+      ],
+      "source_caption": "Y = C + I + G + (X − M)",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p300-equation-expenditure.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-expenditure.png",
+      "markdown": "![Y = C + I + G + (X − M)](assets/source-en-p300-equation-expenditure.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "f042a7434c500a781587cbf7278292a6f87ffe10dc878e72f9a609c5b33f177f",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-expenditure.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "0a7401e6557d4085c3aeb712feb2b87f2fd31ceee57f4917197dcae4f5a72630",
+      "dimensions": [
+        689,
+        67
+      ]
+    },
+    {
+      "id": "en-p300-equation-income",
+      "lesson_id": "23",
+      "pdf_page": 300,
+      "bbox_normalized": [
+        0.52,
+        0.431,
+        0.87,
+        0.474
+      ],
+      "source_caption": "Y = wages + rent + interest + profit",
+      "placement_anchor": "Immediately after corresponding printed equation/explanation; do not alter English PCI slash.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "crop_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/crops/en-p300-equation-income.png",
+      "target_asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-income.png",
+      "markdown": "![Y = wages + rent + interest + profit](assets/source-en-p300-equation-income.png)",
+      "apply_mode": "included_in_asset_en-p299-equation-gdp",
+      "note": "Preserve original equation text; crop is a facsimile for glyphs/signs. Parent may group these original equation crops in a source equations subsection after GDP methods before GDP growth.",
+      "crop_visual_qa": true,
+      "crop_sha256": "459c4a0e2061d5e4812ee0782828197375856d2cb97102101ccfa681d6b06f50",
+      "asset": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-en-p300-equation-income.png",
+      "dpi": 216,
+      "pixel_verified": true,
+      "sha256": "b396159e0fca889f531e924b9372c5025698729303c78902edd3db99517c6251",
+      "dimensions": [
+        689,
+        115
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1200 @@
+{
+  "schema_version": 1,
+  "checked_date": "2026-10-13",
+  "medium": "en",
+  "teacher_approval": false,
+  "review_type": "independent final geography source-fidelity regression review",
+  "blockers": [],
+  "lessons": [
+    {
+      "weight": 11,
+      "slug": "india-location-relief-and-drainage",
+      "markdown_sha256": "fc4c8d174887bfbf8ee643bd6b72fdf86a3d8aefcd5acc438110b128b7be615f",
+      "built_html_sha256": "d560231fef91d0ed6e7a59de89330ffd689e037d4edc0fe1861245d23b2a64a9",
+      "exercise_section_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 3,
+        "IV": 3,
+        "V": 5,
+        "VI": 3,
+        "VII": 3,
+        "VIII": 5
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "II": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "III": [
+          1,
+          2,
+          3
+        ],
+        "IV": [
+          1,
+          2,
+          3
+        ],
+        "V": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "VI": [
+          1,
+          2,
+          3
+        ],
+        "VII": [
+          1,
+          2,
+          3
+        ],
+        "VIII": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 3,
+        "IV": 3,
+        "V": 5,
+        "VI": 3,
+        "VII": 3,
+        "VIII": 5
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {
+        "tapti_characteristics_summary": true
+      }
+    },
+    {
+      "weight": 12,
+      "slug": "climate-and-natural-vegetation-of-india",
+      "markdown_sha256": "3da30fb408421d8d6a8f92499123b85d312684a2893fa46d288fe4e0060f8e5c",
+      "built_html_sha256": "6f097e0d08bd5651a8fd9712f3d3bc1b30c946dc50b8d188b6367f049cfbcd25",
+      "exercise_section_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 1,
+        "IV": 2,
+        "V": 9,
+        "VI": 3,
+        "VII": 2,
+        "VIII": 2,
+        "IX": 6
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "II": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "III": [
+          1
+        ],
+        "IV": [
+          1,
+          2
+        ],
+        "V": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "VI": [
+          1,
+          2,
+          3
+        ],
+        "VII": [
+          1,
+          2
+        ],
+        "VIII": [
+          1,
+          2
+        ],
+        "IX": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 1,
+        "IV": 2,
+        "V": 9,
+        "VI": 3,
+        "VII": 2,
+        "VIII": 2,
+        "IX": 6
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {
+        "wildlife_biosphere_summary": true
+      }
+    },
+    {
+      "weight": 13,
+      "slug": "india-agriculture",
+      "markdown_sha256": "5fb66994ff4099dc64a35cc5ef12ac0688f366b07fcd2a3055fa58e5bbed9836",
+      "built_html_sha256": "b6d17812061e71f37a69077b36365c95ef59cc327706806abcbb274ba00b1c49",
+      "exercise_section_counts": {
+        "I": 8,
+        "II": 2,
+        "III": 3,
+        "IV": 5,
+        "V": 8,
+        "VI": 2,
+        "VII": 4,
+        "VIII": 4,
+        "IX": 2,
+        "X": 8
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "II": [
+          1,
+          2
+        ],
+        "III": [
+          1,
+          2,
+          3
+        ],
+        "IV": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "V": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "VI": [
+          1,
+          2
+        ],
+        "VII": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "VIII": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "IX": [
+          1,
+          2
+        ],
+        "X": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 8,
+        "II": 2,
+        "III": 3,
+        "IV": 5,
+        "V": 8,
+        "VI": 2,
+        "VII": 4,
+        "VIII": 4,
+        "IX": 2,
+        "X": 8
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {}
+    },
+    {
+      "weight": 14,
+      "slug": "india-resources-and-industries",
+      "markdown_sha256": "739500df2013974e4ec32011cb3dd0678a588cf1f2c86b55618360e265dbe66c",
+      "built_html_sha256": "496ea79b1fa5eb92dbe5954bb95c782edfbc58c58414dcf3e0be1df90b40e2f6",
+      "exercise_section_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 7,
+        "IV": 4,
+        "V": 2,
+        "VI": 5
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "II": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "III": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "IV": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "V": [
+          1,
+          2
+        ],
+        "VI": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 7,
+        "IV": 4,
+        "V": 2,
+        "VI": 5
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/india-resources-and-industries/assets/source-2025-p176-energy-resources.png",
+          "alt": "Non-renewable and Renewable Resources of India",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/india-resources-and-industries/assets/source-2025-p176-energy-resources.png"
+        }
+      ],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {}
+    },
+    {
+      "weight": 15,
+      "slug": "india-population-transport-communication-and-trade",
+      "markdown_sha256": "442bb2ccbdbc3ad5eb5439e52e808c64201b34c2b1ef34e8c67eb7176cfe4168",
+      "built_html_sha256": "15620611a5e880a7d1eaff223ff3c8a9551ca124dfd60ede56a1b3361d1cf2d7",
+      "exercise_section_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 7,
+        "IV": 5,
+        "V": 3,
+        "VI": 6
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "II": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "III": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "IV": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "V": [
+          1,
+          2,
+          3
+        ],
+        "VI": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 7,
+        "II": 5,
+        "III": 7,
+        "IV": 5,
+        "V": 3,
+        "VI": 6
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {
+        "trade_exports_imports_activity_summary": true
+      }
+    },
+    {
+      "weight": 16,
+      "slug": "physical-geography-of-tamil-nadu",
+      "markdown_sha256": "5f04f192a1746d1dff93bdf79fe3350e92a3e2be93f0f04740a664079b673f55",
+      "built_html_sha256": "80141c0d852d0b9c11a1f1df6b885a4e1031c93d199e8a9498259f6cb48977cd",
+      "exercise_section_counts": {
+        "I": 8,
+        "II": 4,
+        "III": 5,
+        "IV": 1,
+        "V": 7,
+        "VI": 1,
+        "VII": 2,
+        "VIII": 4,
+        "IX": 1
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "II": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "III": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "IV": [
+          1
+        ],
+        "V": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "VI": [
+          1
+        ],
+        "VII": [
+          1,
+          2
+        ],
+        "VIII": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "IX": [
+          1
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 8,
+        "II": 4,
+        "III": 5,
+        "IV": 1,
+        "V": 7,
+        "VI": 1,
+        "VII": 2,
+        "VIII": 4,
+        "IX": 1
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/physical-geography-of-tamil-nadu/assets/source-2025-p202-tamil-nadu-political.png",
+          "alt": "Tamil Nadu - Political",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/physical-geography-of-tamil-nadu/assets/source-2025-p202-tamil-nadu-political.png"
+        },
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/physical-geography-of-tamil-nadu/assets/source-2025-p205-tamil-nadu-physical.png",
+          "alt": "Tamil Nadu - Physical",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/physical-geography-of-tamil-nadu/assets/source-2025-p205-tamil-nadu-physical.png"
+        }
+      ],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {
+        "district_organizations_before_summary": true
+      }
+    },
+    {
+      "weight": 17,
+      "slug": "human-geography-of-tamil-nadu",
+      "markdown_sha256": "453a15f3d1154824ca908d6b88eda0cea43d98dce2bf6952490aad1403b0a6c7",
+      "built_html_sha256": "1bc43cb3660203568e61d942253719164ea82e82b3308407f6354c09d8566cb3",
+      "exercise_section_counts": {
+        "I": 4,
+        "II": 4,
+        "III": 4,
+        "IV": 2,
+        "V": 5,
+        "VI": 3,
+        "VII": 2,
+        "VIII": 4,
+        "IX": 1
+      },
+      "exercise_numbers": {
+        "I": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "II": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "III": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "IV": [
+          1,
+          2
+        ],
+        "V": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "VI": [
+          1,
+          2,
+          3
+        ],
+        "VII": [
+          1,
+          2
+        ],
+        "VIII": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "IX": [
+          1
+        ]
+      },
+      "source_review_expected_counts": {
+        "I": 4,
+        "II": 4,
+        "III": 4,
+        "IV": 2,
+        "V": 5,
+        "VI": 3,
+        "VII": 2,
+        "VIII": 4,
+        "IX": 1
+      },
+      "count_match": true,
+      "original_exercise_lexical_words_preserved_in_html": true,
+      "topic_anchors_present": true,
+      "new_source_figures_in_html": [
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/human-geography-of-tamil-nadu/assets/source-2025-p230-roadways-railways.png",
+          "alt": "Tamilnadu - Transport: Roadways and Railways",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/human-geography-of-tamil-nadu/assets/source-2025-p230-roadways-railways.png"
+        },
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/human-geography-of-tamil-nadu/assets/source-2025-p235-geography-glossary.png",
+          "alt": "Geography glossary, source page 235",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/human-geography-of-tamil-nadu/assets/source-2025-p235-geography-glossary.png"
+        },
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/human-geography-of-tamil-nadu/assets/source-2025-p236-geography-glossary.png",
+          "alt": "Geography glossary, source page 236",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/human-geography-of-tamil-nadu/assets/source-2025-p236-geography-glossary.png"
+        },
+        {
+          "src": "http://0.0.0.0:1313/10th-social/docs/human-geography-of-tamil-nadu/assets/source-2025-p237-geography-glossary.png",
+          "alt": "Geography glossary, source page 237",
+          "built_asset_exists": true,
+          "resolved_asset": "/private/tmp/10th-social-english-build/docs/human-geography-of-tamil-nadu/assets/source-2025-p237-geography-glossary.png"
+        }
+      ],
+      "bell_count": 0,
+      "resource_boundary_present": true,
+      "source_content_before_resources": true,
+      "source_reading_order_checks": {
+        "trade_exports_imports_summary": true,
+        "three_source_glossary_crops_then_readable_transcription": true
+      }
+    }
+  ],
+  "repairs": [
+    {
+      "id": "geo-11-001",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-11-008",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-11-009",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-11-016",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-11-021",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-11-022",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-11-032",
+      "weight": 11,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-002",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-010",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-011",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-017",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-018",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-019",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-020",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-033",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-12-052",
+      "weight": 12,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-13-003",
+      "weight": 13,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-13-023",
+      "weight": 13,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-13-034",
+      "weight": 13,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-14-004",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-14-024",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-14-025",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-14-035",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-14-039",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-14-048",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Parent improved the caption to match both source panel titles; same complete crop and insertion position retained."
+    },
+    {
+      "id": "geo-14-053",
+      "weight": 14,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-005",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-012",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-013",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-026",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-029",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-030",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-15-036",
+      "weight": 15,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-006",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-014",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-015",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-027",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-028",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-031",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-037",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-049",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-050",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-16-054",
+      "weight": 16,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-007",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-038",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-040",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-041",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-042",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-043",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-044",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-045",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-046",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-047",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Exact replacement retained after whitespace/Bell/anchor normalization."
+    },
+    {
+      "id": "geo-17-051",
+      "weight": 17,
+      "status": "retained",
+      "verification": "Complete road/rail crop retained with an added accurate source-border note."
+    }
+  ],
+  "figures": [
+    {
+      "weight": 14,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/india-resources-and-industries/assets/source-2025-p176-energy-resources.png",
+      "sha256": "401de2478d0d881e250cfd2d436b2a143478bda4c6af197cdbc716d28f92af88",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Source title/legend or glossary panels fully retained; no original-text column omitted."
+    },
+    {
+      "weight": 16,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/physical-geography-of-tamil-nadu/assets/source-2025-p202-tamil-nadu-political.png",
+      "sha256": "13a95bb026e6c08e7fb6909e4fc9cc9ed55b3da69a77d35b7f7c7625730223b2",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Source title/legend or glossary panels fully retained; no original-text column omitted."
+    },
+    {
+      "weight": 16,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/physical-geography-of-tamil-nadu/assets/source-2025-p205-tamil-nadu-physical.png",
+      "sha256": "0a51a1b401892d672c8243d006969389a503c044e11a5698dd77f67017e6bc9a",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Source title/legend or glossary panels fully retained; no original-text column omitted."
+    },
+    {
+      "weight": 17,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p230-roadways-railways.png",
+      "sha256": "7c48a0ce18ab16ab4732d5572a427c99daf52f8585792c3a6e15313dbf76288b",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Complete source title/panels/legend retained within verified crop; source-clipped transport border accurately labeled."
+    },
+    {
+      "weight": 17,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p235-geography-glossary.png",
+      "sha256": "2de453e6a18bf7449b08499b3ba8b8923423adb2fd117f1c0269ebdee4e55367",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Source title/legend or glossary panels fully retained; no original-text column omitted."
+    },
+    {
+      "weight": 17,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p236-geography-glossary.png",
+      "sha256": "8cb4d925663051c22ac352ab3adbac7e5618baab3cebbf0ae4912a3c6f55182a",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Source title/legend or glossary panels fully retained; no original-text column omitted."
+    },
+    {
+      "weight": 17,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p237-geography-glossary.png",
+      "sha256": "3e45d2b3b5b14e74121694fe5447444274885a176b7923a174216939ce5db98b",
+      "built_copy_matches": true,
+      "visual_status": "visually_reinspected_at_original_size",
+      "source_content_status": "Source title/legend or glossary panels fully retained; no original-text column omitted."
+    }
+  ],
+  "candidate_inventory_limits": [
+    {
+      "weight": 11,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/11-india-location-relief-and-drainage-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 15,
+        "text": 370,
+        "footer": 15,
+        "question-candidate": 73
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": [
+        {
+          "candidate_id": "p148-question-candidate-42",
+          "kind": "question-candidate",
+          "text_start": "II\t Match the following\n1.\t Tsangpo\t\n—\t Tributary of ",
+          "limitation": "Block combines section heading/question or multiple nested items; not a separate accepted question/option identifier."
+        }
+      ]
+    },
+    {
+      "weight": 12,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/12-climate-and-natural-vegetation-of-india-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 90,
+        "text": 254,
+        "question-candidate": 42,
+        "footer": 10
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": []
+    },
+    {
+      "weight": 13,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/13-india-agriculture-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 29,
+        "text": 338,
+        "question-candidate": 67,
+        "footer": 16
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": [
+        {
+          "candidate_id": "p174-text-23",
+          "kind": "text",
+          "text_start": "(d)\t(A) is false (R) is true\n2.\t\nAssertion (A): Alluvial soil is formed by the \ndeposition of eroded and decayed materials \nbrought by the rivers.",
+          "limitation": "Block combines section heading/question or multiple nested items; not a separate accepted question/option identifier."
+        }
+      ]
+    },
+    {
+      "weight": 14,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/14-india-resources-and-industries-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 135,
+        "text": 292,
+        "question-candidate": 49,
+        "footer": 16
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": []
+    },
+    {
+      "weight": 15,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/15-india-population-transport-communication-and-trade-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 19,
+        "text": 254,
+        "question-candidate": 55,
+        "footer": 14
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": [
+        {
+          "candidate_id": "p205-question-candidate-31",
+          "kind": "question-candidate",
+          "text_start": "V\t Answer the following in a paragraph\n1.\t What is urbanization? Explain its problem.\n2.\t Explain the importances of satellite \ncommunication in India.\n3.\t Classify and e",
+          "limitation": "Block combines section heading/question or multiple nested items; not a separate accepted question/option identifier."
+        }
+      ]
+    },
+    {
+      "weight": 16,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/16-physical-geography-of-tamil-nadu-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 197,
+        "text": 415,
+        "footer": 19,
+        "question-candidate": 58
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": [
+        {
+          "candidate_id": "p223-question-candidate-33",
+          "kind": "question-candidate",
+          "text_start": "VIII\tAnswer the following in a paragraph\n1.\t\nDescribe the nature of the plateau region of \nTamil Nadu. \n2.\t\nWrite an account on river Cauvery.\n3.\t\nBring out the types and",
+          "limitation": "Block combines section heading/question or multiple nested items; not a separate accepted question/option identifier."
+        }
+      ]
+    },
+    {
+      "weight": 17,
+      "path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/17-human-geography-of-tamil-nadu-candidate-inventory.json",
+      "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+      "kinds": {
+        "image-candidate": 38,
+        "text": 387,
+        "question-candidate": 60,
+        "footer": 19
+      },
+      "independently_addressed": "Exercise section counts and existing source items/options checked separately. Extraction text blocks combine nested questions/options; no complete independent nested IDs or source reading-order certification claimed.",
+      "accepted_complete_inventory": false,
+      "examples": []
+    }
+  ],
+  "review_limits": "Final Markdown and generated HTML structurally inspected. Seven crop assets visually re-inspected against source context. Original source review was complete-page overviews plus targeted detailed pixels, not exhaustive character/pixel certification. Candidate inventories remain extraction candidates, not accepted complete nested inventories.",
+  "summary": {
+    "lessons_reviewed": 7,
+    "repairs_retained": 54,
+    "proposals_checked": 54,
+    "new_crop_assets_checked": 7,
+    "exercise_source_items_by_section": 242,
+    "blockers": 0,
+    "teacher_approval": false,
+    "accepted_complete_inventory": false
+  },
+  "no_content_loss_observed": "242 source exercise section items remain in numbered Markdown sequences; original exercise lexical content remains in generated article HTML, including unsolved matching rows. Numeric coordinate distractors/units explicitly restored by reviewed repairs. This count/lexical regression check supplements source visual inspection; it does not certify a complete accepted item inventory."
+}

@@ -1,0 +1,42 @@
+{
+  "teacher_approval": false,
+  "aids": [],
+  "edits": [
+    {
+      "file": "content.ta/docs/the-world-after-world-war-ii/_index.md",
+      "pdf_page": 53,
+      "expected_sha256": "99560c2aff63e5c6f2739f5ce925b7a1175cc9178d27cf2bd1d207c80381eb05",
+      "original": "### பனிப்போர்: அமெரிக்க ஐக்கிய\n\n### நாட்டிற்கும் சோவியத் ஐக்கியத்திற்கும் இடையே ஏற்பட்ட எதிர்ப்பு",
+      "replacement": "<a id=\"topic-4-2\"></a>\n\n## 4.2 பனிப்போர்: அமெரிக்க ஐக்கிய நாட்டிற்கும் சோவியத் ஐக்கியத்திற்கும் இடையே ஏற்பட்ட எதிர்ப்பு",
+      "reason": "Full printed heading and missing source number restored against image."
+    },
+    {
+      "file": "content.ta/docs/human-geography-of-tamil-nadu/_index.md",
+      "pdf_page": 252,
+      "reason": "Moved trade paragraph continuation and 7.14 imports out of first exercise question; restored original heading/summary order and first three visible question blanks.",
+      "source_page_visual_inspection": true,
+      "teacher_approval": false
+    },
+    {
+      "file": "content.ta/docs/the-world-between-two-world-wars/_index.md",
+      "pdf_page": 24,
+      "original_heading_preserved": "## 2 1 பொருளாதாரப் பெருமந்தம்",
+      "added_anchor": "2.1",
+      "expected_sha256": "79feec398e2345e6ed29d08e59a1b4c2b44fd2aecf1a4b82922f32150dc6db1d"
+    },
+    {
+      "file": "content.ta/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "pdf_page": 163,
+      "original_heading_preserved": "## 2. 3 மழைப் பரவல்",
+      "added_anchor": "2.3",
+      "expected_sha256": "fb7e6b42f04b0ed01ab68947dfee569f306b2b25f869e752c5fa73cae373c297"
+    },
+    {
+      "file": "content.ta/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "pdf_page": 165,
+      "original_heading_preserved": "## 2. 5 வன உயிரினங்கள்",
+      "added_anchor": "2.5",
+      "expected_sha256": "9946f5ec386d64cdddd64d200e252a6b7087823b52ed4b90aab7af950e18232a"
+    }
+  ]
+}

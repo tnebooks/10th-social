@@ -7,6 +7,10 @@ weight: 10
 summary: "Europeans established their political power over Indian subcontinent in the latter half of the eighteenth century. While they were concerned with annexing India, by the beginning of the nineteenth century, they were reordering Indian society. New revenue settlements were made. I…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 10: Social Transformation in Tamil Nadu
 
 ![](assets/page_001_picture_001.png)
@@ -30,6 +34,8 @@ Europeans established their political power over Indian subcontinent in the latt
 This caused a reaction among the Indians. During the nineteenth century, educated Indians from different parts of the country began to feel the humiliation and responded by seeking their socio-cultural identity from their past. However, they understood some merits in the colonial arguments and were ready to reform. It resulted in the social and religious reform movements in modern India. This particular historical development is also identified as the Indian renaissance.
 
 Renaissance is an ideological and cultural phenomenon. It is closely tied to modernity, rationalism and the progressive movement of the society. Critical thinking is at its root. This ideology of humanism stimulated creative energy in all spheres of social life and knowledge such as language, literature, philosophy, music, painting, architecture, etc.
+
+<a id="topic-10-1"></a>
 
 ## 10.1 Tamil Renaissance
 
@@ -77,11 +83,11 @@ P. Sundaranar
 
 ![](assets/page_002_picture_007.png)
 
-Bharatidasan
+**Thiru. Vi. Ka**
 
-Thiru. Vi. Ka Ramalinga Adigal (1823–1874), popularly known as Vallalar, questioned the existing
+**Bharatidasan**
 
-Hindu religious orthodoxy. Abraham Pandithar (1859–1919) gave prominence to Tamil music and published books on the history of Tamil music. C.W. Damotharanar, U.V. Swaminathar, Thiru Vi. Kaliyanasundaram (1883–1953), Parithimar Kalaignar (1870-1903), Maraimalai Adigal (1876–1950), Subramania Bharathi (1882–1921), S. Vaiyapuri (1891–1956), and the poet Bharatidasan (1891–1964), in their own ways and through their writings, contributed to the revival of Tamil literature. Meanwhile, M. Singaravelar (1860–1946) an early pioneer in Buddhist revival, promoted communism and socialism to counter the colonial power. Pandithar Iyotheethassar (1845–1914) and Periyar E.V. Ramasamy (1879–1973) held high the radical philosophy to defend the rights of the socially underprivileged and marginalised section of the people.
+Ramalinga Adigal (1823–1874), popularly known as Vallalar, questioned the existing Hindu religious orthodoxy. Abraham Pandithar (1859–1919) gave prominence to Tamil music and published books on the history of Tamil music. C.W. Damotharanar, U.V. Swaminathar, Thiru Vi. Kaliyanasundaram (1883–1953), Parithimar Kalaignar (1870-1903), Maraimalai Adigal (1876–1950), Subramania Bharathi (1882–1921), S. Vaiyapuri (1891–1956), and the poet Bharatidasan (1891–1964), in their own ways and through their writings, contributed to the revival of Tamil literature. Meanwhile, M. Singaravelar (1860–1946) an early pioneer in Buddhist revival, promoted communism and socialism to counter the colonial power. Pandithar Iyotheethassar (1845–1914) and Periyar E.V. Ramasamy (1879–1973) held high the radical philosophy to defend the rights of the socially underprivileged and marginalised section of the people.
 
 ### V.G. Suryanarayana Sastri (Parithimar Kalaignar)
 
@@ -111,7 +117,9 @@ Maraimalai Adigal
 
 Maraimalai Adigal promoted the use of pure Tamil words and removal of the Sanskrit influence from the Tamil language. The movement made a great impact on Tamil culture especially in language and literature. His daughter Neelambikai, played an important role in its foundation. He changed his own name Vedachalam and took on the pure Tamil name of Maraimalai Adigal. His journal Jnanasagaram was renamed Arivukkadal and his institution, Samarasa Sanmarga Sangam, was re-christened as Pothu Nilai Kalakam. Neelambikai compiled a dictionary that provided pure Tamil equivalents to Sanskrit words that had crept into Tamil vocabulary.
 
-## 10.2 Rise of the Dravidian Movement
+<a id="topic-10-2"></a>
+
+## 10.2 Rise of the Dravidian Movement
 
 The Dravidian movement emerged as a defence of the non- Brahmins against the Brahmin dominance. An organisation called The
 
@@ -121,7 +129,9 @@ Madras Non- Brahmin Association was founded in 1909 to help the non- Brahmin stu
 
 Dr. C. Natesanar as Madras Dravidian Association to support Dravidian uplift. The organisation focused on educating and supporting non-Brahmin graduates and conducting regular meetings to share their grievances. Meanwhile, Natesanar founded a hostel, the Dravidian Home, at Triplicane (Madras) in July 1916 to address the lack of hostels for the non-Brahmin students which hindered their educational development. In addition, the home had a literary society for the benefit of non-Brahmin students.
 
-## 10.3 South Indian Liberal
+<a id="topic-10-3"></a>
+
+## 10.3 South Indian Liberal
 
 ### Federation (Justice Party)
 
@@ -129,17 +139,15 @@ On 20 November 1916 around 30 prominent non-Brahmin leaders including Dr. C. Nat
 
 The association started publishing three newspapers: Dravidian in Tamil, Justice in English and Andhra Prakasika in Telugu, to propagate the ideals of the Party.
 
-The first election, under the Montagu- Chelmsford Reforms, was held in 1920 after the introduction of the Dyarchy form of government in the provinces. The Justice Party won the election and formed the first-ever Indian cabinet in Madras. A. Subbarayalu became the Chief Minister of the Madras Presidency and the party formed the government during 1920–1923 and 1923–1926. In the context of
+The first election, under the Montagu- Chelmsford Reforms, was held in 1920 after the introduction of the Dyarchy form of government in the provinces. The Justice Party won the election and formed the first-ever Indian cabinet in Madras. A. Subbarayalu became the Chief Minister of the Madras Presidency and the party formed the government during 1920–1923 and 1923–1926. In the context of Congress Party boycotting the legislature, the Justice Party continued to remain in office until 1937 elections were held. In the 1937 elections the Indian National Congress contested the elections for the first time and trounced the Justice Party.
 
 ![](assets/page_004_picture_001.png)
 
+**Sir Pitti Theyagarayar**
+
 ![](assets/page_004_picture_002.png)
 
-Sir Pitti Theyagarayar
-
-T.M. Nair
-
-Congress Party boycotting the legislature, the Justice Party continued to remain in office until 1937 elections were held. In the 1937 elections the Indian National Congress contested the elections for the first time and trounced the Justice Party.
+**T.M. Nair**
 
 ### Programmes and Activities
 
@@ -155,7 +163,9 @@ The Justice Party worked towards legislating provisions for communal representat
 
 The Justice Party further concentrated on reforms in religious institutions. The Justice Party introduced the Hindu Religious Endowment (HRE) Act in 1926 and enabled any individual, irrespective of their caste affiliation, to become a member of the temple committee and govern the resources of the religious institutions.
 
-## 10.4 Self-Respect Movement
+<a id="topic-10-4"></a>
+
+## 10.4 Self-Respect Movement
 
 (Suyamariyathai Iyakkam)
 
@@ -167,13 +177,13 @@ The Self-Respect Movement championed not only the cause of the non-Brahmin Hindu
 
 ### Periyar E.V.R.
 
-Periyar E.V. Ramasamy (1879–1973) was the founder of the Self-Respect Movement. He was the son of a wealthy businessman in Erode, Venkatappa and Chinna Thayammal. Though possessing a little formal education, he engaged in critical discussions with scholars, who used to be patronised by his devout father. As a young man, he once ran away from home and spent many months in Varanasi and other
+Periyar E.V. Ramasamy (1879–1973) was the founder of the Self-Respect Movement. He was the son of a wealthy businessman in Erode, Venkatappa and Chinna Thayammal. Though possessing a little formal education, he engaged in critical discussions with scholars, who used to be patronised by his devout father. As a young man, he once ran away from home and spent many months in Varanasi and other religious centres. The first-hand experience of orthodox
+
+Hindu religion led to his disillusionment with religion. On his return, he took care of his family business for some years. His selfless public service and forthrightness made him a popular personality. He held different official positions of Erode that included the Chairmanship of Municipal Council (1918–1919).
 
 ![](assets/page_005_picture_001.png)
 
-Periyar E.V.R religious centres. The first-hand experience of orthodox
-
-Hindu religion led to his disillusionment with religion. On his return, he took care of his family business for some years. His selfless public service and forthrightness made him a popular personality. He held different official positions of Erode that included the Chairmanship of Municipal Council (1918–1919).
+**Periyar E.V.R**
 
 As president of the Tamil
 
@@ -229,7 +239,9 @@ M.C. Rajah
 
 In 1928, he founded the All India Depressed Classes Association and was its long time leader.
 
-## 10.5 Labour Movements in Tamil Nadu
+<a id="topic-10-5"></a>
+
+## 10.5 Labour Movements in Tamil Nadu
 
 The First World War (1914–18) provided stimulus to industrial growth in India. These industries, catering to war time needs, had employed a huge number of workers. At the end of the War there were retrenchments across the industries, as the wartime requirements receded. Combined with high prices, this gave a momentum to the labour movement. B.P. Wadia, M. Singaravelar, Thiru. Vi. Kalyanasundaram and others initiated the formation of labour unions in the Madras Presidency. In 1918, India’s first organised trade union, the Madras Labour Union, was formed.
 
@@ -245,23 +257,25 @@ M. Singaravelar (1860–1946), was a pioneer in the labour movement activities i
 
 M. Singaravelar
 
-## 10.6 Language Agitation before Indian Independence
+<a id="topic-10-6"></a>
+
+## 10.6 Language Agitation before Indian Independence
 
 In general, language is a dominant symbol of identity and it is associated with culture and sentiments of any society. Tamil regained its prominence in the latter half of the nineteenth and early twentieth century. Maraimalai Adigal’s Pure Tamil Movement, the language reforms of Periyar and Tamil Isai Movement helped to galvanise the Tamil language. Tamil renaissance that led the Dravidian consciousness made a great intervention in the development of modern Tamil language and its art forms. Agamic temples did not permit rituals in Tamil. Tamil songs had a marginal place in musical concerts. Abraham Pandithar systematically studied the history of Tamil music and attempted to reconstruct the ancient Tamil musical system. He founded the Tanjore Sangitha Vidya Mahajana Sangam in 1912 and it became the kernel of the Tamil Isai Movement (Tamil Music Movement). The movement gave importance to the singing of Tamil compositions in music concerts. The first Tamil Isai Conference was held in 1943, to discuss the status of Tamil music.
 
 The implementation of Hindi as a compulsory language in Tamil Nadu, at various points of time, was seen as a threat to Tamil language and culture. Periyar declared that the introduction of Hindi over Tamil would deny the Dravidians of their job opportunities. Maraimalai Adigal pointed out that the Tamil language would suffer with the introduction of Hindi. The anti-Hindi campaigners considered it an ideological battle against Brahminism and the hegemony of Sanskrit over Tamil.
 
+<a id="topic-10-7"></a>
+
 ## 10.7 Women’s Movements
 
 There were several streams of women’s movements and organisations established in the early twentieth century to address the question of women empowerment in Madras Presidency. Women’s India Association (WIA) and All India Women’s Conference (AIWC) are the important among them in Tamil Nadu. WIA was started in 1917 by Annie Besant, Dorothy Jinarajadasa and Margaret Cousins at Adyar, Madras. The Association published pamphlets and bulletins in different languages to detail the problems of personal hygiene, marriage laws, voting rights, child care and women’s role in the public. In the meantime, WIA formed the All India Women’s Conference (AIWC) in 1927 to address the problem of women’s education and recommended that the government to implement various policies for the upliftment of women.
 
-Women’s liberation was one of the important objectives of the Self- Respect Movement. Selfrespecters led by Periyar E.V.R. worked for gender equality and gender sensitisation of the society. The movement provided a space for women to share their ideas. There were several women activists in the movement. Muthulakshmi
+Women’s liberation was one of the important objectives of the Self- Respect Movement. Selfrespecters led by Periyar E.V.R. worked for gender equality and gender sensitisation of the society. The movement provided a space for women to share their ideas. There were several women activists in the movement. Muthulakshmi Ammaiyar, Nagammai, Kannamma, Nilavathi, Muvalur Ramamirtham, Rukmani Ammal, Alarmelmangai Thayammal, Nilambikai, and Sivakami Chidambaranar are prominent among them.
 
 ![](assets/page_008_picture_001.png)
 
-Muvalur Ramamirtham
-
-Ammaiyar, Nagammai, Kannamma, Nilavathi, Muvalur Ramamirtham, Rukmani Ammal, Alarmelmangai Thayammal, Nilambikai, and Sivakami Chidambaranar are prominent among them.
+**Muvalur Ramamirtham**
 
 There was a custom of dedicating young girls to the Hindu temples as a servant of God, known as devadasi. Though intended as a service to god it soon got corrupted leading to extensive immorality and abuse of the women. Dr. Muthulakshmi Ammaiyar, was in the forefront of the campaign pressing for a legislation to abolish this devadasi system. The Madras Devadasis (Prevention of Dedication) Act 1947 was enacted by the government.
 
@@ -291,6 +305,8 @@ Presidency.
 
 ### GLOSSARY
 
+![Source glossary, PDF page 129, including Tamil meanings](assets/source_glossary_pdf_129.png)
+
 | Term | Meaning |
 |---|---|
 | evangelical | Christian groups that believe that the teaching of the Bible and persuading others to join them is extremely important |
@@ -308,135 +324,130 @@ Presidency.
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1.  established a full-fledged printing press in 1709, at Tranquebar. a) Caldwell b) F.W. Ellis c) Ziegenbalg d) Meenakshisundaram
+1. ________ established a full-fledged printing press in 1709, at Tranquebar.
+   - a) Caldwell
+   - b) F.W. Ellis
+   - c) Ziegenbalg
+   - d) Meenakshisundaram
 
-2.  founded Adi Dravida Mahajana Sabha in 1893. a) Rettaimalai Srinivasan b) B. R. Ambedkar c) Rajaji d) M. C. Rajah
+2. ________ founded Adi Dravida Mahajana Sabha in 1893.
+   - a) Rettaimalai Srinivasan
+   - b) B. R. Ambedkar
+   - c) Rajaji
+   - d) M. C. Rajah
 
-3. India’s first organised trade union, the
+3. India’s first organised trade union, the Madras Labour Union was formed in ________.
+   - a) 1918
+   - b) 1917
+   - c) 1916
+   - d) 1914
 
-Madras Labour Union was formed in
+4. ________ was established by the Justice Party Government for the selection of Government officials.
+   - a) Staff Selection Board
+   - b) Public Service Commission
+   - c) Provincial Staff Recruitment Board
+   - d) Staff Selection Commission
 
-. a) 1918 b) 1917 c) 1916 d) 1914
-
-4.  was established by the Justice Party Government for the selection of Government officials. a) Staff Selection Board b) Public Service Commission c) Provincial Staff Recruitment Board d) Staff Selection Commission
-
-5.  was the first elected Legislative Council Member from the depressed class in Madras Province. a) M. C. Rajah b) Rettaimalai Srinivasan c) T.M. Nair d) P. Varadarajulu
+5. ________ was the first elected Legislative Council Member from the depressed class in Madras Province.
+   - a) M. C. Rajah
+   - b) Rettaimalai Srinivasan
+   - c) T.M. Nair
+   - d) P. Varadarajulu
 
 **II Fill in the blanks**
 
-1.  was the first non- European language that went into print.
+1. ________ was the first non-European language that went into print.
 
-2. The College of Fort St. George was founded by .
+2. The College of Fort St. George was founded by ________.
 
-3.  is considered the father of Tamil linguistic purism.
+3. ________ is considered the father of Tamil linguistic purism.
 
-4.  was the first to approve participation of women in the electoral politics.
+4. ________ was the first to approve participation of women in the electoral politics.
 
-5. The name Suriyanarayana Sastri changed in
+5. The name Suriyanarayana Sastri changed in Tamil as __________
 
-Tamil as __________
+6. __________ gave prominence to Tamil music.
 
-6. __________ gave prominence to Tamil music.
-
-7. The first Woman Legislator in India was
-
-__________.
+7. The first Woman Legislator in India was __________.
 
 **III Choose the correct statement**
 
-1. (i) Thirukkural was one of the earliest Tamil literary texts to be published in 1812.
+1.
+    - (i) Thirukkural was one of the earliest Tamil literary texts to be published in 1812.
+    - (ii) Maraimalai Adigal collected and edited different palm leaf manuscripts of the Tamil grammars and literature.
+    - (iii) Robert Caldwell established the close affinity between the Dravidian languages in contrast with Sanskrit and also established the antiquity of Tamil.
+    - (iv) Thiru.Vi. Kalyanasundaram was an early pioneer in Trade union movement.
+    - a) (i) and (ii) are correct
+    - b) (i) and (iii) are correct
+    - d) (iv) is correct
+    - e) (ii) and (iii) are correct
 
-(ii) Maraimalai Adigal collected and edited different palm leaf manuscripts of the Tamil grammars and literature.
+2. Assertion (A): The Justice Party continued to remain in government from 1920-1937 in Madras Presidency.
 
-(iii) Robert
-
-Caldwell established the close affinity between the Dravidian languages in contrast with Sanskrit and also established the antiquity of Tamil.
-
-(iv) Thiru.Vi. Kalyanasundaram was an early pioneer in Trade union movement.
-
-a) (i) and (ii) are correct b) (i) and (iii) are correct d) (iv) is correct e) (ii) and (iii) are correct
-
-2. Assertion (A): The Justice Party continued to remain in government from 1920-1937 in Madras Presidency.
-
-Reason (R): The Congress Party boycotted the Madras Legislature during this period of Dyarchy.
-
-a) Both A and R are correct b) A is correct, but R is not the correct explanation c) Both A and R are wrong d) R is correct, but it has no relevance to A
+   Reason (R): The Congress Party boycotted the Madras Legislature during this period of Dyarchy.
+   - a) Both A and R are correct
+   - b) A is correct, but R is not the correct explanation
+   - c) Both A and R are wrong
+   - d) R is correct, but it has no relevance to A
 
 **IV Match the following**
 
-1. Dravidian Home
-
-- Maraimalai Adigal
-
-2. Thozhilalan
-
-- Rettaimalai
-
-Srinivasan
-
-3. Tani Tamil Iyakkam - Singaravelar
-
-4. Jeeviya Saritha
-
-Surukkam
-
-- Natesanar
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Dravidian Home | Maraimalai Adigal |
+| 2 | Thozhilalan | Rettaimalai Srinivasan |
+| 3 | Tani Tamil Iyakkam | Singaravelar |
+| 4 | Jeeviya Saritha Surukkam | Natesanar |
 
 **V Answer briefly**
 
-1. Write a note on Tamil Renaissance.
+1. Write a note on Tamil Renaissance.
 
-2. Highlight the contribution of Caldwell for the cause of South Indian languages.
+2. Highlight the contribution of Caldwell for the cause of South Indian languages.
 
-3. List out the personalities who contributed to the revival of Tamil literature through their writings.
+3. List out the personalities who contributed to the revival of Tamil literature through their writings.
 
-4. Discuss the importance of Hindu Religious
+4. Discuss the importance of Hindu Religious Endowment Act passed by the Justice Party?
 
-Endowment Act passed by the Justice Party?
-
-5. Name the newspapers published by the
-
-South Indian Liberal Foundation.
+5. Name the newspapers published by the South Indian Liberal Foundation.
 
 6. Estimate Periyar as a feminist
 
 **VI Answer in detail**
 
-1. Attempt an essay on the foundation and development of Tamil Renaissance in the 19th Century.
+1. Attempt an essay on the foundation and development of Tamil Renaissance in the 19th Century.
 
-2. Describe the background for the formation of the Justice Party and point out its contribution to the cause of social justice.
+2. Describe the background for the formation of the Justice Party and point out its contribution to the cause of social justice.
 
-3. Estimate
-
-Periyar E.V.R’s decisive contribution to the social transformation of Tamil Nadu.
+3. Estimate Periyar E.V.R’s decisive contribution to the social transformation of Tamil Nadu.
 
 **VII Students Activity**
 
-1. Students can be taught to distinguish between Labour Movement and Trade Union Movement. Project work on the activities of local trade union organisations may be done by students.
+1. Students can be taught to distinguish between Labour Movement and Trade Union Movement. Project work on the activities of local trade union organisations may be done by students.
 
-2. Students can compile the activities of the local writers’ associations or women’s collectives.
+2. Students can compile the activities of the local writers’ associations or women’s collectives.
 
 ### REFERENCE BOOKS
 
-1. K. Nambi Arooran, Tamil Renaissance and Dravidian Nationalism 1905–1944. Madurai: Koodal Publishers, 1980.
+1. K. Nambi Arooran, Tamil Renaissance and Dravidian Nationalism 1905–1944. Madurai: Koodal Publishers, 1980.
 
-2. V. Geetha and S.V. Rajadurai, Towards a
+2. V. Geetha and S.V. Rajadurai, Towards a
 
 Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.
 
 3. Robert Hardgrave, The Dravidian Movement. Bombay: Popular Prakashan, 1965.
 
-4. Eugene F. Irschick, Politics and Social
+4. Eugene F. Irschick, Politics and Social
 
 Conflict in South India. Berkeley: University of California Press, 1969.
 
-5. Periyar. E.V. Ramasami, Women Enslaved.
+5. Periyar. E.V. Ramasami, Women Enslaved.
 
 New Delhi: Critical Quest, 2009.
 
-6. Thoughts of Periyar E.V.R.: Speeches and Writings of Periyar E.V. Ramasamy. V. Anaimuthu. Comp. Chennai: Periyar E.V. Ramasamy–Nagammai Education and Research Trust, 1974.
+6. Thoughts of Periyar E.V.R.: Speeches and Writings of Periyar E.V. Ramasamy. V. Anaimuthu. Comp. Chennai: Periyar E.V. Ramasamy–Nagammai Education and Research Trust, 1974.
 
 ### மேலும் வாசிக்்கத்்தக்்க நூல்
 
@@ -499,3 +510,45 @@ New Delhi: Critical Quest, 2009.
 1939 - Outbreak of World War II 1940 - Battle of Britain 1941 - Pearl Harbour incident 1942 - Battle of Stalingrad
 
 1945 - End of World War II / Formation of UNO
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [தமிழ்நாட்டில் சமூக மாற்றங்கள் — 10th new book](https://www.youtube.com/watch?v=UJEURrw5qpo) — PRK அகாடமி கள்ளக்குறிச்சி; Tamil explanation.
+- [Social Transformation in Tamil Nadu — 2 marks Part 1 — Tamil explanation](https://www.youtube.com/watch?v=hlaxCN5AB3o) — HTAS How To Approach Schooling; Tamil explanation.
+- [Tamil Renaissance — Unit 10 detail answer — Tamil](https://www.youtube.com/watch?v=s_FWpV2t9nA) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Rise of the Dravidian Movement — தமிழ்](https://www.youtube.com/watch?v=KKJ2SKlm97I) — Nivetha Jayakumar's Classroom; Tamil explanation. Covers selected concepts; see the topic table below.
+- [தமிழக வரலாற்றில் நீதிக்கட்சி — Justice Party History](https://www.youtube.com/watch?v=kB1azeys6Zk) — Kalaignar TV News; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Self-Respect movement — 10th History](https://www.youtube.com/watch?v=_Nygzz-mZrU) — Kaikoru Education - Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Labour Movements in Tamil Nadu — தமிழ்](https://www.youtube.com/watch?v=PgGkUq0LcDQ) — Nivetha Jayakumar's Classroom; Tamil explanation. Covers selected concepts; see the topic table below.
+- [இந்தி எதிர்ப்பு வரலாறு — Hindi agitation history](https://www.youtube.com/watch?v=cDLmsYSUioc) — Vikatan TV; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Women's Movements — Social Transformation in Tamil Nadu — தமிழ்](https://www.youtube.com/watch?v=_WhKxiCdlk8) — Nivetha Jayakumar's Classroom; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Social Transformation in Tamil Nadu — chapter quiz](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [10.1 Tamil Renaissance](#topic-10-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=s_FWpV2t9nA) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+| [10.2 Rise of the Dravidian Movement](#topic-10-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=KKJ2SKlm97I) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+| [10.3 South Indian Liberal](#topic-10-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=kB1azeys6Zk) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+| [10.4 Self-Respect Movement](#topic-10-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_Nygzz-mZrU) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+| [10.5 Labour Movements in Tamil Nadu](#topic-10-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=PgGkUq0LcDQ) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+| [10.6 Language Agitation before Indian Independence](#topic-10-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=cDLmsYSUioc) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+| [10.7 Women’s Movements](#topic-10-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_WhKxiCdlk8) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
+
+<!-- supplemental-resources:end -->

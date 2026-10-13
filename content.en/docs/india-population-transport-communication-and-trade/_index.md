@@ -7,27 +7,29 @@ weight: 15
 summary: "The study on human population is one of the most important aspects in geography of any region. The human population has many components but the most fundamental are its number, composition, distribution and density. Therefore, it is essential to study these components. The study…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 5: India - Population, Transport, Communication and Trade
 
 ![](assets/page_001_picture_001.png)
 
 ## Learning Objectives
 
-To understand the growth and distribution of population in India.
+- To understand the growth and distribution of population in India.
+- To know about the Human Development in India.
+- To learn the transport systems of India.
+- To understand the communication system of India.
+- To assess the nature of trade in India.
 
 ![](assets/page_001_picture_002.png)
-
-To know about the Human Development in India.
-
-To learn the transport systems of India.
-
-To understand the communication system of India.
-
-To assess the nature of trade in India.
 
 ## Introduction
 
 The study on human population is one of the most important aspects in geography of any region. The human population has many components but the most fundamental are its number, composition, distribution and density. Therefore, it is essential to study these components. The study on these aspects also would reveal the workforce of the country.
+
+<a id="topic-5-1"></a>
 
 ## 5.1 Population
 
@@ -51,7 +53,7 @@ The uneven distribution of population in the country is the result of several fa
 
 It is expressed as number of persons per sq km. According to 2011, the average density of population of India is 382 persons per sq.km. India is one of the most thickly populated ten countries of the world. The most densely populated state of India is Bihar and the state with least population density is Arunachal Pradesh. Among the union territories, Delhi is the densely populated one with 11,297 per sq.km, while Andaman and Nicobar Islands have the lowest density of population.
 
-### Population Growth and Change
+### Population Growth and Change
 
 Population change refers to an increase or decrease of population of an area from one period to another period. Population growth is influenced by the birth rate, death rate and migration. These three make the changes in population.
 
@@ -79,6 +81,8 @@ The following table shows the decadal growth rate of population from 1901 to 201
 | 2011 | 17.64% | 1,21,01,93,422 |
 
 Source: Census of India -2011
+
+<a id="topic-5-2"></a>
 
 ## 5.2 Migration
 
@@ -116,6 +120,8 @@ Human population dynamics is a field that tracks factors related to changes in t
 
 In India, growing pressure of Population on resource base, created many socio-economic, cultural, political, ecological and environmental problems. The Population problems vary in space and time and differ from region to region. Some of the major issues created by the overpopulation in our country are overcrowding, unemployment and under employment, low standard of living, malnutrition, mismanagement of natural and agricultural resources, unhealthy environment etc.
 
+<a id="topic-5-3"></a>
+
 ## 5.3 Urbanization
 
 The process of society’s transformation from rural to urban is known as urbanization.
@@ -149,6 +155,8 @@ It creates water scarcity in cities.
 It creates drainage problem.
 
 It poses the problem of solid waste management. It increases the rate of crime.
+
+<a id="topic-5-4"></a>
 
 ## 5.4 Transportation
 
@@ -204,9 +212,7 @@ Golden Quadrilateral 5,846 km long road of 4/6 lanes connects, India’s four me
 
 What are the highlights and benefits of the Golden Quadrilateral Highways?
 
-### g) North–South and East-West
-
-### Corridors
+### g) North–South and East-West Corridors
 
 North-South corridor aims at connecting Srinagar in Jammu & Kashmir with Kanniyakumari in Tamil Nadu (including Kochi-Salem spur) with 4,076 km long road.
 
@@ -267,7 +273,7 @@ On the basis of width of the track, the Indian Railways fall under four categori
 
 4. Light gauge (0.610 meter width)
 
-- The first suburban railway was started in 1925 in Mumbai.
+- The first suburban railway was started in 1925 in Mumbai.
 
 - Gatiman Express is the fastest operational train in India. This train connects New Delhi and Agra and touches 160 km/h.
 
@@ -351,6 +357,8 @@ Pavan-Hans Helicopter Ltd has been providing Helicopter support services to the 
 
 Airports Authority of India (AAI) was constituted in 1995. It provides security to Indian Airports. AAI under the ministry of Civil Aviation is responsible for creating, upgrading, maintaining and managing civil aviation infrastructure in India.
 
+<a id="topic-5-5"></a>
+
 ## 5.5 Communication
 
 Communication is a process that involves exchange of information, thoughts and ideas. Technology does wonders in communication fields. Communication is categorized in to personal and mass communications.
@@ -408,7 +416,7 @@ Teleport Internet
 
 Response
 
-Business Connuity
+Business Connuity
 
 Data/Internet
 
@@ -442,6 +450,8 @@ The INSAT, established in 1983, is a multipurpose system for telecommunication, 
 
 The INSAT series, GSAT series, KALPANA-1, HAMSAT, EDUSAT are the major communication satellite used for communication purpose. GSAT–7A is the recent launch (December 19, 2018) for communication programs. INSAT-1B launched on 30th August 1983 is the first communication satellite in INSAT series.
 
+<a id="topic-5-6"></a>
+
 ## 5.6 Trade
 
 Trade is an important phenomenon that decides the economic growth of a country. Trade is an act (or) process of buying, selling or exchanging of goods and services. The primitive method of trade was known as the Barter system where goods were exchanged for goods. Later on, money was introduced as a medium of exchange in buying and selling of goods. The difference in value between the imports and exports is called balance of trade. The situation in which the value of exports exceeds the value of imports is termed as favourable balance of trade and the reverse position is termed as unfavourable balance of trade.
@@ -454,11 +464,7 @@ Trade in general, is of two types. They are
 
 2. International trade The trade carried on within the domestic territory of a country is termed as Internal trade. It is also called as Domestic trade or Local trade. Land transport (roadways and railways) plays a major role in this trade. Local currency is used in internal trade. It helps to promote a balanced regional growth in the country.
 
-Trade carried on between two or more countries is called International trade. It is also called as external trade or foreign trade. Export and Import are two components of International trade. Export means goods and services sold for foreign currency. Import means goods and services bought from overseas producers. Waterways and Airways play a vital role in this type of trade. Foreign currency is involved in international trade. The trade between
-
-## SUMMARY
-
-any two countries is called Bilateral trade. The trade between more than two countries is called
+Trade carried on between two or more countries is called International trade. It is also called as external trade or foreign trade. Export and Import are two components of International trade. Export means goods and services sold for foreign currency. Import means goods and services bought from overseas producers. Waterways and Airways play a vital role in this type of trade. Foreign currency is involved in international trade. The trade between any two countries is called Bilateral trade. The trade between more than two countries is called
 
 **Mutilateral Trade.**
 
@@ -474,7 +480,9 @@ The major imports are petroleum products, pearls, precious stones and semi-preci
 
 Find out the countries which have trade relationship with India.
 
-The total number of people residing in a country at a specified period of time is called the size of population of that country.
+## SUMMARY
+
+The total number of people residing in a country at a specified period of time is called the size of population of that country.
 
 The growth of population is determined by the birth rate, death rate and migration of people.
 
@@ -488,25 +496,23 @@ Trade is an exchange of goods and services. Internal and International trades ar
 
 ### EXERCISE
 
-**I Choose the correct**
+**I Choose the correct**
 
 **answer**
 
-1. The scientific study of different aspects of population is called a) Cartography b) Demography c) Anthropology d) Epigraphy
+1. The scientific study of different aspects of population is called a) Cartography b) Demography c) Anthropology d) Epigraphy
 
-2.  transport provides door to door services. a) Railways b) Roadways c) Airways d) Waterways.
+2. _________ transport provides door to door services. a) Railways b) Roadways c) Airways d) Waterways.
 
-3. The length of Golden Quadrilateral superhighways in India is a) 5846 km b) 5942 km c) 5630 km d) 5800 km
+3. The length of Golden Quadrilateral superhighways in India is a) 5846 km b) 5942 km c) 5630 km d) 5800 km
 
-4. The
-
-National Remote sensing Centre(NRSC) is located at .
+4. The National Remote sensing Centre(NRSC) is located at _________.
 
 a) Bengaluru b) Chennai c) Delhi d) Hyderabad
 
-5. The transport useful in the inaccessible areas is a) Roadways b) Railways c) Airways d) Waterways
+5. The transport useful in the inaccessible areas is a) Roadways b) Railways c) Airways d) Waterways
 
-6. Which of the following is associated with helicopter service?
+6. Which of the following is associated with helicopter service?
 
 a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans
 
@@ -514,41 +520,26 @@ a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans
 
 **II Match the following**
 
-1 Border Road
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Border Road Organisation | Satellite communication |
+| 2 | INSAT | Impact of Urbanization |
+| 3 | Mazagaon Dock | 1955 |
+| 4 | Urban sprawl | Mumbai |
+| 5 | NHAI | 1960 |
+|  |  | Hyderabad |
 
-Organisation
+**III Answer the following Questions briefly**
 
-- Satellite communication
+1. What is migration? State its types.
 
-2 INSAT
+2. Write any four advantages of railways.
 
-- Impact of Urbanization
+3. Write a note on Pipeline network transport in India
 
-3 Mazagaon Dock
+4. State the major Inland waterways of India
 
-- 1955
-
-4 Urban sprawl
-
-- Mumbai
-
-5 NHAI
-
-- 1960
-
-- Hyderabad
-
-**III Answer the following Questions briefly**
-
-1. What is migration? State its types.
-
-2. Write any four advantages of railways.
-
-3. Write a note on Pipeline network transport in India
-
-4. State the major Inland waterways of India
-
-5. What is communication? What are its types?
+5. What is communication? What are its types?
 
 6. Define “International trade”.
 
@@ -556,27 +547,27 @@ Organisation
 
 **IV Distinguish between**
 
-1. Personal communication and mass communication.
+1. Personal communication and mass communication.
 
-2. Print Media and Electronic Media.
+2. Print Media and Electronic Media.
 
 3. Roadways and Railways.
 
 4. Waterways and Airways.
 
-5. Internal trade and International trade.
+5. Internal trade and International trade.
 
-**V Answer the following in a paragraph**
+**V Answer the following in a paragraph**
 
-1. What is urbanization? Explain its problem.
+1. What is urbanization? Explain its problem.
 
-2. Explain the importances of satellite communication in India.
+2. Explain the importances of satellite communication in India.
 
-3. Classify and explain the roadways in
+3. Classify and explain the roadways in
 
 India.
 
-**VI On the outline map of India mark the**
+**VI On the outline map of India mark the**
 
 **following**
 
@@ -584,7 +575,7 @@ India.
 
 2. Major seaports in India.
 
-3. Major International Airports in India.
+3. Major International Airports in India.
 
 4. Densely populated state of India.
 
@@ -594,15 +585,15 @@ India.
 
 ### REFERENCE BOOKS
 
-1. D.R. Khullar (2014) India, A comprehensive
+1. D.R. Khullar (2014) India, A comprehensive
 
 Geography.
 
-2. Surender Singh and Jitender Saroha (2014)
+2. Surender Singh and Jitender Saroha (2014)
 
 Geography of India, New Delhi: Access publishing
 
-3. Census of India (2011) Provisional
+3. Census of India (2011) Provisional
 
 Population Totals, “Urban Agglomerations and Cities”.
 
@@ -613,3 +604,45 @@ Population Totals, “Urban Agglomerations and Cities”.
 2. www.konkan Railway.com
 
 3. www.Community.data.gov.in
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — India - Population, Transport, Communication and Trade](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Urbanization](https://www.khanacademy.org/v/urbanization) — Khan Academy / Sydney Brown; English. Covers selected concepts; see the topic table below.
+- [Trade matters to me](https://www.youtube.com/watch?v=Crby5WYko0g) — World Trade Organization; English. Covers selected concepts; see the topic table below.
+- [இந்தியா - மக்கள் தொகை, போக்குவரத்து, தகவல் தொடர்பு மற்றும் வணிகம் \| 10th புவியியல்](https://www.youtube.com/watch?v=sHvI9NDW7nA) — V V TNPSC ACADEMY; Tamil explanation.
+- [Migration Definition and Introduction — Tamil](https://www.youtube.com/watch?v=T4vlR0XFumY) — Creator as indexed; Tamil explanation. Covers selected concepts; see the topic table below.
+- [உலகின் சனத்தொகை பரம்பல் / World Population Density](https://www.youtube.com/watch?v=QYpDWFXUD4g) — Tamil Geography News; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Transport and Communication in India — Road System / சாலை வழி](https://www.youtube.com/watch?v=MeGEtX0RFmw) — Creator not exposed in available index; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Communication — Personal and Mass Communication, English content explained in Tamil](https://www.youtube.com/watch?v=dQeHhsAekk8) — Super Smart; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [India population pyramid — compare years and age groups](https://www.populationpyramid.net/india/2025/) — PopulationPyramid.net; English. Runtime and answers have not been fully tested.
+- [WTO trade map — select indicators and countries](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) — World Trade Organization; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [5.1 Population](#topic-5-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=sHvI9NDW7nA) | [Topic activity](https://www.populationpyramid.net/india/2025/) |
+| [5.2 Migration](#topic-5-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=sHvI9NDW7nA) | [Topic activity](https://www.populationpyramid.net/india/2025/) |
+| [5.3 Urbanization](#topic-5-3) | [Topic video (English)](https://www.khanacademy.org/v/urbanization) | [Lesson activities](#interactive-resources) |
+| [5.4 Transportation](#topic-5-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=sHvI9NDW7nA) | [Lesson activities](#interactive-resources) |
+| [5.5 Communication](#topic-5-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=sHvI9NDW7nA) | [Lesson activities](#interactive-resources) |
+| [5.6 Trade](#topic-5-6) | [Topic video (English)](https://www.youtube.com/watch?v=Crby5WYko0g) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
+
+<!-- supplemental-resources:end -->

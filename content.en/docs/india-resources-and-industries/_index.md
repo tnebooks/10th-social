@@ -7,21 +7,22 @@ weight: 14
 summary: "Any matter or energy derived from the environment that is used by living things including humans is called a natural resource. Natural resources include air, water, soil, minerals, fossil fuels, plants, wild life etc. Many natural resources are used as raw materials. They play a…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 4: India - Resources and Industries
 
 ![](assets/page_001_picture_001.png)
 
 ## Learning Objectives
 
-To learn about the resource and its types.
+- To learn about the resource and its types.
+- To understand the concept of renewable and non- renewable resources.
+- To identify the different types and distribution of industries in India.
+- To analyse the problems of Indian industries.
 
 ![](assets/page_001_picture_002.png)
-
-To understand the concept of renewable and non- renewable resources.
-
-To identify the different types and distribution of industries in India.
-
-To analyse the problems of Indian industries.
 
 ## Introduction
 
@@ -29,23 +30,25 @@ Any matter or energy derived from the environment that is used by living things 
 
 Solar energy, wind energy, biogas, tidal energy, wave energy etc. are the renewable resources. Non-renewable resources are the sources that cannot be replenished again after utilisation. Coal, petroleum, natural gas, etc., fall under this category.
 
+<a id="topic-4-1"></a>
+
 ## 4.1 Minerals
 
 Mineral is a natural substance of organic or inorganic origin with definite chemical and physical properties. The process of extracting mineral from the earth is known as mining. The mines near the earth crust are known as open pit mines while the deep mines are known as shaft mines.
 
 The organisations associated with minerals in India are,
 
-1. The Geological Survey of India, headquarter is at Calcutta.
+1. The Geological Survey of India, headquarter is at Calcutta.
 
-2. Indian Bureau of Mines, headquarter is at
+2. Indian Bureau of Mines, headquarter is at
 
 Nagpur.
 
-3. Non-Ferrous
+3. Non-Ferrous
 
 Material Technology Development Centre NFTDC, Hyderabad.
 
-4. The Ministry of Mines is responsible for the administration of all mines and minerals (Development and Regulation Act, 1957).
+4. The Ministry of Mines is responsible for the administration of all mines and minerals (Development and Regulation Act, 1957).
 
 ### Types of Minerals
 
@@ -140,13 +143,17 @@ Limestone is used in the industries of chemicals for soda ash, caustic soda, ble
 
 Gypsum is a hydrated sulphate of calcium which occurs as white, opaque or transparent minerals in beds of sedimentary rocks such as limestone, sandstone and shale. Gypsum is used in the manufacture of cement, fertilizers, wall board, plaster of paris and in soil conditioning. Rajasthan, Tamil Nadu, Gujarat, Himachal Pradesh, Karnataka, Uttarakhand, Andhra Pradesh and Madhya Pradesh are the major producers.
 
+<a id="topic-4-2"></a>
+
 ## 4.2 Energy Resources
 
 The resources from which the electricity generated are called energy resources. Electricity is an important component of our life. No day-to-day activity takes without the use of this energy. It is also the key factor for all economic activities and industrial development. Energy resources can be classified into renewable and non-renewable. Coal, petroleum, natural gas and nuclear minerals are the sources of non renewable energy. Water, sun light, wind, biogas, tides etc., are the sources of renewable energy.
 
 ![](assets/page_004_picture_001.png)
 
-### Non-Renewable Energy Resources a) Coal
+### Non-Renewable Energy Resources
+
+### a) Coal
 
 Coal is an inflammable organic substance composed mainly of hydrocarbons.
 
@@ -215,6 +222,10 @@ Thermal power is generated using fossil fuels like coal, diesel, petroleum and n
 
 [NTPC] was established in 1975. At present, NTPC has 13 coal based super thermal power projects and 7 gas / liquid fuel-based combined cycle projects in the states of Assam, Bihar, Jharkhand, Chhattisgarh, Mizoram and West Bengal. Neyveli, Mettur, Thoothukudi and Ennore (Chennai) are the important thermal power stations in Tamil nadu.
 
+![Non-renewable and Renewable Resources of India](assets/source-2025-p176-energy-resources.png)
+
+**Renewable Resources of India**; **Non-renewable Resources of India** (Not to Scale)
+
 ### e) Nuclear power
 
 The energy released during nuclear fission or fusion is used to generate electricity. Nuclear energy is generated mainly from the minerals of Uranium and Thorium. The first nuclear power station was set up at Tarapur near Mumbai in 1969. Later atomic reactors were installed at Rawatbhata (335 MW), near Kota in Rajasthan (100 MW), Kalpakkam (440 MW) and Kudankulam (2,000 MW) in Tamil nadu and Narora (235 MW) in Uttar Pradesh, Kaiga in (235 MW) in Karnataka and Kakarapara (235 MW) in Gujarat.
@@ -225,7 +236,9 @@ Nuclear Power Corporation of India Limited (NPCIL) is an Indian public sector un
 
 ![](assets/page_008_picture_001.png)
 
-### Renewable Energy Resources a) Hydropower
+### Renewable Energy Resources
+
+### a) Hydropower
 
 Power generated from water is termed as hydroelectricity. Hydropower is the energy harnessed from running water. Hydropower is considered as one of the most economic and non-polluting sources of energy. It contributes nearly 7% of global electricity production. The cost of production of hydroelectricity is relatively low, making it a competitive source of renewable energy. It is also a flexible mode of power generation as the quantity of production can either be increased or decreased very quickly adapting to changing demands.
 
@@ -266,6 +279,8 @@ Bioenergy maybe obtained through biodegradable materials like animal dung, kitch
 There are two main sources of ocean energy. They are Ocean tides and Ocean waves. The Gulf of Cambay is the best suited area for tidal energy. This is followed by Gulf of Kutch (1,000MW) and Sunderbans (100MW).
 
 An wave energy power plant of 150 KW(maximum) has been installed at Vizhinjam near Thiruvananthapuram. An another plant of this kind has been set up near Andaman & Nicobar Islands.
+
+<a id="topic-4-3"></a>
 
 ## 4.3 Industries
 
@@ -375,7 +390,7 @@ The modernization of the industry was started in 1907 with the establishment of 
 | 1 | Tata Iron and Steel Company (TISCO) | Jamshedpur, Jharkhand | 1907 | Pig Iron |
 | 2 | Indian Iron and Steel Company (IISCO) | Burnpur, Hirapur, Kulti, West Bengal | 1972 | Pig Iron & Crude steel |
 | 3 | Visweshwaraya Iron Steel Ltd. (VISL) | Bhadravati, Karnataka | 1923 | Alloy and Sponge steel |
-| 4 | Hindustan Steel Ltd. (HSL) Collaborated with Russia | Bhilai, Chattisgarh | 1957 | Railway Equipments and Ship Building |
+| 4 | Hisdustan Steel Ltd. (HSL) Collaborated with Russia | Bhilai, Chattisgarh | 1957 | Railway Equipments and Ship Building |
 | 5 | Hindustan Steel Ltd. (HSL) Collaborated with Germany | Rourkela, Odisha | 1965 | Hot and Cold rolled sheets, Galvanized sheets and electrical plates |
 | 6 | Hindustan Steel Ltd. (HSL) Collaborated with United kingdom | Durgapur, West Bengal | 1959 | Alloy steel, Construction materials and railway equipments |
 | 7 | Hindustan Steel Ltd. (HSL) Collaborated with Russia | Bokaro, Jharkhand | 1972 | Sludge and Slog |
@@ -424,33 +439,19 @@ Mysuru, Hyderabad, Visakhapatnam, Mumbai, Pune, Indore, Gandhi Nagar, Jaipur, No
 
 Industries in India face many problems. Some major problems are listed below.
 
-- 
+- Shortage and fluctuation in Power Supply.
 
-Shortage and fluctuation in Power Supply.
+- Non- availability of large blocks of land.
 
-- 
+- Poor access to credit.
 
-Non- availability of large blocks of land.
+- High rate of interest for borrowed loan.
 
-- 
+- Non- availability of cheap labourers.
 
-Poor access to credit.
+- Lack of technical and vocational training for employees.
 
-- 
-
-High rate of interest for borrowed loan.
-
-- 
-
-Non- availability of cheap labourers.
-
-- 
-
-Lack of technical and vocational training for employees.
-
-- 
-
-Inappropriate living conditions nearby industrial estates.
+- Inappropriate living conditions nearby industrial estates.
 
 ![](assets/page_014_picture_001.png)
 
@@ -483,7 +484,7 @@ Forest based industries – the industries run with the help of forest products.
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
 1. Manganese is used in______.
 
@@ -493,43 +494,31 @@ a) Paper industry b) Steel Making c) Copper smelting d) Petroleum Refining
 
 a) 80 to 90% Carbon b) Above 70% Carbon c) 60 to 70% Carbon d) Below 50% Carbon
 
-3. The most important constituents of petroleum are hydrogen and a) Oxygen b) Water c) Carbon d) Nitrogen
+3. The most important constituents of petroleum are hydrogen and a) Oxygen b) Water c) Carbon d) Nitrogen
 
-4. The city which is called as the Manchester of
+4. The city which is called as the Manchester of
 
 South India is a) Chennai b) Salem c) Madurai d) Coimbatore
 
-5. The first Nuclear Power station was commissioned in a) Gujarat b) Rajasthan c) Maharashtra d) Tamil Nadu
+5. The first Nuclear Power station was commissioned in a) Gujarat b) Rajasthan c) Maharashtra d) Tamil Nadu
 
 6. The most abundant source of energy is a) Biomass b) Sun c) Coal d) Oil
 
-7. The nucleus for the development of the
+7. The nucleus for the development of the
 
 Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d) Power Availability
 
 **II Match the following**
 
-1. Bauxite
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Bauxite | Cement |
+| 2 | Gypsum | Aluminium |
+| 3 | Anthracite | Electrical goods |
+| 4 | Iron ore | Coal |
+| 5 | Mica | Magnetite |
 
-- Cement
-
-2. Gypsum
-
-- Aluminium
-
-3. Anthracite
-
-- Electrical goods
-
-4. Iron ore
-
-- Coal
-
-5. Mica
-
-- Magnetite
-
-**III Answer the following Questions briefly**
+**III Answer the following Questions briefly**
 
 1. Define the resource and state its types.
 
@@ -539,11 +528,11 @@ Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d
 
 4. What is natural gas?
 
-5. Name the different types of coal with their carbon content.
+5. Name the different types of coal with their carbon content.
 
-6. Mention the major areas of jute production in India.
+6. Mention the major areas of jute production in India.
 
-7. Name the important oil producing regions of India.
+7. Name the important oil producing regions of India.
 
 **IV Distinguish between**
 
@@ -551,23 +540,23 @@ Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d
 
 2. Metallic and non-metallic minerals.
 
-3. Agro-based industry and mineral-based industry.
+3. Agro-based industry and mineral-based industry.
 
 4. Jute industry and sugar industry.
 
-**V Answer the following in a paragraph**
+**V Answer the following in a paragraph**
 
-1. Write about the distribution of cotton textile industries in India.
+1. Write about the distribution of cotton textile industries in India.
 
-2. Describe the major challenges of Indian industries.
+2. Describe the major challenges of Indian industries.
 
-**VI On the outline map of India mark the**
+**VI On the outline map of India mark the**
 
 **following**
 
 1. Iron ore production centres.
 
-2. Centres of Petroleum and Natural Gas production.
+2. Centres of Petroleum and Natural Gas production.
 
 3. Coal mining centres.
 
@@ -577,46 +566,82 @@ Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d
 
 ### REFERENCE BOOKS
 
-1. Singh,S. and J. Saroha – Geography of India,
+1. Singh,S. and J. Saroha – Geography of India,
 
 New Delhi, Access Publishing Inida Pvt Ltd.
 
-2. Tiwar R.C. – Geography of India, Allahabad,
+2. Tiwar R.C. – Geography of India, Allahabad,
 
 Prayag Pustak Bhawan.
 
-3. Government of India, Ministry of mines,
+3. Government of India, Ministry of mines,
 
 Coal, Textiles, Steel, Petroleum and Natural gas – Annual report 2017 -18
 
-4. Economic and Commercial Geography,
+4. Economic and Commercial Geography,
 
 Professor S.A. Ghazi
 
-5. Development of industries in India, from
+5. Development of industries in India, from
 
 Independence till today
 
-Visit school Bhuvan? School Bhuvan visualizes natural resources, environment and their sustainable development in
+### ICT CORNER: India - Resources and Industries
 
-India.
-
-- 
+Visit school Bhuvan? School Bhuvan visualizes natural resources, environment and their sustainable development in India.
 
 ![](assets/page_016_picture_001.png)
 
 Open the Browser and type the URL given below (or) Scan the QR Code.
 
-- 
-
-Scroll Down and click on ‘Explore’
+- Scroll Down and click on ‘Explore’
 
 ![](assets/page_016_picture_002.png)
 
 Click on ‘Thematic Serious 2’ in top menu and select ‘Mineral’
 
-- 
-
 **Website URL:**
 
 https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — India - Resources and Industries](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [வளங்கள் மற்றும் தொழிலகங்கள் — Kalvi TV](https://www.youtube.com/watch?v=oLxTCe9A2O0) — KalviTVOfficial; Tamil explanation.
+- [இந்தியா வளங்கள் மற்றும் தொழிலகங்கள் — Q&A Part 3 — Kalvi TV](https://www.youtube.com/watch?v=UsDZGPnIvbY) — KalviTVOfficial; Tamil explanation.
+- [இந்தியாவின் கனிம வளங்கள் — Iron Ore, Copper, Bauxite, Zinc](https://www.youtube.com/watch?v=EdkyFShH5Wo) — YouTube TNPSC geography educator (name not returned); Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [India - Resources and Industries — chapter quiz](https://test.brainkart.com/topic/geography--chapter-4--india---resources-and-industries-423/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [4.1 Minerals](#topic-4-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=oLxTCe9A2O0) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-4--india---resources-and-industries-423/) |
+| [4.2 Energy Resources](#topic-4-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=oLxTCe9A2O0) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-4--india---resources-and-industries-423/) |
+| [4.3 Industries](#topic-4-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=oLxTCe9A2O0) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-4--india---resources-and-industries-423/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/` | Page opened in recent check | [Alternative](https://bhuvan-app1.nrsc.gov.in/moe_ncert/) |
+
+<!-- supplemental-resources:end -->

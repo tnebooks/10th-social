@@ -1,0 +1,81 @@
+{
+  "teacher_approval": false,
+  "edits": [
+    {
+      "id": "geo-indus-length",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 153,
+      "bbox_normalized": [
+        0.52,
+        0.477,
+        0.88,
+        0.507
+      ],
+      "current_snippet": "சிந்து நதி 2850 கிலோமீட்டர்நீளத்துடன் (இந்தியப் பகுதியில் 709 கிலோமீட்டர்நீளம் மட்டுமே பாய்கிறது)",
+      "replacement": "சிந்து நதி 2880 கிலோமீட்டர்நீளத்துடன் (இந்தியப் பகுதியில் 1114 கிலோமீட்டர்நீளம் மட்டுமே பாய்கிறது)",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "b127b0f55d3fc6b8247c871c4bef308bc6e7306231d59c0c6019995c5a13ec23",
+      "current_occurrences": 1,
+      "note": "Magnified crop p153-indus-crop.png confirms 2880 and 1114, latter is easily misread at full-page size. This is source fidelity, no external fact update."
+    },
+    {
+      "id": "geo-indus-basin",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 153,
+      "bbox_normalized": [
+        0.52,
+        0.575,
+        0.88,
+        0.637
+      ],
+      "current_snippet": "11,65,500 சதுர கிலோ மீட்டர்",
+      "replacement": "11,65,000 சதுர கிலோ மீட்டர்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "0a0c2d2a8568b768d464c90ccb8ac3b5222a82ad31dc41053c6208d66d4daa17",
+      "current_occurrences": 1,
+      "note": "Magnified crop confirms original PDF11,65,000."
+    },
+    {
+      "id": "geo-cauvery-length",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 155,
+      "bbox_normalized": [
+        0.52,
+        0.763,
+        0.88,
+        0.841
+      ],
+      "current_snippet": "சுமார் 805 கிலோமீட்டர்நீளத்துக்கு",
+      "replacement": "சுமார் 800 கிலோமீட்டர்நீளத்துக்கு",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "8bf26982ba861b71c2914a34cfa237a018d6a1163a67fcf137791ac4bfd8a8cf",
+      "current_occurrences": 1,
+      "note": "Source PDF155 right bottom says 800 கி.மீ. No external geographical correction implied."
+    },
+    {
+      "pdf_page": 146,
+      "original": "ஆரவல்லி மலை படம் கொடுக்கப்பட்டுள்ளது",
+      "replacement": "பாடநூலில் கொடுக்கப்பட்டுள்ள மலைப் படம்",
+      "occurrences": 2,
+      "expected_sha256": "8c31b68359e2bfb01b62a90ca99b1cba93bcc25591b72f0051b0a925c96f129f",
+      "reason": "Removed unsupported added figure identification; no guessed content."
+    },
+    {
+      "pdf_page": 147,
+      "original": "இந்தியாவின் 28 மாநிலங்கள் மற்றும் 9 யூனியன் பிரதேசங்களைக் குறிக்கும் இந்திய வரை படம் வெவ்வேறு வண்ணங்களில் அச்சிடப்பட்டுள்ளது",
+      "replacement": "இந்தியா மாநிலங்கள் மற்றும் யூனியன் பிரதேசங்கள் வரைபடம் வெவ்வேறு வண்ணங்களில் அச்சிடப்பட்டுள்ளது",
+      "occurrences": 2,
+      "expected_sha256": "0a26ecaf3b1c0f29aaacdf1047fbffe0b437ecbe20c75942e872f94c585be9a1",
+      "reason": "Removed unsupported added figure identification; no guessed content."
+    }
+  ],
+  "source_mistake_note_added": "Question I.6 duplicate option label correction explicitly labeled",
+  "result_sha256": "fe10efe83c5a55fff905de7c02cf4af14f1d3894bf12820be575c28f87bb119a",
+  "aids": []
+}

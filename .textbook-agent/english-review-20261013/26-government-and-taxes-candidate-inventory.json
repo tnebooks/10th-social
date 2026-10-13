@@ -1,0 +1,4671 @@
+{
+  "lesson_id": "26",
+  "teacher_approval": false,
+  "inventory_status": "extraction candidates; incomplete pending nested-item and visual validation",
+  "items": [
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.4703407,
+        0.0977443,
+        0.8687591,
+        0.273134
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p327-image-candidate-1",
+      "pdf_page": 327,
+      "source_order": 327001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1683352,
+        0.1226919,
+        0.2811191,
+        0.1521847
+      ],
+      "text": "Unit  -  4",
+      "raw_extracted_text": "Unit  -  4",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-2",
+      "pdf_page": 327,
+      "source_order": 327002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.147876,
+        0.175748,
+        0.4726674,
+        0.2100432
+      ],
+      "text": "Government and ",
+      "raw_extracted_text": "Government and ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-3",
+      "pdf_page": 327,
+      "source_order": 327003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2495483,
+        0.2029574,
+        0.3595355,
+        0.2372527
+      ],
+      "text": "Taxes",
+      "raw_extracted_text": "Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-4",
+      "pdf_page": 327,
+      "source_order": 327004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1787552,
+        0.2952405,
+        0.442953,
+        0.3186236
+      ],
+      "text": "Learning Objectives",
+      "raw_extracted_text": "Learning Objectives",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-5",
+      "pdf_page": 327,
+      "source_order": 327005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1481524,
+        0.3269599,
+        0.6797157,
+        0.3453127
+      ],
+      "text": " \n\nTo understand the role of the government and development policies.",
+      "raw_extracted_text": " \n\nTo understand the role of the government and development policies.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-6",
+      "pdf_page": 327,
+      "source_order": 327006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1481524,
+        0.3487864,
+        0.4896461,
+        0.3671391
+      ],
+      "text": " \n\nTo gain knowledge about tax and its types.",
+      "raw_extracted_text": " \n\nTo gain knowledge about tax and its types.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-7",
+      "pdf_page": 327,
+      "source_order": 327007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1481524,
+        0.3706129,
+        0.3723906,
+        0.3889657
+      ],
+      "text": " \n\nTo study how is tax levied.",
+      "raw_extracted_text": " \n\nTo study how is tax levied.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-8",
+      "pdf_page": 327,
+      "source_order": 327008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1481524,
+        0.3924394,
+        0.5413251,
+        0.4107922
+      ],
+      "text": " \n\nTo gain insight into black money and tax evasion.",
+      "raw_extracted_text": " \n\nTo gain insight into black money and tax evasion.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-9",
+      "pdf_page": 327,
+      "source_order": 327009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1481524,
+        0.4142659,
+        0.6204533,
+        0.4326187
+      ],
+      "text": " \n\nTo know the difference between the tax and other payments.",
+      "raw_extracted_text": " \n\nTo know the difference between the tax and other payments.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-10",
+      "pdf_page": 327,
+      "source_order": 327010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1481524,
+        0.4360924,
+        0.5109259,
+        0.4544452
+      ],
+      "text": " \n\nTo understand the taxes and its development.",
+      "raw_extracted_text": " \n\nTo understand the taxes and its development.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-11",
+      "pdf_page": 327,
+      "source_order": 327011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1376411,
+        0.4732684,
+        0.3437025,
+        0.4950927
+      ],
+      "text": "        Introduction",
+      "raw_extracted_text": "        Introduction",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-12",
+      "pdf_page": 327,
+      "source_order": 327012,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.5023372,
+        0.4825414,
+        0.6227253
+      ],
+      "text": "Tax is levied by government for the \ndevelopment of the state’s economy. The revenue \nof the government depends upon direct and \nindirect taxes. Direct taxes are levied on income \nof the persons and the indirect taxes are levied \non goods and services by which the government \nmobilises its “Financial Sources”.",
+      "raw_extracted_text": "Tax is levied by government for the \ndevelopment of the state’s economy. The revenue \nof the government depends upon direct and \nindirect taxes. Direct taxes are levied on income \nof the persons and the indirect taxes are levied \non goods and services by which the government \nmobilises its “Financial Sources”.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-13",
+      "pdf_page": 327,
+      "source_order": 327013,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1376411,
+        0.630861,
+        0.4682243,
+        0.6526852
+      ],
+      "text": " 4.1   Role of Government in ",
+      "raw_extracted_text": " 4.1   \u0007Role of Government in ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-question-candidate-14",
+      "pdf_page": 327,
+      "source_order": 327014,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2021164,
+        0.6518757,
+        0.450556,
+        0.6729205
+      ],
+      "text": "Development Policies",
+      "raw_extracted_text": "Development Policies",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-15",
+      "pdf_page": 327,
+      "source_order": 327015,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.6798606,
+        0.4825689,
+        0.9059738
+      ],
+      "text": "1.\t Defence: This is an essential security \nfunction to protect our nation from our \nenemies. \nThe \nUnion \nGovernment \nis \nresponsible for creating and maintaining \ndefence forces.\n2.\t Foreign policy: In today’s world, we need to \nmaintain friendly relationships with all the \nother countries in the world. We should also \nmaintain cordial economic relationships \nthrough exports and imports, sending \nand receiving investments and labour. \nThis service is also provided by the Union \ngovernment.",
+      "raw_extracted_text": "1.\t Defence: This is an essential security \nfunction to protect our nation from our \nenemies. \nThe \nUnion \nGovernment \nis \nresponsible for creating and maintaining \ndefence forces.\n2.\t Foreign policy: In today’s world, we need to \nmaintain friendly relationships with all the \nother countries in the world. We should also \nmaintain cordial economic relationships \nthrough exports and imports, sending \nand receiving investments and labour. \nThis service is also provided by the Union \ngovernment.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-question-candidate-16",
+      "pdf_page": 327,
+      "source_order": 327016,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   321\n26_Economics_Unit_4_EM.indd   321\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   321\n26_Economics_Unit_4_EM.indd   321\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-footer-17",
+      "pdf_page": 327,
+      "source_order": 327017,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.7273256,
+        0.3393152,
+        0.835471,
+        0.4196568
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p327-image-candidate-18",
+      "pdf_page": 327,
+      "source_order": 327018,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.4895317,
+        0.871898,
+        0.5958061
+      ],
+      "text": "3.\t Conduct of periodic elections: India \nis a democratic country. We elect our \nrepresentatives to the Parliament and state \nassemblies. Similarly the state governments \nconduct elections to local bodies within the \nstate.",
+      "raw_extracted_text": "3.\t Conduct of periodic elections: India \nis a democratic country. We elect our \nrepresentatives to the Parliament and state \nassemblies. Similarly the state governments \nconduct elections to local bodies within the \nstate.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-question-candidate-19",
+      "pdf_page": 327,
+      "source_order": 327019,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.6008931,
+        0.8718959,
+        0.7421453
+      ],
+      "text": "4.\t Law and order: Both the Union and State \nGovernments enact numerous laws to \nprotect our rights, properties and to regulate \nour economy and society. To settle disputes, \nthe Union government has a vibrant \njudicial system. State governments take the \nresponsibility for administering the police \nforce in respective states.",
+      "raw_extracted_text": "4.\t Law and order: Both the Union and State \nGovernments enact numerous laws to \nprotect our rights, properties and to regulate \nour economy and society. To settle disputes, \nthe Union government has a vibrant \njudicial system. State governments take the \nresponsibility for administering the police \nforce in respective states.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-question-candidate-20",
+      "pdf_page": 327,
+      "source_order": 327020,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.7472334,
+        0.8718776,
+        0.9059744
+      ],
+      "text": "5.\t Public administration and provision of \npublic goods: The government generally \nadministers the economy and society \nthrough various departments, for example, \nrevenue department, schools, hospitals, \nrural development and urban development. \nThe local governments provide civic \nfacilities like local roads, drainage, drinking \nwater and waste collection and disposal.",
+      "raw_extracted_text": "5.\t Public administration and provision of \npublic goods: The government generally \nadministers the economy and society \nthrough various departments, for example, \nrevenue department, schools, hospitals, \nrural development and urban development. \nThe local governments provide civic \nfacilities like local roads, drainage, drinking \nwater and waste collection and disposal.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-question-candidate-21",
+      "pdf_page": 327,
+      "source_order": 327021,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.4887071,
+        0.9173418,
+        0.5112929,
+        0.9326358
+      ],
+      "text": "321",
+      "raw_extracted_text": "321",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p327-text-22",
+      "pdf_page": 327,
+      "source_order": 327022,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p327",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p327.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.0942455,
+        0.4825726,
+        0.3236891
+      ],
+      "text": "6.\t Redistribution of income and poverty \nalleviation: Governments collect various \ntaxes to finance the various activities \nmentioned earlier. The taxes are collected \nin a way that the high-income people can \nbring in more tax revenue to the government \nthan the poor. The governments also \nspend money such that the poor are given \nsome basic necessities of life like food, \nshelter, clothing education, healthcare and \nmonthly income to the very poor persons. \nThus collecting taxes and spending for the \npoor to reduce poverty.",
+      "raw_extracted_text": "6.\t Redistribution of income and poverty \nalleviation: Governments collect various \ntaxes to finance the various activities \nmentioned earlier. The taxes are collected \nin a way that the high-income people can \nbring in more tax revenue to the government \nthan the poor. The governments also \nspend money such that the poor are given \nsome basic necessities of life like food, \nshelter, clothing education, healthcare and \nmonthly income to the very poor persons. \nThus collecting taxes and spending for the \npoor to reduce poverty.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-question-candidate-1",
+      "pdf_page": 328,
+      "source_order": 328001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.3256243,
+        0.4825596,
+        0.5375167
+      ],
+      "text": "7.\t Regulate the economy: \nThe \nUnion \nGovernment, through the Reserve Bank of \nIndia, controls money supply and controls \nthe interest rate, inflation and foreign \nexchange rate. The main objective is to \nremove too much of fluctuation in these \nrates. The Union Government also controls \nthe economy through various other \nagencies such as Securities Exchange Board \nof India and Competition Commission \nof India. All the Governments in India \nrun public sector enterprises to provide ",
+      "raw_extracted_text": "7.\t Regulate the economy: \nThe \nUnion \nGovernment, through the Reserve Bank of \nIndia, controls money supply and controls \nthe interest rate, inflation and foreign \nexchange rate. The main objective is to \nremove too much of fluctuation in these \nrates. The Union Government also controls \nthe economy through various other \nagencies such as Securities Exchange Board \nof India and Competition Commission \nof India. All the Governments in India \nrun public sector enterprises to provide ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-question-candidate-2",
+      "pdf_page": 328,
+      "source_order": 328002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1416484,
+        0.5426479,
+        0.8618079,
+        0.8990506
+      ],
+      "text": "Tax system\nEvery type of tax has some advantages and some disadvantages. So we have a tax system, that \nis, a collection of variety of taxes. From Adam Smith, many economists have given lists of canons of \ntaxation. It is important to recall those common among them for discussion here.\n1. Canon of Equity \nSince tax is a compulsory payment, all economists agree that equity is the cardinal principle in \ndesigning the tax system. The rich should pay more tax revenue to government than the poor, because \nrich has more ability than the poor to pay the tax. \n2. Canon of Certainty\nGovernment should announce in advance the tax system so that every tax payer will be able to \ncalculate how much tax amount one may have to pay during a year to the government.\n3. Canons of Economy and Convenience \nIf the tax is simple, then the cost of collecting taxes (tax payer cost + tax collector cost) will be \nvery low. Further, tax should be collected from a person at the time he gets enough money to pay the \ntax. This is called canon of convenience. A convenient tax reduces the cost of collecting tax.\n4. Canons of Productivity and Elasticity\nGovernment should choose the taxes that can get enough tax revenue to it. It should choose a few \ntaxes that can fetch more tax revenue, instead of lots of taxes. This is canon of productivity. Tax is paid \nby the people out of their incomes. Therefore, the tax system should be designed in such a way that \nthe people automatically pay more tax revenue if their incomes grow. This is called canon of elasticity. ",
+      "raw_extracted_text": "Tax system\nEvery type of tax has some advantages and some disadvantages. So we have a tax system, that \nis, a collection of variety of taxes. From Adam Smith, many economists have given lists of canons of \ntaxation. It is important to recall those common among them for discussion here.\n1. Canon of Equity \nSince tax is a compulsory payment, all economists agree that equity is the cardinal principle in \ndesigning the tax system. The rich should pay more tax revenue to government than the poor, because \nrich has more ability than the poor to pay the tax. \n2. Canon of Certainty\nGovernment should announce in advance the tax system so that every tax payer will be able to \ncalculate how much tax amount one may have to pay during a year to the government.\n3. Canons of Economy and Convenience \nIf the tax is simple, then the cost of collecting taxes (tax payer cost + tax collector cost) will be \nvery low. Further, tax should be collected from a person at the time he gets enough money to pay the \ntax. This is called canon of convenience. A convenient tax reduces the cost of collecting tax.\n4. Canons of Productivity and Elasticity\nGovernment should choose the taxes that can get enough tax revenue to it. It should choose a few \ntaxes that can fetch more tax revenue, instead of lots of taxes. This is canon of productivity. Tax is paid \nby the people out of their incomes. Therefore, the tax system should be designed in such a way that \nthe people automatically pay more tax revenue if their incomes grow. This is called canon of elasticity. ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-text-3",
+      "pdf_page": 328,
+      "source_order": 328003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1498556,
+        0.9173418,
+        0.5112929,
+        0.9326358
+      ],
+      "text": "322\nGovernment and Taxes",
+      "raw_extracted_text": "322\nGovernment and Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-text-4",
+      "pdf_page": 328,
+      "source_order": 328004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   322\n26_Economics_Unit_4_EM.indd   322\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   322\n26_Economics_Unit_4_EM.indd   322\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-footer-5",
+      "pdf_page": 328,
+      "source_order": 328005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5490984,
+        0.0947217,
+        0.8718648,
+        0.1300793
+      ],
+      "text": "important goods and services at affordable \nrates to the people.",
+      "raw_extracted_text": "important goods and services at affordable \nrates to the people.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-text-6",
+      "pdf_page": 328,
+      "source_order": 328006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5269703,
+        0.141429,
+        0.6407941,
+        0.1632532
+      ],
+      "text": " 4.2   Tax",
+      "raw_extracted_text": " 4.2   Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-question-candidate-7",
+      "pdf_page": 328,
+      "source_order": 328007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.171636,
+        0.6866656,
+        0.2410064
+      ],
+      "text": "The origin of the \nword \"tax\" is from \n\"taxation,\" \nwhich \nmeans an estimate.",
+      "raw_extracted_text": "The origin of the \nword \"tax\" is from \n\"taxation,\" \nwhich \nmeans an estimate.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-text-8",
+      "pdf_page": 328,
+      "source_order": 328008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.6868205,
+        0.1800193,
+        0.8676985,
+        0.276178
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p328-image-candidate-9",
+      "pdf_page": 328,
+      "source_order": 328009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.2428737,
+        0.8718997,
+        0.3972736
+      ],
+      "text": "Taxation \nis \na \nmeans \nby \nwhich \ngovernments finance \ntheir expenditure by imposing charges on \ncitizens and corporate entities. The main \npurpose of taxation is to accumulate funds for \nthe functioning of the government machinery. \nTax has come into forefront on account of the \nnew concept called “welfare state”. ",
+      "raw_extracted_text": "Taxation \nis \na \nmeans \nby \nwhich \ngovernments finance \ntheir expenditure by imposing charges on \ncitizens and corporate entities. The main \npurpose of taxation is to accumulate funds for \nthe functioning of the government machinery. \nTax has come into forefront on account of the \nnew concept called “welfare state”. ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-text-10",
+      "pdf_page": 328,
+      "source_order": 328010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.3991397,
+        0.8718847,
+        0.5365338
+      ],
+      "text": "Taxes are compulsory payments to \ngovernment without expectation of direct \nreturn (or) benefit to the tax payer. Prof. \nSeligman also defined a tax as “a compulsory \ncontribution from a person to the government \nto defray the expenses incurred in the \ncommon interest of all, without reference to \nspecial benefits conferred”.",
+      "raw_extracted_text": "Taxes are compulsory payments to \ngovernment without expectation of direct \nreturn (or) benefit to the tax payer. Prof. \nSeligman also defined a tax as “a compulsory \ncontribution from a person to the government \nto defray the expenses incurred in the \ncommon interest of all, without reference to \nspecial benefits conferred”.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p328-text-11",
+      "pdf_page": 328,
+      "source_order": 328011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p328",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p328.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.0941038,
+        0.3841938,
+        0.1128103
+      ],
+      "text": "Why taxes are imposed?",
+      "raw_extracted_text": "Why taxes are imposed?",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-1",
+      "pdf_page": 329,
+      "source_order": 329001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.1241476,
+        0.4825686,
+        0.3352339
+      ],
+      "text": "States and their functional equivalents \nthroughout history have used money provided \nby taxation to carry out many functions. Some \nof these include expenditures on economic \ninfrastructure \n(transportation, \nsanitation, \npublic safety, education, healthcare systems, \nto name a few), military, scientific research, \nculture and the arts, public works and public \ninsurance  and the operation of government \nitself. A government's ability to raise taxes is \ncalled its fiscal capacity.",
+      "raw_extracted_text": "States and their functional equivalents \nthroughout history have used money provided \nby taxation to carry out many functions. Some \nof these include expenditures on economic \ninfrastructure \n(transportation, \nsanitation, \npublic safety, education, healthcare systems, \nto name a few), military, scientific research, \nculture and the arts, public works and public \ninsurance  and the operation of government \nitself. A government's ability to raise taxes is \ncalled its fiscal capacity.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-2",
+      "pdf_page": 329,
+      "source_order": 329002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.3457956,
+        0.4825577,
+        0.5183352
+      ],
+      "text": "When expenditures exceed tax revenue, a \ngovernment accumulates debt. A portion of taxes \nmay be used to service past debts. Governments \nalso use taxes to fund welfare and public services. \nThese services can include education systems, \npensions for the elderly, unemployment benefits \nand public transportation. Energy, water and \nwaste management systems are also common \npublic utilities.",
+      "raw_extracted_text": "When expenditures exceed tax revenue, a \ngovernment accumulates debt. A portion of taxes \nmay be used to service past debts. Governments \nalso use taxes to fund welfare and public services. \nThese services can include education systems, \npensions for the elderly, unemployment benefits \nand public transportation. Energy, water and \nwaste management systems are also common \npublic utilities.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-3",
+      "pdf_page": 329,
+      "source_order": 329003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1376411,
+        0.5306316,
+        0.3868981,
+        0.5524558
+      ],
+      "text": " 4.3   Types of Taxes",
+      "raw_extracted_text": " 4.3   Types of Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-question-candidate-4",
+      "pdf_page": 329,
+      "source_order": 329004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.5672702,
+        0.2603985,
+        0.5859767
+      ],
+      "text": "Direct Taxes",
+      "raw_extracted_text": "Direct Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-5",
+      "pdf_page": 329,
+      "source_order": 329005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.5961803,
+        0.4825835,
+        0.7415104
+      ],
+      "text": "A tax imposed on an individual or \norganisation, which is paid directly, is a direct \ntax. The burden of a direct tax cannot be shifted \nto others. J.S. Mill defines a direct tax as “one \nwhich is demanded from the very persons who \nit is intended or desired should pay it.” Some \ndirect taxes are income tax, wealth tax and \ncorporation tax.",
+      "raw_extracted_text": "A tax imposed on an individual or \norganisation, which is paid directly, is a direct \ntax. The burden of a direct tax cannot be shifted \nto others. J.S. Mill defines a direct tax as “one \nwhich is demanded from the very persons who \nit is intended or desired should pay it.” Some \ndirect taxes are income tax, wealth tax and \ncorporation tax.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-6",
+      "pdf_page": 329,
+      "source_order": 329006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2383438,
+        0.7528874,
+        0.4738366,
+        0.8483335
+      ],
+      "text": "In India, Income Tax was \nintroduced for the first time \nin 1860 by Sir James Wilson \nin order to meet the losses \nsustained by the Government",
+      "raw_extracted_text": "\u0007In India, Income Tax was \nintroduced for the first time \nin 1860 by Sir James Wilson \nin order to meet the losses \nsustained by the Government",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-7",
+      "pdf_page": 329,
+      "source_order": 329007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.2090905,
+        0.7906676,
+        0.2128996,
+        0.7953885
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p329-image-candidate-8",
+      "pdf_page": 329,
+      "source_order": 329008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.1638439,
+        0.791595,
+        0.2071539,
+        0.8115849
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p329-image-candidate-9",
+      "pdf_page": 329,
+      "source_order": 329009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.1638363,
+        0.8130043,
+        0.1848794,
+        0.8179451
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p329-image-candidate-10",
+      "pdf_page": 329,
+      "source_order": 329010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1408884,
+        0.8524671,
+        0.3938811,
+        0.8708198
+      ],
+      "text": "on account of the Mutiny of 1857.",
+      "raw_extracted_text": "on account of the Mutiny of 1857.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-11",
+      "pdf_page": 329,
+      "source_order": 329011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   323\n26_Economics_Unit_4_EM.indd   323\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   323\n26_Economics_Unit_4_EM.indd   323\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-footer-12",
+      "pdf_page": 329,
+      "source_order": 329012,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.0942455,
+        0.6107213,
+        0.1130745
+      ],
+      "text": "Income Tax",
+      "raw_extracted_text": "Income Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-13",
+      "pdf_page": 329,
+      "source_order": 329013,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.1153261,
+        0.8718871,
+        0.2032432
+      ],
+      "text": "Income tax is the most common and most \nimportant tax levied on an individual in India. \nIt is charged directly based on the income of a \nperson. The rate at which it is charged varies, \ndepending on the level of income.",
+      "raw_extracted_text": "Income tax is the most common and most \nimportant tax levied on an individual in India. \nIt is charged directly based on the income of a \nperson. The rate at which it is charged varies, \ndepending on the level of income.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-14",
+      "pdf_page": 329,
+      "source_order": 329014,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5310434,
+        0.220156,
+        0.8624501,
+        0.2657182
+      ],
+      "text": "Students are asked to search a Income Tax \nwebsite and know the Income Tax slab for \ncurrent year.",
+      "raw_extracted_text": "Students are asked to search a Income Tax \nwebsite and know the Income Tax slab for \ncurrent year.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-15",
+      "pdf_page": 329,
+      "source_order": 329015,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.277136,
+        0.6322902,
+        0.2959649
+      ],
+      "text": "Corporate Tax",
+      "raw_extracted_text": "Corporate Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-16",
+      "pdf_page": 329,
+      "source_order": 329016,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.2982165,
+        0.8718722,
+        0.3861336
+      ],
+      "text": "This tax is levied on companies that exist \nas separate entities from their shareholders. It \nis charged on royalties, interest gains from sale \nof capital assets located in India and fees for a \ntechnical services and dividends.",
+      "raw_extracted_text": "This tax is levied on companies that exist \nas separate entities from their shareholders. It \nis charged on royalties, interest gains from sale \nof capital assets located in India and fees for a \ntechnical services and dividends.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-17",
+      "pdf_page": 329,
+      "source_order": 329017,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.3883863,
+        0.8718549,
+        0.4241293
+      ],
+      "text": "Foreign companies are taxed on income \nthat arises in India.",
+      "raw_extracted_text": "Foreign companies are taxed on income \nthat arises in India.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-18",
+      "pdf_page": 329,
+      "source_order": 329018,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5593307,
+        0.434571,
+        0.7444542,
+        0.4704058
+      ],
+      "text": "Income\nFor Indian \nCompanies",
+      "raw_extracted_text": "Income\nFor Indian \nCompanies",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-19",
+      "pdf_page": 329,
+      "source_order": 329019,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.7654149,
+        0.434571,
+        0.8556973,
+        0.4533999
+      ],
+      "text": "For Foreign ",
+      "raw_extracted_text": "For Foreign ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-20",
+      "pdf_page": 329,
+      "source_order": 329020,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.7665411,
+        0.4515769,
+        0.8545712,
+        0.4704058
+      ],
+      "text": "Companies ",
+      "raw_extracted_text": "Companies ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-21",
+      "pdf_page": 329,
+      "source_order": 329021,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5281149,
+        0.4741618,
+        0.8246479,
+        0.5095205
+      ],
+      "text": "Less than ` 50 \ncrore\n25%\n40%",
+      "raw_extracted_text": "Less than ` 50 \ncrore\n25%\n40%",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-22",
+      "pdf_page": 329,
+      "source_order": 329022,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5281149,
+        0.5105737,
+        0.8246479,
+        0.5459324
+      ],
+      "text": "More than ` 50 \ncrore\n30%\n40%",
+      "raw_extracted_text": "More than ` 50 \ncrore\n30%\n40%",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-23",
+      "pdf_page": 329,
+      "source_order": 329023,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.5576336,
+        0.6040371,
+        0.5764625
+      ],
+      "text": "Wealth Tax",
+      "raw_extracted_text": "Wealth Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-24",
+      "pdf_page": 329,
+      "source_order": 329024,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.578714,
+        0.8719144,
+        0.6666311
+      ],
+      "text": "Wealth tax is charged on the benefits \nderived from property ownership. The same \nproperty will be taxed every year on its \ncurrent market value. The tax is levied on the \nindividuals and companies alike.",
+      "raw_extracted_text": "Wealth tax is charged on the benefits \nderived from property ownership. The same \nproperty will be taxed every year on its \ncurrent market value. The tax is levied on the \nindividuals and companies alike.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-25",
+      "pdf_page": 329,
+      "source_order": 329025,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5308206,
+        0.6783936,
+        0.8637693,
+        0.8237237
+      ],
+      "text": "In India taxes are collected by all the \nthree tiers of government. There are taxes \nthat can be easily collected by the Union \nGovernment. In India almost all the direct \ntaxes are collected by the Union Government. \nTaxes on goods and services are collected \nby both Union and State governments. The \ntaxes on properties are collected by local \ngovernments. ",
+      "raw_extracted_text": "In India taxes are collected by all the \nthree tiers of government. There are taxes \nthat can be easily collected by the Union \nGovernment. In India almost all the direct \ntaxes are collected by the Union Government. \nTaxes on goods and services are collected \nby both Union and State governments. The \ntaxes on properties are collected by local \ngovernments. ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-26",
+      "pdf_page": 329,
+      "source_order": 329026,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5308206,
+        0.8276702,
+        0.8637662,
+        0.8936398
+      ],
+      "text": "In India, we collect more revenue \nthrough indirect taxes than through direct \ntaxes. The major indirect taxes in India are \ncustoms duty and GST. ",
+      "raw_extracted_text": "In India, we collect more revenue \nthrough indirect taxes than through direct \ntaxes. The major indirect taxes in India are \ncustoms duty and GST. ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-27",
+      "pdf_page": 329,
+      "source_order": 329027,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.4887071,
+        0.9173418,
+        0.8547212,
+        0.9326358
+      ],
+      "text": "323\nGovernment and Taxes",
+      "raw_extracted_text": "323\nGovernment and Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p329-text-28",
+      "pdf_page": 329,
+      "source_order": 329028,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p329",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p329.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.0941038,
+        0.2810372,
+        0.1128103
+      ],
+      "text": "Indirect Taxes",
+      "raw_extracted_text": "Indirect Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-1",
+      "pdf_page": 330,
+      "source_order": 330001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.1125008,
+        0.4825852,
+        0.1999247
+      ],
+      "text": "If the burden of the tax can be shifted to \nothers, it is an indirect tax. The impact is on one \nperson while the incidence is on the another \nperson. Therefore, in the case of indirect taxes, \nthe tax payer is not the tax bearer.",
+      "raw_extracted_text": "If the burden of the tax can be shifted to \nothers, it is an indirect tax. The impact is on one \nperson while the incidence is on the another \nperson. Therefore, in the case of indirect taxes, \nthe tax payer is not the tax bearer.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-2",
+      "pdf_page": 330,
+      "source_order": 330002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.2020527,
+        0.4825669,
+        0.2549411
+      ],
+      "text": "Some indirect taxes are stamp duty, \nentertainment tax, excise duty and goods and \nservice tax (GST).",
+      "raw_extracted_text": "Some indirect taxes are stamp duty, \nentertainment tax, excise duty and goods and \nservice tax (GST).",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-3",
+      "pdf_page": 330,
+      "source_order": 330003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.259807,
+        0.2247232,
+        0.278636
+      ],
+      "text": "Stamp Duty ",
+      "raw_extracted_text": "Stamp Duty ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-4",
+      "pdf_page": 330,
+      "source_order": 330004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.2775509,
+        0.4825807,
+        0.347706
+      ],
+      "text": "Stamp duty is a tax that is paid on official \ndocuments like marriage registration or \ndocuments related to a property and in some \ncontractual agreements.",
+      "raw_extracted_text": "Stamp duty is a tax that is paid on official \ndocuments like marriage registration or \ndocuments related to a property and in some \ncontractual agreements.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-5",
+      "pdf_page": 330,
+      "source_order": 330005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.3525719,
+        0.270489,
+        0.3714009
+      ],
+      "text": "Entertainment Tax",
+      "raw_extracted_text": "Entertainment Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-6",
+      "pdf_page": 330,
+      "source_order": 330006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.3703158,
+        0.4825706,
+        0.4577387
+      ],
+      "text": "Entertainment tax is a duty that is \ncharged by the government on any source \nof entertainment provided. This tax can be \ncharged on movie tickets, tickets to amusement \nparks, exhibitions and even sports events. ",
+      "raw_extracted_text": "Entertainment tax is a duty that is \ncharged by the government on any source \nof entertainment provided. This tax can be \ncharged on movie tickets, tickets to amusement \nparks, exhibitions and even sports events. ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-7",
+      "pdf_page": 330,
+      "source_order": 330007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.4626046,
+        0.2192678,
+        0.4814335
+      ],
+      "text": "Excise Duty",
+      "raw_extracted_text": "Excise Duty",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-8",
+      "pdf_page": 330,
+      "source_order": 330008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.4803485,
+        0.4825594,
+        0.5677713
+      ],
+      "text": "An excise tax is any duty on manufactured \ngoods levied at the movement of manufacture, \nrather than at sale. Excise is typically imposed \nin addition to an indirect tax such as a sales \ntax.",
+      "raw_extracted_text": "An excise tax is any duty on manufactured \ngoods levied at the movement of manufacture, \nrather than at sale. Excise is typically imposed \nin addition to an indirect tax such as a sales \ntax.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-9",
+      "pdf_page": 330,
+      "source_order": 330009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.5785995,
+        0.4316608,
+        0.597306
+      ],
+      "text": "Goods and Service Tax (GST)",
+      "raw_extracted_text": "Goods and Service Tax (GST)",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-10",
+      "pdf_page": 330,
+      "source_order": 330010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.6002107,
+        0.4825505,
+        0.6876334
+      ],
+      "text": "The goods and service tax (GST) is one \nof the indirect taxes. The GST was passed in \nParliament on 29 March 2017. The act came \ninto effect on 1 July 2017. The motto is one \nnation, one market, one tax.",
+      "raw_extracted_text": "The goods and service tax (GST) is one \nof the indirect taxes. The GST was passed in \nParliament on 29 March 2017. The act came \ninto effect on 1 July 2017. The motto is one \nnation, one market, one tax.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-11",
+      "pdf_page": 330,
+      "source_order": 330011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1407653,
+        0.722627,
+        0.861458,
+        0.8611503
+      ],
+      "text": "Structure of Goods and Service Tax (GST)\nState Goods and Service Tax (SGST): Intra state (within the state) \nVAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and \ncesses\nCentral Goods and Service Tax (CGST): Intra state (within the state) \nCentral Excise Duty , service tax, countervailing duty, additional duty of customs, surcharge, \neducation and secondary/higher secondary cess\nIntegrated Goods and Service Tax (IGST): Inter state (integrated GST)",
+      "raw_extracted_text": "Structure of Goods and Service Tax (GST)\nState Goods and Service Tax (SGST): Intra state (within the state) \nVAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and \ncesses\nCentral Goods and Service Tax (CGST): Intra state (within the state) \nCentral Excise Duty , service tax, countervailing duty, additional duty of customs, surcharge, \neducation and secondary/higher secondary cess\nIntegrated Goods and Service Tax (IGST): Inter state (integrated GST)",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-12",
+      "pdf_page": 330,
+      "source_order": 330012,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1407653,
+        0.8598034,
+        0.8615684,
+        0.8951616
+      ],
+      "text": "There are four major GST rates: (5%, 12%, 18% and 28%) Almost all the necessities of life \nlike vegetables and food grains are exempted from this tax.",
+      "raw_extracted_text": "There are four major GST rates: (5%, 12%, 18% and 28%) Almost all the necessities of life \nlike vegetables and food grains are exempted from this tax.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-13",
+      "pdf_page": 330,
+      "source_order": 330013,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1498556,
+        0.9173418,
+        0.5112929,
+        0.9326358
+      ],
+      "text": "324\nGovernment and Taxes",
+      "raw_extracted_text": "324\nGovernment and Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-14",
+      "pdf_page": 330,
+      "source_order": 330014,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   324\n26_Economics_Unit_4_EM.indd   324\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   324\n26_Economics_Unit_4_EM.indd   324\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-footer-15",
+      "pdf_page": 330,
+      "source_order": 330015,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.6130455,
+        0.1164133,
+        0.8635328,
+        0.151772
+      ],
+      "text": "France was the first country to \nimplement GST in 1954.",
+      "raw_extracted_text": "France was the first country to \nimplement GST in 1954.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-16",
+      "pdf_page": 330,
+      "source_order": 330016,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.5813718,
+        0.13023,
+        0.5842286,
+        0.1337707
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p330-image-candidate-17",
+      "pdf_page": 330,
+      "source_order": 330017,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.5474365,
+        0.1309261,
+        0.5799205,
+        0.1459174
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p330-image-candidate-18",
+      "pdf_page": 330,
+      "source_order": 330018,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.5474319,
+        0.1469831,
+        0.5632146,
+        0.1506892
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p330-image-candidate-19",
+      "pdf_page": 330,
+      "source_order": 330019,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5270909,
+        0.1732685,
+        0.8665401,
+        0.1950928
+      ],
+      "text": " 4.4   How Are Taxes Levied?",
+      "raw_extracted_text": " 4.4   How Are Taxes Levied?",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-question-candidate-20",
+      "pdf_page": 330,
+      "source_order": 330020,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5217496,
+        0.2002932,
+        0.8718271,
+        0.2559342
+      ],
+      "text": "Tax is levied by the government progressively, \nproportionately as well as regressively.\nProgressive Tax",
+      "raw_extracted_text": "Tax is levied by the government progressively, \nproportionately as well as regressively.\nProgressive Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-21",
+      "pdf_page": 330,
+      "source_order": 330021,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5217496,
+        0.2546191,
+        0.8718902,
+        0.3411213
+      ],
+      "text": "Progressive tax rate is one in which the \nrate of taxation increases (multiplier) as the tax \nbase increases (multiplicand). In the case of a \nprogressive tax, when income increases, the tax \nrate also increases.",
+      "raw_extracted_text": "Progressive tax rate is one in which the \nrate of taxation increases (multiplier) as the tax \nbase increases (multiplicand). In the case of a \nprogressive tax, when income increases, the tax \nrate also increases.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-22",
+      "pdf_page": 330,
+      "source_order": 330022,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5217496,
+        0.3457571,
+        0.595567,
+        0.3645861
+      ],
+      "text": "Example:",
+      "raw_extracted_text": "Example:",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-23",
+      "pdf_page": 330,
+      "source_order": 330023,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5403662,
+        0.3671335,
+        0.8454619,
+        0.3941253
+      ],
+      "text": "Tax Base\nTax Rate\nAmount of ",
+      "raw_extracted_text": "Tax Base\nTax Rate\nAmount of ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-24",
+      "pdf_page": 330,
+      "source_order": 330024,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5456327,
+        0.3834592,
+        0.8218155,
+        0.4602215
+      ],
+      "text": "Tax\n`10,000\n10%\n`1000\n`20,000\n15%\n`3000\n`30,000\n25%\n`7500",
+      "raw_extracted_text": "Tax\n`10,000\n10%\n`1000\n`20,000\n15%\n`3000\n`30,000\n25%\n`7500",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-25",
+      "pdf_page": 330,
+      "source_order": 330025,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5217496,
+        0.4722889,
+        0.6699009,
+        0.4911178
+      ],
+      "text": "Proportionate Taxes",
+      "raw_extracted_text": "Proportionate Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-26",
+      "pdf_page": 330,
+      "source_order": 330026,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5217496,
+        0.4930168,
+        0.8718663,
+        0.582732
+      ],
+      "text": "Tax levied on goods and service in a fixed \nportion is known as proportionate taxes. All \ntax payers contribute the same proportion of \ntheir incomes.\nExample:",
+      "raw_extracted_text": "Tax levied on goods and service in a fixed \nportion is known as proportionate taxes. All \ntax payers contribute the same proportion of \ntheir incomes.\nExample:",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-27",
+      "pdf_page": 330,
+      "source_order": 330027,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5458448,
+        0.5880549,
+        0.8556384,
+        0.6068837
+      ],
+      "text": "Tax Base\nTax Rate\nAmount of Tax",
+      "raw_extracted_text": "Tax Base\nTax Rate\nAmount of Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-28",
+      "pdf_page": 330,
+      "source_order": 330028,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5511113,
+        0.6123245,
+        0.8200133,
+        0.6311013
+      ],
+      "text": "`10,000\n10%\n`1000",
+      "raw_extracted_text": "`10,000\n10%\n`1000",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-29",
+      "pdf_page": 330,
+      "source_order": 330029,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5511113,
+        0.6363754,
+        0.8200133,
+        0.6551533
+      ],
+      "text": "`20,000\n10%\n`2000",
+      "raw_extracted_text": "`20,000\n10%\n`2000",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-30",
+      "pdf_page": 330,
+      "source_order": 330030,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5511113,
+        0.6604274,
+        0.8200133,
+        0.6792042
+      ],
+      "text": "`30,000\n10%\n`3000",
+      "raw_extracted_text": "`30,000\n10%\n`3000",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p330-text-31",
+      "pdf_page": 330,
+      "source_order": 330031,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p330",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p330.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.0942455,
+        0.2588401,
+        0.1130745
+      ],
+      "text": "Regressive Taxes",
+      "raw_extracted_text": "Regressive Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-1",
+      "pdf_page": 331,
+      "source_order": 331001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.1117276,
+        0.4825283,
+        0.1810981
+      ],
+      "text": "It implies that higher the rate of tax \nlower the income groups than in the case of \nhigher income groups. It is a very opposite of \nprogressive taxation.",
+      "raw_extracted_text": "It implies that higher the rate of tax \nlower the income groups than in the case of \nhigher income groups. It is a very opposite of \nprogressive taxation.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-2",
+      "pdf_page": 331,
+      "source_order": 331002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.15428,
+        0.1969725,
+        0.2341227,
+        0.2126633
+      ],
+      "text": "Progressive  ",
+      "raw_extracted_text": "Progressive  ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-3",
+      "pdf_page": 331,
+      "source_order": 331003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2658819,
+        0.1969725,
+        0.3557371,
+        0.2126633
+      ],
+      "text": "Proportional  ",
+      "raw_extracted_text": "Proportional  ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-4",
+      "pdf_page": 331,
+      "source_order": 331004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.388653,
+        0.1969725,
+        0.4621183,
+        0.2126633
+      ],
+      "text": "Regressive  ",
+      "raw_extracted_text": "Regressive  ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-5",
+      "pdf_page": 331,
+      "source_order": 331005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1794526,
+        0.2117109,
+        0.2023285,
+        0.2274017
+      ],
+      "text": "Tax",
+      "raw_extracted_text": "Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-6",
+      "pdf_page": 331,
+      "source_order": 331006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.29606,
+        0.2117109,
+        0.3189358,
+        0.2274017
+      ],
+      "text": "Tax",
+      "raw_extracted_text": "Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-7",
+      "pdf_page": 331,
+      "source_order": 331007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.4106361,
+        0.2117109,
+        0.433512,
+        0.2274017
+      ],
+      "text": "Tax",
+      "raw_extracted_text": "Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-8",
+      "pdf_page": 331,
+      "source_order": 331008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1383786,
+        0.2332053,
+        0.4730282,
+        0.2484993
+      ],
+      "text": "Income increases Income Increases Income Changes",
+      "raw_extracted_text": "Income increases Income Increases Income Changes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-9",
+      "pdf_page": 331,
+      "source_order": 331009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1627879,
+        0.2543016,
+        0.2189932,
+        0.284334
+      ],
+      "text": "Tax \nIncreases",
+      "raw_extracted_text": "Tax \nIncreases",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-10",
+      "pdf_page": 331,
+      "source_order": 331010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2770832,
+        0.2543016,
+        0.3379111,
+        0.284334
+      ],
+      "text": "Tax  \nDecreases",
+      "raw_extracted_text": "Tax  \nDecreases",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-11",
+      "pdf_page": 331,
+      "source_order": 331011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.3893779,
+        0.2543016,
+        0.4547702,
+        0.284334
+      ],
+      "text": "Same  \nTax always",
+      "raw_extracted_text": "Same  \nTax always",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-12",
+      "pdf_page": 331,
+      "source_order": 331012,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1550888,
+        0.2901365,
+        0.2266907,
+        0.3201689
+      ],
+      "text": "E.g. \nIncome Tax",
+      "raw_extracted_text": "E.g. \nIncome Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-13",
+      "pdf_page": 331,
+      "source_order": 331013,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2634874,
+        0.2901365,
+        0.35151,
+        0.3201689
+      ],
+      "text": "E.g.  \nCorporate Tax",
+      "raw_extracted_text": "E.g.  \nCorporate Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-14",
+      "pdf_page": 331,
+      "source_order": 331014,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.3944063,
+        0.2901365,
+        0.4497403,
+        0.3201689
+      ],
+      "text": "E.g.  \nSales Tax",
+      "raw_extracted_text": "E.g.  \nSales Tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-15",
+      "pdf_page": 331,
+      "source_order": 331015,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1376411,
+        0.3454737,
+        0.3523938,
+        0.3672979
+      ],
+      "text": " 4.5   Black Money",
+      "raw_extracted_text": " 4.5   \u0007Black Money",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-16",
+      "pdf_page": 331,
+      "source_order": 331016,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.3811656,
+        0.2611311,
+        0.3998721
+      ],
+      "text": "Black Money",
+      "raw_extracted_text": "Black Money",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-17",
+      "pdf_page": 331,
+      "source_order": 331017,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.4066699,
+        0.4825485,
+        0.4930463
+      ],
+      "text": "Black money is funds earned on the black \nmarket on which income and other taxes have \nnot been paid. The unaccounted money that \nis concealed from the tax administrator is \ncalled black money.",
+      "raw_extracted_text": "Black money is funds earned on the black \nmarket on which income and other taxes have \nnot been paid. The unaccounted money that \nis concealed from the tax administrator is \ncalled black money.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-18",
+      "pdf_page": 331,
+      "source_order": 331018,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.5036126,
+        0.3663753,
+        0.5223191
+      ],
+      "text": "Causes of Black Money",
+      "raw_extracted_text": "Causes of Black Money",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-19",
+      "pdf_page": 331,
+      "source_order": 331019,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.5249618,
+        0.4824891,
+        0.6784242
+      ],
+      "text": "Several sources of black money are \nidentified as causes.\n1.  Shortage of goods \n2.  Licensing proceeding\n3.  Contribution of the \nindustrial sector\n4.  Smuggling\n5.  Tax structure",
+      "raw_extracted_text": "Several sources of black money are \nidentified as causes.\n1.  \u0007Shortage of goods \n2.  \u0007Licensing proceeding\n3.  \u0007Contribution of the \nindustrial sector\n4.  \u0007Smuggling\n5.  \u0007Tax structure",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-20",
+      "pdf_page": 331,
+      "source_order": 331020,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.3627601,
+        0.5609202,
+        0.4709071,
+        0.6412629
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p331-image-candidate-21",
+      "pdf_page": 331,
+      "source_order": 331021,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1376411,
+        0.6863728,
+        0.345166,
+        0.708197
+      ],
+      "text": " 4.6   Tax Evasion",
+      "raw_extracted_text": " 4.6   \u0007Tax Evasion",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-22",
+      "pdf_page": 331,
+      "source_order": 331022,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.7133656,
+        0.4823465,
+        0.7657301
+      ],
+      "text": "Tax evasion is the illegal evasion of taxes by \nindividuals, corporations and trusts. Tax evasion \nactivities included",
+      "raw_extracted_text": "Tax evasion is the illegal evasion of taxes by \nindividuals, corporations and trusts. Tax evasion \nactivities included",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-23",
+      "pdf_page": 331,
+      "source_order": 331023,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.7675974,
+        0.4255224,
+        0.8466091
+      ],
+      "text": " \n\nUnderreporting income\n \n\nInflating deductions or expenses\n \n\nHiding money\n \n\nHiding interest in offshore accounts",
+      "raw_extracted_text": " \n\nUnderreporting income\n \n\nInflating deductions or expenses\n \n\nHiding money\n \n\nHiding interest in offshore accounts",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-24",
+      "pdf_page": 331,
+      "source_order": 331024,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1322998,
+        0.8505601,
+        0.4825669,
+        0.9072673
+      ],
+      "text": "Tax evasion penalties\n1\t If a person willfully commits the act of tax \nevasion, he may face felony charges. Tax ",
+      "raw_extracted_text": "Tax evasion penalties\n1\t If a person willfully commits the act of tax \nevasion, he may face felony charges. Tax ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-25",
+      "pdf_page": 331,
+      "source_order": 331025,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   325\n26_Economics_Unit_4_EM.indd   325\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   325\n26_Economics_Unit_4_EM.indd   325\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-footer-26",
+      "pdf_page": 331,
+      "source_order": 331026,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.0947217,
+        0.8718795,
+        0.2051852
+      ],
+      "text": "evasion penalties include imprisonment of \nup to five years and high amount as fines.\n2\t The defendant may also be ordered to pay \nfor the costs of prosecution.\n3\t Tax evasion penalties can be harsh, \ndepending on the severity of the crime.",
+      "raw_extracted_text": "evasion penalties include imprisonment of \nup to five years and high amount as fines.\n2\t The defendant may also be ordered to pay \nfor the costs of prosecution.\n3\t Tax evasion penalties can be harsh, \ndepending on the severity of the crime.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-27",
+      "pdf_page": 331,
+      "source_order": 331027,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5269703,
+        0.2174238,
+        0.8642736,
+        0.239248
+      ],
+      "text": " 4.7   Taxes and Development",
+      "raw_extracted_text": " 4.7   Taxes and Development",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-28",
+      "pdf_page": 331,
+      "source_order": 331028,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5216291,
+        0.2509753,
+        0.8718182,
+        0.2864655
+      ],
+      "text": "The role of taxation in developing \neconomies is as follows.",
+      "raw_extracted_text": "The role of taxation in developing \neconomies is as follows.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-29",
+      "pdf_page": 331,
+      "source_order": 331029,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.291201,
+        0.8718979,
+        0.4128499
+      ],
+      "text": "1.  Resource Mobilisation: Taxation enables \nthe government to mobilise a substantial \namount of revenue. The tax revenue is \ngenerated by imposing direct taxes such as \npersonal income tax and corporate tax and \nindirect taxes such as customs duty, excise \nduty, etc.",
+      "raw_extracted_text": "1.  \u0007Resource Mobilisation: Taxation enables \nthe government to mobilise a substantial \namount of revenue. The tax revenue is \ngenerated by imposing direct taxes such as \npersonal income tax and corporate tax and \nindirect taxes such as customs duty, excise \nduty, etc.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-30",
+      "pdf_page": 331,
+      "source_order": 331030,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.4207996,
+        0.871876,
+        0.5253122
+      ],
+      "text": "2.  Reduction \nInequalities \nof \nIncome: \nTaxation follows the principle of equity. \nThe direct taxes are progressive in nature. \nAlso certain indirect taxes, such as taxes \non luxury goods, is also progressive in \nnature.",
+      "raw_extracted_text": "2.  \u0007Reduction \nInequalities \nof \nIncome: \nTaxation follows the principle of equity. \nThe direct taxes are progressive in nature. \nAlso certain indirect taxes, such as taxes \non luxury goods, is also progressive in \nnature.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-31",
+      "pdf_page": 331,
+      "source_order": 331031,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.5332607,
+        0.8715737,
+        0.6034996
+      ],
+      "text": "3.  Social Welfare: Taxation generates social \nwelfare. Social welfare is generated due to \nhigher taxes on certain undesirable products \nlike alcoholic products.",
+      "raw_extracted_text": "3.  \u0007Social Welfare: Taxation generates social \nwelfare. Social welfare is generated due to \nhigher taxes on certain undesirable products \nlike alcoholic products.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-32",
+      "pdf_page": 331,
+      "source_order": 331032,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.6114492,
+        0.8718741,
+        0.6988256
+      ],
+      "text": "4.  Foreign Exchange: Taxation encourages \nexports and restricts imports, Generally \ndeveloping \ncountries \nand \neven \nthe \ndeveloped countries do not impose taxes \non export items.",
+      "raw_extracted_text": "4.  \u0007Foreign Exchange: Taxation encourages \nexports and restricts imports, Generally \ndeveloping \ncountries \nand \neven \nthe \ndeveloped countries do not impose taxes \non export items.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-33",
+      "pdf_page": 331,
+      "source_order": 331033,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.7067741,
+        0.8718759,
+        0.8112867
+      ],
+      "text": "5.  Regional Development: Taxation plays an \nimportant role in regional development, \nTax incentives such as tax holidays for \nsetting up industries in backward regions, \nwhich induces business firms to set up \nindustries in such regions.",
+      "raw_extracted_text": "5.  \u0007Regional Development: Taxation plays an \nimportant role in regional development, \nTax incentives such as tax holidays for \nsetting up industries in backward regions, \nwhich induces business firms to set up \nindustries in such regions.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-34",
+      "pdf_page": 331,
+      "source_order": 331034,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.8192364,
+        0.8718923,
+        0.9066118
+      ],
+      "text": "6.  Control of Inflation: Taxation can be used \nas an instrument for controlling inflation. \nThrough taxation the government can \ncontrol inflation by reducing the tax on \nthe commodities.",
+      "raw_extracted_text": "6.  \u0007Control of Inflation: Taxation can be used \nas an instrument for controlling inflation. \nThrough taxation the government can \ncontrol inflation by reducing the tax on \nthe commodities.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-question-candidate-35",
+      "pdf_page": 331,
+      "source_order": 331035,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.4887071,
+        0.9173418,
+        0.8547212,
+        0.9326358
+      ],
+      "text": "325\nGovernment and Taxes",
+      "raw_extracted_text": "325\nGovernment and Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p331-text-36",
+      "pdf_page": 331,
+      "source_order": 331036,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p331",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p331.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.2640948,
+        0.0941038,
+        0.7358717,
+        0.1128103
+      ],
+      "text": "Difference between Tax and other Payments",
+      "raw_extracted_text": "Difference between Tax and other Payments",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-1",
+      "pdf_page": 332,
+      "source_order": 332001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1391702,
+        0.1195968,
+        0.7301152,
+        0.1728819
+      ],
+      "text": "Tax\nPayments\nTax is compulsory to the government without getting \nany direct benefits",
+      "raw_extracted_text": "Tax\nPayments\nTax is compulsory to the government without getting \nany direct benefits",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-2",
+      "pdf_page": 332,
+      "source_order": 332002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1391702,
+        0.1747662,
+        0.4973288,
+        0.2085955
+      ],
+      "text": "If the element of revenue for general purpose of the \nstate predominates, the levy becomes a tax",
+      "raw_extracted_text": "If the element of revenue for general purpose of the \nstate predominates, the levy becomes a tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-3",
+      "pdf_page": 332,
+      "source_order": 332003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1391702,
+        0.2279539,
+        0.6897137,
+        0.2447772
+      ],
+      "text": "Tax is a compulsory payment\nFee is a voluntary payment.",
+      "raw_extracted_text": "Tax is a compulsory payment\nFee is a voluntary payment.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-4",
+      "pdf_page": 332,
+      "source_order": 332004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1391702,
+        0.2472363,
+        0.49725,
+        0.2810644
+      ],
+      "text": "If tax is imposed on a person, he has to pay it; \notherwise he has to be penalised",
+      "raw_extracted_text": "If tax is imposed on a person, he has to pay it; \notherwise he has to be penalised",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-5",
+      "pdf_page": 332,
+      "source_order": 332005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1391702,
+        0.2829486,
+        0.4972969,
+        0.3337838
+      ],
+      "text": "In this case, tax payer does not expect any direct \nbenefit.\nExample: Income tax, gift box, wealth tax, VAT etc.",
+      "raw_extracted_text": "In this case, tax payer does not expect any direct \nbenefit.\nExample: Income tax, gift box, wealth tax, VAT etc.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-6",
+      "pdf_page": 332,
+      "source_order": 332006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1412734,
+        0.3494337,
+        0.2574431,
+        0.3681402
+      ],
+      "text": "SUMMARY",
+      "raw_extracted_text": "SUMMARY",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-7",
+      "pdf_page": 332,
+      "source_order": 332007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1409516,
+        0.3777724,
+        0.8633123,
+        0.4501688
+      ],
+      "text": " \n\nDirect Tax is a tax paid directly to the Union Government or to state or local governments, such \nas income tax and property tax.\n \n\nIncome Tax is a tax paid by individuals and businesses based on earned and unearned income.\n \n\nLocal Tax is a tax charged by a local government, such as a city or country.",
+      "raw_extracted_text": " \n\nDirect Tax is a tax paid directly to the Union Government or to state or local governments, such \nas income tax and property tax.\n \n\nIncome Tax is a tax paid by individuals and businesses based on earned and unearned income.\n \n\nLocal Tax is a tax charged by a local government, such as a city or country.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-8",
+      "pdf_page": 332,
+      "source_order": 332008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1626597,
+        0.4682914,
+        0.2965688,
+        0.4885567
+      ],
+      "text": "GLOSSARY",
+      "raw_extracted_text": "GLOSSARY",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-9",
+      "pdf_page": 332,
+      "source_order": 332009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.4965722,
+        0.7727797,
+        0.5169997
+      ],
+      "text": "Levied\nTo impose taxes\nவரி விதிப்பு",
+      "raw_extracted_text": "Levied\nTo impose taxes\nவரி விதிப்பு",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-10",
+      "pdf_page": 332,
+      "source_order": 332010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.5174611,
+        0.7896841,
+        0.5378886
+      ],
+      "text": "Fluctuation\nTo change\nஏற்்ற இறறக்்கம்",
+      "raw_extracted_text": "Fluctuation\nTo change\nஏற்்ற இறறக்்கம்",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-11",
+      "pdf_page": 332,
+      "source_order": 332011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.53835,
+        0.8056482,
+        0.5587775
+      ],
+      "text": "Defray\nMeet the expenses\nெசலவை ஈடுககட்்ட",
+      "raw_extracted_text": "Defray\nMeet the expenses\nெசலவை ஈடுககட்்ட",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-12",
+      "pdf_page": 332,
+      "source_order": 332012,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.5592389,
+        0.8538264,
+        0.5796664
+      ],
+      "text": "Proponents\nPerson who advocates theory\nெககாள்்\nககை ெமாழிேவார்",
+      "raw_extracted_text": "Proponents\nPerson who advocates theory\nெககாள்்\nககை ெமாழிேவார்",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-13",
+      "pdf_page": 332,
+      "source_order": 332013,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.5801289,
+        0.7859742,
+        0.6005564
+      ],
+      "text": "Progressive Tax\nHappening or developing gradually or in stages\nவளர்வீத வரி",
+      "raw_extracted_text": "Progressive Tax\nHappening or developing gradually or in stages\nவளர்வீத வரி",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-14",
+      "pdf_page": 332,
+      "source_order": 332014,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.6011596,
+        0.8048257,
+        0.6365183
+      ],
+      "text": "Regressive Tax\nTaking a proportionally greater amount from those \non lower incomes.\nகுறைவுவீத வரி",
+      "raw_extracted_text": "Regressive Tax\nTaking a proportionally greater amount from those \non lower incomes.\nகுறைவுவீத வரி",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-15",
+      "pdf_page": 332,
+      "source_order": 332015,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.6360795,
+        0.6616577,
+        0.6623241
+      ],
+      "text": "Proportionate Tax (of a variable quantity) having a constant ratio to ",
+      "raw_extracted_text": "Proportionate Tax (of a variable quantity) having a constant ratio to ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-16",
+      "pdf_page": 332,
+      "source_order": 332016,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.3016134,
+        0.6429533,
+        0.7814082,
+        0.6714381
+      ],
+      "text": "another quantity.\nஒரேவீத வரி",
+      "raw_extracted_text": "another quantity.\nஒரேவீத வரி",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-17",
+      "pdf_page": 332,
+      "source_order": 332017,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1502492,
+        0.6708588,
+        0.7353619,
+        0.6912863
+      ],
+      "text": "Evasion\nThe action of evading something\nஏய்ப்பு",
+      "raw_extracted_text": "Evasion\nThe action of evading something\nஏய்ப்பு",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-18",
+      "pdf_page": 332,
+      "source_order": 332018,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "image-candidate",
+      "bbox": [
+        0.3669309,
+        0.711623,
+        0.4750778,
+        0.7919658
+      ],
+      "text": null,
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Embedded image may omit its labels/caption and vector geometry; full original page retained."
+      ],
+      "id": "p332-image-candidate-19",
+      "pdf_page": 332,
+      "source_order": 332019,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1816395,
+        0.7215545,
+        0.3224902,
+        0.7418199
+      ],
+      "text": " EXERCISE ",
+      "raw_extracted_text": " EXERCISE ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-20",
+      "pdf_page": 332,
+      "source_order": 332020,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.7530562,
+        0.3089424,
+        0.7922922
+      ],
+      "text": "I\t\nChoose the correct \nanswer",
+      "raw_extracted_text": "I\t\n\u0007Choose the correct \nanswer",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-question-candidate-21",
+      "pdf_page": 332,
+      "source_order": 332021,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.7973725,
+        0.4581516,
+        0.9007549
+      ],
+      "text": "1.\t The \nthree \nlevels \nof \ngovernments in India are \na)\t Union, state and local \nb)\t Union, state and village\nc)\t Union, municipality and panchayat \nd)\t None of the above",
+      "raw_extracted_text": "1.\t The \nthree \nlevels \nof \ngovernments in India are \na)\t Union, state and local \nb)\t Union, state and village\nc)\t Union, municipality and panchayat \nd)\t None of the above",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-question-candidate-22",
+      "pdf_page": 332,
+      "source_order": 332022,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1498556,
+        0.9173418,
+        0.5112929,
+        0.9326358
+      ],
+      "text": "326\nGovernment and Taxes",
+      "raw_extracted_text": "326\nGovernment and Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-23",
+      "pdf_page": 332,
+      "source_order": 332023,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   326\n26_Economics_Unit_4_EM.indd   326\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   326\n26_Economics_Unit_4_EM.indd   326\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-footer-24",
+      "pdf_page": 332,
+      "source_order": 332024,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5064889,
+        0.1390526,
+        0.7826774,
+        0.155876
+      ],
+      "text": "Fee is the payment for getting any service",
+      "raw_extracted_text": "Fee is the payment for getting any service",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-25",
+      "pdf_page": 332,
+      "source_order": 332025,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5064889,
+        0.1747662,
+        0.864644,
+        0.2256014
+      ],
+      "text": "While a fee is a payment for a specific benefit \nprivilege although the special to the primary purpose \nof regulation in public interest.",
+      "raw_extracted_text": "While a fee is a payment for a specific benefit \nprivilege although the special to the primary purpose \nof regulation in public interest.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-26",
+      "pdf_page": 332,
+      "source_order": 332026,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5064889,
+        0.2472363,
+        0.8646006,
+        0.2810644
+      ],
+      "text": "On the other hand fee is not paid if the person do not \nwant to get the service",
+      "raw_extracted_text": "On the other hand fee is not paid if the person do not \nwant to get the service",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-27",
+      "pdf_page": 332,
+      "source_order": 332027,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5064889,
+        0.2829486,
+        0.8646172,
+        0.3337838
+      ],
+      "text": "Fee payer can get direct benefit for paying fee. \nExamples: stamp fee, driving license fee, government \nregistration fee",
+      "raw_extracted_text": "Fee payer can get direct benefit for paying fee. \nExamples: stamp fee, driving license fee, government \nregistration fee",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-text-28",
+      "pdf_page": 332,
+      "source_order": 332028,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.7061302,
+        0.7632839,
+        0.7925065
+      ],
+      "text": "2.\t In India, taxes are including\na)\t Direct taxes\nb)\t Indirect taxes.\nc)\t Both  (a) and (b)\nd)\t None of these",
+      "raw_extracted_text": "2.\t In India, taxes are including\na)\t Direct taxes\nb)\t Indirect taxes.\nc)\t Both  (a) and (b)\nd)\t None of these",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-question-candidate-29",
+      "pdf_page": 332,
+      "source_order": 332029,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.7975868,
+        0.8718813,
+        0.9041829
+      ],
+      "text": "3.\t Which is the role of government and \ndevelopment policies?\na)\t Defence\nb)\t Foreign policy\nc)\t Regulate the economy\nd)\t all of above",
+      "raw_extracted_text": "3.\t Which is the role of government and \ndevelopment policies?\na)\t Defence\nb)\t Foreign policy\nc)\t Regulate the economy\nd)\t all of above",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p332-question-candidate-30",
+      "pdf_page": 332,
+      "source_order": 332030,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p332",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p332.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.0947217,
+        0.48255,
+        0.2491216
+      ],
+      "text": "4.\t The most common and important tax \nlevied on an individual in India is \na)\t Service tax\t\nb) Excise duty.\nc)\t Income tax\t\nd) Central sales tax\n5.\t Under which tax one nation, one uniform \ntax is ensured\na)\t Value added tax (VAT)\nb)\t Income tax\nc)\t Goods and service tax",
+      "raw_extracted_text": "4.\t The most common and important tax \nlevied on an individual in India is \na)\t Service tax\t\nb) Excise duty.\nc)\t Income tax\t\nd) Central sales tax\n5.\t Under which tax one nation, one uniform \ntax is ensured\na)\t Value added tax (VAT)\nb)\t Income tax\nc)\t Goods and service tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-1",
+      "pdf_page": 333,
+      "source_order": 333001,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1567416,
+        0.2516306,
+        0.2496246,
+        0.2699833
+      ],
+      "text": "d)\t Sales tax",
+      "raw_extracted_text": "d)\t Sales tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-2",
+      "pdf_page": 333,
+      "source_order": 333002,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.2724934,
+        0.4825135,
+        0.3078521
+      ],
+      "text": "6.\t Income tax was introduced in India for \nthe first time in the year __________ .",
+      "raw_extracted_text": "6.\t Income tax was introduced in India for \nthe first time in the year __________ .",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-3",
+      "pdf_page": 333,
+      "source_order": 333003,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1567416,
+        0.310361,
+        0.4645081,
+        0.3287138
+      ],
+      "text": "a)\t 1860\t\nb) 1870\t\nc) 1880\t\nd) 1850",
+      "raw_extracted_text": "a)\t 1860\t\nb) 1870\t\nc) 1880\t\nd) 1850",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-4",
+      "pdf_page": 333,
+      "source_order": 333004,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.3312238,
+        0.4825119,
+        0.3665825
+      ],
+      "text": "7.\t __________ tax is charged on the benefits \nderived from property ownership.",
+      "raw_extracted_text": "7.\t __________ tax is charged on the benefits \nderived from property ownership.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-5",
+      "pdf_page": 333,
+      "source_order": 333005,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1567416,
+        0.3690914,
+        0.4272212,
+        0.3874442
+      ],
+      "text": "a)\t Income tax\t\nb) Wealth tax",
+      "raw_extracted_text": "a)\t Income tax\t\nb) Wealth tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-6",
+      "pdf_page": 333,
+      "source_order": 333006,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1567416,
+        0.3899543,
+        0.4328963,
+        0.408307
+      ],
+      "text": "c)\t Corporate tax\t\nd) Excise duty",
+      "raw_extracted_text": "c)\t Corporate tax\t\nd) Excise duty",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-7",
+      "pdf_page": 333,
+      "source_order": 333007,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.4108171,
+        0.4825666,
+        0.4461758
+      ],
+      "text": "8.\t What are identified as causes of black \nmoney?",
+      "raw_extracted_text": "8.\t What are identified as causes of black \nmoney?",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-8",
+      "pdf_page": 333,
+      "source_order": 333008,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1567416,
+        0.4486847,
+        0.479118,
+        0.4670375
+      ],
+      "text": "a)\t Shortage of goods\t\nb) High tax rate  ",
+      "raw_extracted_text": "a)\t Shortage of goods\t\nb) High tax rate  ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-9",
+      "pdf_page": 333,
+      "source_order": 333009,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1567416,
+        0.4695475,
+        0.464779,
+        0.4879003
+      ],
+      "text": "c)\t Smuggling \t\nd) All of above",
+      "raw_extracted_text": "c)\t Smuggling \t\nd) All of above",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-10",
+      "pdf_page": 333,
+      "source_order": 333010,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.4965484,
+        0.289441,
+        0.5153773
+      ],
+      "text": "II\t Fill in the blanks",
+      "raw_extracted_text": "II\t Fill in the blanks",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-11",
+      "pdf_page": 333,
+      "source_order": 333011,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.5215912,
+        0.4825686,
+        0.7213403
+      ],
+      "text": "1.\t __________ is levied by government for the \ndevelopment of the state’s economy.\n2.\t The origin of the word ‘tax’ is from the word \n__________.\n3.\t The burden of the __________ tax cannot \nbe shifted to others.\n4.\t The Goods and Service Tax act came into \neffect on __________.\n5.\t The unaccounted money that is concealed \nfrom the tax administrator is called \n__________.",
+      "raw_extracted_text": "1.\t __________ is levied by government for the \ndevelopment of the state’s economy.\n2.\t The origin of the word ‘tax’ is from the word \n__________.\n3.\t The burden of the __________ tax cannot \nbe shifted to others.\n4.\t The Goods and Service Tax act came into \neffect on __________.\n5.\t The unaccounted money that is concealed \nfrom the tax administrator is called \n__________.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-12",
+      "pdf_page": 333,
+      "source_order": 333012,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.7254795,
+        0.3840234,
+        0.7449614
+      ],
+      "text": "III\tChoose the correct statement",
+      "raw_extracted_text": "III\tChoose the correct statement",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-13",
+      "pdf_page": 333,
+      "source_order": 333013,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.1322998,
+        0.7511754,
+        0.4825521,
+        0.7695282
+      ],
+      "text": "1.\t\nWhich of the following  statement is ",
+      "raw_extracted_text": "1.\t\nWhich of the following  statement is ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-14",
+      "pdf_page": 333,
+      "source_order": 333014,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1610665,
+        0.769315,
+        0.4825274,
+        0.823947
+      ],
+      "text": "correct about GST?\n(i) GST is the  ‘one point tax’.\n(ii) This aims to replace all  direct taxes ",
+      "raw_extracted_text": "correct about GST?\n(i) GST is the  ‘one point tax’.\n(ii) This aims to replace all  direct taxes ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-15",
+      "pdf_page": 333,
+      "source_order": 333015,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1610665,
+        0.8237339,
+        0.4825274,
+        0.8783659
+      ],
+      "text": "levied on goods and services by the \nCentral and State governments.\n(iii) It will be implemented from 1st July ",
+      "raw_extracted_text": "levied on goods and services by the \nCentral and State governments.\n(iii) It will be implemented from 1st July ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-16",
+      "pdf_page": 333,
+      "source_order": 333016,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.1885358,
+        0.8781528,
+        0.4033973,
+        0.8965056
+      ],
+      "text": "2017 throughout the country.",
+      "raw_extracted_text": "2017 throughout the country.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-17",
+      "pdf_page": 333,
+      "source_order": 333017,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        0.061043,
+        0.9762665,
+        0.939366,
+        0.9854429
+      ],
+      "text": "26_Economics_Unit_4_EM.indd   327\n26_Economics_Unit_4_EM.indd   327\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "raw_extracted_text": "26_Economics_Unit_4_EM.indd   327\n26_Economics_Unit_4_EM.indd   327\n21-01-2025   11.11.38 AM\n21-01-2025   11.11.38 AM",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-footer-18",
+      "pdf_page": 333,
+      "source_order": 333018,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.554722,
+        0.0947217,
+        0.8676859,
+        0.185633
+      ],
+      "text": "(iv) It will unified the tax structure in India.\na)\t (i) and (ii) are correct\nb)\t (ii), (iii) and (iv) are correct\nc)\t (i), (iii) and (iv) are correct \nd)\t All are correct",
+      "raw_extracted_text": "(iv) It will unified the tax structure in India.\na)\t (i) and (ii) are correct\nb)\t (ii), (iii) and (iv) are correct\nc)\t (i), (iii) and (iv) are correct \nd)\t All are correct",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-19",
+      "pdf_page": 333,
+      "source_order": 333019,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.1904241,
+        0.7037489,
+        0.209253
+      ],
+      "text": "IV\t Match the following",
+      "raw_extracted_text": "IV\t Match the following",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-20",
+      "pdf_page": 333,
+      "source_order": 333020,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5231429,
+        0.2111203,
+        0.8291129,
+        0.2974966
+      ],
+      "text": "1.\t Income Tax\t\n-\t\nValue added tax\n2.\t Excise duty\t\n-\t\n1 July 2017\n3.\t VAT\t\n-\t\nSmuggling\n4.\t GST\t\n-\t\nDirect tax\n5.\t Black money\t\n-\t\nIndirect tax",
+      "raw_extracted_text": "1.\t Income Tax\t\n-\t\nValue added tax\n2.\t Excise duty\t\n-\t\n1 July 2017\n3.\t VAT\t\n-\t\nSmuggling\n4.\t GST\t\n-\t\nDirect tax\n5.\t Black money\t\n-\t\nIndirect tax",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-21",
+      "pdf_page": 333,
+      "source_order": 333021,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.3022877,
+        0.8718798,
+        0.4773839
+      ],
+      "text": "V\t Give Short Answers\n1.\t Define tax.\n2.\t Why we pay tax to the government?\n3.\t What are the types of tax? Give examples.\n4.\t Write short note on Goods and Service Tax.\n5.\t What is progressive tax?\n6.\t What is meant by black money?\n7.\t What is tax evasion?\n8.\t Write any two difference between tax and \npayments?",
+      "raw_extracted_text": "V\t Give Short Answers\n1.\t Define tax.\n2.\t Why we pay tax to the government?\n3.\t What are the types of tax? Give examples.\n4.\t Write short note on Goods and Service Tax.\n5.\t What is progressive tax?\n6.\t What is meant by black money?\n7.\t What is tax evasion?\n8.\t Write any two difference between tax and \npayments?",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-22",
+      "pdf_page": 333,
+      "source_order": 333022,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.4821761,
+        0.8718429,
+        0.5722416
+      ],
+      "text": "VI\t Answer in detail\n1.\t Explain some direct and indirect taxes. \n2.\t Write the structure of GST.\n3.\t What is black money? Write the causes of \nblack money.",
+      "raw_extracted_text": "VI\t Answer in detail\n1.\t Explain some direct and indirect taxes. \n2.\t Write the structure of GST.\n3.\t What is black money? Write the causes of \nblack money.",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-23",
+      "pdf_page": 333,
+      "source_order": 333023,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5216291,
+        0.5770339,
+        0.8718869,
+        0.7011123
+      ],
+      "text": "VII\tActivity and Projects\n1.\t Collect information about the local taxes \n(water, electricity and house tax etc).\n2.\t Students purchase some goods on the shop. \nThe teacher and students discuss those \ngoods, maximum retail price, purchasing \nprice or GST. ",
+      "raw_extracted_text": "VII\tActivity and Projects\n1.\t \u0007Collect information about the local taxes \n(water, electricity and house tax etc).\n2.\t \u0007Students purchase some goods on the shop. \nThe teacher and students discuss those \ngoods, maximum retail price, purchasing \nprice or GST. ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-24",
+      "pdf_page": 333,
+      "source_order": 333024,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.571608,
+        0.7087003,
+        0.8020654,
+        0.7289657
+      ],
+      "text": " REFERENCE BOOKS",
+      "raw_extracted_text": " REFERENCE BOOKS",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-25",
+      "pdf_page": 333,
+      "source_order": 333025,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5212475,
+        0.740905,
+        0.8722654,
+        0.8272813
+      ],
+      "text": "1.\t Gaurav Aklani, Role of Taxation in \nDeveloping Country in India. \n2. \t Sankaran, Fiscal Economics.\n3.\t Dr.U.K. Sudha Nayak, B.P. Tygai, and \nDr.H. Girija, Public Finance.  ",
+      "raw_extracted_text": "1.\t Gaurav Aklani, Role of Taxation in \nDeveloping Country in India. \n2. \t Sankaran, Fiscal Economics.\n3.\t Dr.U.K. Sudha Nayak, B.P. Tygai, and \nDr.H. Girija, Public Finance.  ",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-26",
+      "pdf_page": 333,
+      "source_order": 333026,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.5874868,
+        0.8386277,
+        0.8604582,
+        0.8588931
+      ],
+      "text": " INTERNET RESOURCES",
+      "raw_extracted_text": " INTERNET RESOURCES",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-27",
+      "pdf_page": 333,
+      "source_order": 333027,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "question-candidate",
+      "bbox": [
+        0.5218244,
+        0.8710579,
+        0.7538634,
+        0.9075501
+      ],
+      "text": "1.\t World Bank Report in 2018\n2.\t www.GST.in",
+      "raw_extracted_text": "1.\t World Bank Report in 2018\n2.\t www.GST.in",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-question-candidate-28",
+      "pdf_page": 333,
+      "source_order": 333028,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    },
+    {
+      "kind": "text",
+      "bbox": [
+        0.4887071,
+        0.9173418,
+        0.8547212,
+        0.9326358
+      ],
+      "text": "327\nGovernment and Taxes",
+      "raw_extracted_text": "327\nGovernment and Taxes",
+      "status": "extraction-candidate",
+      "text_verified": false,
+      "issues": [
+        "Block boundaries, column reading order, nested questions, table rows and captions require visual comparison; not an accepted complete item inventory."
+      ],
+      "id": "p333-text-29",
+      "pdf_page": 333,
+      "source_order": 333029,
+      "source_order_verified": false,
+      "represented_by": {
+        "file": "content.en/docs/government-and-taxes/source.md",
+        "anchor": "source-p333",
+        "asset": "content.en/docs/government-and-taxes/assets/source-p333.webp"
+      }
+    }
+  ]
+}

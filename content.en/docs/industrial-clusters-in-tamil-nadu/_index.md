@@ -7,6 +7,10 @@ weight: 27
 summary: "Generally, “any human activity which is engaged in the conversion of raw materials into readily usable materials is called an industry”. Industrialisation refers to the process of using modern techniques of production to produce goods that are required by both consumers and othe…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Economics Unit 5: Industrial Clusters in Tamil Nadu
 
 ![](assets/page_001_picture_001.png)
@@ -27,7 +31,9 @@ summary: "Generally, “any human activity which is engaged in the conversion of
 
 Generally, “any human activity which is engaged in the conversion of raw materials into readily usable materials is called an industry”. Industrialisation refers to the process of using modern techniques of production to produce goods that are required by both consumers and other producers on a large scale. In this chapter, we will learn the nature of industrialisation of Tamil Nadu, importance of industrial clusters, how industrial clusters have developed in Tamil Nadu and the role of government initiatives in promoting industries.
 
-## 5.1 Importance of Industrialisation
+<a id="topic-5-1"></a>
+
+## 5.1 Importance of Industrialisation
 
 To understand importance of industries, we need to understand why the share of agriculture in an economy's income and employment decreases with development. First, demand for food remains constant with regard to income. Therefore, as an economy grows and incomes increase, consumers tend to spend a lesser share of their income on products from the agricultural sector.
 
@@ -51,6 +57,8 @@ Fifth, a related advantage of industrialisation is therefore technological chang
 
 Sixth, expanding incomes lead to more demand for goods and services.
 
+<a id="topic-5-2"></a>
+
 ## 5.2 Types of Industries
 
 Industries can be classified on the basis of
@@ -66,6 +74,8 @@ Industries can be classified on the basis of
 The small sector is seen as important for two reasons. One, it is believed to generate more employment than the large-scale sector, which is likely to use more advanced and automated technologies and therefore may not generate enough employment. Second, the small scale sector allows for a larger number of entrepreneurs to emerge from less privileged backgrounds.
 
 Based on experiences of industrialisation in different parts of the world, it is believed that when small firms specialising in one sector are geographically concentrated in specific locations, and linked to one another through production and learning, they tend to be equally if not more efficient than large scale enterprises. Such agglomerations of small firms are called industrial clusters.
+
+<a id="topic-5-3"></a>
 
 ## 5.3 Industrial Clusters
 
@@ -95,11 +105,13 @@ Firms are therefore expected to collaborate and compete with one another at the 
 
 Clusters may arise due to many factors. Certain clusters evolve over a long time in history when artisans settle in one locality and evolve over centuries. Handloom weaving clusters are one example of this development. Or else, in some sectors, when a large firm is established, a cluster of firms may emerge to take care of its input and service requirements. At times, governments may decide to encourage manufacturing using raw materials from a region, which may also lead to emergence of clusters.
 
-## 5.4 Historical Development of Industrialisation in Tamil Nadu
+<a id="topic-5-4"></a>
+
+## 5.4 Historical Development of Industrialisation in Tamil Nadu
 
 There is a lot of evidence for presence of industrial activities such as textiles, shipbuilding, iron and steel making and pottery in precolonial Tamil Nadu. Given the vast coastline, the region has been involved in trade with both South-East and West Asia for several centuries. Colonial policies also contributed to the decline of the handloom weaving industry due to competition from machine-made imports from England. But some industries also developed during the colonial period.
 
-### Industrialisation in the Colonial Period
+### Industrialisation in the Colonial Period
 
 There are two sets of factors that have contributed to the process. The introduction of cotton cultivation in Western and Southern Tamil Nadu by the colonial government led to the emergence of a large-scale textile sector in these parts.
 
@@ -113,7 +125,7 @@ Soon after independence, several large enterprises were set up by both the centr
 
 The 1970s and 1980s saw the setting up of emergence of powerloom weaving clusters in the Coimbatore region, as well as expansion of cotton knitwear cluster in Tiruppur and home furnishings cluster in Karur. This period also saw more encouragement for the small and medium sector with setting up of industrial estates by the state government in different parts. The Hosur industrial cluster is a successful case of how such policy efforts to promote industrial estates helped to develop industries in a backward region.
 
-### Industrialisation in Tamil Nadu – Liberalization Phase
+### Industrialisation in Tamil Nadu – Liberalization Phase
 
 The final phase of industrialisation is the post-reforms period since the early 1990s. The reforms made the state governments more responsible for resource mobilisation and they were forced to compete with each other to attract private investments for industrialisation. Incentives such as cheap land, tax concessions and subsidised but quality power were all offered to woo investors. Trade liberalisation and currency devaluation also helped open up export markets. This led to two major developments.
 
@@ -121,7 +133,9 @@ The important industries in the state that evolved over a much longer period inc
 
 Because of all these factors, Tamil Nadu at present has the largest number of factories among all states in India and also has the largest share of workforce employed in manufacturing. Importantly, it is more labour intensive compared to other industrially advanced states, such as Maharashtra and Gujarat. The major industries are automobiles, auto-components, light and heavy engineering, machinery, cotton, textiles, rubber, food products, transport equipment, chemicals, and leather and leather goods. Unlike other states, the industries are spread across all regions of the state (there are 27 clusters in 13 districts) with many of them being export oriented as well. The state has a well-developed network of roads, rail, air and major ports.
 
-## 5.5 Major Industrial Clusters and Their Specialisation in Tamil Nadu
+<a id="topic-5-5"></a>
+
+## 5.5 Major Industrial Clusters and Their Specialisation in Tamil Nadu
 
 ### Automotive Clusters
 
@@ -211,9 +225,9 @@ In order to make development more inclusive, Tier II cities such as Coimbatore, 
 
 - Hosur – Viswanathapuram
 
-## 5.6 The Policy Factors that
+<a id="topic-5-6"></a>
 
-### Helped the Industrialisation Process in Tamil Nadu
+## 5.6 The Policy Factors that Helped the Industrialisation Process in Tamil Nadu
 
 Policy factors can be divided into three aspects:
 
@@ -223,11 +237,7 @@ Industries require skilled human resources. Apart from a lot of attention to pri
 
 ### Infrastructure
 
-The widespread diffusion of electrification has contributed to the spread of industrialisation to smaller towns and villages in the state. Along with electrification, Tamil Nadu is known for its excellent transport infrastructure, especially minor roads that connect rural parts of the state to nearby towns and cities. A combination of public and private transport has also facilitated
-
-### Special Economic Zones (SEZs)
-
-rural-to-urban connectivity and therefore connect small producers to markets better.
+The widespread diffusion of electrification has contributed to the spread of industrialisation to smaller towns and villages in the state. Along with electrification, Tamil Nadu is known for its excellent transport infrastructure, especially minor roads that connect rural parts of the state to nearby towns and cities. A combination of public and private transport has also facilitated rural-to-urban connectivity and therefore connect small producers to markets better.
 
 ### Industrial Promotion
 
@@ -239,19 +249,21 @@ Apart from investments in education and transport and energy infrastructure, act
 
 Corporation of Tamil Nadu) - was formed in the year 1971 to promote industrial growth in the state by setting up industrial estates.
 
+### Special Economic Zones (SEZs)
+
 A policy was introduced in April 2000 for the setting up of Special Economic Zones in the country with a view to a hassle-free environment for exports.
 
 **Accordingly, the government has converted Export Processing Zones located at following places.**
 
 | Nanguneri SEZ | – | A multi product SEZ, Thirunelveli |
 |---|---|---|
-| Ennore SEZ | – | Tehrmal power project, Vayalur |
+| Ennore SEZ | – | Thermal power project, Vayalur |
 | Coimbatore SEZ | – | IT Parks |
 | Hosur SEZ | – | Auto Engineering, Electronics, Defence and Aerospace |
 | Perambalur SEZ | – | Multi product SEZ |
 | Autocity SEZ | – | Automobile/Auto Components, Tiruvallur |
-| India-Singapore SEZ | – | IT & ITES, Electronic Hardware, Logistics and Warehousing – Thiruvallur District |
-| Bio-Pharmaceuticals SEZ | – | Clinical Research Organisation, Poison Control Centre, Centre for Regenerative Medicine, Medicine Research |
+| India-Singapore SEZ | – | IT & ITES, Electronic Hardware, Logistics and Warehousing – Thiruvallur District |
+| Bio-Pharmaceuticals SEZ | – | Clinical Research Organisation, Poison Control Centre, Centre for Regenerative Medicine, Medicine Research |
 
 ### Madras Export Processing Zone (MEPZ)
 
@@ -277,7 +289,7 @@ Corporation Ltd.), 1949- is intended to provide low-cost financial support for b
 
 Corporation Ltd.), 1965 - It is supposed to be the first industrial corporation operating in the domain for small enterprises.
 
-### Issues with Industrialisation
+### Issues with Industrialisation
 
 Though Tamil Nadu has emerged as a relatively highly industrialised state in the country, the state faces a few issues in sustaining the process. To begin with, some clusters, especially chemicals, textiles and leather clusters, tend to generate a lot of polluting effluents that affect health. The effluents also pollute water bodies, into which effluents are let into and also adjoining agricultural lands. Second, employment generation potential has declined, because of use of frontier technologies because of the need to compete globally. Quality of employment also has suffered in recent years, as most workers are employed only temporarily.
 
@@ -287,7 +299,9 @@ Startup India Scheme is an initiative of the Indian Government, the primary obje
 
 **Standup India Scheme (Launched 5-April-2016):**
 
-Standup India Scheme is to facilitate bank loans between `10 lakh and `1 crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and one woman borrower per bank branch for setting up a greenfield enterprise.
+Standup India Scheme is to facilitate bank loans between ₹10 lakh and ₹1 crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and one woman borrower per bank branch for setting up a greenfield enterprise.
+
+<a id="topic-5-7"></a>
 
 ## 5.7 Entrepreneur
 
@@ -301,17 +315,17 @@ Entrepreneurship is a process of action of an entrepreneur who undertakes to est
 
 Entrepreneurs play a most important role in the economic growth and development of a country’s economy.
 
-1. They promote development of industries and help to remove regional disparities by industrialising rural and backward areas.
+1. They promote development of industries and help to remove regional disparities by industrialising rural and backward areas.
 
-2. They help the country to increase the
+2. They help the country to increase the
 
 GDP and Per Capita Income.
 
-3. They promote capital formation by mobilising the idle savings of the citizens and country’s export trade.
+3. They promote capital formation by mobilising the idle savings of the citizens and country’s export trade.
 
-4. Entrepreneurs provide large-scale employment to artisans, technically qualified persons and professionals and try to maximise profits by innovations.
+4. Entrepreneurs provide large-scale employment to artisans, technically qualified persons and professionals and try to maximise profits by innovations.
 
-5. They enable the people to avail better quality goods at lower prices, which results in the improvement of their standard of living.
+5. They enable the people to avail better quality goods at lower prices, which results in the improvement of their standard of living.
 
 ### SUMMARY
 
@@ -334,33 +348,65 @@ GDP and Per Capita Income.
 
 ![](assets/page_009_picture_001.png)
 
+![GLOSSARY](assets/source-en-p342-glossary-1.png)
+
 ### EXERCISE
 
-**I Choose the correct**
+**I Choose the correct answer**
 
-**answer**
+1. ‘The Detroit of Asia’ is ___________.
 
-1. ‘The Detroit of Asia’ is
+    a) Tuticorin
 
-___________.
+    b) Coimbatore
 
-a) Tuticorin b) Coimbatore c) Chennai d) Madurai
+    c) Chennai
 
-2. Pumpsets and motors are produced mostly in a) Salem b) Coimbatore c) Chennai d) Dharampuri
+    d) Madurai
+
+2. Pumpsets and motors are produced mostly in
+
+    a) Salem
+
+    b) Coimbatore
+
+    c) Chennai
+
+    d) Dharampuri
 
 3. ___________ are an essential aspect of a nation’s development.
 
-a) agriculture b) industry c) railway d) none of these
+    a) agriculture
 
-4. Tiruppur is known for a) Leather tanning b) Lock making c) Knitwear d) Agro-processing
+    b) industry
 
-5. A successful industrial cluster entirely created by the Tamil Nadu is a) Hosur b) Dindigul c) Kovilpatti d) Tirunelveli
+    c) railway
+
+    d) none of these
+
+4. Tiruppur is known for
+
+    a) Leather tanning
+
+    b) Lock making
+
+    c) Knitwear
+
+    d) Agro-processing
+
+5. A successful industrial cluster entirely created by the Tamil Nadu is
+
+    a) Hosur
+
+    b) Dindigul
+
+    c) Kovilpatti
+
+    d) Tirunelveli
 
 **II Fill in the blanks**
 
-1. Hundred of leather and tannery facilities are located around ___________ district in
-
-Tamil Nadu.
+1. Hundred of leather and tannery facilities are located around ___________ district in Tamil Nadu.
 
 2. Special Economic Zones policy was introduced in ___________.
 
@@ -368,27 +414,32 @@ Tamil Nadu.
 
 1. Which one of the following is not having leather factories?
 
-a) Ranipet b) Dharmapuri c) Ambur d) Vaniyambadi
+    a) Ranipet
+
+    b) Dharmapuri
+
+    c) Ambur
+
+    d) Vaniyambadi
 
 2. Which one of the following is not an industrial developing agency?
 
-a) TIDCO b) SIDCO c) MEPZ d) SIPCOT
+    a) TIDCO
+
+    b) SIDCO
+
+    c) MEPZ
+
+    d) SIPCOT
 
 **IV Match the following**
 
-1. Entrepreneur
-
-- Export Processing Zone
-
-2. MEPZ
-
-- Coimbatore
-
-3. TANSI
-
-- Innovator
-
-4. Manchester of South India - 1965
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Entrepreneur | Export Processing Zone |
+| 2 | MEPZ | Coimbatore |
+| 3 | TANSI | Innovator |
+| 4 | Manchester of South India | 1965 |
 
 **V Write Short Answer**
 
@@ -420,7 +471,7 @@ a) TIDCO b) SIDCO c) MEPZ d) SIPCOT
 
 **VIII Activity and Project**
 
-1. Write a note on a cluster or a fi rm near your school/home based on your observations.
+1. Write a note on a cluster or a firm near your school/home based on your observations.
 
 **IX Life Skills**
 
@@ -430,9 +481,9 @@ a) TIDCO b) SIDCO c) MEPZ d) SIPCOT
 
 1. Role of Entrepreneurship in Economic Development, D.K. Sinha
 
-2. Th e Productivity Analysis of Industrial Clusters in India - Department of Industries & Commerce (Government of Tamil Nadu)
+2. The Productivity Analysis of Industrial Clusters in India - Department of Industries & Commerce (Government of Tamil Nadu)
 
-3. State Industrial Profi le - Tamil Nadu
+3. State Industrial Profile - Tamil Nadu
 
 4. Indian Industrial Clusters - Keshab Das
 
@@ -452,19 +503,11 @@ a) TIDCO b) SIDCO c) MEPZ d) SIPCOT
 
 ## Steps
 
-- 
+- Open the Browser and type the URL given below.
 
-Open the Browser and type the URL given below.
+- You can see the list of SIPCOT in Tamil Nadu. When you click anyone in the list, you will get the details of SIPCOT in new tab.
 
-- 
-
-You can see the list of SIPCOT in Tamil Nadu. When you click anyone in the list, you will get the details of SIPCOT in new tab.
-
-- 
-
-For example, click on the minimum support price of paddy. You can see the yearwise minimum support price of paddy, wheat and coarsegrain.
-
-- 
+- For example, click on the minimum support price of paddy. You can see the yearwise minimum support price of paddy, wheat and coarsegrain.
 
 ![](assets/page_010_picture_003.png)
 
@@ -473,3 +516,56 @@ Likewise, you can view regionwise procurement also.
 **Website URL:**
 
 https://www.sipcot.com/guide_tour
+
+> **Source error (PDF p.343):** This source activity is headed SIPCOT, but its example instructions refer to paddy support prices and procurement. The original instructions are reproduced unchanged.
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [Class 10 \| Industrial Clusters in Tamil Nadu \| Part 2 \| EM \| KalviTV](https://www.youtube.com/watch?v=YVbOmkFpZgA) — KalviTVOfficial; English medium (speech unverified).
+- [Origins of the Industrial Revolution](https://www.oerproject.com/OER-Materials/OER-Media/Videos/Origins/Unit7/Origins-of-the-Industrial-Revolution) — OER Project / World History Project; English. Covers selected concepts; see the topic table below.
+- [Industrial Clusters in Tamil Nadu — Social Science Class 10](https://www.youtube.com/watch?v=E4Fv0xYoCZw) — GCC Education; language not verified.
+- [What is Entrepreneurship — Tamil](https://www.youtube.com/watch?v=e2Ju68aK618) — Laven Lokesh; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Types of Industries — Users, Inputs, Ownership and Size](https://www.youtube.com/watch?v=fdVm_8kV1pw) — Learn with Real Time Examples; language not verified. Covers selected concepts; see the topic table below.
+- [Industrial Clusters — Characteristics of Successful Clusters](https://www.youtube.com/watch?v=wv1LizXcrF4) — Learn with Real Time Examples; language not verified. Covers selected concepts; see the topic table below.
+- [Major Industrial Clusters and Their Specialization in Tamil Nadu](https://www.youtube.com/watch?v=1YV4u6vaX8Q) — Learn with Real Time Examples; language not verified. Covers selected concepts; see the topic table below.
+- [Industrial Clusters in Tamil Nadu — SSLC Economics Unit 5 Introduction](https://www.youtube.com/watch?v=zM9_Gg9FjLs) — Learn with Real Time Examples; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Historical Development of Industrialization in Tamilnadu](https://www.youtube.com/watch?v=9FBeHoGPbU8) — Learn with Real Time Examples; Tamil explanation. Covers selected concepts; see the topic table below.
+- [The Policy Factors that Helped the Industrialization Process in Tamilnadu](https://www.youtube.com/watch?v=fEuiOpHvtYk) — Learn with Real Time Examples; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [SIPCOT — industrial area and SEZ map](https://sipcot.tn.gov.in/portal/pages/sipcotmap) — SIPCOT; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [5.1 Importance of Industrialisation](#topic-5-1) | [Topic video (English)](https://www.oerproject.com/OER-Materials/OER-Media/Videos/Origins/Unit7/Origins-of-the-Industrial-Revolution) | [Lesson activities](#interactive-resources) |
+| [5.2 Types of Industries](#topic-5-2) | [Topic video (language not verified)](https://www.youtube.com/watch?v=fdVm_8kV1pw) | [Lesson activities](#interactive-resources) |
+| [5.3 Industrial Clusters](#topic-5-3) | [Topic video (language not verified)](https://www.youtube.com/watch?v=wv1LizXcrF4) | [Topic activity](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
+| [5.4 Historical Development of Industrialisation in Tamil Nadu](#topic-5-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=9FBeHoGPbU8) | [Lesson activities](#interactive-resources) |
+| [5.5 Major Industrial Clusters and Their Specialisation in Tamil Nadu](#topic-5-5) | [Topic video (language not verified)](https://www.youtube.com/watch?v=1YV4u6vaX8Q) | [Topic activity](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
+| [5.6 The Policy Factors that Helped the Industrialisation Process in Tamil Nadu](#topic-5-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=fEuiOpHvtYk) | [Topic activity](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
+| [5.7 Entrepreneur](#topic-5-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=e2Ju68aK618) | [Lesson activities](#interactive-resources) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.sipcot.com/guide_tour` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
+
+<!-- supplemental-resources:end -->

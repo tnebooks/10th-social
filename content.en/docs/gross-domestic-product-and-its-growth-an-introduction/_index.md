@@ -7,6 +7,10 @@ weight: 23
 summary: "To understand how the Indian Economy is doing, one has to understand what GDP is."
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Economics Unit 1: Gross Domestic Product and its Growth: an Introduction
 
 ![](assets/page_002_picture_001.png)
@@ -53,9 +57,15 @@ Goods
 
 The GDP is the market value of all the final goods and services produced in the country during a time period.
 
-GDP = C + I + G + (X − M ) C = Consumption, I = Investment G = Government Expenditure
+GDP = C + I + G + (X − M )
 
-( X − M) = X = Exports − M = Imports Every part of the definition is important.
+C = Consumption, I = Investment
+
+G = Government Expenditure
+
+( X − M) = X = Exports − M = Imports
+
+Every part of the definition is important.
 
 Goods and services: As you know by now, goods are tangible items but services are activities which are intangible .
 
@@ -65,7 +75,9 @@ Final goods and services: Economists Tyler Cowen and Alex Tabarrok say that “f
 
 Only the final goods are included in the GDP. Intermediate goods are not counted in calculating the GDP, because their value is included in the final goods. However, if the intermediate goods are included in the GDP it will result in what is called “double counting”.
 
-For example, a cup of tea bought in a hotel is a final good because it is consumed and does not form a part of producing something else. So the market value of the cup of tea, being a final good, is included in the GDP. Sugar which is mixed in the tea is an intermediate good because it is used in making tea and forms a part of the tea served. Suppose the tea is priced ` 10 a cup, of which the value of sugar used is ` 2. So the price of the cup of tea includes the ` 2, that is price of the spoon of sugar. If this value of sugar is included in the GDP , it will be counted twice: as a spoon of sugar and again as a part of the cup of tea. This is “double counting” and to avoid it the intermediate goods like sugar are excluded from GDP.
+For example, a cup of tea bought in a hotel is a final good because it is consumed and does not form a part of producing something else. So the market value of the cup of tea, being a final good, is included in the GDP. Sugar which is mixed in the tea is an intermediate good because it is used in making tea and forms a part of the tea served. Suppose the tea is priced ₹ 10 a cup, of which the value of sugar used is ₹ 2. So the price of the cup of tea includes the ₹ 2, that is price of the spoon of sugar. If this value of sugar is included in the GDP , it will be counted twice: as a spoon of sugar and again as a part of the cup of tea. This is “double counting” and to avoid it the intermediate goods like sugar are excluded from GDP.
+
+<a id="topic-1-1"></a>
 
 ## 1.1 National Income
 
@@ -79,6 +91,8 @@ Gross National Product is the total value of goods and services produced and inc
 
 GNP = C + I + G + (X–M) + NFIA)
 
+> **Source error (PDF p.299):** The printed GNP equation ends with an unmatched closing parenthesis. It is reproduced unchanged.
+
 C = Consumption
 
 I = Investment
@@ -89,7 +103,9 @@ X-M = Export – Import
 
 NFIA = Net Factor Income from Abroad)
 
-### 2. Gross Domestic Product (GDP)
+> **Source error (PDF p.299):** The printed NFIA explanation ends with an unmatched closing parenthesis. It is reproduced unchanged.
+
+### 2. Gross Domestic Product (GDP)
 
 Gross Domestic Product (GDP) is the total value of output of goods and services produced by the factors of production within the geographical boundaries of the country.
 
@@ -109,9 +125,7 @@ Per Capita Income or output per person is an indicator that shows the living sta
 
 Per Capita Income = National Income / Population
 
-In
-
-1867-68 for the first time Dadabhai Naoroji had ascertained the Per Capital Income in his book “Poverty and Un-British Rule of India”.
+In 1867-68 for the first time Dadabhai Naoroji had ascertained the Per Capital Income in his book “Poverty and Un-British Rule of India”.
 
 ![](assets/page_004_picture_001.png)
 
@@ -125,7 +139,9 @@ Disposable income means actual income which can be spent on consumption by indiv
 
 (From consumption approach DI = Consumption Expenditures + Savings )
 
-## 1.2 Gross Domestic Product (GDP)
+<a id="topic-1-2"></a>
+
+## 1.2 Gross Domestic Product (GDP)
 
 Produced in the country: GDP of India includes only the market value of goods and services produced in India. For example, the market value of apples produced in Kashmir are included in our GDP since Kashmir is in India. The market value of apples produced in California, even if they are sold in Indian markets, they are not included in our GDP, because California is in the U.S.
 
@@ -143,17 +159,33 @@ The modern concept of GDP was first developed by Simon Kuznets for a US Congress
 
 3. Value-Added Approach: A cup of tea served to you in a hotel is a “final good”. The goods used to produce it are tea powder, milk, and sugar, are “intermediate goods” since they form a part of the final good, the cup of tea. One way to measure the market value of the cup of tea is to add the value produced by each intermediate good used to produce it. The sum of the value added by all the intermediate goods used in production equals to the total value of the final goods produced in the economy.
 
-![](assets/page_004_picture_002.png)
-
-![](assets/page_004_picture_003.png)
-
-![](assets/page_004_picture_004.png)
+![Value Added Approach](assets/source-en-p300-figure-1.png)
 
 Value added method
 
 Tea powder + Milk + Sugar = Tea
 
 Value of intermediate goods = Value of final goods
+
+**Original textbook equations (PDF pp.299–300)**
+
+![GDP = C + I + G + (X − M)](assets/source-en-p299-equation-gdp.png)
+
+![Original textbook GNP equation](assets/source-en-p299-equation-gnp.png)
+
+![NNP = GNP − Depreciation](assets/source-en-p299-equation-nnp.png)
+
+![NDP = GDP − Depreciation](assets/source-en-p299-equation-ndp.png)
+
+![Per Capita Income = National Income / Population](assets/source-en-p300-equation-pci.png)
+
+![DPI = PI − Direct Taxes](assets/source-en-p300-equation-dpi.png)
+
+![DI = Consumption Expenditures + Savings](assets/source-en-p300-equation-di.png)
+
+![Y = C + I + G + (X − M)](assets/source-en-p300-equation-expenditure.png)
+
+![Y = wages + rent + interest + profit](assets/source-en-p300-equation-income.png)
 
 ### Importance of GDP
 
@@ -195,11 +227,13 @@ of life people are living: A high level of per capita real GDP can go hand-in-ha
 
 The Central Statistical Organisation (CSO), under the Ministry of Statistical department keeps the records. Its processes involves conducting an annual survey of industries and compilation of various indexes like the Index of Industrial Production (IIP) Consumer Price Index (CPI) etc.
 
-## 1.3 Composition of Gross Domestic Product (GDP)
+<a id="topic-1-3"></a>
+
+## 1.3 Composition of Gross Domestic Product (GDP)
 
 Indian economy is broadly divided into three sector
 
-1) Primary Sector: (Agricultural Sector)
+1) Primary Sector: (Agricultural Sector)
 
 Agricultural sector is known as primary sector, in which agricultural operations are undertaken. Agriculture based allied activities, production of raw materials such as cattle farm, fishing, mining, forestry, corn, coal, etc., are also undertaken.
 
@@ -207,7 +241,7 @@ Agricultural sector is known as primary sector, in which agricultural operations
 
 **Forestry**
 
-2) Secondary Sector: (Industrial Sector)
+2) Secondary Sector: (Industrial Sector)
 
 Industrial sector is secondary sectors in which the goods and commodities are produced by transforming the raw materials. Important industries are iron and steel industry, cotton textile, jute, sugar, cement, paper, petrochemical, automobile and other small scale industries.
 
@@ -217,19 +251,17 @@ Industrial sector is secondary sectors in which the goods and commodities are pr
 
 3) Tertiary: (Service Sector)
 
-Tertiary sector is known as service sector which includes Government, scientific research, transport communication, trade, Postal
+Tertiary sector is known as service sector which includes Government, scientific research, transport communication, trade, Postal Department, Banking, Education, Entertainment, Healthcare and Information Technology, etc.
 
 ![](assets/page_006_picture_001.png)
 
-Postal Department
-
-Department, Banking,
-
-Education, Entertainment, Healthcare and Information Technology, etc.
+**Postal Department**
 
 In the 20th century, economists began to suggest that, traditional tertiary services could be further distinguished from “quaternary” and “quinary” service sectors.
 
-## 1.4 Contribution of different sectors in GDP of India
+<a id="topic-1-4"></a>
+
+## 1.4 Contribution of different sectors in GDP of India
 
 Services sector is the largest sector of India. Gross Value Added (GVA) at current prices for services sector is estimated at 92.26 lakh crore in 2018-19.
 
@@ -254,65 +286,43 @@ Services sector is the largest sector of India. Gross Value Added (GVA) at curre
 **Source:** Central Statistical Organisation
 
 
-![](assets/page_006_picture_002.png)
+**Sector-wise contribution of GDP (2018-19)**
 
-Sector-wise contribu on of GDP (2018-19)
+**Percentage share (%)**
 
-Percentage share (%)
+![Sector-wise contribution of GDP (2018-19) Percentage share (%)](assets/source-en-p302-figure-1.png)
 
-Agriculture Sector
+| Printed legend | Percentage share (%) |
+|---|---|
+| Agriculture Sector | 15.87 |
+| Agriculture Forestry & Fishing | 15.87 |
+| Industrial sector | 29.73 |
+| Mining & quarrying | 2.7 |
+| Manufacturing | 16.83 |
+| Electricity, gas, water supply & other utility services | 2.67 |
+| Construction | 7.54 |
+| Services Sector | 54.4 |
+| Trade, hotels, transport, communication and services related to broad casting | 18.62 |
+| Financial, real estate & Prof Services | 20.96 |
+| Public administrative, defense and other services | 14.82 |
 
-Agriculture Forestry & Fishing
+**Source:** Statistics times.com.
 
-![](assets/page_006_picture_003.png)
+**Note:** The Diagram shows that Sector-wise contribution in GDP of India for the year 2018 - 2019.
 
-Source: Statistics times.com.
-
-Industrial sector
-
-Mining & quarrying
-
-Manufacturing
-
-Electricity, gas, water supply& other u lity services
-
-Construc on
-
-Services Sector
-
-Trade, hotels, transport, communica on and services related to broad cas ng
-
-Financial, real estate & Prof Services Public administra ve, defense and other services
-
-Note: The Diagram shows that Sector-wise contribution in GDP of India for the year 2018 - 2019.
+> **Source inconsistency (English PDF page 302):** The eleven percentages printed in this pie chart total 200.01%. The source places aggregate sectors and their components in the same pie. The original chart is preserved.
 
 ## Sector - wise GDP Growth of India (1950-2018)
 
-Services (Blue colour) Agriculture (Green colour)
+Agriculture (Green colour) · Industry (Orange colour) · Services (Blue colour)
 
-Industry (Orange colour)
+![Sector - wise GDP Growth of India (1950-2018)](assets/source-en-p303-figure-1.png)
 
-![](assets/page_007_picture_001.png)
+**Year:** 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2018
 
-**1950**
+**Source:** Statistics times.com.
 
-**1960**
-
-**1970**
-
-**1980**
-
-**1990**
-
-**2000**
-
-**2010**
-
-**2018**
-
-## Year
-
-Source: Statistics times.com. Note: The chart Diagram shows that Sector-wise contribution in GDP of India for the year 1950-2018
+**Note:** The chart Diagram shows that Sector-wise contribution in GDP of India for the year 1950-2018
 
 ![](assets/page_007_picture_002.png)
 
@@ -324,7 +334,9 @@ Gross Value Added (GVA) is a measure of the value of goods and services produced
 
 GVA = GDP + subsidies - (direct, sales) taxes.
 
-## 1.5 Economic Growth and Development
+<a id="topic-1-5"></a>
+
+## 1.5 Economic Growth and Development
 
 ![](assets/page_007_picture_003.png)
 
@@ -349,7 +361,9 @@ In 1990 Mahbub ul Haq, a Pakistani Economist at the United Nations, introduced t
 India climbed one spot to 130 out of 189 countries in the latest human development rankings released today by the United Nations Development Programme (UNDP). Between 1990 and 2017, India’s HDI value increased from 0.427 to 0.640, an increase of nearly 50 percent – and an indicator of the country’s remarkable achievement in lifting millions of people out of poverty.
 
 
-## 1.6 Developmental Path based on GDP and Employment
+<a id="topic-1-6"></a>
+
+## 1.6 Developmental Path based on GDP and Employment
 
 In the development path of India, it first undertook the policy of closed trade. This was to give a thrust to domestic industries and reduce dependence on foreign products and companies. Trade and interaction with the outside world remained limited. This outlook continued till 1991, when India finally decided to open its borders to free trade and liberalized its economy by allowing foreign companies to enter the Indian economy.
 
@@ -389,7 +403,9 @@ India has a strong legal system and many English-language speakers. This has bee
 
 ![](assets/page_009_picture_001.png)
 
-## 1.7 Growth of GDP and Economic Policies
+<a id="topic-1-7"></a>
+
+## 1.7 Growth of GDP and Economic Policies
 
 Many economic policies have been framed by the Government of India since independence for increasing rate of economic growth and economic development. The important economic policies are
 
@@ -417,7 +433,9 @@ The four pillars of GNH's are
 
 3. Preservation and promotion of culture.
 
-4. Good governance. The nine domains of GNH are psychological well-being, health, time use, education, cultural diversity and resilience, good governance, community vitality, ecological diversity and resilience, and living standards.
+4. Good governance.
+
+The nine domains of GNH are psychological well-being, health, time use, education, cultural diversity and resilience, good governance, community vitality, ecological diversity and resilience, and living standards.
 
 economy self-sufficient. In fact, industrial development even boosts other sectors of the economy like the agricultural sector (new farming technology) and the service sector. It is also closely related to the development of trade.
 
@@ -453,71 +471,115 @@ The economy of India had undergone policy in the beginning of the 1990s. This ne
 
 ![](assets/page_011_picture_001.png)
 
+![GLOSSARY](assets/source-en-p306-glossary-1.png)
+
+![Original textbook glossary continuation](assets/source-en-p307-glossary-2.png)
+
 ### EVALUATION
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. GNP equals a) NNP adjusted for inflation b) GDP adjusted for inflation c) GDP plus net property income from abroad d) NNP plus net property income or abroad
+1. GNP equals
 
-2. National Income is a measure of a) Total value of money b) Total value of producer goods c) Total value of consumption goods d) Total value of goods and services
+    a) NNP adjusted for inflation
 
-3. Primary sector consist of a) Agriculture b) Automobiles c) Trade d) Banking
+    b) GDP adjusted for inflation
 
-4. ______ approach is the value added by each intermediate good is summed to estimate the value of the final good.
+    c) GDP plus net property income from abroad
 
-a) Expenditure approach b) Value added approach c) income approach d) National Income
+    d) NNP plus net property income or abroad
+
+2. National Income is a measure of
+
+    a) Total value of money
+
+    b) Total value of producer goods
+
+    c) Total value of consumption goods
+
+    d) Total value of goods and services
+
+3. Primary sector consist of
+
+    a) Agriculture
+
+    b) Automobiles
+
+    c) Trade
+
+    d) Banking
+
+4. ______ approach is the value added by each intermediate good is summed to estimate the value of the final good.
+
+    a) Expenditure approach
+
+    b) Value added approach
+
+    c) income approach
+
+    d) National Income
 
 5. Gross value added at current prices for services sector is estimated at ______ lakh crore in 2018-19.
 
-a) 91.06 b) 92.26 c) 80.07 d) 98.29
+    a) 91.06
+
+    b) 92.26
+
+    c) 80.07
+
+    d) 98.29
 
 6. India is ______ larger producer in agricultural product.
 
-a) 1st b) 3rd c) 4th d) 2nd
+    a) 1st
+
+    b) 3rd
+
+    c) 4th
+
+    d) 2nd
 
 7. India’s life expectancy at birth is ______ years.
 
-a) 65 b) 60 c) 70 d) 55
+    a) 65
+
+    b) 60
+
+    c) 70
+
+    d) 55
 
 8. Which one is a trade policy?.
 
-a) irrigation policy b) import and export policy c) land-reform policy d) wage policy
+    a) irrigation policy
+
+    b) import and export policy
+
+    c) land-reform policy
+
+    d) wage policy
 
 **II Fill in the blanks**
 
-1. _____ is the primary sector in India.
+1. _____ is the primary sector in India.
 
-2. _____ is an indicator to show the living standard of people
+2. _____ is an indicator to show the living standard of people
 
-3. Secondary sector otherwise called as _____.
+3. Secondary sector otherwise called as _____.
 
 **III Match the following**
 
-1. Electricity/
-
-– National Income /
-
-Gas and Water
-
-Population
-
-2. Price policy
-
-– Gross Domestic
-
-Product
-
-3. GST
-
-– Industry Sector
-
-4. Per capita income – Agriculture
-
-5. C + I + G + (X-M) – Tax on goods and service
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Electricity/Gas and Water | National Income / Population |
+| 2 | Price policy | Gross Domestic Product |
+| 3 | GST | Industry Sector |
+| 4 | Per capita income | Agriculture |
+| 5 | C + I + G + (X-M) | Tax on goods and service |
 
 **IV Give short answer**
 
-1. Defi ne National income.
+1. Define National income.
 
 2. What is meant by Gross domestic product?
 
@@ -525,41 +587,34 @@ Product
 
 4. What is per capita income?.
 
-5. Defi ne the value added approach with example.
+5. Define the value added approach with example.
 
-6. Write the name of economic policies in
-
-India.
+6. Write the name of economic policies in India.
 
 7. Write a short note
 
-1) Gross National Happiness(GNH) 2) Human Development Index(HDI)
+    1) Gross National Happiness(GNH)
+    2) Human Development Index(HDI)
 
 **V Write in detail answer**
 
-1. Briefl y explain various terms associated with measuring of national income.
+1. Briefly explain various terms associated with measuring of national income.
 
-2. What are the methods of calculating Gross
+2. What are the methods of calculating Gross Domestic Product? and explain its.
 
-Domestic Product? and explain its.
-
-3. Write any fi ve diff erences between the growth and development.
+3. Write any five differences between the growth and development.
 
 4. Explain the following the economic policies
 
-1.Agricultural Policy 2.Industrial policy 3.New economic policy
-
-**ICT CORNER**
+    1. Agricultural Policy
+    2. Industrial policy
+    3. New economic policy
 
 **VI Activity and Project**
 
-1. Students have to collect the Gross Domestic
+1. Students have to collect the Gross Domestic Product data of Tamil Nadu and compare it with the other state of Karnataka and Kerala’s GDP.
 
-Product data of Tamil Nadu and compare it with the other state of Karnataka and Kerala’s GDP.
-
-2. Students have to collect the details of
-
-Employment growth of Tamil Nadu.
+2. Students have to collect the details of Employment growth of Tamil Nadu.
 
 ### REFERENCE BOOKS
 
@@ -581,15 +636,9 @@ Planning Commission. Government of India.
 
 ## Steps
 
-- 
+- Open the Browser and type the URL given below (or) Scan the QR Code.
 
-Open the Browser and type the URL given below (or) Scan the QR Code.
-
-- 
-
-Click on ‘Real GDP Growth’ and select ‘India’ in Right side menu
-
-- 
+- Click on ‘Real GDP Growth’ and select ‘India’ in Right side menu
 
 ![](assets/page_012_picture_001.png)
 
@@ -598,3 +647,51 @@ Drag the timeline button to see the GDP Growth of India
 **Website URL:**
 
 https://www.imf.org/external/datamapper/datasets/WEO/1
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Gross Domestic Product and its Growth: an Introduction](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Class 10 \| மொத்த உள்நாட்டு உற்பத்தி மற்றும் அதன் வளர்ச்சி \| Kalvi Tv](https://www.youtube.com/watch?v=-RcwhtCq7ac) — KalviTVOfficial; Tamil explanation.
+- [Gross Domestic Product Chapter 1 — Full Summary — Tamil Explanation](https://www.youtube.com/watch?v=D2V1pLVa5YQ) — Matcha Kalai; Tamil explanation. Covers selected concepts; see the topic table below.
+- [National income, GDP, per-capita income and value-added method](https://www.youtube.com/watch?v=1iqhPVIUfKo) — HTAS How To Approach Schooling; Tamil explanation.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [IMF Data Mapper — India's real GDP growth](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) — International Monetary Fund; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [1.1 National Income](#topic-1-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Lesson activities](#interactive-resources) |
+| [1.2 Gross Domestic Product (GDP)](#topic-1-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Topic activity](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |
+| [1.3 Composition of Gross Domestic Product (GDP)](#topic-1-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Lesson activities](#interactive-resources) |
+| [1.4 Contribution of different sectors in GDP of India](#topic-1-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Topic activity](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |
+| [1.5 Economic Growth and Development](#topic-1-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Topic activity](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |
+| [1.6 Developmental Path based on GDP and Employment](#topic-1-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Lesson activities](#interactive-resources) |
+| [1.7 Growth of GDP and Economic Policies](#topic-1-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=D2V1pLVa5YQ) | [Topic activity](https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/IND) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `http://en.wikipedia.org` | Page opened in recent check | — |
+| `http://www.statisticstimes.com` | Page opened in recent check | [Alternative](https://www.imf.org/external/datamapper/datasets/WEO) |
+| `https://www.imf.org/external/datamapper/datasets/WEO/1` | Page opened in recent check | [Alternative](https://www.imf.org/external/datamapper/datasets/WEO) |
+
+<!-- supplemental-resources:end -->

@@ -7,25 +7,37 @@ weight: 17
 summary: "Human geography refers to the study of ways of development of human societies and their operation in relation to their physical environment. This chapter focuses on the distribution, characteristics and utilisation of different resources in Tamil Nadu. We have studied earlier th…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 7: Human Geography of Tamil Nadu
 
 ![](assets/page_001_picture_001.png)
 
 ## Learning Objectives
 
-![](assets/page_001_picture_002.png)
+- To understand the agricultural factors, major crops and their distribution in Tamil Nadu
+- To learn about the water resources of Tamil Nadu
+- To study the mineral and industrial resources of Tamil Nadu
+- To analyze the population and its composition in Tamil Nadu
+- To learn about the man made disasters in Tamil Nadu
 
-To understand the agricultural factors, major crops and their distribution in Tamil Nadu To learn about the water resources of Tamil Nadu To study the mineral and industrial resources of Tamil Nadu To analyze the population and its composition in Tamil Nadu To learn about the man made disasters in Tamil Nadu
+![](assets/page_001_picture_002.png)
 
 ## Introduction
 
 Human geography refers to the study of ways of development of human societies and their operation in relation to their physical environment. This chapter focuses on the distribution, characteristics and utilisation of different resources in Tamil Nadu. We have studied earlier that the earth is endowed with a variety of natural resources such as landforms, rivers, soil, natural vegetation, water and wildlife. These resources are useful only when they are utilised. Human beings use these resources using their intelligence and skill. Thus, the human beings are the most significant resource on the earth surface. They turn all these natural resources into useful products with their skills and abilities.
 
+<a id="topic-7-1"></a>
+
 ## 7.1 Agriculture
 
 The word "agriculture" is derived from the Latin words "ager and cultura", which means field and growing. Agriculture is a practice of farming that includes the cultivation of crops, rearing of animals, birds, forestry, fisheries and other related activities. Agriculture is the major occupation in Tamil Nadu. Agriculture has been the mainstay of the state’s economy since independence with more than 65% of the population depends upon this sector for their living. Agriculture provides employment for rural people on a large scale. There is a strong link between agriculture and economic growth. Paddy, millets and pulses are the principal food crops of the state. Sugarcane, cotton, sunflower, coconut, cashew, chillies, gingelly, groundnut, tea, coffee, cardamom and rubber are the major commercial crops.
 
-## 7.2 Geographical determinants of Agriculture
+<a id="topic-7-2"></a>
+
+## 7.2 Geographical determinants of Agriculture
 
 Landform, climate, soil and irrigation are the factors that determine the growth of agriculture.
 
@@ -56,7 +68,9 @@ Monsoon rainfall in the state is highly irregular and seasonal. Hence, irrigatio
 
 ![](assets/page_002_picture_001.png)
 
-## 7.3 Cropping Seasons in Tamil Nadu
+<a id="topic-7-3"></a>
+
+## 7.3 Cropping Seasons in Tamil Nadu
 
 Farmers select different crops for different seasons of cultivation. It is based on the temperature and availability of moisture in the soil. Accordingly, the state has the following cropping seasons.
 
@@ -69,7 +83,9 @@ Farmers select different crops for different seasons of cultivation. It is based
 
 ![](assets/page_002_picture_002.png)
 
-## 7.4 Distribution of major crops in Tamil Nadu
+<a id="topic-7-4"></a>
+
+## 7.4 Distribution of major crops in Tamil Nadu
 
 ### Paddy
 
@@ -135,7 +151,9 @@ Tea, coffee, cashew, rubber and pepper are the major plantation crops of the sta
 
 To promote organic farming a central scheme named ‘National Project on Organic Farming’ was launched Apart from general things (creating awareness, promoting organic fertilizers, training, capacity building etc.), the scheme provides financial assistance through Capital Investment Subsidy Scheme for agro-waste compost production units, bio-fertilizers/bio-pesticides production units, development and implementation of quality control regime, human resource development etc.
 
-## 7.5 Livestock/Animal Husbandry
+<a id="topic-7-5"></a>
+
+## 7.5 Livestock/Animal Husbandry
 
 Livestock has remained an integral part of socio-economic fabric of rural people.
 
@@ -162,6 +180,8 @@ Tamil Nadu coastal length is 906.9 km. An area of 41,412 sq.km of continental sh
 ### Inland Fishing
 
 Inland fishing is carried out in lakes, rivers, ponds, estuaries, backwaters and swamps. Oysters and prawns are cultured in original nurseries. Catamaran, diesel boats and floating nets are used in fishing. Tamil Nadu Fisheries Department has introduced several programmes for the betterment of fishing. Vellore district leads in the production of inland fish production with 10% of state’s production. Cuddalore, Sivagangai and Virudhunagar districts stand second with 9% of inland fish catch each.
+
+<a id="topic-7-6"></a>
 
 ## 7.6 Water Resource
 
@@ -246,6 +266,8 @@ Since the state is entirely dependent on rains for recharging its water resource
 - **Dams:** Krishnagiri, Sattanur, Mettur, Gomukhi, Wellington, Bavani Sagar, Parampikulam, Amaravathi, Manimutharu, Vaigai, Mullai Periyar, Papanasam, Kothaiyar
 - **Lakes:** Poondi Satyamoorthy Sagar, Chembarambakkam
 
+<a id="topic-7-7"></a>
+
 ## 7.7 Mineral Resources
 
 Tamil Nadu is the leading holder of country's resources of vermiculite, magnetite, dunite, rutile, garnet, molybdenum and ilmenite. Neyveli has large lignite resources. Oil and gas are found in the Cauvery basin. Coal deposits are found in Ramanathapuram.
@@ -253,6 +275,8 @@ Tamil Nadu is the leading holder of country's resources of vermiculite, magnetit
 Iron ore deposits are found in Kanjamalai region in Salem district and Kavuthi and Vediyappan Malai region of Tiruvannamalai district. Bauxite is found in Servarayan Hills, Kotagiri, Udagamandalam, Palani and Kollimalai areas. Gypsum is obtained in Tiruchirappalli, Tirunelveli, Thoothukudi and Virudhunagar districts. Ilmenite and rutile are found in the sands of Kanniyakumari beach. Limestone is available in Coimbatore, Cuddalore, Dindigul, Kancheepuram, Karur, Madurai, Nagapattinam, Namakkal,
 
 Perambalur, Ramanathapuram, Salem and Tiruvallur districts. Magnesite is obtained in Coimbatore, Dharmapuri, Karur, Namakkal, the Nilgiris, Salem, Tiruchirapalli, Tirunelveli, Tirupattur and Vellore districts. Feldspar, quartz, copper and lead are also found in some parts of the state.
+
+<a id="topic-7-8"></a>
 
 ## 7.8 Industries
 
@@ -317,7 +341,9 @@ Udamalaipet, Thoppampatti, Nilakkotai and Cheranmahadevi.
 
 Cement production and consumption continue to grow despite the general recession in the economy. India is one of the largest cement producers and ranked second in the world with an annual production capacity of 181 million tons. Tamil Nadu Cements Corporation Limited (TANCEM) is one among the major cement producers in Tamil Nadu operating two cement units: one at Ariyalur and another at Alangulam. Asbestos cement sheet plant at Alangulam and stoneware pipe unit at Virudhachalam are the other units of TANCEM. Sankar Cement, Zuari Cement, Ultratech Cement, Madras Cement and Dalmia Cement are the major private cement brands produced in Tamil Nadu.
 
-## 7.9 Information Technology
+<a id="topic-7-9"></a>
+
+## 7.9 Information Technology
 
 According to National Association of
 
@@ -359,6 +385,8 @@ Sugar industry in Tamil Nadu is an important agro-based industry. It plays a vit
 
 Tourism is considered as an industry because of its enormous potential in creating employment for a large number of people. In recent years, the state has emerged as one of the leading tourist destinations for both domestic and foreign tourists. Tourism in Tamil Nadu is promoted by Tamil Nadu Tourism Development Corporation (TTDC). The presence of ancient monuments, pilgrim centres, hill stations, a variety of natural landscapes, long coastline, along with rich culture and heritage make Tamil Nadu the best destination for tourists.
 
+<a id="topic-7-10"></a>
+
 ## 7.10 Population
 
 The term ‘population’ refers to the number of people living in a defined area. The statistical study of the characteristics of human population is called demography.
@@ -397,7 +425,9 @@ The highest sex ratio is found in The Nilgiris district (1042) followed by Thanj
 
 The district of Kanniyakumari has reported the highest literacy rate while Dharmapuri district has the lowest rate. A high level of literacy rate is also seen in Chennai, Thoothukudi, The Nilgiris and Kancheepuram districts.
 
-## 7.11 Transport and Communication
+<a id="topic-7-11"></a>
+
+## 7.11 Transport and Communication
 
 ### Roadways
 
@@ -421,6 +451,8 @@ Tamil Nadu has four major international airports. Chennai International Airport 
 
 Tamil Nadu has three major ports. They are in Chennai, Ennore and Tuticorin. It has an intermediate port at Nagapattinam and 15 minor ports. All the minor ports are managed by the Tamil Nadu Maritime Board, Chennai Port. This is an artificial harbour and the second principal port in the country for handling containers.
 
+<a id="topic-7-12"></a>
+
 ## 7.12 Communication
 
 Communication is derived from the Latin word communicare, meaning ‘to share’. The act of conveying or exchanging information is called means of communication. They are:
@@ -438,26 +470,32 @@ Communication is derived from the Latin word communicare, meaning ‘to share’
 | Central | Thiruchirapalli |
 | Southern | Madurai |
 
-Not to Scale
+![Tamilnadu - Transport: Roadways and Railways](assets/source-2025-p230-roadways-railways.png)
 
-Not to Scale
+**Tamilnadu - Transport: Roadways and Railways** (Not to Scale)
+
+> Source image note: the map’s frame edge is clipped in the supplied PDF (printed page 230; PDF page 236).
 
 ![](assets/page_013_picture_001.png)
+
+<a id="topic-7-13"></a>
 
 ## 7.13 Trade
 
 Export and import are the two components of trade. Export means goods and services sold for foreign currency. Tamil Nadu contributes 12.2% to the country’s exports. Import refers to goods and services are brought from overseas producers. Tamil Nadu imports many goods from outside. The difference between the values of export and import is called the balance of trade.
 
+| Major Exports of Tamil Nadu | Products |
+|---|---|
+| (i) Agricultural Products | tobacco, cereals, cotton, sugarcane, groundnut, spices and vegetables. |
+| (ii) Leather Products | wallets, purses, pouches, handbags, belts, footwear and gloves. |
+| (iii) Gems and Jewellery | pearls, precious stones, gold jewellery, decorations and antiques. |
+| (iv) Chemicals and related products | paper, chemicals, rubber and glass. |
+
+<a id="topic-7-14"></a>
+
 ## 7.14 Imports of Tamil Nadu
 
 Machineries like transport equipment, machine tools, non-electrical machinery, electrical machinery, pharmaceutical products, petroleum, fertilizers and newsprint are its major imports. The state contributes 10.94% to the country’s trade through major ports.
-
-| Major Exports of Tamil Nadu |  |
-|---|---|
-| (i) Agricultural Products | tobacco, cereals, cotton, sugarcane, groundnut, spices and vegetables. |
-| (ii) L eather Products | wallets, purses, pouches, handbags, belts, footwear and gloves. |
-| (iii) G ems and Jewellery | pearls, precious stones, gold jewellery, decorations and antiques. |
-| (iv) C hemicals and related products | paper, chemicals, rubber and glass. |
 
 The above discussion shows that Tamil Nadu is an important state of India in terms of size, population, resources and economic development. People in the state are well secured. The new schemes introduced by the state government periodically have enabled notable progress in various fields.
 
@@ -471,61 +509,52 @@ Tropical crops like paddy, millets, pluses, oilseeds and plantation crops of tea
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. The delta which is known as Granary of
+1. The delta which is known as Granary of
 
 South India is a) Cauvery delta b) Mahanadi delta c) Godavari delta d) Krishna delta
 
-2. Second staple food of the people of
+2. Second staple food of the people of
 
 Tamil Nadu is a) Pulses b) Millets c) Oilseeds d) Rice
 
-3. A major hydro-electric power project of
+3. A major hydro-electric power project of
 
 Tamil Nadu is a) Mettur b) Papansam c) Sathanur d) Thungabahdra
 
-4. Number of major and minor ports in
+4. Number of major and minor ports in
 
 Tamil Nadu are a) 3 and 15 b) 4 and 16 c) 3 and 16 d) 4 and 15
 
 **II Fill in the blanks**
 
-1. Agriculture of Tamil Nadu constitutes
+1. Agriculture of Tamil Nadu constitutes
 
 ____________ % of its economy.
 
-2. Sathanur Dam is constructed across the river ____________.
+2. Sathanur Dam is constructed across the river ____________.
 
-3. ___________ is the third largest airport in
+3. ___________ is the third largest airport in
 
 India after Mumbai and Delhi.
 
-4. The difference between the value of exports and imports is called ___________.
+4. The difference between the value of exports and imports is called ___________.
 
 **III Match the following**
 
-1. Bauxite
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Bauxite | Salem |
+| 2 | Gypsum | Servaroy hills |
+| 3 | Iron ore | Coimbatore |
+| 4 | Limestone | Tiruchirapalli |
 
-– Salem
-
-2. Gypsum
-
-– Servaroy hills
-
-3. Iron ore
-
-– Coimbatore
-
-4. Limestone
-
-– Tiruchirapalli
-
-**IV Questions 1-2 are assertion and**
+**IV Questions 1-2 are assertion and**
 
 **reasoning type**
 
-1. Assertion (A): Coimbatore, Tiruppur,
+1. Assertion (A): Coimbatore, Tiruppur,
 
 Erode, Karur and Salem region is called as The Textile Valley of Tamil Nadu.
 
@@ -539,7 +568,7 @@ Reason (R): They contribute a major share to the states economy through textiles
 
 (d) (A) is false but (R) is true
 
-2. Assertion (A): The Nilgiris is the least populated district of Tamil Nadu
+2. Assertion (A): The Nilgiris is the least populated district of Tamil Nadu
 
 Reason (R): It is located in the western most part of Tamil Nadu.
 
@@ -553,15 +582,15 @@ Reason (R): It is located in the western most part of Tamil Nadu.
 
 **V Answer the following in brief**
 
-1. What are the cropping seasons of Tamil Nadu
+1. What are the cropping seasons of Tamil Nadu
 
-2. Why is Coimbatore called the Manchester of South India?
+2. Why is Coimbatore called the Manchester of South India?
 
-3. Name the important multipurpose projects of Tamil Nadu.
+3. Name the important multipurpose projects of Tamil Nadu.
 
 4. What is MRTS?
 
-5. List out the air ports and sea ports of Tamil Nadu.
+5. List out the air ports and sea ports of Tamil Nadu.
 
 **VI Distinguish between the following**
 
@@ -573,23 +602,23 @@ Reason (R): It is located in the western most part of Tamil Nadu.
 
 **VII Give reasons for the following**
 
-1. Farmers switch over from inorganic to organic farming.
+1. Farmers switch over from inorganic to organic farming.
 
-2. Cities are densely populated than the villages.
+2. Cities are densely populated than the villages.
 
 **VIII Answer the following in a paragraph**
 
-1. Write about the plantation farming of Tamil Nadu.
+1. Write about the plantation farming of Tamil Nadu.
 
-2. Give an account on water resources of Tamil Nadu.
+2. Give an account on water resources of Tamil Nadu.
 
-3. Bring out the mineral distribution in Tamil Nadu.
+3. Bring out the mineral distribution in Tamil Nadu.
 
-4. Explain the different modes of transport available in Tamil Nadu.
+4. Explain the different modes of transport available in Tamil Nadu.
 
 **IX Map exercise**
 
-1. Mark the areas of major crops, minerals, dams, air ports and sea ports in the outline map of Tamil Nadu.
+1. Mark the areas of major crops, minerals, dams, air ports and sea ports in the outline map of Tamil Nadu.
 
 ### REFERENCE BOOKS
 
@@ -615,9 +644,17 @@ Kottayam.
 
 4. http://www.fisheries.tn.gov.in/
 
-5. https://www.census2011.co.in/census/state/tamil+nadu.html
+5. https://www.census2011.co.in/census/state/tamil+nadu.html
 
 ### GLOSSARY
+
+**Original geography glossary (printed pages 235–237)**
+
+![Geography glossary, source page 235](assets/source-2025-p235-geography-glossary.png)
+
+![Geography glossary, source page 236](assets/source-2025-p236-geography-glossary.png)
+
+![Geography glossary, source page 237](assets/source-2025-p237-geography-glossary.png)
 
 Back waters: The part of a river which are stagnant and do not reach the sea as they are pushed by the current.
 
@@ -627,9 +664,7 @@ Doab: A land between the two converging rivers.
 
 Estuary: Mouth of a river where it enters the sea through a single channel with a hollow.
 
-### Perennial
-
-Rivers: The rivers which flow throughout the year and have permanent source of water.
+**Perennial Rivers:** The rivers which flow throughout the year and have permanent source of water.
 
 Pass: A narrow gap through the mountains providing a route or passage way.
 
@@ -659,15 +694,11 @@ Bhangar: Older alluvium soil found in 30 mts above flood level.
 
 Soil erosion: Removal of top soil.
 
-### Soil
-
-conservation: Prevention of soil from erosion and protecting its fertility.
+**Soil conservation:** Prevention of soil from erosion and protecting its fertility.
 
 Irrigation: Watering of plants through artificial means.
 
-### Multipurpose projects:
-
-Construction of dams across rivers aimed at many purposes.
+**Multipurpose projects:** Construction of dams across rivers aimed at many purposes.
 
 Agriculture: It is the process of producing food, feed, fibre and many other desired products by the cultivation of certain plants and the raising of domesticated plants.
 
@@ -703,9 +734,7 @@ Dams: A barrier constructed to hold back water and raise its level, forming a re
 
 Delta: A triangular shaped alluvial tract formed at the mouth of a river.
 
-### Density of
-
-population: The average number of inhabitants living per sq km area
+**Density of population:** The average number of inhabitants living per sq km area
 
 Drought: It is a natural disaster of below average precipitation in a given region resulting water shortage.
 
@@ -749,9 +778,7 @@ Plateau: An extensive elevated area of relatively a flat land.
 
 Population: All the people living in a particular country, area, or place
 
-### Population census:
-
-Official enumeration of population along with economic and social attributes of a region at a specified interval.
+**Population census:** Official enumeration of population along with economic and social attributes of a region at a specified interval.
 
 Protected Forest(PF): An area notified under the provisions of the Indian Forest Act or other State Forest Acts, having limited degree of protection. In protected forest all activities are permitted unless prohibited.
 
@@ -769,12 +796,76 @@ Stampede: a situation in which a large number of animals or people running in th
 
 Strait: A narrow passage of water connecting two seas or two other large areas of water.
 
-### Subsistence intensive
-
-farming: It is a type of farming in which crops grown are consumed by the family with little surplus to sell.
+**Subsistence intensive farming:** It is a type of farming in which crops grown are consumed by the family with little surplus to sell.
 
 Unclassed Forest: An area recorded as forest but not included in reserved or protected forest category.
 
-### UNESCO World Heritage Site:
+**UNESCO World Heritage Site:** Representing the main ecosystem of the planet in which genetic resources would be protected, and where research on the ecosystem as well as monitoring and training work could be carried.
 
-Representing the main ecosystem of the planet in which genetic resources would be protected, and where research on the ecosystem as well as monitoring and training work could be carried.
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Human Geography of Tamil Nadu](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Tamil Nadu, the Growing Global Export Hub](https://www.youtube.com/watch?v=F7AmKFi2Qsw) — Guidance Tamil Nadu; English. Covers selected concepts; see the topic table below.
+- [How Imports and Exports Affect You](https://www.youtube.com/watch?v=2g7Wg0bemzM) — Amit Sengupta; English. Covers selected concepts; see the topic table below.
+- [30. Tamil Nadu - Human Geography \| 10th Geography \| Best Revision Video](https://www.youtube.com/watch?v=_jk1mOfbsLM) — V V TNPSC ACADEMY; Tamil explanation.
+- [Densely populated regions of Tamil Nadu — Tamil](https://www.youtube.com/watch?v=oYn-jLsLuw8) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Major Crops Cultivated in Tamil Nadu — Cropping Seasons](https://www.youtube.com/watch?v=xiMMw6p2W9o) — Vimal ananthan AP; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Major Dams and Reservoirs in Tamil Nadu — Tamil](https://www.youtube.com/watch?v=ocP_zVwhr60) — TNPSC Vetripaadhai (as identified by creator tags); Tamil explanation. Covers selected concepts; see the topic table below.
+- [Mineral Resources of Tamil Nadu](https://www.youtube.com/watch?v=aWLXnHBaR9E) — Vimal ananthan AP; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Major Industrial Clusters and Their Specialization in Tamil Nadu](https://www.youtube.com/watch?v=1YV4u6vaX8Q) — Learn with Real Time Examples; language not verified. Covers selected concepts; see the topic table below.
+- [கறவை மாடு வளர்ப்பு — Successful Farmer Story](https://www.youtube.com/watch?v=mnHG59-DsQ4) — DD Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [தமிழ்நாடு மின்ஆளுமை ஆணையரகத்தின் தகவல் தொழில்நுட்பம் சார்ந்த பேரிடர் கால பணிகள்](https://www.youtube.com/watch?v=4ZiRKASetHA) — TNeGA Official; Tamil explanation. Covers selected concepts; see the topic table below.
+- [TIDEL Park, Chennai — IT Park overview](https://www.youtube.com/watch?v=JEF7cJmAnlc) — Creator not exposed in available index; language not verified. Covers selected concepts; see the topic table below.
+- [A Short Film on Chennai Metro Rail Project](https://www.youtube.com/watch?v=4g9CeRBfGZE) — ChennaiMetroRail; language not verified. Covers selected concepts; see the topic table below.
+- [Communication — Personal and Mass Communication, English content explained in Tamil](https://www.youtube.com/watch?v=dQeHhsAekk8) — Super Smart; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Bhuvan 2D — Tamil Nadu land use, cities and water](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) — ISRO / NRSC; English. Runtime and answers have not been fully tested.
+- [SIPCOT industrial parks and SEZ map](https://sipcot.tn.gov.in/portal/pages/sipcotmap) — SIPCOT; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [7.1 Agriculture](#topic-7-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=xiMMw6p2W9o) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [7.2 Geographical determinants of Agriculture](#topic-7-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=xiMMw6p2W9o) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [7.3 Cropping Seasons in Tamil Nadu](#topic-7-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=xiMMw6p2W9o) | [Lesson activities](#interactive-resources) |
+| [7.4 Distribution of major crops in Tamil Nadu](#topic-7-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=xiMMw6p2W9o) | [Lesson activities](#interactive-resources) |
+| [7.5 Livestock/Animal Husbandry](#topic-7-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=mnHG59-DsQ4) | [Lesson activities](#interactive-resources) |
+| [7.6 Water Resource](#topic-7-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=ocP_zVwhr60) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [7.7 Mineral Resources](#topic-7-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=aWLXnHBaR9E) | [Lesson activities](#interactive-resources) |
+| [7.8 Industries](#topic-7-8) | [Topic video (language not verified)](https://www.youtube.com/watch?v=1YV4u6vaX8Q) | [Topic activity](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
+| [7.9 Information Technology](#topic-7-9) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=4ZiRKASetHA) | [Topic activity](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
+| [7.10 Population](#topic-7-10) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=oYn-jLsLuw8) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [7.11 Transport and Communication](#topic-7-11) | [Topic video (language not verified)](https://www.youtube.com/watch?v=4g9CeRBfGZE) | [Topic activity](https://bhuvan-app1.nrsc.gov.in/bhuvan2d2.0/) |
+| [7.12 Communication](#topic-7-12) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=dQeHhsAekk8) | [Lesson activities](#interactive-resources) |
+| [7.13 Trade](#topic-7-13) | [Topic video (English)](https://www.youtube.com/watch?v=F7AmKFi2Qsw) | [Lesson activities](#interactive-resources) |
+| [7.14 Imports of Tamil Nadu](#topic-7-14) | [Topic video (English)](https://www.youtube.com/watch?v=2g7Wg0bemzM) | [Lesson activities](#interactive-resources) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `http://www.tn.gov.in/ta/Tamil Nadustate` | URL transcription or spacing issue | [Alternative](https://www.india.gov.in/) |
+| `http://www.environment.tn.nic.in/` | Access not confirmed; failure is not proof of a broken site | — |
+| `http://agritech.tnau.ac.in/` | Page opened in recent check | [Alternative](https://agritech.tnau.ac.in/) |
+| `http://www.fisheries.tn.gov.in/` | Access not confirmed; failure is not proof of a broken site | — |
+| `https://www.census2011.co.in/census/state/tamil+nadu.html` | Page opened in recent check | — |
+
+<!-- supplemental-resources:end -->

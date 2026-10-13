@@ -1,5 +1,7 @@
 # PDF vs content.en — Comparison Status
 
+> **Review update — 13 October 2026:** The sentence-matching results below are historical. “Truly missing:0” does not establish correct glyphs, reading order, vector blanks, nested exercises, tables, captions or diagrams. The new English PDF/page-image repairs and source views are documented in [ENGLISH_TEXTBOOK_REVIEW.md](../../ENGLISH_TEXTBOOK_REVIEW.md). Full character-by-character verification and an accepted complete source-item inventory remain pending; teacher approval is false.
+
 Source: `Class_10_Social_Science_English_2025_Edition` (344 pages, 27 units). The per-unit parsed Markdown is in this folder.
 
 - **Missing (start):** PDF sentences not found in `content.en` before any changes.

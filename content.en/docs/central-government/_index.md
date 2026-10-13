@@ -7,6 +7,10 @@ weight: 19
 summary: "The Central Government is the supreme government in our country. The head quarter of the Central Government is at New Delhi. Articles 52 to 78 in part V of Indian Constitution deals with the Union Executive. The makers of the Indian constitution, by giving due recognition to the…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Civics Unit 2: Central Government
 
 ## Learning Objectives
@@ -27,21 +31,11 @@ summary: "The Central Government is the supreme government in our country. The h
 
 The Central Government is the supreme government in our country. The head quarter of the Central Government is at New Delhi. Articles 52 to 78 in part V of Indian Constitution deals with the Union Executive. The makers of the Indian constitution, by giving due recognition to the vastness and plural character of our nation, have provided a federal arrangement for her governance. The Central Government consists of three organs, namely, Union Executive, Legislature and Judiciary. The Union Executive consists of the President of India, the Vice-President, and the Council of Ministers headed by the Prime Minister, and the Attorney-General of India. The Union Legislature is known as the Parliament.
 
-Judiciary Legislature Executive
-
-President of India
-
-Parliament Supreme Court of India other Judges Lok Sabha Rajya Sabha Vice-President
-
-Prime Minister
-
-Council of
-
-Ministers
-
-Chief Justice of India and
-
 It consists of two houses, namely the Rajya Sabha and the Lok Sabha. The Union Judiciary consists of the Supreme Court of India.
+
+![Original textbook diagram](assets/source-en-p254-figure-1.png)
+
+<a id="topic-2-1"></a>
 
 ## 2.1 The President of India
 
@@ -51,9 +45,7 @@ The President is the nominal executive authority. The chief executive of the Ind
 
 DR. RAJENDRA PRASAD (First President of India)
 
-### Qualification for the election as
-
-### President
+### Qualification for the election as President
 
 - He should be a citizen of India.
 
@@ -113,6 +105,8 @@ The President has been empowered by the Constitution to proclaim National Emerge
 
 The President may by writing under his hand addressed to the Vice-President, resign his office. The President may, for violation of the Constitution, be removed from office by impeachment in the manner provided in Article 61; The Impeachment action can be brought about in the form of resolution in either house of the Parliament. It must be supported by not less than One-Fourth of the total strength of the House for its introduction. The President shall, in spite of the conclusion of his term, continue to hold office until his successor enters upon his office.
 
+<a id="topic-2-2"></a>
+
 ## 2.2 Vice-President
 
 The Vice-President occupies the second highest office in the country. He is accorded a rank next to the President in the official warrant of precedence. This office is modelled on the lines of the American Vice-President.
@@ -163,6 +157,8 @@ The Vice-President may be removed from his office by a resolution of the Council
 
 According to Article (100) of the Constitution, the vice-president can\only cast his vote when there is a tie over the Bill in the Rajya Sabha. It means that there is need for one vote only to pass the Bill. No members have any right to oppose his decision.
 
+<a id="topic-2-3"></a>
+
 ## 2.3 Prime Minister
 
 Article 74 (1) says: There shall be a council of ministers with the Prime Minster as the head to aid and advise the President.
@@ -211,7 +207,7 @@ The ministers are classified under three ranks
 
 (iii) Deputy Ministers.
 
-### Cabinet Ministers
+### Cabinet Ministers
 
 The Cabinet is an informal body of senior ministers who form the nucleus of administration. Important decisions of the government are taken by the Cabinet, such as defense, finance, external affairs and home.
 
@@ -222,6 +218,8 @@ These ministers belong to the second category of ministers in the council. They 
 ### Deputy Ministers
 
 They are the lowest ranked ministers in the cabinet. They assist either the Ministers of Cabinet or State in the performance of the duties entrusted to them.
+
+<a id="topic-2-4"></a>
 
 ## 2.4 Parliament of India
 
@@ -237,7 +235,7 @@ The council of State or Rajya Sabha consists of 250 members, out of whom 238 rep
 
 The 12 nominated members shall be chosen by the President from amongst persons having ‘special knowledge or practical experience in the field of literature, science, sports, art and social service.
 
-### Qualification of the Members
+### Qualification of the Members
 
 - He should be a citizen of India.
 
@@ -263,7 +261,7 @@ Members of Rajya Sabha are elected by the Members of the Legislative Assemblies 
 
 The Lok Sabha is the popular house of the Indian Parliament and contains elected representatives of the people. Maximum number of members can be elected for Lok Sabha is 552. The Lok Sabha as of today has 543 elected members. Out of these, 530 members are elected from different states and 13 members from the Union Territories.
 
-### Qualification of the Members
+### Qualification of the Members
 
 - He should be a citizen of India.
 
@@ -336,13 +334,17 @@ Speaker continues to be in the office even in the houses dissolved, till a new S
 
 - The Parliament has the power to change the boundaries of the States.
 
-## 2.5 Attorney General of India
+<a id="topic-2-5"></a>
+
+## 2.5 Attorney General of India
 
 The Constitution (Article 76) has provided for office of the Attorney General for India. He is the highest law officer in the country. He is appointed by the President. He must be a person who is qualified to be appointed the Judge of the Supreme Court. He may be removed by the President at any time. He may also quit his office by submitting his resignation to the President.
 
 ### Duties and Functions of Attorney General of India
 
 To give advice to the Government of India upon such legal matters which are referred to him by the President. Attorney General of India has the right of audience in all courts in the territory of India. Further he has the right to speak and to take part in the proceedings of both Houses of the Parliament or their joint sitting and any committee of the Parliament of which he may be named a member, but without a right to vote. He enjoys all the privileges and immunities that are available to a member of Parliament.
+
+<a id="topic-2-6"></a>
 
 ## 2.6 Judiciary
 
@@ -390,8 +392,6 @@ The Supreme Court is the final appellate court in the country. As regard the App
 
 The Constitution confers on the President the power to refer to the Supreme Court any question of law or fact which in his opinion is of public importance.
 
-### SUMMARY
-
 ### (d) Miscellaneous Jurisdiction
 
 - The law declared by Supreme Court is binding on all courts within the territory of India.
@@ -402,13 +402,15 @@ The Constitution confers on the President the power to refer to the Supreme Cour
 
 The power of the judiciary to examine, if a law is unconstitutional, is known as “Judicial Review”. The Supreme Court enjoys this power. The Supreme Court of India has Individual Review Power with regard to
 
-1. Dispute between the Centre and the States
+1. Dispute between the Centre and the States
 
 2. To interpret and clarify a provision of the constitution about which there are some doubts and differences of opinion.
 
 3. Protecting the fundamental rights,
 
 4. Those laws passed by the legislatures which are not in accordance with the Constitution.
+
+### SUMMARY
 
 - The Central Government consists of three organs, namely, Union Executive, Legislature and Judiciary.
 
@@ -435,121 +437,177 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
 
 ![](assets/page_010_picture_001.png)
 
+![GLOSSARY](assets/source-en-p262-glossary-1.png)
+
 ### EVALUATION
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. The Constitutional Head of the Union is a) The President b) The Chief Justice c) The Prime Minister d) Council of Ministers
+1. The Constitutional Head of the Union is
 
-2. Who among the following decides whether a Bill is a Money Bill or not? a) The President b) Attorney General c) Parliamentary Affairs Minister d) Speaker of Lok Sabha
+    a) The President
 
-3. The Council of Ministers is collectively responsible to the: a) The President b) Lok Sabha c) The Prime Minister d) Rajya Sabha
+    b) The Chief Justice
 
-4. What is minimum age laid down for a candidate to seek election to the Lok Sabha? a) 18 years b) 21 years c) 25 years d) 30 years
+    c) The Prime Minister
 
-5. The authority to alter the boundaries of state in India rest with? a) The President b) The Prime Minister c) State Government d) Parliament
+    d) Council of Ministers
 
-6. Under which Article the President is vested with the power to proclaim Financial Emergency a) Article 352 b) Article 360 c) Article 356 d) Article 365
+2. Who among the following decides whether a Bill is a Money Bill or not?
 
-7. The Chief Justice and other Judges of the Supreme court are appointed by: a) The President b) TheAttorney General c) The Governor d) The Prime Minister
+    a) The President
+
+    b) Attorney General
+
+    c) Parliamentary Affairs Minister
+
+    d) Speaker of Lok Sabha
+
+3. The Council of Ministers is collectively responsible to the:
+
+    a) The President
+
+    b) Lok Sabha
+
+    c) The Prime Minister
+
+    d) Rajya Sabha
+
+4. What is minimum age laid down for a candidate to seek election to the Lok Sabha?
+
+    a) 18 years
+
+    b) 21 years
+
+    c) 25 years
+
+    d) 30 years
+
+5. The authority to alter the boundaries of state in India rest with?
+
+    a) The President
+
+    b) The Prime Minister
+
+    c) State Government
+
+    d) Parliament
+
+6. Under which Article the President is vested with the power to proclaim Financial Emergency
+
+    a) Article 352
+
+    b) Article 360
+
+    c) Article 356
+
+    d) Article 365
+
+7. The Chief Justice and other Judges of the Supreme court are appointed by:
+
+    a) The President
+
+    b) TheAttorney General
+
+    c) The Governor
+
+    d) The Prime Minister
 
 **II Fill in the blanks**
 
-1. _________ Bill cannot be introduced in the Parliament without President’s approval.
+1. _________ Bill cannot be introduced in the Parliament without President’s approval.
 
-2. __________ is the leader of the nation and chief spokesperson of the country.
+2. __________ is the leader of the nation and chief spokesperson of the country.
 
-3. ______________ is the Ex-officio Chairperson of the Rajya Sabha.
+3. ______________ is the Ex-officio Chairperson of the Rajya Sabha.
 
-4. ________ has the right to speak and to take part in the proceedings of both Houses of the Parliament.
+4. ________ has the right to speak and to take part in the proceedings of both Houses of the Parliament.
 
-5. The Chief Justice and other judges of the Supreme Court hold the office up to the age of ________years.
+5. The Chief Justice and other judges of the Supreme Court hold the office up to the age of ________years.
 
-6. ____________ is the Guardian of the Constitution.
+6. ____________ is the Guardian of the Constitution.
 
 **III Choose the correct statement**
 
-1. i) Total members of the Rajya Sabha is
+1. i) Total members of the Rajya Sabha is 250.
 
-250.
+    ii) The 12 nominated members shall be chosen by the President from amongst persons experience in the field of literature, science, art and social service.
 
-ii) The 12 nominated members shall be chosen by the President from amongst persons experience in the field of literature, science, art and social service.
+    iii) The Members of the Rajya Sabha should not be less than 30 years of age.
 
-iii) The Members of the Rajya Sabha should not be less than 30 years of age.
+    iv) The members of the Rajya Sabha are directly elected by the peoples.
 
-iv) The members of the Rajya Sabha are directly elected by the peoples.
+    a) ii & iv are correct
 
-a) ii & iv are correct b) iii & iv are correct c) i & iv are correct d) i, ii & iii are correct
+    b) iii & iv are correct
 
-2. i) The Chief Justice and other judges of the
+    c) i & iv are correct
 
-Supreme Court hold the office up to the age of 62 years.
+    d) i, ii & iii are correct
 
-ii) Judiciary is the third organ of the government.
+2. i) The Chief Justice and other judges of the Supreme Court hold the office up to the age of 62 years.
 
-iii) The cases involving fundamental rights come under the Appellate jurisdiction of the Supreme Court.
+    ii) Judiciary is the third organ of the government.
 
-iv) The law declared by Supreme Court is binding on all courts within the territory of India.
+    iii) The cases involving fundamental rights come under the Appellate jurisdiction of the Supreme Court.
 
-a) ii & iv are correct b) iii & iv are correct c) i & iv are correct d) i & ii are correct
+    iv) The law declared by Supreme Court is binding on all courts within the territory of India.
+
+    a) ii & iv are correct
+
+    b) iii & iv are correct
+
+    c) i & iv are correct
+
+    d) i & ii are correct
 
 **IV Match the following**
 
-1. Article 53 - State Emergency
-
-2. Article 63
-
-- Internal Emergency
-
-3. Article 356 - Executive power of President
-
-4. Article 76
-
-- Office of the Vice-President
-
-5. Article 352 - Office of the Attorney
-
-General
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Article 53 | State Emergency |
+| 2 | Article 63 | Internal Emergency |
+| 3 | Article 356 | Executive power of President |
+| 4 | Article 76 | Office of the Vice-President |
+| 5 | Article 352 | Office of the Attorney General |
 
 **V Answer the brief questions**
 
 1. How is President of India elected?
 
-2. What are the different categories of Ministers at the Union level?
+2. What are the different categories of Ministers at the Union level?
 
 3. Write short note: Money Bill.
 
-4. List out any two special powers of the Attorney General of India?
+4. List out any two special powers of the Attorney General of India?
 
-5. What is the qualification of Judges of the Supreme Court?
+5. What is the qualification of Judges of the Supreme Court?
 
 **VI Answer in detail**
 
-1. Describe the Executive and Judicial powers of the President of India.
+1. Describe the Executive and Judicial powers of the President of India.
 
-2. What are the Duties and functions of Prime Minister of India?
+2. What are the Duties and functions of Prime Minister of India?
 
-3. Critically examine the Powers and Functions of the Parliament.
+3. Critically examine the Powers and Functions of the Parliament.
 
-## ICT CORNER
-
-4. Explain any three Jurisdiction of the Supreme Court of India?
+4. Explain any three Jurisdiction of the Supreme Court of India?
 
 **VII Project and activity**
 
-1. Organise a mock parliament in your class. Discuss the role of President, Prime Minister and Ministers.
+1. Organise a mock parliament in your class. Discuss the role of President, Prime Minister and Ministers.
 
-2. Bring out the differences and similarities between the US and Indian President’s.
+2. Bring out the differences and similarities between the US and Indian President’s.
 
-3. Make a list of Presidents and Prime Ministers of India.
+3. Make a list of Presidents and Prime Ministers of India.
 
 ### REFERENCE BOOKS
 
-1. D.D. Basu - Introduction to the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
+1. D.D. Basu - Introduction to the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
 
-2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
+2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
 
-3. Subhash Kashyap - Our Constitution, National Book Trust, India, 2011.
+3. Subhash Kashyap - Our Constitution, National Book Trust, India, 2011.
 
 ### INTERNET RESOURCES
 
@@ -563,21 +621,15 @@ General
 
 5. https://www.sci.gov.in/
 
+## ICT CORNER
+
 ## Steps
 
-- 
+- Open the Browser and type the URL given below.
 
-Open the Browser and type the URL given below.
+- Click on the items under the who’s who menu to view the current Governing bodies and also know about the Lok Sabha & the Rajya Sabha.
 
-- 
-
-Click on the items under the who’s who menu to view the current Governing bodies and also know about the Lok Sabha & the Rajya Sabha.
-
-- 
-
-For example, click on the president from the left-side menu to view the details of the President.
-
-- 
+- For example, click on the president from the left-side menu to view the details of the President.
 
 ![](assets/page_011_picture_001.png)
 
@@ -586,3 +638,55 @@ Likewise you can view all the details of the current Governing bodies.
 **Website URL:**
 
 https://www.india.gov.in/my-government/whos-who
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Central Government](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [10th Social Civics Unit 2: Central Government — short answers 1, 2, 3](https://www.youtube.com/watch?v=WMaSN9r-Iuo) — HTAS How To Approach Schooling; Tamil explanation.
+- [10th Social Civics: Powers and Functions of Parliament](https://www.youtube.com/watch?v=YEPNcsMXXWg) — HTAS How To Approach Schooling; Tamil explanation.
+- [Vice President of India — Articles, Election and Removal](https://www.youtube.com/watch?v=c4_xD7346ac) — WIN & SHINE IAS / UPSC; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Attorney General of India — Indian Polity](https://www.youtube.com/watch?v=oK6ZzewoY3w) — Ahamed A (as named in video title); Tamil explanation. Covers selected concepts; see the topic table below.
+- [Judicial System in India — Supreme Court and High Court — Tamil](https://www.youtube.com/watch?v=_H-EPTRiH4E) — Quick Learning 4 TNPSC, IBPS, SSC; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Central Government — chapter quiz](https://wordwall.net/resource/10247272/the-indian-government) — Wordwall / original activity author; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [2.1 The President of India](#topic-2-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=WMaSN9r-Iuo) | [Chapter practice](https://wordwall.net/resource/10247272/the-indian-government) |
+| [2.2 Vice-President](#topic-2-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=c4_xD7346ac) | [Chapter practice](https://wordwall.net/resource/10247272/the-indian-government) |
+| [2.3 Prime Minister](#topic-2-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=WMaSN9r-Iuo) | [Topic activity](https://wordwall.net/resource/10247272/the-indian-government) |
+| [2.4 Parliament of India](#topic-2-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=YEPNcsMXXWg) | [Topic activity](https://wordwall.net/resource/10247272/the-indian-government) |
+| [2.5 Attorney General of India](#topic-2-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=oK6ZzewoY3w) | [Chapter practice](https://wordwall.net/resource/10247272/the-indian-government) |
+| [2.6 Judiciary](#topic-2-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=WMaSN9r-Iuo) | [Topic activity](https://wordwall.net/resource/10247272/the-indian-government) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.india.gov.in/my-government/whos-who` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.india.gov.in/) |
+| `https://www.india.org/` | Destination unrelated to this lesson | [Alternative](https://www.india.gov.in/) |
+| `https://presidentofindia.nic.in/` | Page opened in recent check | — |
+| `http://vicepresidentofindia.nic.in/` | Page opened in recent check | [Alternative](https://vicepresidentofindia.nic.in/) |
+| `http://www.pmindia.gov.in/en/` | Page opened in recent check | [Alternative](https://www.pmindia.gov.in/en/) |
+| `https://www.sci.gov.in/` | Page opened in recent check | — |
+
+<!-- supplemental-resources:end -->

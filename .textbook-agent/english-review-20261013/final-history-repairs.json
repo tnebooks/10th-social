@@ -1,0 +1,356 @@
+{
+  "teacher_approval": false,
+  "repair_basis": "Source questions and choices already visually checked; these corrections restore Hugo list hierarchy and remove one source-section duplication.",
+  "repairs": [
+    {
+      "id": "final-history-01-bare-numbered-question-children",
+      "source_file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "expected_sha256": "1aaa1233496fd40263367009999c878a2dafdfab8b5c12ce37e08d964f8b5c32",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - i) The Turkish Empire contained many non-Turkish people in the Balkans.\n   - ii) Turkey fought on the side of the central powers\n   - iii) Turkey’s attempt to attack Suez Canal but were repulsed.\n   - a) i) and ii) are correct\n   - b) i) and iii) are correct\n   - c) ii) and iii) are correct\n   - d) i), ii) and iii) are correct\n\n",
+      "old_text_sha256": "d21205d0796b3fa4ad5924af7236a521e1f0537d245460432ca4c20ccbff7687",
+      "replacement_text": "1.\n    - i) The Turkish Empire contained many non-Turkish people in the Balkans.\n    - ii) Turkey fought on the side of the central powers\n    - iii) Turkey’s attempt to attack Suez Canal but were repulsed.\n    - a) i) and ii) are correct\n    - b) i) and iii) are correct\n    - c) ii) and iii) are correct\n    - d) i), ii) and iii) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 20,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-02-bare-numbered-question-children",
+      "source_file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "expected_sha256": "efb1f6c8535d28f35570f37a415fccce5e52c759a85f362f1e82ffddaf982555",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front\n   - ii) The first huge market crash in the US occurred on 24 October 1929.\n   - iii) The ban on African National Congress was lifted in 1966.\n   - a) i) and ii) are correct\n   - b) iii) is correct\n   - c) ii) and iii) are correct\n   - d) i), ii) and iii) are correct\n\n",
+      "old_text_sha256": "07d9004df9fc7a1fa51fab035baaee2bae6f29e119100f0ee7726315650c31b3",
+      "replacement_text": "1.\n    - i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front\n    - ii) The first huge market crash in the US occurred on 24 October 1929.\n    - iii) The ban on African National Congress was lifted in 1966.\n    - a) i) and ii) are correct\n    - b) iii) is correct\n    - c) ii) and iii) are correct\n    - d) i), ii) and iii) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 31,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-04-bare-numbered-question-children",
+      "source_file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "expected_sha256": "89dd3becf22726b6f813fc9d7850aada09853d300b627ea8b0eb43c092ca2347",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.\n   - ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region.\n   - iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.\n   - a) (ii) and (iii) are correct\n   - b) (i) and (ii) are correct\n   - c) (i) and (iii) are correct\n   - d) (i), (ii) and (iii) are correct\n\n",
+      "old_text_sha256": "3ab1b8706229a5cdca38dd5da19eef71126345e6fa710ed957b13f8fca6f2db0",
+      "replacement_text": "1.\n    - i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.\n    - ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region.\n    - iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.\n    - a) (ii) and (iii) are correct\n    - b) (i) and (ii) are correct\n    - c) (i) and (iii) are correct\n    - d) (i), (ii) and (iii) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 57,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 58,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-05-bare-numbered-question-children",
+      "source_file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "expected_sha256": "7f2d82f4afdc06de9eb87d1d3bd017accb7e5b8be31c0397799943f77d255645",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - i) Raja Rammohan Roy preached monotheism\n   - ii) He encouraged idolatry\n   - iii) He published tracts condemning social evils\n   - a) i) is correct\n   - b) i) and ii) are correct\n   - c) i), ii) and iii) are correct\n   - d) i) and iii) are correct\n\n2.\n   - i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang\n   - ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage\n   - iii) Jyotiba Phule worked for the upliftment of men.\n   - iv) Prarthana Samaj had it’s origin in the Punjab.\n   - a) i) is correct\n   - b) ii) is correct\n   - c) i) and ii) are correct\n   - d) iii) and iv) are correct\n\n3.\n   - i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities.\n   - ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices.\n   - iii) Ramakrishna established the Ramakrishna Mission\n   - a) i) is correct\n   - b) i) and ii) are correct\n   - c) iii) is correct\n   - d) i) and iii) correct\n\n",
+      "old_text_sha256": "2b7308ecb80e788569807c3135a469713acec1d2f6bc9df78207a83471e50bd0",
+      "replacement_text": "1.\n    - i) Raja Rammohan Roy preached monotheism\n    - ii) He encouraged idolatry\n    - iii) He published tracts condemning social evils\n    - a) i) is correct\n    - b) i) and ii) are correct\n    - c) i), ii) and iii) are correct\n    - d) i) and iii) are correct\n\n2.\n    - i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang\n    - ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage\n    - iii) Jyotiba Phule worked for the upliftment of men.\n    - iv) Prarthana Samaj had it’s origin in the Punjab.\n    - a) i) is correct\n    - b) ii) is correct\n    - c) i) and ii) are correct\n    - d) iii) and iv) are correct\n\n3.\n    - i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities.\n    - ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices.\n    - iii) Ramakrishna established the Ramakrishna Mission\n    - a) i) is correct\n    - b) i) and ii) are correct\n    - c) iii) is correct\n    - d) i) and iii) correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 66,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 67,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 68,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-06-bare-numbered-question-children",
+      "source_file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "expected_sha256": "2ebc41e29f10b552b61f6552ae8b7ba1a4d8faf1e54b38f4f81c6a9f2c0f23ec",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - i) The Palayakkarars system was in practice in the Kakatiya Kingdom.\n   - ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.\n   - iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the Company administration was charged with treachery and hanged in 1764.\n   - iv) Ondiveeran led one of the army units of Kattabomman.\n   - a) (i), (ii) and (iv) are correct\n   - b) (i), (ii) and (iii) are correct\n   - c) (iii) and (iv) are correct\n   - d) (i) and (iv) are correct\n\n2.\n   - i) Under Colonel Campbell, the English Army went along with Mahfuzkhan’s army.\n   - ii) After Muthu Vadugar’s death in Kalaiyar Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her.\n   - iii) Gopala Nayak spearheaded the famous Dindigul League.\n   - iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.\n   - a) (i) and (ii) are correct\n   - b) (ii) and (iii) are correct\n   - c) (ii), (iii) and (iv )are correct\n   - d) (i) and (iv) are correct\n\n",
+      "old_text_sha256": "635ca9e8cccd86c5b092debe2d9d494c293b86323e18d9225e072b5be8902cfb",
+      "replacement_text": "1.\n    - i) The Palayakkarars system was in practice in the Kakatiya Kingdom.\n    - ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.\n    - iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the Company administration was charged with treachery and hanged in 1764.\n    - iv) Ondiveeran led one of the army units of Kattabomman.\n    - a) (i), (ii) and (iv) are correct\n    - b) (i), (ii) and (iii) are correct\n    - c) (iii) and (iv) are correct\n    - d) (i) and (iv) are correct\n\n2.\n    - i) Under Colonel Campbell, the English Army went along with Mahfuzkhan’s army.\n    - ii) After Muthu Vadugar’s death in Kalaiyar Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her.\n    - iii) Gopala Nayak spearheaded the famous Dindigul League.\n    - iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.\n    - a) (i) and (ii) are correct\n    - b) (ii) and (iii) are correct\n    - c) (ii), (iii) and (iv )are correct\n    - d) (i) and (iv) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 78,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 79,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 80,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-07-bare-numbered-question-children",
+      "source_file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "expected_sha256": "82864d6e36c85c438a292ec3a440e2546f6909c00742bfc6c396a2eaeb38b6ec",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - (i) The Company received ₹22.5 million from Mir Jafar and invested it to propel the industrial revolution in Britain.\n   - (ii) Kols organized an insurrection in 1831-1832, which was directed against government officers and moneylenders.\n   - (iii) In 1855, two Santhal brothers, Sidhu and Kanu, led the Santhal Rebellion.\n   - (iv) In 1879, an Act was passed to regulate the territories occupied by the Santhals.\n   - a) (i), (ii) and (iii) are correct\n   - b) (ii) and (iii) are correct\n   - c) (iii) and (iv) are correct\n   - d) (i) and (iv) are correct\n\n2.\n   - (i) One of the most significant contributions of the early Indian Nationalists was the formulation of an economic critique of colonialism.\n   - (ii) The early Congress leaders stated that the religious exploitation in India was the primary reason for the growing poverty.\n   - (iii) One of the goals of the moderate Congress leaders was to achieve Swaraj or self-rule.\n   - (iv) The objective of Partition of Bengal was to curtail the Bengali influence and weaken the nationalist movement.\n   - a) (i) and (iii) are correct\n   - b) (i) and (iv) are correct\n   - c) (ii) and (iii) are correct\n   - d) (iii) and (iv) are correct\n\n",
+      "old_text_sha256": "e1140a99ed92c207d5e84226441f05e78f822c7b35877b57e56eefc0decafc52",
+      "replacement_text": "1.\n    - (i) The Company received ₹22.5 million from Mir Jafar and invested it to propel the industrial revolution in Britain.\n    - (ii) Kols organized an insurrection in 1831-1832, which was directed against government officers and moneylenders.\n    - (iii) In 1855, two Santhal brothers, Sidhu and Kanu, led the Santhal Rebellion.\n    - (iv) In 1879, an Act was passed to regulate the territories occupied by the Santhals.\n    - a) (i), (ii) and (iii) are correct\n    - b) (ii) and (iii) are correct\n    - c) (iii) and (iv) are correct\n    - d) (i) and (iv) are correct\n\n2.\n    - (i) One of the most significant contributions of the early Indian Nationalists was the formulation of an economic critique of colonialism.\n    - (ii) The early Congress leaders stated that the religious exploitation in India was the primary reason for the growing poverty.\n    - (iii) One of the goals of the moderate Congress leaders was to achieve Swaraj or self-rule.\n    - (iv) The objective of Partition of Bengal was to curtail the Bengali influence and weaken the nationalist movement.\n    - a) (i) and (iii) are correct\n    - b) (i) and (iv) are correct\n    - c) (ii) and (iii) are correct\n    - d) (iii) and (iv) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 92,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 93,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-08-bare-numbered-question-children",
+      "source_file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+      "expected_sha256": "84da686392ea95a9238f536a70b4b9717afbd7e4b78f9486190073766b1b8a5c",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - (i) The Communist Party of India was founded in Tashkent in 1920.\n   - (ii) M. Singaravelar was tried in the Kanpur Conspiracy Case.\n   - (iii) The Congress Socialist Party was formed by Jayaprakash Narayan, Acharya Narendra Dev and Mino Masani.\n   - (iv) The Socialists did not participate in the Quit India Movement.\n   - a) (i) and (ii) are correct\n   - b) (ii) and (iii) are correct\n   - c) (iv) is correct\n   - d) (i), (ii) and (iii) are correct\n\n",
+      "old_text_sha256": "44e6181f9ebabc24c7495dc3962eeecd7b882fa2b56a4a0be45b63fa73feaf2d",
+      "replacement_text": "1.\n    - (i) The Communist Party of India was founded in Tashkent in 1920.\n    - (ii) M. Singaravelar was tried in the Kanpur Conspiracy Case.\n    - (iii) The Congress Socialist Party was formed by Jayaprakash Narayan, Acharya Narendra Dev and Mino Masani.\n    - (iv) The Socialists did not participate in the Quit India Movement.\n    - a) (i) and (ii) are correct\n    - b) (ii) and (iii) are correct\n    - c) (iv) is correct\n    - d) (i), (ii) and (iii) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 109,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 110,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-09-bare-numbered-question-children",
+      "source_file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "expected_sha256": "9e144fc089a97f3244d8cde73dc9a919caa585527b6f98cb66d950d1142707fd",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - (i) Madras Native Association was founded in 1852.\n   - (ii) Tamil nationalist periodical Swadesamitran was started in 1891.\n   - (iii) The Madras Mahajana Sabha demanded conduct of civil services examinations only in India\n   - (iv) V.S. Srinivasanar was an extremist.\n   - a) (i) and (ii) are correct\n   - b) (iii) is correct\n   - c) (iv) is correct\n   - d) All are correct\n\n2.\n   - (i) E.V.R. did not participate in the Non-Cooperation Movement.\n   - (ii) Rajaji worked closely with Yakub Hasan of the Muslim League.\n   - (iii) Workers did not participate in the Non-Cooperation Movement.\n   - (iv) Toddy shops were not picketed in Tamil Nadu.\n   - a) (i) and (ii) are correct\n   - b) (i) and (iii) are correct\n   - c) (ii) is correct\n   - d) (i), (iii) and (iv) are correct\n\n",
+      "old_text_sha256": "93d774f89324cac4a954bbd5fbf36e6a68bc8f1f624f4a7d3e837241011952d0",
+      "replacement_text": "1.\n    - (i) Madras Native Association was founded in 1852.\n    - (ii) Tamil nationalist periodical Swadesamitran was started in 1891.\n    - (iii) The Madras Mahajana Sabha demanded conduct of civil services examinations only in India\n    - (iv) V.S. Srinivasanar was an extremist.\n    - a) (i) and (ii) are correct\n    - b) (iii) is correct\n    - c) (iv) is correct\n    - d) All are correct\n\n2.\n    - (i) E.V.R. did not participate in the Non-Cooperation Movement.\n    - (ii) Rajaji worked closely with Yakub Hasan of the Muslim League.\n    - (iii) Workers did not participate in the Non-Cooperation Movement.\n    - (iv) Toddy shops were not picketed in Tamil Nadu.\n    - a) (i) and (ii) are correct\n    - b) (i) and (iii) are correct\n    - c) (ii) is correct\n    - d) (i), (iii) and (iv) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 119,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 120,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-10-bare-numbered-question-children",
+      "source_file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "expected_sha256": "d4681a935d71842d2265116e94fef6a94d8da059360bf01fb7e3c712f3c5de45",
+      "scope_name": "bare-numbered-question-children",
+      "old_text": "1.\n   - (i) Thirukkural was one of the earliest Tamil literary texts to be published in 1812.\n   - (ii) Maraimalai Adigal collected and edited different palm leaf manuscripts of the Tamil grammars and literature.\n   - (iii) Robert Caldwell established the close affinity between the Dravidian languages in contrast with Sanskrit and also established the antiquity of Tamil.\n   - (iv) Thiru.Vi. Kalyanasundaram was an early pioneer in Trade union movement.\n   - a) (i) and (ii) are correct\n   - b) (i) and (iii) are correct\n   - d) (iv) is correct\n   - e) (ii) and (iii) are correct\n\n",
+      "old_text_sha256": "82c3da51618e7e4fec1c5523ea1547db76bb0858f201855f4d4278f6c1591609",
+      "replacement_text": "1.\n    - (i) Thirukkural was one of the earliest Tamil literary texts to be published in 1812.\n    - (ii) Maraimalai Adigal collected and edited different palm leaf manuscripts of the Tamil grammars and literature.\n    - (iii) Robert Caldwell established the close affinity between the Dravidian languages in contrast with Sanskrit and also established the antiquity of Tamil.\n    - (iv) Thiru.Vi. Kalyanasundaram was an early pioneer in Trade union movement.\n    - a) (i) and (ii) are correct\n    - b) (i) and (iii) are correct\n    - d) (iv) is correct\n    - e) (ii) and (iii) are correct\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 129,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        },
+        {
+          "pdf_page": 130,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-05-III-4-separate-choice-a",
+      "source_file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "expected_sha256": "7f2d82f4afdc06de9eb87d1d3bd017accb7e5b8be31c0397799943f77d255645",
+      "scope_name": "III-4-separate-choice-a",
+      "old_text": "4. Assertion: Jyotiba Phule opened orphanages and homes for widows\n\n   Reason: Jyotiba Phule opposed child marriage and supported widow remarriage a)Assertion is correct but reason is not apt to the assertion\n   - b) Assertion is correct and the reason is apt to the assertion\n   - c) Both are wrong\n   - d) Reason is correct but assertion is irrelevant\n\n",
+      "old_text_sha256": "7843fc7b444337febaec7a024b285ae10f1fba8493392ec7858226d7cc926392",
+      "replacement_text": "4. Assertion: Jyotiba Phule opened orphanages and homes for widows\n\n    Reason: Jyotiba Phule opposed child marriage and supported widow remarriage\n    - a) Assertion is correct but reason is not apt to the assertion\n    - b) Assertion is correct and the reason is apt to the assertion\n    - c) Both are wrong\n    - d) Reason is correct but assertion is irrelevant\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 67,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    },
+    {
+      "id": "final-history-07-remove-duplicate-matching-section",
+      "source_file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "expected_sha256": "82864d6e36c85c438a292ec3a440e2546f6909c00742bfc6c396a2eaeb38b6ec",
+      "scope_name": "remove-duplicate-matching-section",
+      "old_text": "**IV. Match the following**\n\n1. Wahhabi Rebellion - Lucknow\n\n2. Munda Rebellion - Peshwa Baji Rao II\n\n3. Begum Hazarat Mahal - Titu Mir\n\n4. Nana Sahib - Ranchi\n\n",
+      "old_text_sha256": "314f6dabbb13540b28758200eb14ff3f9626469c07e3ad163187b3d1ce3ec08e",
+      "replacement_text": "\n\n",
+      "source_regions": [
+        {
+          "pdf_page": 93,
+          "normalized_bbox": [
+            0.13,
+            0.09,
+            0.87,
+            0.91
+          ]
+        }
+      ],
+      "teacher_approval": false
+    }
+  ],
+  "disposable_hugo_verification": {
+    "passed": true,
+    "lessons": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "empty_question_items": 0,
+    "detached_statement_choice_lists": 0,
+    "III_question_and_four_choice_counts_match_source": true,
+    "lesson7_matching_section_count": 1,
+    "repo_indexes_changed": false
+  }
+}

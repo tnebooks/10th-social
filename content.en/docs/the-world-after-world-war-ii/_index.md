@@ -7,6 +7,10 @@ weight: 4
 summary: "In the aftermath of Second World War a new era began. It was the beginning of the decline of European colonial empires and the independence of colonies in Asia and Africa. If the effects of World War I led to the communist revolution of Russia, the Second World War played a big…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 4: The World after World War II
 
 ![](assets/page_001_picture_001.png)
@@ -36,6 +40,8 @@ In the aftermath of Second World War a new era began. It was the beginning of th
 Under the Marshall Plan for reconstruction of the war-ravaged Europe, the US won the trust of the great powers in Europe. Soviet Russia, by demonstrating solidarity with the liberation struggles of countries in Asia and Africa, earned the goodwill of the latter.
 
 The Non-Aligned Movement played a limited role in containing the conflict between the two power blocs. In a bid to wriggle out of US control, European countries started the European movement in the form of Council of Europe. This developed into the European Common Market and finally into what is today the European Union. The Cold War period ended with the fall of Berlin Wall.
+
+<a id="topic-4-1"></a>
 
 ## 4.1 Chinese Revolution
 
@@ -125,9 +131,11 @@ The establishment of the People’s Republic of China under the leadership of Ma
 
 The United-States refused to recognize the People’s Republic of China for more than two decades.
 
-## 4.2 Cold War: Rivalry between the US and the Soviet Union
+<a id="topic-4-2"></a>
 
-### 1. Truman’s Policy of Containment of Communism
+## 4.2 Cold War: Rivalry between the US and the Soviet Union
+
+### 1. Truman’s Policy of Containment of Communism
 
 In 1948 the Soviets had established socialist governments in the countries of eastern Europe that had been liberated from the Nazis by the Soviet Army. Truman, the president of USA, pursued a policy of containment of communism. The Soviets were however determined not only to maintain control of eastern Europe, but also keen on spreading Communism world-wide.
 
@@ -147,7 +155,9 @@ The United States was much concerned that poverty, unemployment, and dislocation
 
 Marshall
 
-## 4.3 Formation of Military Alliances
+<a id="topic-4-3"></a>
+
+## 4.3 Formation of Military Alliances
 
 ### (a) NATO
 
@@ -169,6 +179,8 @@ Poland, Romania and Russia took place in Moscow. They concluded the treaty on Ma
 
 In 1955 Turkey, Iraq, Great Britain, Pakistan and Iran signed a pact known as Baghdad Pact. In 1958 the United States joined the organisation and thereafter it came to be known as the Central Treaty Organization. This treaty was open to any Arab nation desiring peace and security in the region. CENTO was dissolved in 1979.
 
+<a id="topic-4-4"></a>
+
 ## 4.4 Korean War
 
 The Korean War made the Cold War really hot. Since Korea was partitioned as North and South (1945), each side sought to win legitimacy by unifying the country. The President of North Korea Kim II (People’s Republic of Korea) decided to act before his southern rival, Syngman Rhee (the Republic of Korea), got the chance. He launched an attack in June 1950, with the tacit support of Stalin. Both Kim and Stalin did not expect the US to intervene. The war lasted for three years. The human cost was enormous. But the Korean people gained nothing.
@@ -176,6 +188,8 @@ The Korean War made the Cold War really hot. Since Korea was partitioned as Nort
 ### Third World Countries
 
 The capitalist countries led by the U.S. were politically designated as the First World, while the communist states led by the Soviet Union came to be known as the Second World. States outside these two were called Third World.
+
+<a id="topic-4-5"></a>
 
 ## 4.5 Non-Aligned Movement
 
@@ -186,6 +200,8 @@ The NAM held its first conference at Belgrade in 1961, under the leadership of T
 ![](assets/page_005_picture_001.png)
 
 The first conference at Belgrade
+
+<a id="topic-4-6"></a>
 
 ## 4.6 The Cuban Revolution
 
@@ -206,6 +222,8 @@ After Castro took power, the US-owned oil refineries on the island refused to pr
 In April 1961, while landing an army of Cuban exiles on the island of Bay of Pigs, the US bombed Cuban airfields with the objective of overthrowing Castro’s regime. US warships surrounded Cuba. The Kennedy government had received intelligence that the USSR was secretly installing nuclear missiles in Cuba. Finally, the Soviet President Khrushchev agreed to withdraw the missiles and thus the Missile Crisis was defused.
 
 Eventually the two sides reached an agreement. The Soviet Union removed the missiles from Cuba on an understanding that the US would never invade Cuba again.
+
+<a id="topic-4-7"></a>
 
 ## 4.7 Arab-Israeli War
 
@@ -231,11 +249,9 @@ Suez Canal crisis
 
 ### Arab–Israeli War 1967
 
-Ever since the formation of the Palestinian Liberation Organization (PLO), Israel came to be attacked frequently by Palestinian guerrilla groups based in Syria, Lebanon and Jordan. Israeli resorted to violent reprisals. In November 1966, an Israeli strike on the village of Al-Samū in the Jordanian West Bank, left 18 dead and 54 wounded. Israel’s air battle with Syria in April 1967, ended in the shooting down six Syrian MiG fighter jets. In his bid to demonstrate Egypt’s support for Syria Nasser mobilized Egyptian forces in the Sinai, seeking the removal of UN emergency forces stationed there on May 18. On May 22, he closed the Gulf of Aqaba to Israeli shipping. King Hussein of Jordan signed a mutual defence pact with
+Ever since the formation of the Palestinian Liberation Organization (PLO), Israel came to be attacked frequently by Palestinian guerrilla groups based in Syria, Lebanon and Jordan. Israeli resorted to violent reprisals. In November 1966, an Israeli strike on the village of Al-Samū in the Jordanian West Bank, left 18 dead and 54 wounded. Israel’s air battle with Syria in April 1967, ended in the shooting down six Syrian MiG fighter jets. In his bid to demonstrate Egypt’s support for Syria Nasser mobilized Egyptian forces in the Sinai, seeking the removal of UN emergency forces stationed there on May 18. On May 22, he closed the Gulf of Aqaba to Israeli shipping. King Hussein of Jordan signed a mutual defence pact with Egypt. Accordingly, it was decided to place Jordanian forces under Egyptian command. Soon, Iraq too joined the alliance.
 
-Palestine Liberation Organization (PLO)- It is an umbrella political organization representing the world’s Palestinians – all Arabs and their descendants who lived in mandated Palestine before the creation of the State of Israel in 1948. It was formed in 1964 to federate various Palestinian groups that previously had operated as clandestine resistance movements. Yasser Arafat was its most prominent leader.
-
-Egypt. Accordingly, it was decided to place Jordanian forces under Egyptian command. Soon, Iraq too joined the alliance.
+**Palestine Liberation Organization (PLO)** — It is an umbrella political organization representing the world’s Palestinians – all Arabs and their descendants who lived in mandated Palestine before the creation of the State of Israel in 1948. It was formed in 1964 to federate various Palestinian groups that previously had operated as clandestine resistance movements. Yasser Arafat was its most prominent leader.
 
 ### Israel’s Offensive
 
@@ -249,21 +265,15 @@ In 1969, Yasser Arafat became chairman of the PLO’s executive committee a posi
 
 ### Arab–Israeli War 1973
 
-Egypt and Syria
+Egypt and Syria under Presidents Anwar Sadat and Hafez al-Assad respectively concluded a secret agreement in January 1973 to bring their armies under one command. Sadat offered the Israelis a peace deal, if they withdrew from Sinai. Israel rejected the offer. Egypt and Syria launched a sudden and surprise attack on the Yom Kippur religious holiday (6 October 1973). Though Israel suffered heavy casualties it finally pushed back the Arab forces. Arabs gained nothing out of this war too. By way of mediation the US succeeded in asserting its hegemony over the region and its oil.
 
 ![](assets/page_007_picture_003.png)
 
 ![](assets/page_007_picture_004.png)
 
-under Presidents
+**Anwar Sadat and Hafez al-Assad**
 
-Anwar Sadat and Hafez al- Assad respectively concluded a secret agreement in January
-
-Anwar Sadat and
-
-1973 to bring their armies under one command. Sadat offered the Israelis a peace deal, if they withdrew from Sinai. Israel rejected the offer. Egypt and Syria launched a sudden and surprise attack on the Yom Kippur
-
-Hafez al-Assad religious holiday (6 October 1973). Though Israel suffered heavy casualties it finally pushed back the Arab forces. Arabs gained nothing out of this war too. By way of mediation the US succeeded in asserting its hegemony over the region and its oil.
+<a id="topic-4-8"></a>
 
 ## 4.8 Vietnam War
 
@@ -291,19 +301,21 @@ Ho Chin Minh City (Saigon)
 
 The emergence of Vietnam as a united and independent nation was an historic event. A small country had succeeded in winning independence and unification in the face of the armed opposition of the greatest power in the world. The help given to Vietnam by the socialist countries, the political support extended by a large number of Asian and African countries, and the solidarity expressed by the peoples in all parts of the world, helped in achieving this.
 
+<a id="topic-4-9"></a>
+
 ## 4.9 Towards European Union
 
 ### (a) Council of Europe
 
 One of the momentous decisions taken in the post-World War II era was to integrate the states of Western Europe. In doing so the Europeans wanted (1) to prevent further European wars by ending the rivalry between France and Germany. (2) to create a united Europe to resist any threat from Soviet Russia. (3) to form a third force in the world to counterbalance the strength of the US and USSR. (4) to make full use of the economic and military resources of Europe by organizing them on a continental scale. In May 1949, ten countries met in London and signed to form a Council of Europe. The Council of Europe with headquarters at Strasbourg was established with a committee of foreign ministers of member countries and a Consultative Assembly, drawn from the parliaments of foreign countries.
 
-### (b) European Coal and Steel
+### (b) European Coal and Steel
 
 ### Community (ECSC)
 
 The European Defence Community (EDC) and the European Coal and Steel Community (ECSC) were established. Six countries (France, West Germany, Italy, Belgium, Holland and Luxemburg belonging to ECSC signed the treaty of Rome which established the European Economic Community (EEC) or the European Common Market, with headquarters at Brussels.
 
-### (c) European Economic
+### (c) European Economic
 
 ### Community (EEC)
 
@@ -317,7 +329,9 @@ The Single European Act came into force on July 1, 1987. It significantly expand
 
 The Maastricht (Netherlands) Treaty signed on February 7, 1992, created the European Union. The monetary policy and a common currency (euro) to replace national currencies managed by common monetary institutions were subsequently planned and implemented. Today the European Union has 28 member states, and functions from its headquarters at Brussels, Belgium.
 
-## 4.10 Fall of Berlin Wall and End of Cold War Era
+<a id="topic-4-10"></a>
+
+## 4.10 Fall of Berlin Wall and End of Cold War Era
 
 The division of Germany into West (Federal Republic of Germany) and East (German Democratic
 
@@ -337,7 +351,7 @@ In the 1970s and early 1980s the Soviet Union continued to retain a strong and d
 
 The year 1988 saw the first mass protests –first in Armenia, and then in the Baltic States. Earlier Soviet regimes had used severe repression to quell such uprisings. Gorbachev could not take recourse to such brutal measures. The Chernobyl Disaster, a major accident in a nuclear plant in Ukraine, in 1986, was another blow. Gorbachev made moves to stabilise his position by reliance on conservative forces in 1989 and 1991. But on each occasion he was interrupted by massive miners’ strike which came close to cripple the country’s energy supplies.
 
-The East European communist states, under the Soviet umbrella, were also in a deep economic and social crisis. Gorbachev’s decision to loosen the Soviet control on the countries of Eastern Europe created an independent, democratic momentum. A series of workers’ strikes undermined the communist regimes first in Poland and then in Hungary. A wave of demonstrations that swept East Germany
+The East European communist states, under the Soviet umbrella, were also in a deep economic and social crisis. Gorbachev’s decision to loosen the Soviet control on the countries of Eastern Europe created an independent, democratic momentum. A series of workers’ strikes undermined the communist regimes first in Poland and then in Hungary. A wave of demonstrations that swept East Germany led to demolition of the Berlin Wall in 1989. Subsequent to it, regimes in Czechoslovakia, followed by Bulgaria, fell. An attempt by Romania’s Nicolae Ceaușescu to resist the wave of change by shooting down demonstrators ended in his execution by a firing squad (December 1989) under the command of his own generals. The televised images of the shooting and the fall of the Berlin Wall galvanized the process of the breaking up of the communist world. In six months the political map of half of Europe had been redrawn.
 
 **Perestroika**
 
@@ -346,8 +360,6 @@ The East European communist states, under the Soviet umbrella, were also in a de
 Glasnost (‘openness’) was a policy of ideologically openness introduced by Mikhail Gorbachev along with Perestroika in the 1980s. Under Glasnost there was more openness, writers who had been censored earlier were rehabilitated, and there was space for criticism of politics and government.
 
 Yeltsin was first an ally of Gorbachev. However, as Mayor of Moscow, Yeltsin won great popularity as a champion of political and economic freedom. With Gorbachev’s introduction of democratic elections for the Soviet parliament, Yeltsin was returned to power with overwhelming support of a Moscow constituency in 1989. The following year he was elected as the President of Russia over Gorbachev’s objections. President Yeltsin advocated greater autonomy of the Russian Republic, with executive presidential system that would allow him to govern independently of parliament.
-
-led to demolition of the Berlin Wall in 1989. Subsequent to it, regimes in Czechoslovakia, followed by Bulgaria, fell. An attempt by Romania’s Nicolae Ceaușescu to resist the wave of change by shooting down demonstrators ended in his execution by a firing squad (December 1989) under the command of his own generals. The televised images of the shooting and the fall of the Berlin Wall galvanized the process of the breaking up of the communist world. In six months the political map of half of Europe had been redrawn.
 
 Gorbachev made a last attempt to take a hard line against the disruptionist only to be challenged by a second great miners’ strike in 1991and huge demonstrations in Moscow. In response, conservative forces in his government attempted to take a hard line without Gorbachev. They used troops in Moscow to stage a coup,
 
@@ -381,6 +393,8 @@ Arab-Israeli Wars and Vietnam War.
 
 ### GLOSSARY
 
+![Source glossary, PDF page 57, including Tamil meanings](assets/source_glossary_pdf_057.png)
+
 | Term | Meaning |
 |---|---|
 | antagonistic | acting against or indicating |
@@ -394,99 +408,94 @@ Arab-Israeli Wars and Vietnam War.
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
 1. Which American President followed the policy of containment of Communism?.
+   - a) Woodrow Wilson
+   - b) Truman
+   - c) Theodore Roosevelt
+   - d) Franklin Roosevelt
 
-a) Woodrow Wilson b) Truman c) Theodore Roosevelt d) Franklin Roosevelt
+2. When was People’s Political Consultative Conference held in China?
+   - a) September 1959
+   - b) September 1948
+   - c) September 1954
+   - d) September 1949
 
-2. When was People’s Political Consultative
+3. The United States and European allies formed ________ to resist any Soviet aggression in Europe.
+   - a) SEATO
+   - b) NATO
+   - c) CENTO
+   - d) Warsaw Pact
 
-Conference held in China?
-
-a) September 1959 b) September 1948 c) September 1954 d) September 1949
-
-3. The United States and European allies formed to resist any Soviet aggression in Europe.
-
-a) SEATO b) NATO c) CENTO d) Warsaw Pact
-
-4. Who became the Chairman of the PLO’s
-
-Executive Committee in 1969?
-
-a) Hafez al-Assad b) Yasser Arafat c) Nasser d) Saddam Hussein
+4. Who became the Chairman of the PLO’s Executive Committee in 1969?
+   - a) Hafez al-Assad
+   - b) Yasser Arafat
+   - c) Nasser
+   - d) Saddam Hussein
 
 5. When was North and South Vietnam united?
-
-a) 1975 b) 1976 c) 1973 d) 1974
+   - a) 1975
+   - b) 1976
+   - c) 1973
+   - d) 1974
 
 6. When was the Warsaw Pact dissolved?
-
-a) 1979 b) 1989 c) 1990 d) 1991
+   - a) 1979
+   - b) 1989
+   - c) 1990
+   - d) 1991
 
 **II Fill in the blanks**
 
-1. was known as the “Father of modern China”.
+1. ________ was known as the “Father of modern China”.
 
-2. In 1918, the society for the study of Marxism was formed in University.
+2. In 1918, the society for the study of Marxism was formed in ________ University.
 
-3. After the death of Dr. Sun Yat Sen, the leader of the Kuomintang party was
+3. After the death of Dr. Sun Yat Sen, the leader of the Kuomintang party was ________.
 
-.
+4. ________ treaty is open to any Arab nation desiring peace and security in the region.
 
-4. treaty is open to any Arab nation desiring peace and security in the region.
+5. The treaty of ________ provided for mandates in Turkish-Arab Empire.
 
-5. The treaty of provided for mandates in Turkish -Arab Empire.
+6. Germany joined the NATO in ________.
 
-6. Germany joined the NATO in .
+7. ________ was the Headquarters of the Council of Europe.
 
-7. was the Headquarters of the Council of Europe.
-
-8. treaty signed on February 7, 1992 created the European Union.
+8. ________ treaty signed on February 7, 1992 created the European Union.
 
 **III Choose the correct statement/statements**
 
-1. i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.
-
-ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region.
-
-iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.
-
-a) (ii) and (iii) are correct b) (i) and (ii) are correct c) (i) and (iii) are correct d) (i), (ii) and (iii) are correct
+1.
+    - i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.
+    - ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region.
+    - iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.
+    - a) (ii) and (iii) are correct
+    - b) (i) and (ii) are correct
+    - c) (i) and (iii) are correct
+    - d) (i), (ii) and (iii) are correct
 
 2. Assertion (A): America’s Marshall Plan was for reconstruction of the war-ravaged Europe.
 
-Reason (R): The US conceived the Marshal Plan to bring the countries in the Western Europe under its influence.
-
-a) Both (A) and (R) are correct, but R is not the correct explanation of A b) Both (A) and (R) are wrong c) Both (A) and (R) are correct and R is the correct explanation of A d) (A) is wrong and (R) is correct
+   Reason (R): The US conceived the Marshal Plan to bring the countries in the Western Europe under its influence.
+   - a) Both (A) and (R) are correct, but R is not the correct explanation of A
+   - b) Both (A) and (R) are wrong
+   - c) Both (A) and (R) are correct and R is the correct explanation of A
+   - d) (A) is wrong and (R) is correct
 
 **IV Match the following**
 
-1. Dr. Sun Yat-Sen -
-
-South Vietnam
-
-2. Syngman Rhee
-
-- Kuomintung
-
-3. Anwar Sadat
-
-- South Korea
-
-4. Ho-Chi Minh
-
-- Egypt
-
-5. Ngo Dinh Diem -
-
-North Vietnam
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Dr. Sun Yat-Sen | South Vietnam |
+| 2 | Syngman Rhee | Kuomintung |
+| 3 | Anwar Sadat | South Korea |
+| 4 | Ho-Chi Minh | Egypt |
+| 5 | Ngo Dinh Diem | North Vietnam |
 
 **V Answer briefly**
 
-1. Write any three causes for the Chinese
-
-Revolution of 1911.
+1. Write any three causes for the Chinese Revolution of 1911.
 
 2. Write a note on Mao’s Long March.
 
@@ -527,3 +536,61 @@ World (London: Orient Longman, 2007)
 ### INTERNET RESOURCES
 
 1. https://www.brittanica.com
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — The World after World War II](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [The Warsaw Pact (1955–1991)](https://www.youtube.com/watch?v=-OMvRNFTrbM) — Simple History; English. Covers selected concepts; see the topic table below.
+- [The Korean War (1950–53)](https://www.youtube.com/watch?v=yxaegqvl4aE) — Simple History; English. Covers selected concepts; see the topic table below.
+- [A road to unity: the EU's history](https://www.youtube.com/watch?v=Oxl4KVBFviE) — European Parliament; English. Covers selected concepts; see the topic table below.
+- [The World after World War II — Detail Question 1 — Tamil explanation](https://www.youtube.com/watch?v=bygNVs_i_eM) — HTAS How To Approach Schooling; Tamil explanation.
+- [The World after World War II — Council of Europe — Tamil explanation](https://www.youtube.com/watch?v=Oc9GFcg582Q) — HTAS How To Approach Schooling; Tamil explanation.
+- [சீனப்புரட்சி — Chinese revolution in Tamil](https://www.youtube.com/watch?v=S1P42n3p--c) — HF Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Cold War Explained — Tamil](https://www.youtube.com/watch?v=e0qdZH_8jEE) — Siddhu Mohan; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Cold War & Non-Aligned Movement — explained in Tamil](https://www.youtube.com/watch?v=zE5mofqPtpE) — John Victor IAS teacher; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Cuban revolution — How 300 rebels defeated the Cuban army](https://www.youtube.com/watch?v=ipWPLeSulq0) — Lets Talk History; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Arab Israeli War — Six-Day War — Tamil](https://www.youtube.com/watch?v=zzCsCs8TxBc) — IBC Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [வியட்நாம் போரின் கதை — Vietnam War Documentary](https://www.youtube.com/watch?v=BqWWNLb51L8) — News7 Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [பெர்லின் சுவர் — Berlin Wall history](https://www.youtube.com/watch?v=9fUiJbzRbco) — Tamil Heritage Foundation; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Cold War Timeline — Open the box](https://wordwall.net/resource/11242009/cold-war-timeline) — Wordwall / Rwellham; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [4.1 Chinese Revolution](#topic-4-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=S1P42n3p--c) | [Lesson activities](#interactive-resources) |
+| [4.2 Cold War: Rivalry between the US and the Soviet Union](#topic-4-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=e0qdZH_8jEE) | [Lesson activities](#interactive-resources) |
+| [4.3 Formation of Military Alliances](#topic-4-3) | [Topic video (English)](https://www.youtube.com/watch?v=-OMvRNFTrbM) | [Topic activity](https://wordwall.net/resource/11242009/cold-war-timeline) |
+| [4.4 Korean War](#topic-4-4) | [Topic video (English)](https://www.youtube.com/watch?v=yxaegqvl4aE) | [Lesson activities](#interactive-resources) |
+| [4.5 Non-Aligned Movement](#topic-4-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=zE5mofqPtpE) | [Lesson activities](#interactive-resources) |
+| [4.6 The Cuban Revolution](#topic-4-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=ipWPLeSulq0) | [Topic activity](https://wordwall.net/resource/11242009/cold-war-timeline) |
+| [4.7 Arab-Israeli War](#topic-4-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=zzCsCs8TxBc) | [Lesson activities](#interactive-resources) |
+| [4.8 Vietnam War](#topic-4-8) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=BqWWNLb51L8) | [Topic activity](https://wordwall.net/resource/11242009/cold-war-timeline) |
+| [4.9 Towards European Union](#topic-4-9) | [Topic video (English)](https://www.youtube.com/watch?v=Oxl4KVBFviE) | [Lesson activities](#interactive-resources) |
+| [4.10 Fall of Berlin Wall and End of Cold War Era](#topic-4-10) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=9fUiJbzRbco) | [Topic activity](https://wordwall.net/resource/11242009/cold-war-timeline) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.brittanica.com` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.britannica.com/) |
+
+<!-- supplemental-resources:end -->

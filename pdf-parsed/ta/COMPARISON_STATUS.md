@@ -1,3 +1,5 @@
+> **Current review:** The historical sentence-match results below do not certify visual/textbook fidelity. Source image review has found and repaired additional text, exercise, figure-label and reading-order errors. See [TEXTBOOK_REVIEW.md](../../TEXTBOOK_REVIEW.md) for the current scope, evidence and remaining limitations. Full semantic review and accepted item inventories remain incomplete; teacher approval is false.
+
 # Tamil PDF vs content.ta: Comparison Status
 
 Source: `Class_10_Social_Science_Tamil_2025_Edition` (368 pages, 27 units). The per-unit parsed Markdown is in this folder.

@@ -1,0 +1,236 @@
+{
+  "source_pdf_pages": [
+    315,
+    316,
+    317
+  ],
+  "review": "full page images inspected; only named findings repaired, not entire lesson accepted",
+  "teacher_approval": false,
+  "file": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+  "expected_file_sha256": "e7a09bebef6a5bb36b4aabb2e1fdeaab5cc328380217de7bc4b4dd310db30538",
+  "result_sha256": "20e64e410578eda8087476c87792667bd07939ae2d55f5881c5e21e45b8e7aad",
+  "edits": [
+    {
+      "anchor": "அறிமுகம்",
+      "expected_sha256": "0f168d7fc714f932d40d657851b3047e5d2ec4e8a4a3f085d7e16df28f466591",
+      "original": "பமாபவ கேவா படக முடித்த வேலை மற்றும் அந்த உணவைப் பரிமாறும் மக்கள், சமையல் மற்றும் சேவை நடவடிக்கைகளை பண்டங்கள் போல் யாரும் தொட்டு உணரக் கூடியது அல்ல. ஆனால், நீங்கள் உணவினை உண்டு அனுபவிக்கலாம்.பொருளியல் ல்லுநர்கள் இந்த நடவடிக்கையை “பணிகள்” என்று அழைக்கின்றனர்.",
+      "replacement": "முடித்த வேலை மற்றும் அந்த உணவைப் பரிமாறும் மக்கள், சமையல் மற்றும் சேவை நடவடிக்கைகளை பண்டங்கள் போல் யாரும் தொட்டு உணரக் கூடியது அல்ல. ஆனால், நீங்கள் உணவினை உண்டு அனுபவிக்கலாம்.பொருளியலில் வல்லுநர்கள் இந்த நடவடிக்கையை “பணிகள்” என்று அழைக்கின்றனர்.",
+      "pdf_page": 315,
+      "reason": "Removed garbled diagram-label extraction; restored visually readable source words.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "gdpயின்-வரையறை--இலக்கணம்",
+      "expected_sha256": "4d96ffbee071e6b98d232a933653b855a1cc953a4a8bb64f193e80f5247e8876",
+      "original": "GDP = C + I + G + (X - M)",
+      "replacement": "\\[\\mathrm{GDP} = C + I + G + (X - M)\\]\n\n![GDP சமன்பாடு — PDF பக்கம் 316](assets/p316-equation-1.png)",
+      "pdf_page": 316,
+      "reason": "Source equation separated and preserved with source crop.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "gdpயின்-வரையறை--இலக்கணம்",
+      "expected_sha256": "e0794a2006c7428e9eba897ceae31f6e02f0023b2b9050d741e105f8fac2be19",
+      "original": "அங்காடி மதிப்பு: அங்காடியில் விற்கக் கூடிய பண்டங்கள் மற்றும் பணிகளின் விலை. இறுதி நிலைப் பண்டங்கள் மற்றும் பணிகள்",
+      "replacement": "அங்காடி மதிப்பு: அங்காடியில் விற்கக் கூடிய பண்டங்கள் மற்றும் பணிகளின் விலை.\n\n### இறுதி நிலைப் பண்டங்கள் மற்றும் பணிகள்",
+      "pdf_page": 316,
+      "reason": "Restored heading split from preceding paragraph.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "இறுதி-நிலைப்-பண்டங்கள்-மற்றும்-பணிகள்",
+      "expected_sha256": "ae6bac8b03af5211d8cf2614e50e05b4ff650daaf06d1c397af634af13e18566",
+      "original": "பொருளியல் ல்லுநர்கள் கூறுகின்றனர்.",
+      "replacement": "பொருளியலில் வல்லுநர்கள் கூறுகின்றனர்.",
+      "pdf_page": 316,
+      "reason": "Verified source word restored.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "இறுதி-நிலைப்-பண்டங்கள்-மற்றும்-பணிகள்",
+      "expected_sha256": "30a70811a53999ed1b16754e757652c5c054c5a0362fc10af65e360df736120c",
+      "original": "எடுத்துக்காட்டாக, உணவகத்தில் வாங்கும் ஒரு கோப்பை தேநீர்(Tea) இறுதிநிலைப் பண்டமாகும். ஏனெனில் இது நுகரப்படக்கூடியது. வேறு எந்தப் பொருளின் பகுதியாக இருக்காது. ஆகவே, ஒரு கோப்பை தேநீரின் அங்காடி மதிப்பு இறுதிப் பண்டமாக இருப்பதால் அதை மொத்த உள்நாட்டு உற்பத்தியில் சேர்த்துள்ளனர். தேநீரில் கலக்கப்பட்ட சர்க்கரை ஒரு இடைநிலை பண்டம். இது தேநீர் உற்பத்தி செய்யப் பயன்படுத்தப்பட்டு தேநீரின் ஒரு பகுதியாக இருக்கிறது. ஒருகோப்பை தேநீரின் விலை ` 10/- என்றால் அதில் சர்க்கரையின் மதிப்பு ` 2/-. ஆகவே ஒரு கோப்பை தேநீரின் விலையில், ஒரு தேக்கரண்டி சர்க்கரையின் விலை ` 2/- சேர்க்கப்பட்டுள்ளது. சர்க்கரையின் மதிப்பை GDPயில் கூட்டினால் ஒரு தேக்கரண்டி சர்க்கரை, மீண்டும் ஒரு கோப்பை தேநீர் என இரு முறை கணக்கிடப்படும். இதை “இரு முறை கணக்கிடுதல்” என்பர். இதை தவிர்ப்பதற்கு இடைநிலை பண்டமான சர்க்கரையை GDPயில் சேர்ப்பதில்லை.",
+      "replacement": "எடுத்துக்காட்டாக, உணவகத்தில் வாங்கும் ஒரு கோப்பை தேநீர்(Tea) இறுதிநிலைப் பண்டமாகும். ஏனெனில் இது நுகரப்படக்கூடியது. வேறு எந்தப் பொருளின் பகுதியாக இருக்காது. ஆகவே, ஒரு கோப்பை தேநீரின் அங்காடி மதிப்பு இறுதிப் பண்டமாக இருப்பதால் அதை மொத்த உள்நாட்டு உற்பத்தியில் சேர்த்துள்ளனர். தேநீரில் கலக்கப்பட்ட சர்க்கரை ஒரு இடைநிலை பண்டம். இது தேநீர் உற்பத்தி செய்யப் பயன்படுத்தப்பட்டு தேநீரின் ஒரு பகுதியாக இருக்கிறது. ஒருகோப்பை தேநீரின் விலை ₹ 10/- என்றால் அதில் சர்க்கரையின் மதிப்பு ₹ 2/-. ஆகவே ஒரு கோப்பை தேநீரின் விலையில், ஒரு தேக்கரண்டி சர்க்கரையின் விலை ₹ 2/- சேர்க்கப்பட்டுள்ளது. சர்க்கரையின் மதிப்பை GDPயில் கூட்டினால் ஒரு தேக்கரண்டி சர்க்கரை, மீண்டும் ஒரு கோப்பை தேநீர் என இரு முறை கணக்கிடப்படும். இதை “இரு முறை கணக்கிடுதல்” என்பர். இதை தவிர்ப்பதற்கு இடைநிலை பண்டமான சர்க்கரையை GDPயில் சேர்ப்பதில்லை.",
+      "pdf_page": 316,
+      "reason": "Restored rupee sign visible on page; preserved textbook amounts and units.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "11-நாட்டு-வருமானம்",
+      "expected_sha256": "878d8c2ba7c2f7e26a1a822c2d9d221616335641482a0b0e3b238e8e792da2bd",
+      "original": "பொதுவாக நாட்டு ருமானம் மொத்த நாட்டு உற்பத்தி (GNP)",
+      "replacement": "பொதுவாக நாட்டு வருமானம் மொத்த நாட்டு உற்பத்தி (GNP)",
+      "pdf_page": 316,
+      "reason": "Restored missing letter confirmed on page.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "நாட்டு-வருமானத்தை-அளவிடத்-தொடர்புடைய-பல்வேறு-கருத்துகள்",
+      "expected_sha256": "53a786bc3bcb20cc66e1d52f6cae4be7aa7cd60a9dad61d738d085c2476454cb",
+      "original": "### GNP = C + I + G + (X - M) + NFIA",
+      "replacement": "\\[\\mathrm{GNP} = C + I + G + (X - M) + \\mathrm{NFIA}\\]\n\n![GNP சமன்பாடு — PDF பக்கம் 316](assets/p316-equation-2.png)",
+      "pdf_page": 316,
+      "reason": "Equation rendered as math, not an invented heading.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "நாட்டு-வருமானத்தை-அளவிடத்-தொடர்புடைய-பல்வேறு-கருத்துகள்",
+      "expected_sha256": "61bfea2eab8e4a274e195be17a71e90524a6e4b4486fdd6765c7600021ac4eb6",
+      "original": "C - நுகர்வோர் I - முதலீட்டாளர் G - அரசு செலவுகள் X - M - ஏற்றுமதி - இறக்குமதி NFIA - வெளிநாட்டிலிருந்து ஈட்டப்பட்ட நிகர ருமானம். 2. மொத்த உள்நாட்டு உற்பத்தி (GDP)",
+      "replacement": "C – நுகர்வோர்\n\nI – முதலீட்டாளர்\n\nG – அரசு செலவுகள்\n\nX – M – ஏற்றுமதி – இறக்குமதி\n\nNFIA – வெளிநாட்டிலிருந்து ஈட்டப்பட்ட நிகர வருமானம்.\n\n### 2. மொத்த உள்நாட்டு உற்பத்தி (GDP)",
+      "pdf_page": 316,
+      "reason": "Restored separate symbol explanations and numbered next heading.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "நாட்டு-வருமானத்தை-அளவிடத்-தொடர்புடைய-பல்வேறு-கருத்துகள்",
+      "expected_sha256": "074dc8ecba157bfe35fc6b24d46d18c98dab4116772a8563e71a2d4a1ea07a90",
+      "original": "நிகர நாட்டு உற்பத்தி (NNP) = மொத்த நாட்டு உற்பத்தி (GNP) - தேய்மானம். 4. நிகர உள்நாட்டு உற்பத்தி (NDP)",
+      "replacement": "\\[\\text{நிகர நாட்டு உற்பத்தி (NNP)} = \\text{மொத்த நாட்டு உற்பத்தி (GNP)} - \\text{தேய்மானம்}\\]\n\n### 4. நிகர உள்நாட்டு உற்பத்தி (NDP)",
+      "pdf_page": 317,
+      "reason": "Restored equation and next source heading.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "4-நிகர-உள்நாட்டு-உற்பத்தி-ndp",
+      "expected_sha256": "0512fe38e637bceb2ea55dad38dd5981c6c627cce18922434b310292588e7bdc",
+      "original": "நிகர உள்நாட்டு உற்பத்தி (NDP) = மொத்த உள்நாட்டு உற்பத்தி (GDP) – தேய்மானம்.",
+      "replacement": "\\[\\text{நிகர உள்நாட்டு உற்பத்தி (NDP)} = \\text{மொத்த உள்நாட்டு உற்பத்தி (GDP)} - \\text{தேய்மானம்}\\]",
+      "pdf_page": 317,
+      "reason": "Preserved equation symbols and Tamil terminology.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "5-தலா-வருமானம்-pci",
+      "expected_sha256": "90a43428eb84353749050c779bf2a59128d99b01d8ea721fb3129b07a5f33363",
+      "original": "நாட்டு ருமானத்தை மக்கள் தொகையால்",
+      "replacement": "நாட்டு வருமானத்தை மக்கள் தொகையால்",
+      "pdf_page": 317,
+      "reason": "Restored missing source letter.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "5-தலா-வருமானம்-pci",
+      "expected_sha256": "44deef6aa8cb30f6044dcf873e7b942f1746e17593663f05cae63a43327ae577",
+      "original": "நாட்டு வருமானம் தலா வருமானம் = மக்கள் தொகை",
+      "replacement": "\\[\\text{தலா வருமானம்} = \\frac{\\text{நாட்டு வருமானம்}}{\\text{மக்கள் தொகை}}\\]\n\n![தலா வருமானம் — பின்ன வடிவம் — PDF பக்கம் 317](assets/p317-equation-1.png)",
+      "pdf_page": 317,
+      "reason": "Fixed collapsed fraction from visible source; no formula inferred.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "6-தனிப்பட்ட-வருமானம்-pi",
+      "expected_sha256": "dd5e9e7403efd255de1bc00b1bf532f8d65ed55d7e88390c53b350de3f921d14",
+      "original": "மொத்த பண ருமானத்தை தனிப்பட்ட வருமானம்",
+      "replacement": "மொத்த பண வருமானத்தை தனிப்பட்ட வருமானம்",
+      "pdf_page": 317,
+      "reason": "Restored source letter.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "7-செலவிடத்-தகுதியான-வருமானம்-di",
+      "expected_sha256": "ecde0f418798b8fd944c6a27dff4a30187a2887665eaa4610c58ce0a6562bac8",
+      "original": "உண்மையான ருமானத்தில் நுகர்வுக்கு செலவிடப்படுகின்ற ருமானம்",
+      "replacement": "உண்மையான வருமானத்தில் நுகர்வுக்கு செலவிடப்படுகின்ற வருமானம்",
+      "pdf_page": 317,
+      "reason": "Restored source letters.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "7-செலவிடத்-தகுதியான-வருமானம்-di",
+      "expected_sha256": "b5473127abcf5f28fde15e9aef940ff266245a0bc6c1b5f24ff64eede93a2eff",
+      "original": "DPI = தனிப்பட்ட வருமானம் – நேர்முகவரி",
+      "replacement": "\\[\\mathrm{DPI} = \\text{தனிப்பட்ட வருமானம்} - \\text{நேர்முகவரி}\\]",
+      "pdf_page": 317,
+      "reason": "Preserved source DPI notation even though heading says DI; no silent source correction.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "7-செலவிடத்-தகுதியான-வருமானம்-di",
+      "expected_sha256": "450b8b7c1c4a4fce47501d44ccde66c6ea8ca393f5ec73507a861744cb0b0e12",
+      "original": "(நுகர்வு முறையில் DI = நுகர்வுச் செலவு + சேமிப்பு)",
+      "replacement": "(நுகர்வு முறையில் \\(\\mathrm{DI} = \\text{நுகர்வுச் செலவு} + \\text{சேமிப்பு}\\))",
+      "pdf_page": 317,
+      "reason": "Inline math retains source notation and wording.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "நாட்டில்-உற்பத்தி-செய்யப்பட்டது",
+      "expected_sha256": "903e07982d782111ad75e08b0b1791b7079ffe1b7265d6a026c6defb77000935",
+      "original": "எடுத்துக்காட்டாக காஷ்மீர் இந்தியாவில் உள்ளதால், காஷ்மீரில் உற்பத்தி செய்யப்பட்ட ஆப்பிளின் அங்காடி மதிப்பு GDPயில் சேர்க்கப்பட்டுள்ளது. கலிபோர்னியாவில் உற்பத்தி செய்யப்பட்ட ஆப்பிளின் அங்காடி மதிப்பு, இந்தியாவின் அங்காடியில் விற்பனை செய்தாலும், அதை GDPயில் சேர்ப்பதில்லை, ஏனெனில் கலிபோர்னியா அமெரிக்காவில் உள்ளது. ஒரு காலக்கட்டத்தில் உற்பத்தி செய்யப்பட்டது ஒரு குறிப்பிட்ட காலத்தில் ஒரு நாட்டில் உற்பத்தி செய்யப்பட்ட பண்டம் மற்றும் பணிகளின் அங்காடி மதிப்பே, ஒரு நாட்டின் GDP யாகும். முந்தைய காலங்களில் உற்பத்தி செய்யப்பட்ட பண்டப் பணிகளை சேர்த்துக் கொள்வதில்லை.",
+      "replacement": "எடுத்துக்காட்டாக காஷ்மீர் இந்தியாவில் உள்ளதால், காஷ்மீரில் உற்பத்தி செய்யப்பட்ட ஆப்பிளின் அங்காடி மதிப்பு GDPயில் சேர்க்கப்பட்டுள்ளது. கலிபோர்னியாவில் உற்பத்தி செய்யப்பட்ட ஆப்பிளின் அங்காடி மதிப்பு, இந்தியாவின் அங்காடியில் விற்பனை செய்தாலும், அதை GDPயில் சேர்ப்பதில்லை, ஏனெனில் கலிபோர்னியா அமெரிக்காவில் உள்ளது. \n\n### ஒரு காலக்கட்டத்தில் உற்பத்தி செய்யப்பட்டது\n\nஒரு குறிப்பிட்ட காலத்தில் ஒரு நாட்டில் உற்பத்தி செய்யப்பட்ட பண்டம் மற்றும் பணிகளின் அங்காடி மதிப்பே, ஒரு நாட்டின் GDP யாகும். முந்தைய காலங்களில் உற்பத்தி செய்யப்பட்ட பண்டப் பணிகளை சேர்த்துக் கொள்வதில்லை.",
+      "pdf_page": 317,
+      "reason": "Separated source heading from neighbouring paragraphs.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "12-மொத்த-உள்நாட்டு-உற்பத்தி-gdp",
+      "expected_sha256": "2253d3b018380011e1b9cabf8e979e74f30c7ad7ba4f94769a23a5ab8c8a9872",
+      "original": "மொத்த உள்நாட்டு உற்பத்தியின் கணக்கீட்டு முறைகள் 1. செலவின முறை இந்த முறையில்",
+      "replacement": "### மொத்த உள்நாட்டு உற்பத்தியின் கணக்கீட்டு முறைகள்\n\n### 1. செலவின முறை\n\nஇந்த முறையில்",
+      "pdf_page": 317,
+      "reason": "Restored source headings without losing paragraph.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "1-செலவின-முறை",
+      "expected_sha256": "97330867183468c999c112e12dcddb03cdb050c334ec17ec093529e534baa32a",
+      "original": "### Y = C + I +G + (X - M) 2. வருமான முறை",
+      "replacement": "\\[Y = C + I + G + (X - M)\\]\n\n### 2. வருமான முறை",
+      "pdf_page": 317,
+      "reason": "Split equation and numbered source heading.",
+      "teacher_approval": false
+    },
+    {
+      "anchor": "2-வருமான-முறை",
+      "expected_sha256": "3d95eb5e2d77f0321b746742096a705444ea6946f6d537c05bf8d74235fe4f1d",
+      "original": "ருமான முறையில் GDPஐ கணக்கிடும்போது ருமானம் = கூலி + வாடகை + வட்டி + லாபம்.",
+      "replacement": "வருமான முறையில் GDPஐ கணக்கிடும்போது\n\n\\[\\text{வருமானம்} = \\text{கூலி} + \\text{வாடகை} + \\text{வட்டி} + \\text{லாபம்}\\]",
+      "pdf_page": 317,
+      "reason": "Restored separate equation and source Tamil terms.",
+      "teacher_approval": false
+    }
+  ],
+  "assets": [
+    {
+      "item_id": "p316-equation-1",
+      "pdf_page": 316,
+      "bbox": [
+        0.202,
+        0.276,
+        0.402,
+        0.3
+      ],
+      "path": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/p316-equation-1.png",
+      "caption": "GDP சமன்பாடு",
+      "transcription_uncertain": false
+    },
+    {
+      "item_id": "p316-equation-2",
+      "pdf_page": 316,
+      "bbox": [
+        0.578,
+        0.608,
+        0.827,
+        0.634
+      ],
+      "path": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/p316-equation-2.png",
+      "caption": "GNP சமன்பாடு",
+      "transcription_uncertain": false
+    },
+    {
+      "item_id": "p317-equation-1",
+      "pdf_page": 317,
+      "bbox": [
+        0.182,
+        0.358,
+        0.463,
+        0.399
+      ],
+      "path": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/p317-equation-1.png",
+      "caption": "தலா வருமானம் — பின்ன வடிவம்",
+      "transcription_uncertain": false
+    }
+  ],
+  "aids": []
+}

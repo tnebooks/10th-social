@@ -7,13 +7,21 @@ weight: 11
 summary: "India is the seventh largest country in the world. It is separated by the Himalayas from the rest of the continent. India accounts for about 2.4 % of the total area of the world with an area of 32,87,263 sq.km, many of the India states are larger than several countries of the wo…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 1: India - Location, Relief and Drainage
 
 ![](assets/page_002_picture_001.png)
 
 ## Learning Objectives
 
-To understand the strategic importance of India’s absolute and relative location in the world To know the distinct characteristics of major physiographic divisions of India To compare the regions of Great Indian Plains To understand the drainage system of India To differentiate the Himalayan and peninsular rivers
+- To understand the strategic importance of India’s absolute and relative location in the world
+- To know the distinct characteristics of major physiographic divisions of India
+- To compare the regions of Great Indian Plains
+- To understand the drainage system of India
+- To differentiate the Himalayan and peninsular rivers
 
 ![](assets/page_002_picture_002.png)
 
@@ -39,6 +47,8 @@ India along with the countries of Myanmar, Bangladesh, Pakistan, Nepal, Bhutan a
 
 This region possesses a distinct continental characteristics in physiography, climate, natural vegetation, minerals, human resources etc. Hence India is known as ‘subcontinent’.
 
+<a id="topic-1-1"></a>
+
 ## 1.1 Location and Extent
 
 India extends from 8°4 'N to 37°6 'N latitudes and 68°7 'E to 97°25 'E longitudes. Hence India is located in the North and Eastern hemisphere
@@ -51,7 +61,7 @@ Islands. The southernmost point of main land of India is Cape Comorin (Kanniyaku
 
 The northern point is Indira Col.
 
-The north-south extent of India is 3,214 km and it extends from Indira Col in Jammu and Kashmir in the north to Kanniyakumari in the south. The east-west extension is 2933 km and it stretches from Rann of Kutch (Gujarat) in the west to Arunachal Pradesh in the east. The Tropic of Cancer (23°30- N) passes through the middle of the country dividing it into two halves as northern temperate and southern tropical lands. India has been politically divided into 28 states and 8 union territories for administrative convenience.
+The north-south extent of India is 3,214 km and it extends from Indira Col in Jammu and Kashmir in the north to Kanniyakumari in the south. The east-west extension is 2933 km and it stretches from Rann of Kutch (Gujarat) in the west to Arunachal Pradesh in the east. The Tropic of Cancer (23°30′ N) passes through the middle of the country dividing it into two halves as northern temperate and southern tropical lands. India has been politically divided into 28 states and 8 union territories for administrative convenience.
 
 ### Indian Standard Time (IST)
 
@@ -72,7 +82,9 @@ Since Arunachal Pradesh is towards east, it will have sunrise about two hours ea
 
 Amaravati is the capital of Andhra Pradesh. According to Andhra Pradesh Reorganization Act, Hyderabad will be the capital for both the states of Andhra Pradesh and Telangana till 2024 (For 10 years from the act passed).
 
-## 1.2 Major Physiographic Divisions of India
+<a id="topic-1-2"></a>
+
+## 1.2 Major Physiographic Divisions of India
 
 The majestic Himalayan peaks in the north, the beautiful beaches in the south, the Great Indian Desert in the west and the breathtaking natural heritage in the east make India a geographically vibrant, colourful and truly incredible country.
 
@@ -82,7 +94,7 @@ There is a varied nature of physiographic divisions in India. Though the country
 
 1. The Northern Mountains
 
-2. The Northern Plains
+2. The Northern Plains
 
 3. The Peninsular Plateau
 
@@ -118,7 +130,7 @@ Legend: Country Capital, State Capital, State Border line, International Border 
 
 (i) The Greater Himalayas/The Himadri (ii) The Lesser Himalayas /The Himachal (iii) The Outer Himalayas/The Siwaliks
 
-### (i) The Greater Himalayas or the Himadri
+### (i) The Greater Himalayas or the Himadri
 
 The Greater Himalayas rise abruptly like a wall north of the Lesser Himalayas. The Greater
 
@@ -137,23 +149,17 @@ The Himalayas are about 25 km wide. Its average height is about 6,000 m. The Gre
 
 -  However, it holds the record for having the maximum number of highest peaks among any mountain range in world.
 
-- 
+- Out of 14 highest peaks in this world, the Himalayas holds 9.
 
-Out of 14 highest peaks in this world, the Himalayas holds 9.
-
-### (ii) The Lesser Himalayas or The Himachal
+### (ii) The Lesser Himalayas or The Himachal
 
 It is the middle range of Himalayas. Height of this range varies from 3,700 to 4,500 m. Its width varies up to 80 km. The major rocks of this range are slate, limestone and quartzite. This region is subjected to extensive erosion due to heavy rainfall, deforestation and urbanization. Pir Panjal, Dhauladhar and Mahabharat are the mountain ranges found in this part. Major hill stations of the Himalayas are located in this range. Shimla, Mussourie, Nainital, Almora, Ranikhet and Darjeeling are the familiar ones.
 
-- 
+- The major passes in the Himalaya are Karakonam Pass and Zojila Pass (Ladakh), Shipkila Pass (Himachal Pradesh), Bomdila Pass (Arunachal Pradesh), Nathula Pass and Jhelepla Pass (Sikkim).
 
-The major passes in the Himalaya are Karakonam Pass and Zojila Pass (Ladakh), Shipkila Pass (Himachal Pradesh), Bomdila Pass (Arunachal Pradesh), Nathula Pass and Jhelepla Pass (Sikkim).
+- The Khyber Pass which connects Pakistan and Afganisthan, Bolan Pass in Pakistan are the important passes of the Indian subcontinent.
 
-- 
-
-The Khyber Pass which connects Pakistan and Afganisthan, Bolan Pass in Pakistan are the important passes of the Indian subcontinent.
-
-### (iii) The Outer Himalayas/The Siwaliks
+### (iii) The Outer Himalayas/The Siwaliks
 
 The Siwaliks extend from Jammu and Kashmir to Assam. It is partly made by the debris brought by the Himalayan rivers. The altitude varying between 900 and 1100 metres average elevation of this range is 1000 m. The width of Siwaliks varies from 10 km in the east to 50 km in the west. It is the most discontinuous range. The longitudinal valleys found between the Siwaliks and the Lesser Himalayas are called Duns in the west and Duars in the east. These are the ideal sites for the development of settlements in this region.
 
@@ -163,21 +169,21 @@ These are the eastern off-shoot of Himalayas. It extended in the north-eastern s
 
 ### Importance of the Himalayas
 
-- The Himalayas block southwest monsoon winds and causes heavy rainfall to north India.
+- The Himalayas block southwest monsoon winds and causes heavy rainfall to north India.
 
-- It forms a natural barrier to the subcontinent.
+- It forms a natural barrier to the subcontinent.
 
-- It is the source for many perennial rivers like Indus, Ganges, Brahmaputra etc.
+- It is the source for many perennial rivers like Indus, Ganges, Brahmaputra etc.
 
-- The Northern Mountains are described as the paradise of tourists due to its natural beauty.
+- The Northern Mountains are described as the paradise of tourists due to its natural beauty.
 
-- Many hill stations and pilgrim centres like Amarnath, Kedarnath, Badrinath, Vaishno Devi temple, Buddhist, Jain and Sikh centres are situated here.
+- Many hill stations and pilgrim centres like Amarnath, Kedarnath, Badrinath, Vaishno Devi temple, Buddhist, Jain and Sikh centres are situated here.
 
-- It provides raw material for many forest based industries.
+- It provides raw material for many forest based industries.
 
-- It prevents the cold winds blowing from the central Asia and protects India from severe cold.
+- It prevents the cold winds blowing from the central Asia and protects India from severe cold.
 
-- The Himalayas are renowned for the rich biodiversity.
+- The Himalayas are renowned for the rich biodiversity.
 
 ### The Great Northern Plains
 
@@ -207,7 +213,7 @@ Triangle-shaped fertile land at the mouth of The Ganga and Brahmaputhra rivers i
 
 On the basis of deposition of sediments by various rivers and topographical characteristics, the Northern Plains of India are divided into the following four major regions:
 
-**1) Rajasthan**
+**1) Rajasthan**
 
 Plains: It is located to the west of Aravalli Range. It covers an area of about 1,75,000 sq.km. Rajasthan plain is formed by the deposition of the river Luni and the long vanished river Saraswathi. There are several salt lakes in Rajasthan. The Sambhar salt lake (Pushkar Lake) near Jaipur is the prominent one.
 
@@ -215,13 +221,13 @@ The Thar desert, also known as the Great Indian desert is a large arid region in
 
 The desert lies in the western part of the Aravalli Range and covers 2/3 of Rajasthan state. There are two major divisions in the Thar desert. They are known as the actual desert region (Marusthali) and the semi desert region (Bhangar). Many different types of sand dunes and salt lakes (Dhands) are seen here.
 
-2) Punjab - Haryana Plains: It lies to the northeast of the Great Indian Desert. This plain is found over an area of about 1.75 lakh sq.km. The Punjab - Haryana plains are formed by the deposition of the rivers Sutlej, Beas and Ravi. This plain acts as water - divide (doab). The two major watershed it divides are Yamuna – Sutlej and Ganga – Yamuna.
+2) Punjab - Haryana Plains: It lies to the northeast of the Great Indian Desert. This plain is found over an area of about 1.75 lakh sq.km. The Punjab - Haryana plains are formed by the deposition of the rivers Sutlej, Beas and Ravi. This plain acts as water - divide (doab). The two major watershed it divides are Yamuna – Sutlej and Ganga – Yamuna.
 
-3) Ganga Plains: It extends from the Yamuna
+3) Ganga Plains: It extends from the Yamuna
 
 River in the west to Bangladesh in the east. The total area covered by this plain is about 3.75 sq.km. River Ganga and its tributaries such as Ghaghra, Gandak, Kosi, Yamuna, Chambal, Betwa etc. constitute this plain by their sediments and make a great plain in India. It is the largest plain of India. The general slope of the entire plain (upper, middle and lower Ganga plains) is towards east and south-east.
 
-4) Brahmaputra Plains: It is located mainly in the state of Assam. It is a low - level plain located in the eastern part of the Great Plains of India and is formed by the deposits of river Brahmaputra. It covers an area of about 56,275 sq.km. These plains create alluvial fans and marshy tracts.
+4) Brahmaputra Plains: It is located mainly in the state of Assam. It is a low - level plain located in the eastern part of the Great Plains of India and is formed by the deposits of river Brahmaputra. It covers an area of about 56,275 sq.km. These plains create alluvial fans and marshy tracts.
 
 ### The Peninsular Plateaus
 
@@ -281,7 +287,9 @@ This is a small group of coral islands located off the west coast of India. It c
 
 Besides the two group of islands, India has a number of islands along the Western Coast, Eastern Coast, in the delta region of Ganga and in the Gulf of Mannar. Many of these islands are uninhabited and are administered by the adjacent states.
 
-## 1.3 Drainage System of India
+<a id="topic-1-3"></a>
+
+## 1.3 Drainage System of India
 
 A drainage system is an integrated system of tributaries and a trunk stream which collects and drains surface water into the sea, lake or some other body of water. The total area drained by a river and its tributaries is known as a drainage basin. The drainage pattern of an area is the result of the geological structure of the respective areas. The drainage system of India is broadly divided into two major groups on the basis of their location. They are Himalayan rivers and the Peninsular rivers.
 
@@ -329,7 +337,9 @@ The rivers in South India are called the Peninsular rivers. Most of these rivers
 
 2. East flowing rivers
 
-### East Flowing Rivers a) Mahanadi
+### East Flowing Rivers
+
+### a) Mahanadi
 
 The river Mahanadi originates near Sihawa in Raipur district of Chattisgarh and flows through Odisha. Its length is 851 km. Seonath, Telen, Sandur and Ib are its major tributaries. The main stream of Mahanadi gets divided into several distributaries such as Paika, Birupa, Chitartala, Genguti and Nun. All these distributaries form the Delta of Mahanadi which is one of the largest deltas in India. The Mahanadi empties its water in Bay of Bengal.
 
@@ -345,17 +355,17 @@ The river Krishna originates from a spring at a place called Mahabaleshwar in th
 
 The river Kaveri originates at Talakaveri, Kudagu hills of Karnataka. Its length is 800 km. The river Kaveri is called Dhakshin Ganga or Ganga of South. In Karnataka, the river bifurcates twice, forming islands of Srirangapatnam and Sivasamudram. While entering Tamil Nadu, the Kaveri continues through a series of twisted wild gorges until it reaches Hogenakkal Falls and flows through a straight, narrow gorge near Salem. The Kaveri breaks at Srirangam Island with two channels, river Coleroon and Kaveri. At last, it empties into the Bay of Bengal at Poompuhar.
 
-### West Flowing Rivers a) Narmada
+### West Flowing Rivers
+
+### a) Narmada
 
 This river rises in Amarkantak Plateau in Madhya Pradesh at an elevation of about 1057 m and flows for a distance of about 1,312 km. It covers an area of 98,796 sq.km and forms 27 km long estuary before outfalling into the Arabian Sea through the Gulf of Cambay. It is the largest among the west flowing rivers of Peninsular India. Its principal tributaries are Burhner, Halon, Heran, Banjar, Dudhi, Shakkar, Tawa, Barna and Kolar.
-
-## SUMMARY
 
 ### b) Tapti
 
 The Tapti is one of the major rivers of Peninsular India with the length of about 724 km. It covers an area of 65,145 sq.km. Tapti River rises near Multai tank in the Betul district of Madhya Pradesh at an elevation of about 752 m. It is one of only the three rivers in Peninsular India that run from east to west - the others being the Narmada and the Mahi. The major tributaries are Vaki, Gomai, Arunavati, Aner, Nesu, Buray, Panjhra and Bori. It outfalls into the Arabian Sea through the Gulf of Cambay.
 
-In which river the Gerosappa (Jog) fall is found?
+In which river the Gerosappa (Jog) fall is found?
 
 ### Characteristics of South Indian Rivers
 
@@ -368,6 +378,8 @@ The Tapti is one of the major rivers of Peninsular India with the length of abou
 4. Suitable for hydro power generation
 
 5. Not useful for navigation
+
+## SUMMARY
 
 - India has been physiographically divided into five divisions. They are Northern Mountains, Northern Great Plains, The Plateau region, Coastal Plains and Islands.
 
@@ -389,83 +401,65 @@ The Tapti is one of the major rivers of Peninsular India with the length of abou
 
 ![](assets/page_015_picture_001.png)
 
-**I Choose the correct**
+**I Choose the correct**
 
 **answer**
 
-1. The north-south extent of
+1. The north-south extent of
 
 India is a. 2,500 km b. 2,933 km c. 3,214 km d. 2,814 km
 
-2. _________ River is known as ‘Sorrow of
+2. _________ River is known as ‘Sorrow of
 
 Bihar’.
 
 a. Narmada b. Godavari c. Kosi d. Damodar
 
-3. A landmass bounded by sea on three sides is referred to as _________.
+3. A landmass bounded by sea on three sides is referred to as _________.
 
 a. Coast b. Island c. Peninsula d. Strait
 
-4. The Palk Strait and Gulf of Mannar separates India from _______ a. Goa b. West Bengal c. Sri Lanka d. Maldives
+4. The Palk Strait and Gulf of Mannar separates India from _______ a. Goa b. West Bengal c. Sri Lanka d. Maldives
 
 5. The highest peak in South India is a. Ooty b. Kodaikanal c. Anaimudi d. Jindhagada
 
-6. _____________ Plains are formed by the older alluviums.
+6. _____________ Plains are formed by the older alluviums.
 
 a. Bhabar b. Tarai c. Bhangar d. Khadar
 
-7. Pulicat Lake is located between the states of a. West Bengal and Odisha b. Karnataka and Kerala c. Odisha and Andhra Pradesh d. Tamil Nadu and Andhra Pradesh
+7. Pulicat Lake is located between the states of a. West Bengal and Odisha b. Karnataka and Kerala c. Odisha and Andhra Pradesh d. Tamil Nadu and Andhra Pradesh
 
 **II Match the following**
 
-1. Tsangpo
-
-— Tributary of
-
-River Ganga
-
-2. Yamuna
-
-— Highest peak in
-
-India
-
-3. New alluvium
-
-— River
-
-Brahmaputra in Tibet
-
-4. Mt. Godwin
-
-Austen (K2) — Southern part of East Coastal Plain
-
-5. Coromandel
-
-Coast — Khadhar
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Tsangpo | Tributary of River Ganga |
+| 2 | Yamuna | Highest peak in India |
+| 3 | New alluvium | River Brahmaputra in Tibet |
+| 4 | Mt. Godwin Austen (K2) | Southern part of East Coastal Plain |
+| 5 | Coromandel Coast | Khadhar |
 
 **III Give Reasons**
 
-1. The Himalayas are called young fold mountains
+1. The Himalayas are called young fold mountains
 
 2. North Indian Rivers are perennial
 
 3. South Indian Rivers are east flowing.
 
-**IV Distinguish between the following**
+**IV Distinguish between the following**
 
-1. The Himalayan rivers and Peninsular rivers.
+1. The Himalayan rivers and Peninsular rivers.
 
 2. Western Ghats and Eastern Ghats.
 
-3. Western Coastal Plains and Eastern Coastal
+3. Western Coastal Plains and Eastern Coastal
 
 Plains.
 
 **V Answer in brief**
 
-1. Name the neighbouring countries of India.
+1. Name the neighbouring countries of India.
 
 2. Give the importance of IST.
 
@@ -473,49 +467,49 @@ Plains.
 
 4. State the west flowing rivers of India.
 
-5. Write a brief note on the island group of
+5. Write a brief note on the island group of
 
 Lakshadweep.
 
 **VI Answer in a paragraph**
 
-1. Explain the divisions of Northern Mountains and its importance to India.
+1. Explain the divisions of Northern Mountains and its importance to India.
 
-2. Give an account on the major peninsular rivers of India.
+2. Give an account on the major peninsular rivers of India.
 
-3. Give a detailed account on the basin of the Ganga.
+3. Give a detailed account on the basin of the Ganga.
 
 **VII Map exercises**
 
-Mark the following in the outline map of India
+Mark the following in the outline map of India
 
-1. Major mountain ranges – Karakoram, Ladakh, Zaskar, Aravalli, Western Ghats, Eastern Ghats.
+1. Major mountain ranges – Karakoram, Ladakh, Zaskar, Aravalli, Western Ghats, Eastern Ghats.
 
-2. Major rivers – Indus, Ganga, Brahmaputra, Narmada, Tapti, Mahanadi, Godavari, Krishna & Kaveri.
+2. Major rivers – Indus, Ganga, Brahmaputra, Narmada, Tapti, Mahanadi, Godavari, Krishna & Kaveri.
 
-3. Major plateaus – Malwa, Chotanagpur, Deccan.
+3. Major plateaus – Malwa, Chotanagpur, Deccan.
 
 **VIII Activities**
 
-1. Observe the Peninsular Plateau map of India and mark the major plateau divisions of India.
+1. Observe the Peninsular Plateau map of India and mark the major plateau divisions of India.
 
-2. Prepare a table showing the major West flowing and East flowing rivers of peninsular India.
+2. Prepare a table showing the major West flowing and East flowing rivers of peninsular India.
 
-3. Assume that you are travelling from West Bengal to Gujarat along the beautiful coasts of India. Find out the states which you would pass through?
+3. Assume that you are travelling from West Bengal to Gujarat along the beautiful coasts of India. Find out the states which you would pass through?
 
-4. Find out the states through which the river Ganga flows.
+4. Find out the states through which the river Ganga flows.
 
-5. Prepare a table showing the major rivers in India and find out it’s tributaries, origin, length and area.
+5. Prepare a table showing the major rivers in India and find out it’s tributaries, origin, length and area.
 
 ### REFERENCE BOOKS
 
-1. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.
+1. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.
 
-2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.
+2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.
 
-3. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.
+3. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.
 
-4. Singh, S. and Saroha, J. (2014). Geography of India (1st Edition). Access Publishing India Pvt. Ltd., New Delhi.
+4. Singh, S. and Saroha, J. (2014). Geography of India (1st Edition). Access Publishing India Pvt. Ltd., New Delhi.
 
 ### INTERNET RESOURCES
 
@@ -525,4 +519,50 @@ Lakshadweep.
 
 3. http://ncert.nic.in/ncerts/l/iess102.pdf
 
-4. http://www.scert.kerala.gov.in/images/ text_books/chapter%204.pdf
+4. http://www.scert.kerala.gov.in/images/ text_books/chapter%204.pdf
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — India - Location, Relief and Drainage](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [இந்தியா அமைவிடம் நிலத்தோற்றம் வடிகாலமைப்பு — Kalvi TV](https://www.youtube.com/watch?v=WDUMcZMDVxM) — KalviTVOfficial; Tamil explanation.
+- [Location Relief and Drainage — Detail Question 3 — Tamil explanation](https://www.youtube.com/watch?v=cm5fX-SPGKk) — HTAS How To Approach Schooling; Tamil explanation.
+- [இந்தியாவின் இயற்கை அமைப்புகள் — Physiographic Divisions](https://www.youtube.com/watch?v=FJPnntlmjcA) — Adda247 Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Himalayan and Peninsular rivers — Tamil explanation](https://www.youtube.com/watch?v=rt_JhQsvT2E) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [India - Location, Relief and Drainage — chapter quiz](https://test.brainkart.com/topic/geography--chapter-1--india---location%2C-relief-and-drainage-420/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [1.1 Location and Extent](#topic-1-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=WDUMcZMDVxM) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-1--india---location%2C-relief-and-drainage-420/) |
+| [1.2 Major Physiographic Divisions of India](#topic-1-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=FJPnntlmjcA) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-1--india---location%2C-relief-and-drainage-420/) |
+| [1.3 Drainage System of India](#topic-1-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=rt_JhQsvT2E) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-1--india---location%2C-relief-and-drainage-420/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `http://www.nplindia.in/` | Page opened in recent check | [Alternative](https://www.nplindia.in/) |
+| `http://india-wris.nrsc.gov.in/` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://indiawris.gov.in/wris/) |
+| `http://ncert.nic.in/ncerts/l/iess102.pdf` | Access not confirmed; failure is not proof of a broken site | — |
+| `http://www.scert.kerala.gov.in/images/text_books/chapter%204.pdf` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.scert.kerala.gov.in/) |
+
+<!-- supplemental-resources:end -->

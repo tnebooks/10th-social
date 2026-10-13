@@ -7,17 +7,27 @@ weight: 13
 summary: "Soil is one of the most important natural resources. India’s varied natural environments resulted in a great variety of soils compared to any other country of similar size in the world. The rich, deep and fertile soils support high density of population through agricultural pros…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 3: India - Agriculture
 
 ![](assets/page_001_picture_001.png)
 
 ## Learning Objectives
 
-To understand the nature of India’s soil types and their distribution. To know about the importance of irrigation and multi-purpose projects in India. To study about the agriculture, its types and importance. To understand the livestock and fishing resources of India. To comprehend the problems of farming in India.
+- To understand the nature of India’s soil types and their distribution.
+- To know about the importance of irrigation and multi-purpose projects in India.
+- To study about the agriculture, its types and importance.
+- To understand the livestock and fishing resources of India.
+- To comprehend the problems of farming in India.
 
 ## Introduction
 
 Soil is one of the most important natural resources. India’s varied natural environments resulted in a great variety of soils compared to any other country of similar size in the world. The rich, deep and fertile soils support high density of population through agricultural prosperity.
+
+<a id="topic-3-1"></a>
 
 ## 3.1 Soils
 
@@ -76,6 +86,8 @@ The main problems of the Indian soils are i) soil erosion (sheet erosion, rill e
 4. Improved methods of Agricultural practices Contour method, Rotation of crops, Contour bunding, Strip cropping, Planting of shelter belts, Adopting the techniques of sustainable agriculture are different conservation methods for better soil management.
 
 ![](assets/page_004_picture_001.png)
+
+<a id="topic-3-2"></a>
 
 ## 3.2 Irrigation
 
@@ -182,6 +194,8 @@ It is a scientific management of water resources in our country. Construction of
 
 ![](assets/page_006_picture_002.png)
 
+<a id="topic-3-3"></a>
+
 ## 3.3 Agriculture
 
 Agriculture is the process of producing food for people, fodder for cattle, fiber and many other desired products by the cultivation of certain plants and the raising of domesticated animals (livestock).
@@ -198,7 +212,9 @@ Agriculture in India is determined by a set of factors. Some of the important fa
 
 4. Technological factors: High yielding varieties of seeds, chemical fertilisers, insecticides and machinery.
 
-### Types of Farming a) Subsistence Farming
+### Types of Farming
+
+### a) Subsistence Farming
 
 A considerable proportion of farmers in the country practice subsistence farming. Farmers grow crops with the help of family members and consume almost the entire farm produce with a little surplus to sell in the market. Preference is given to food crops. In addition to the food crops, sugarcane, oilseeds, cotton, jute and tobacco are also cultivated. Traditional farming method results in low productivity.
 
@@ -244,7 +260,9 @@ Mixed farming is defined as a system of farm which includes crop production, rai
 
 This type of cultivation is practiced specially in hilly areas, where lands are of a sloping nature. The hill and mountain slopes are cut to form terraces and the land is used in the same way as in permanent agriculture. Since the availability of flat land is limited, terraces are made to provide small patches of level land. Soil erosion is also checked due to terrace formation on hill slopes.
 
-## 3.4 Major Crops Cultivated in India
+<a id="topic-3-4"></a>
+
+## 3.4 Major Crops Cultivated in India
 
 The major crops of India are divided into four major categories as follows:
 
@@ -354,7 +372,7 @@ A number of hybrid varieties have been developed by mixing these two. India is t
 
 Coffee is grown in shade and it grows effectively in the altitudes between 1,000 and 1,500 m, above mean sea level. There are two main varieties of coffee. They are,
 
-**i) Arabica (High quality-cultivated more**
+**i) Arabica (High quality-cultivated more**
 
 **in India)**
 
@@ -373,6 +391,8 @@ India has been world famous for its spices since ancient times. These spices are
 ### 4. Horticulture Crops
 
 It refers to the cultivation of fruits, flowers and vegetables. Fruits and vegetables are important supplement to the human diet, as they provide essential minerals, vitamins, and fibres required for maintaining health. India is in the second position in the production of fruits and vegetables.
+
+<a id="topic-3-5"></a>
 
 ## 3.5 Livestock
 
@@ -410,25 +430,29 @@ While looking at the meat, Uttar Pradesh is the leading producer following Mahar
 
 The leading state in the wool production is Rajasthan followed by Karnataka
 
+<a id="topic-3-6"></a>
+
 ## 3.6 Fisheries
 
 Fisheries in India are a very important economic activity and a flourishing sector with varied resources and potentials. Fishing in India is a major industry in its coastal states, employing over 14 million people. It produces about 3 percent of World’s fish and occupies second place among the fish producing nations of the world after China. It also helps in augmenting food supply, generating employment, raising nutritional level and earning valuable foreign exchange. In India, fishing is categorised into two types, they are,
 
-**1. Marine or Sea Fisheries**
+**1. Marine or Sea Fisheries**
 
-**2. Inland or Fresh Water Fisheries**
+**2. Inland or Fresh Water Fisheries**
 
 ![](assets/page_013_picture_001.png)
 
 **Fisheries**
 
-1. Marine or Sea Fisheries: It includes coastal, off-shore and deep sea fisheries mainly on the continental shelves. Kerala leads in the marine fish production in India.
+1. Marine or Sea Fisheries: It includes coastal, off-shore and deep sea fisheries mainly on the continental shelves. Kerala leads in the marine fish production in India.
 
-2. Inland or Fresh Water Fisheries: Rivers, lakes, canals, reservoirs, ponds, tanks, etc., are the sources of fresh water fisheries. About 50 percent of the country’s total fish production comes from the inland fisheries and Andhra Pradesh is the leading producer in India.
+2. Inland or Fresh Water Fisheries: Rivers, lakes, canals, reservoirs, ponds, tanks, etc., are the sources of fresh water fisheries. About 50 percent of the country’s total fish production comes from the inland fisheries and Andhra Pradesh is the leading producer in India.
 
 In India, the important varieties of fishes caught by the fisherman are Cat fish, Herrings, Mackerels, Perches, Eels, Mullets, etc.
 
-## 3.7 Major issues faced by farmers in India
+<a id="topic-3-7"></a>
+
+## 3.7 Major issues faced by farmers in India
 
 **Small and fragmented land-holdings**
 
@@ -508,31 +532,31 @@ Fishing in India is categorized into marine fishing and inland fishing.
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. The soil which is rich in iron oxides is __________. a) Alluvial b) Black c) Red d) Alkaline
+1. The soil which is rich in iron oxides is __________. a) Alluvial b) Black c) Red d) Alkaline
 
-2. Which of the following organization has divided the Indian soils into 8 major groups? a) Indian Council of Agricultural Research b) Indian Meteorological Department c) Soil Survey of India d) Indian Institute of Soil Science
+2. Which of the following organization has divided the Indian soils into 8 major groups? a) Indian Council of Agricultural Research b) Indian Meteorological Department c) Soil Survey of India d) Indian Institute of Soil Science
 
-3. The soils formed by the rivers are: a) Red soils b) Black soils c) Desert soils d) Alluvial soils
+3. The soils formed by the rivers are: a) Red soils b) Black soils c) Desert soils d) Alluvial soils
 
-4. _________ is the highest gravity dam in India. a) Hirakud Dam b) Bhakra Nangal Dam c) Mettur Dam d) Nagarjuna Sagar Dam
+4. _________ is the highest gravity dam in India. a) Hirakud Dam b) Bhakra Nangal Dam c) Mettur Dam d) Nagarjuna Sagar Dam
 
-5. __________ is a cash crop. a) Cotton b) Wheat c) Rice d) Maize
+5. __________ is a cash crop. a) Cotton b) Wheat c) Rice d) Maize
 
-6. Black soils are also called as: a) Arid soils b) Saline soils c) Regur soils d) Mountain soils
+6. Black soils are also called as: a) Arid soils b) Saline soils c) Regur soils d) Mountain soils
 
-7. The longest dam in the world is ___________. a) Mettur Dam b) Kosi Dam c) Hirakud Dam d) Bhakra-Nangal Dam
+7. The longest dam in the world is ___________. a) Mettur Dam b) Kosi Dam c) Hirakud Dam d) Bhakra-Nangal Dam
 
-8. Which crop is called as “Golden Fibre” in India?
+8. Which crop is called as “Golden Fibre” in India?
 
 a) Cotton b) Wheat c) Jute d) Tobacco
 
-**II Consider the given statements and**
+**II Consider the given statements and**
 
 **choose the right option given below**
 
-1. Assertion
+1. Assertion
 
 **(A):**
 
@@ -548,7 +572,7 @@ Reason (R): India ranks first in the world in the production of mango, banana, a
 
 (d) (A) is false (R) is true
 
-2. Assertion (A): Alluvial soil is formed by the deposition of eroded and decayed materials brought by the rivers.
+2. Assertion (A): Alluvial soil is formed by the deposition of eroded and decayed materials brought by the rivers.
 
 Reason (R): Paddy and wheat are grown well in the soil.
 
@@ -570,23 +594,13 @@ Reason (R): Paddy and wheat are grown well in the soil.
 
 **IV Match the following**
 
-1. Sugar bowl of India
-
-- Mahanadi
-
-2. Coffee
-
-- Golden revolution
-
-3. Tehri
-
-- Karnataka
-
-4. Hirakud
-
-- Uttar Pradesh and Bihar
-
-5. Horticulture - Highest dam in the India
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Sugar bowl of India | Mahanadi |
+| 2 | Coffee | Golden revolution |
+| 3 | Tehri | Karnataka |
+| 4 | Hirakud | Uttar Pradesh and Bihar |
+| 5 | Horticulture | Highest dam in the India |
 
 **V Answer in brief**
 
@@ -594,17 +608,17 @@ Reason (R): Paddy and wheat are grown well in the soil.
 
 2. Name the types of soil found in India.
 
-3. State any two characteristics of black cotton soil.
+3. State any two characteristics of black cotton soil.
 
 4. Define Agriculture.
 
-5. State the types of agriculture practices in India.
+5. State the types of agriculture practices in India.
 
 6. Name the seasons of agriculture in India?
 
 7. Mention the plantation crops of India.
 
-8. Write a brief note on the categories of fisheries in India?
+8. Write a brief note on the categories of fisheries in India?
 
 **VI Give reasons**
 
@@ -624,56 +638,108 @@ Reason (R): Paddy and wheat are grown well in the soil.
 
 **VIII Answer in a paragraph**
 
-1. State any five types of soil in India and explain the characteristics and distribution of soil.
+1. State any five types of soil in India and explain the characteristics and distribution of soil.
 
-2. What is multipurpose projects and write about any two multipurpose projects of India.
+2. What is multipurpose projects and write about any two multipurpose projects of India.
 
-3. Bring out the characteristics of Intensive and mixed farming.
+3. Bring out the characteristics of Intensive and mixed farming.
 
-4. Examine the geographical conditions favourable for the cultivation of rice and wheat.
+4. Examine the geographical conditions favourable for the cultivation of rice and wheat.
 
 **IX Hot questions**
 
-1. Can you imagine a world without agriculture?
+1. Can you imagine a world without agriculture?
 
-2. Can you give solutions for the prevailing water disputes in South India?
+2. Can you give solutions for the prevailing water disputes in South India?
 
 **X Map exercise**
 
-1. Demarcate the major tracts of alluvial soils.
+1. Demarcate the major tracts of alluvial soils.
 
-2. Delineate the main regions of black soil.
+2. Delineate the main regions of black soil.
 
-3. Locate the Hirakud Dam, Mettur Dam and Damodar Dam.
+3. Locate the Hirakud Dam, Mettur Dam and Damodar Dam.
 
-4. Shade the regions of jute cultivation..
+4. Shade the regions of jute cultivation..
 
-5. Mark any three tea and coffee growing areas.
+5. Mark any three tea and coffee growing areas.
 
-6. Demarcate the regions of desert soil.
+6. Demarcate the regions of desert soil.
 
-7. Locate the fishing hubs: Tuticorin, Chennai, Cochin, Mumbai, Machilipatnam
+7. Locate the fishing hubs: Tuticorin, Chennai, Cochin, Mumbai, Machilipatnam
 
-8. Demarcate: Cauveri delta, Godavari delta
+8. Demarcate: Cauveri delta, Godavari delta
 
 ### REFERENCE BOOKS
 
-1. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.
+1. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.
 
-2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.
+2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.
 
-3. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.
+3. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.
 
-4. Sharma, T.C. and Coutinho, O. (1978). Economic and Commercial Geography India (2nd Edition). Vikas Publishing House Pvt. Ltd., New Delhi.
+4. Sharma, T.C. and Coutinho, O. (1978). Economic and Commercial Geography India (2nd Edition). Vikas Publishing House Pvt. Ltd., New Delhi.
 
-5. Mamoria, C.B. (1980). Economic and Commercial Geography of India. Shiva Lal Agarwala & Company, Agra.
+5. Mamoria, C.B. (1980). Economic and Commercial Geography of India. Shiva Lal Agarwala & Company, Agra.
 
 ### INTERNET RESOURCES
 
-1. https://extension.psu.edu/introductionto-soils-managing-soils
+1. https://extension.psu.edu/introductionto-soils-managing-soils
 
-2. http://mospi.nic.in/statistical-year-bookindia/2017/181
+2. http://mospi.nic.in/statistical-year-bookindia/2017/181
 
-3. http://www.india-wris.nrsc.gov.in/ wrpinfo/index.php?title=Multi_ Purpose_Projects
+3. http://www.india-wris.nrsc.gov.in/ wrpinfo/index.php?title=Multi_ Purpose_Projects
 
-4. http://dahd.nic.in/sites/default/filess/ Volume%20I.pdf
+4. http://dahd.nic.in/sites/default/filess/ Volume%20I.pdf
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — India - Agriculture](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [இந்தியா – வேளாண்மை — 10th Geography Lesson 3](https://www.youtube.com/watch?v=gtO8Ka7k-nc) — UMA TNPSC MATHS; Tamil explanation.
+- [India Agriculture — Detail Question 3 — Tamil explanation](https://www.youtube.com/watch?v=WJdgBB7F5lc) — HTAS How To Approach Schooling; Tamil explanation.
+- [Types of soils in India — Tamil](https://www.youtube.com/watch?v=I83N2pJtp5Q) — WIN & SHINE IAS; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Irrigation — introduction and types — Tamil](https://www.youtube.com/watch?v=_jldhPGFBaM) — Letz Do It; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Major crop types — Kharif, Rabi and Zaid — Tamil](https://www.youtube.com/watch?v=DQT7MJjcGRw) — John Victor IAS teacher; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Livestock Farming — Successful Farmer](https://www.youtube.com/watch?v=00o-sb5GVMU) — DD Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Fish Farming — Successful Farmer](https://www.youtube.com/watch?v=jfJLnYkU5nc) — DD Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Agriculture in India — Tamil](https://www.youtube.com/watch?v=dl8R7PM-vmE) — Siddhu Mohan; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [India - Agriculture — chapter quiz](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [3.1 Soils](#topic-3-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=I83N2pJtp5Q) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+| [3.2 Irrigation](#topic-3-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_jldhPGFBaM) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+| [3.3 Agriculture](#topic-3-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=DQT7MJjcGRw) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+| [3.4 Major Crops Cultivated in India](#topic-3-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=DQT7MJjcGRw) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+| [3.5 Livestock](#topic-3-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=00o-sb5GVMU) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+| [3.6 Fisheries](#topic-3-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=jfJLnYkU5nc) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+| [3.7 Major issues faced by farmers in India](#topic-3-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=dl8R7PM-vmE) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `http://www.india-wris.nrsc.gov.in/wrpinfo/ index.php?title=Multi_Purpose_Projects` | URL transcription or spacing issue | [Alternative](https://indiawris.gov.in/wris/) |
+| `http://dahd.nic.in/sites/default/filess/ Volume%20I.pdf` | URL transcription or spacing issue | [Alternative](https://dahd.gov.in/taxonomy/term/411) |
+
+<!-- supplemental-resources:end -->

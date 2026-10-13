@@ -1,0 +1,2139 @@
+{
+  "source_pdf_sha256": "87d4c27ebaba040c1a6d421d15074a5d3065ae7023c20b24b850387e9a5ed0c3",
+  "render_dpi": 144,
+  "verified_count": 355,
+  "teacher_approval": false,
+  "scope": "Pixel equality with fresh render of supplied PDF only; does not certify Markdown transcription or semantic correctness.",
+  "pages": [
+    {
+      "pdf_page": 7,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p007.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "44db3a6b020e3a835752f469ca655f1f5b718fe5e3e42e3d66d32c8afcc52f4d"
+    },
+    {
+      "pdf_page": 8,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p008.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "79fccd6238f6c77c93eba11760a24ebd93047d1e85e2d5ef8b074c4b80fb57b9"
+    },
+    {
+      "pdf_page": 9,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p009.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dfe41aafae31b1373fa4ddb21b51526b08aefba4621a6450a6bc5f1c760c551c"
+    },
+    {
+      "pdf_page": 10,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p010.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "73f0327d3634bc12b9331acc9482b4b8104f284b9a53da9dcd20518d25d13ed3"
+    },
+    {
+      "pdf_page": 11,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p011.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2d3ac6d7a09b66c4a505dd9389f42b8fe0a5b3d38ff86f430f603d8514c3ed2e"
+    },
+    {
+      "pdf_page": 12,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p012.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3747999428b9a020ee8ef0d4ddbc4bf4a36de2528f28ac8bcc2c0e5401087533"
+    },
+    {
+      "pdf_page": 13,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p013.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f49c2f78460a9027c38824e697fb600a418da7c82c5d1bc0fbf77fdb6e3f6b06"
+    },
+    {
+      "pdf_page": 14,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p014.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5f2da8f8e6ea0cf1dcc0cd8cea25b82ad2ba1c08322e7586806d0b0ab1f10209"
+    },
+    {
+      "pdf_page": 15,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p015.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "370bd18906e56716efac3afb635b639eab3953bb7d82f8d841e886cbe22c0e88"
+    },
+    {
+      "pdf_page": 16,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p016.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0d022c3584a8b1c43b2283c1e0038f6d6f0f785aa2de2ccaa9687449c2a759ac"
+    },
+    {
+      "pdf_page": 17,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p017.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6fd0b311c00ae7da6747a34e711b333430af13d3ad6d23dbe9deb1b7c7c51043"
+    },
+    {
+      "pdf_page": 18,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p018.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "29daf2fadc076036db5dcee61d7a56c5662802265e6f9ca8c21203fccc210e55"
+    },
+    {
+      "pdf_page": 19,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p019.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "203f2f812312123e185c06d4ba5bbd6fb89d5054a2b5249a5806f1ced86fda69"
+    },
+    {
+      "pdf_page": 20,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p020.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "87c6eb9e67e779cda3355eb65149e2ad5c368c97d8eaed1076dfcfb4bb8ba7d4"
+    },
+    {
+      "pdf_page": 21,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p021.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c575e0dee544ae174b92f60b66a21590842dab06e89a59d235ecdd0a3fbbdedd"
+    },
+    {
+      "pdf_page": 22,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p022.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "891dda063f8373fb9bce49f5a3a2856d30513212dfd1dc6636dc3891d63a03c5"
+    },
+    {
+      "pdf_page": 23,
+      "asset": "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/assets/source-p023.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bc6830d9c6735f0f15be5b6f4598c92f23851544e78668dc7f5c16806aec9b6d"
+    },
+    {
+      "pdf_page": 24,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p024.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c7fc5f7e283d4d1da7bb5c8e9aaea1c3fb6319506dbfa9e5765440ddf38624a7"
+    },
+    {
+      "pdf_page": 25,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p025.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c8f5781c07237f6f073ffac052c47e980697b34ee74ede459c891eb7986b6026"
+    },
+    {
+      "pdf_page": 26,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p026.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8a2c465bb5f4a253c903164ea5c132fae05465e094395604e8ca1dca8cc712e3"
+    },
+    {
+      "pdf_page": 27,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p027.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4c0424a0705ad1f0fd8a9deb4032c19bed3e9b6490936275a2cf421edeaac5a6"
+    },
+    {
+      "pdf_page": 28,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p028.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4f02e697e9e6c4cc1b8e2d95a9230216be804f3d55b293fb0d1b73b3480b8df0"
+    },
+    {
+      "pdf_page": 29,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p029.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "63a1984e64042fd5176d75203c9a7e776820b0a0d2d0efae22b62fcfdf8aef2a"
+    },
+    {
+      "pdf_page": 30,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p030.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d105d3f9df112eab6370d54c30a580700c4a6a09ed60eecedb6e8e8c78f2749f"
+    },
+    {
+      "pdf_page": 31,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p031.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "46ccfe439e97f3c26fec198fdc9687e1159cd3a91bd47c64119a8a8ed0d3e896"
+    },
+    {
+      "pdf_page": 32,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p032.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0e67e3bbbce66895ebe9b334e35efa532a8c2d735b5575a90eaaee263b6cee40"
+    },
+    {
+      "pdf_page": 33,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p033.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3b078f888bf36dbbcc1dd23eaa3d9425921b612a440bde8b41efa00bb4100a8a"
+    },
+    {
+      "pdf_page": 34,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p034.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "77f5ab7806f019da798556edb4506cd64e3276f4bd0e8ba1e997511218918208"
+    },
+    {
+      "pdf_page": 35,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p035.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bef0c4003d06bf2ad988298a3a170e4e507cec8113301b30d415ad9ca6b543d1"
+    },
+    {
+      "pdf_page": 36,
+      "asset": "content.ta/docs/the-world-between-two-world-wars/assets/source-p036.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "27f0c70178fb79f08fb9c67f444ba0279b011df4978c395adc7513b5afaef657"
+    },
+    {
+      "pdf_page": 37,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p037.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "cc9fefa5090752605d4eb4bcc098563e598f855259bc73aee4e25ff97676ebbb"
+    },
+    {
+      "pdf_page": 38,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p038.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1e9ac6aa16e113b67a6a8f629bc942895ef195219b8646942584411f8514e074"
+    },
+    {
+      "pdf_page": 39,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p039.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "12f12ab1931a349a2d5674b1b53b559f9a1f55e077c5d65cda2d589bfd8c5e68"
+    },
+    {
+      "pdf_page": 40,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p040.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f42ddfb216ffb4c2d52fb859b56369c5939878648516be06b1a5cfbfa8fe1b4f"
+    },
+    {
+      "pdf_page": 41,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p041.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "82c4dec4bfcf125387cafd55bc5a588bf5c34be6905e9d0f3dfd14c8bb3d5daa"
+    },
+    {
+      "pdf_page": 42,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p042.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7bd5c4e95737d0087ae304174f041fa2d2a993e969ef36b6af9283e36fcd7886"
+    },
+    {
+      "pdf_page": 43,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p043.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4b29f3960dd9f1fb341035a788ddc733f057389f8d1a604095006facf45b1327"
+    },
+    {
+      "pdf_page": 44,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p044.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0d24b390c4f8d94fd996ec6d6ea6900c3896905ec5c1f8b953e4c761be41db16"
+    },
+    {
+      "pdf_page": 45,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p045.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e110bbb39ef7124e89e08f4a3c3dd85cfbaf2fa176c3ea82e777e6a8243edb60"
+    },
+    {
+      "pdf_page": 46,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p046.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "790740478e4ede45c49f2e4e026db666e417753019d305b342ec73e871952562"
+    },
+    {
+      "pdf_page": 47,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p047.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e9ee87a95784722d2414223a5e10809702866e85e109b4e7a92096e7e306a873"
+    },
+    {
+      "pdf_page": 48,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p048.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2ce9eed5354f1f881ff16696e187d441f3d22af3e68d84cb3b9730cb2f6e2abc"
+    },
+    {
+      "pdf_page": 49,
+      "asset": "content.ta/docs/world-war-ii/assets/source-p049.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "20a541b8806b52e3fa9a93453705a0f55c3dade0e794d00768d32b8a052a9de6"
+    },
+    {
+      "pdf_page": 50,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p050.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ac0389319b61711d8f82f032b5720174d0e0c70d822adc5aa7af8bad21654fcf"
+    },
+    {
+      "pdf_page": 51,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p051.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ff89a52d9eb1f6ba9ed90eadde45812f06c0be36d1d117739ad906bd240da29b"
+    },
+    {
+      "pdf_page": 52,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p052.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6201f09c944046dd4b3d4eef02095735e5cf30bc276b326a415d394e126df211"
+    },
+    {
+      "pdf_page": 53,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p053.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "fc9b1de8b668190efda754eb07a5265aff533e3b95c24dea1c33763e52954730"
+    },
+    {
+      "pdf_page": 54,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p054.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "64b1fb97327d97a7c0f61daf52cb51c78bfdabc624a10b1bfa68fac8ed79eea9"
+    },
+    {
+      "pdf_page": 55,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p055.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5ae7e546ceace1bf1076ac322fa0d906b2302024d6e152144a3e1184e274e9b0"
+    },
+    {
+      "pdf_page": 56,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p056.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c4c1e3c5310266a15f6d8652b01c8b707793719ffac770bfba257af97a4535f7"
+    },
+    {
+      "pdf_page": 57,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p057.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4d1cef88e243054037ca52ae4b0f74e73660f9df82c840691ec043effd268841"
+    },
+    {
+      "pdf_page": 58,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p058.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7d3857aa807f90d6868b8c46e40dace4fd314b2548ffebe327d4384b6a2607f3"
+    },
+    {
+      "pdf_page": 59,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p059.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5d9ef94aa16dc63b2389a671c62f526d2553fd78cecc6899c19ee3583733534e"
+    },
+    {
+      "pdf_page": 60,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p060.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a87dd940d1ded844a49262033c73cfc4943712144eddde152cdb8f90dc35a574"
+    },
+    {
+      "pdf_page": 61,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p061.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6b8bf9c0ef8c607dbdea2c586fc6f35de546d12b91ea3a7c28706958557b5bac"
+    },
+    {
+      "pdf_page": 62,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p062.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7b763eb616c7071616e5052c75d876e699500eeac231ce3670cce8f8b4ed9eca"
+    },
+    {
+      "pdf_page": 63,
+      "asset": "content.ta/docs/the-world-after-world-war-ii/assets/source-p063.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2535f5a92ddb507cfe9f3598b90db4c842f300a6c7d2ebacfdd0b17b22230f91"
+    },
+    {
+      "pdf_page": 64,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p064.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6256ea3eda309a9391bca68e21e9723da26234683c62ea43666719f07a658669"
+    },
+    {
+      "pdf_page": 65,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p065.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "47ae6a4339d1280db43bd5a2e71abd70771d8f0426a7c666d55e357c1dbae98d"
+    },
+    {
+      "pdf_page": 66,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p066.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e1affdb1f144f0ee22b352882b1361db2733ae4913bda375fa29074aa83e31fb"
+    },
+    {
+      "pdf_page": 67,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p067.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "969508cc2f4b69c20cccb22fe56c3e9785509f8e9c988e74fa02fe20246b3704"
+    },
+    {
+      "pdf_page": 68,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p068.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a694404228cf37cbd3c799af3e25879d7018496433e784e6539cd911b50d0dea"
+    },
+    {
+      "pdf_page": 69,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p069.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f14dbc29d11543f00c60f164db42ba4d7a8b804ea931c87a3f188388e201e010"
+    },
+    {
+      "pdf_page": 70,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p070.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6ab8f15b972044b0d838f8b04f17dbbab9e49f1ba92201af49ec145f1820f4a2"
+    },
+    {
+      "pdf_page": 71,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p071.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b232df86db382a41b4689ce344c914deb8a7cb3813b27334322b58b307538b06"
+    },
+    {
+      "pdf_page": 72,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p072.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "888da5ce7c5b0fad07db4d2b1bd9647ea39d45b0176cf6e19de2ef0a040dd33f"
+    },
+    {
+      "pdf_page": 73,
+      "asset": "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/assets/source-p073.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "27567a4c2cdc5c3fef125ae7f0998c71d1bfebf4c187b7eaeec5e2e42f9761bd"
+    },
+    {
+      "pdf_page": 74,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p074.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5b4e95c327a9e65ff7523f4f9ec7c6d8b3795950bf9fdb85a4ee6eb489168742"
+    },
+    {
+      "pdf_page": 75,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p075.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "961910a4f0922a26af5ad0fa5490eb21feb12b35e23d6c6bfacb53302ce66800"
+    },
+    {
+      "pdf_page": 76,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p076.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "82378f63d9765fb70607cc714e516bd60cc2069b7cda3458745ac48a346cb3a9"
+    },
+    {
+      "pdf_page": 77,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p077.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d2077f6e5f217ab7f639344202fe4b8b6da30b951312dd242843a79cb727b0bb"
+    },
+    {
+      "pdf_page": 78,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p078.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "16cd635be0a19a0b02b9ae68550388d5256b3cbf49b59197552fc3a49a48a258"
+    },
+    {
+      "pdf_page": 79,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p079.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "549299695d1008fdcfe8842ebd4e7f4ad79e691f9b7276098b444ea45a1f0689"
+    },
+    {
+      "pdf_page": 80,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p080.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f96af327e8aafd1dcaa72639598151390dcb4412d2d693c0a383bb14e02de338"
+    },
+    {
+      "pdf_page": 81,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p081.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b4a53afb088ca0c2b7a9f5f6b1c2e2f0ea7623b5a9bf8f0c77b4b1a334ed50e9"
+    },
+    {
+      "pdf_page": 82,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p082.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8b96d4ff51ddda24969d65ffb3c1eb0d2e1a27c564b18797233f3bba89238b9f"
+    },
+    {
+      "pdf_page": 83,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p083.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6012d23218c77f2595373672a1ff9b453dcc9f04cca0c7902d065d39222884e4"
+    },
+    {
+      "pdf_page": 84,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p084.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "990ffe28cd92686be1f9b9ee092c1f91d8fbbab22f22d39ac1824460de6ef15c"
+    },
+    {
+      "pdf_page": 85,
+      "asset": "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/assets/source-p085.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "60b7dc9ca4c63d17b1f3b36aa66df97043d73a84c4935ed94b83620559968ba3"
+    },
+    {
+      "pdf_page": 86,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p086.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "13e33cdbfea21155b06ff15a293be8c74294d7b7bcbfa98f62fc7a4574f5c302"
+    },
+    {
+      "pdf_page": 87,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p087.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0bd016286ec320f033571c4ea56a4283fdf0570757f507befcf9900513c985e3"
+    },
+    {
+      "pdf_page": 88,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p088.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e2880fb63c604a2270537fcf6a1042d96c15ef9f875014faa0711763906534ce"
+    },
+    {
+      "pdf_page": 89,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p089.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ad13fbe9055a2e0a0c2990a2eae47712069837303ea69c9517cebf65831ddb3e"
+    },
+    {
+      "pdf_page": 90,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p090.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2814348ca0ab43909066d35e2bdbf73ab585823b40299eb276d242060fd62b6d"
+    },
+    {
+      "pdf_page": 91,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p091.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "58fd9a90b84988c4e877c220e36c6fa3f8b6af5d010b4c0fe75dd2dea6a7a8b8"
+    },
+    {
+      "pdf_page": 92,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p092.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "17d9e248b24e850495604f6dcdae325b689bd94d70e65f6f41c816c969a71480"
+    },
+    {
+      "pdf_page": 93,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p093.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2ff4be6fa3af070f59cfa9099c15f6c3e84c01ec57c1b34a69c5b04305c54a6b"
+    },
+    {
+      "pdf_page": 94,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p094.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c3207614708ac935346d3d2cca2cc0fc6e15bbd6433768252adf40f6bc7b0d1f"
+    },
+    {
+      "pdf_page": 95,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p095.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "804df875b60d30f7ff4cfab0d00860afdf3ff2804ae052bd196e7f7d06217a09"
+    },
+    {
+      "pdf_page": 96,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p096.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a39673481587632e24945774e2ad30bc73ea165cc037415645fe62d358cdc740"
+    },
+    {
+      "pdf_page": 97,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p097.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dd4a1753bd67eaa077887473f05d3187763bfa030e6c5848c7d5eccc0a0fd1dd"
+    },
+    {
+      "pdf_page": 98,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p098.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "215abdb62361f078f298c250310453465bb2829ca5f7534449bdefdc3f462a62"
+    },
+    {
+      "pdf_page": 99,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p099.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ec296f131d7ef63be40ff07e2a7f638558c18bce7cbed4cf11ee3c4b3fef9dcd"
+    },
+    {
+      "pdf_page": 100,
+      "asset": "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/assets/source-p100.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e1aff566bddc9ce6eb1e5bb0829e6982f85059816212e3cca43157f4c1086793"
+    },
+    {
+      "pdf_page": 101,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p101.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a7d0386881e142ff6384e39ad000b3c6ee8ede05dbd402cfeea757f06b69e10c"
+    },
+    {
+      "pdf_page": 102,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p102.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2d9f5f915dc9e89899e999cfc12bb98ee8c71ba777978f97e8935b7326eb28fb"
+    },
+    {
+      "pdf_page": 103,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p103.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "9ab7f13bcf6554c3de247afff296263bcc7b0bf31de258ee540ef638fb5a8447"
+    },
+    {
+      "pdf_page": 104,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p104.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7e1099748b3115b59252130ea3149c7614182a646f21b2e953f3fbe05af7780c"
+    },
+    {
+      "pdf_page": 105,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p105.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1fe06c9e0ede27bf80f9a2db4f9460b5b084911d87ee765513e85c099142cdd3"
+    },
+    {
+      "pdf_page": 106,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p106.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e395799df878272ddc9ed91adc5435cefbc682f48e7b0057bd3b961eaf713d88"
+    },
+    {
+      "pdf_page": 107,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p107.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "234df5029ee5adec94d72e9d05e304a159d36a6a2e93b5ef4e850c947896d555"
+    },
+    {
+      "pdf_page": 108,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p108.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "80800ab331e3fbe45640d7c1ab02ab8662869c2d7f393d696d9b3deed37bc7e3"
+    },
+    {
+      "pdf_page": 109,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p109.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "04214a210f7efa2a035277dabf86bbc2c82e8ef8a4b673b123d286b56917ba1f"
+    },
+    {
+      "pdf_page": 110,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p110.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bfacee48641d487ef7c441b72252c19e807e601d95d2b82f33589ad53df8203f"
+    },
+    {
+      "pdf_page": 111,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p111.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b03ff27458a617f76c3f885041a19d545e884c31ffc1240dd168cd0adeeb4906"
+    },
+    {
+      "pdf_page": 112,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p112.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e28db1283346b3ff0f3fff06d86ab96affff106d3de7dedcfe9b89e53751cd59"
+    },
+    {
+      "pdf_page": 113,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p113.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5e1760c4dafb72bc9f9cfdb1ccaf40aff7ed5fc6d9f5a2b4696374985dda2ea8"
+    },
+    {
+      "pdf_page": 114,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p114.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "536f42d0e6667f0137c3d1fb10da72b472fc6b94b438a67be0528ee58e97809a"
+    },
+    {
+      "pdf_page": 115,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p115.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4c78f2282557fdb95a85f8f7ae7c0480472d7a6aad2fff68731f053e69838af7"
+    },
+    {
+      "pdf_page": 116,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p116.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8f591cdb8dac45d60e46ddff6551a74cfd27876707ebae1eccfb1932e337ede3"
+    },
+    {
+      "pdf_page": 117,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p117.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bfda568f20e37180d8c9fd39aae609155a0895e1f01b67b2f5285632fe2a6a37"
+    },
+    {
+      "pdf_page": 118,
+      "asset": "content.ta/docs/nationalism-gandhian-phase/assets/source-p118.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5dff54a5167aff462346398c4c1c2655e8498509316a5d6739b780617a36ca6c"
+    },
+    {
+      "pdf_page": 119,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p119.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "658c74ddacf0b56273f7d288f1e910a8a95e64048eb0838036fa341a7f7e45ef"
+    },
+    {
+      "pdf_page": 120,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p120.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f918346352d43661766956ebcfc313d0233c89eaf0397c52997b6e8f7250b76f"
+    },
+    {
+      "pdf_page": 121,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p121.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2dc1e76e9a7728f7c9e4b63a5fc5bd1c0d30aa6ac26a2bcdab7a209c61d45ff4"
+    },
+    {
+      "pdf_page": 122,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p122.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "98f11e6bda31047af7a2f1f9ba6f2745efa1f0fbb9cb287b75c886299911d9d3"
+    },
+    {
+      "pdf_page": 123,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p123.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a92795be81cff9b17dabb77b5ee50ea096359cf4351f728197610ab31f52c4ac"
+    },
+    {
+      "pdf_page": 124,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p124.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dc29c74277f3baf35207ba7d79096703b60005f44906ecc754c7d7fa8fd2113a"
+    },
+    {
+      "pdf_page": 125,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p125.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6a25952612d70839e444265a03f9feba1b8c06c6bd0d65ab83ab138593bb7603"
+    },
+    {
+      "pdf_page": 126,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p126.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3aadb9d4db7c5c95399ab128123566942d50cbf13de281109346feee710d208f"
+    },
+    {
+      "pdf_page": 127,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p127.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1e29e043c6d0715468591dbdb6634f4a6d888e7c45d3e1d812e6899bd0ea1ec2"
+    },
+    {
+      "pdf_page": 128,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p128.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "95d7f97d911746065a20ab664d3ae4a1309292d1bad6e663332c83a9b3e86295"
+    },
+    {
+      "pdf_page": 129,
+      "asset": "content.ta/docs/freedom-struggle-in-tamil-nadu/assets/source-p129.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f55a185becca5041b0699808166ea7ce62267ae22b927602b860f0155546eddc"
+    },
+    {
+      "pdf_page": 130,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p130.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2eefa55a2cae01cc5ec53d090f863e7af92720a20bc27d885545f0695347f26a"
+    },
+    {
+      "pdf_page": 131,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p131.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2d1ce4ff0900d8e020de0a414f34902fbf22b09650932c5877cdb9e915ecacb5"
+    },
+    {
+      "pdf_page": 132,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p132.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "928347980f203c7c61d7d58eeba39c688fd015c59c32f987896d84515b443e0d"
+    },
+    {
+      "pdf_page": 133,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p133.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "00bdff2974a6e37df25d373ffc8b2620c34bbe76bc9161274a19766a234f3497"
+    },
+    {
+      "pdf_page": 134,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p134.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1239bdc2eb4caf4ac88af726a0e77e0f23087a3230c86b4791b4780106cedd8e"
+    },
+    {
+      "pdf_page": 135,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p135.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "52d23250d3861fb8440dde77dccf2777d7926628a31339b3cdd1e973d3a2264b"
+    },
+    {
+      "pdf_page": 136,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p136.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6eea157b3fd5f1362899d5f04561779dc398ba0ab9712717c35b1cbd74b7b98a"
+    },
+    {
+      "pdf_page": 137,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p137.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d71674479181c59440214c9a53d20d52e29f6b2a1277b2153e40193fe12054e4"
+    },
+    {
+      "pdf_page": 138,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p138.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1d0fd33c09824c096ca3f86d741b566f8f8152d82dabdd1e3572e9da18711bf9"
+    },
+    {
+      "pdf_page": 139,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p139.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b37087f6558b9569beafd65e220c5482391b3455ea1b420468b8f9cce98c21f8"
+    },
+    {
+      "pdf_page": 140,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p140.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "12418547c535fdc007df8cb93e785e4e5f02cded204d378c8c1055733813b2f0"
+    },
+    {
+      "pdf_page": 141,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p141.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bf4f0cb05316571da736e5b1488aba8b57db2f19f967a7a604a02661ff87b65a"
+    },
+    {
+      "pdf_page": 142,
+      "asset": "content.ta/docs/social-transformation-in-tamil-nadu/assets/source-p142.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "22cfbbcfbfda7115d85b507d69ba432f9f38fc7a9c06d4f57cf650489f52db71"
+    },
+    {
+      "pdf_page": 144,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p144.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c2595161914b6782af348505ae4cac59c485182be20a5313f4adb1659b89fe08"
+    },
+    {
+      "pdf_page": 145,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p145.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f63d6c0865013a80c88132910b6745261cb1c35b678f903dd35f483f93d6e50e"
+    },
+    {
+      "pdf_page": 146,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p146.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a54db0ff3ccd28f49ad8f111875e5601af5e279c88080bb9c11ee4ea15432747"
+    },
+    {
+      "pdf_page": 147,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p147.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5c5ae037002400decf6a135839f5565e7630ca9243168a6740106cd4bad5179d"
+    },
+    {
+      "pdf_page": 148,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p148.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ea35bee73fc1fc0ab66ac2e716a2517bc90da86fcfaf67d9671200e9cbcb14e9"
+    },
+    {
+      "pdf_page": 149,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p149.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "068418d1483d65a46b39a2c1ceb9f6deaf101d5520ca0e965e5f714af7c43d0a"
+    },
+    {
+      "pdf_page": 150,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p150.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d713524a29f4e2e7779b539eb34ab771fbb104138b7411ea2d32a9cc6c0889e8"
+    },
+    {
+      "pdf_page": 151,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p151.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e24a22b547994ffa41d51074867ab1421c06dcd4d411abeca71b531e62185633"
+    },
+    {
+      "pdf_page": 152,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p152.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8d3fc5f11e1ddf5ee6c9df236c14d9649b40324a7ebea2824d5f3c91e9b471f1"
+    },
+    {
+      "pdf_page": 153,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p153.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "fc4b570242d2f9f36b4ebea481efcf7512721083e1287b0b614f311de312230c"
+    },
+    {
+      "pdf_page": 154,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p154.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6e22fd32b80d64874c15382d6cf2506a3db356415b577b6be5ba9a5771e9631e"
+    },
+    {
+      "pdf_page": 155,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p155.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6df9f4fc715ac02af4a192d6ab7f664eb03f65cc30e70a5c96ae5d95de0808cd"
+    },
+    {
+      "pdf_page": 156,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p156.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f1adace7fd8966fe4520393fe312a76b4db01b417cf7f831fa1284fa3d3c8bc2"
+    },
+    {
+      "pdf_page": 157,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p157.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "897d980b9a3eb317c0549444c8e4f6195cc0571e7891b870e6f15ca85477a1d8"
+    },
+    {
+      "pdf_page": 158,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/source-p158.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "25782c2cb8ca64b5a538c3045f864c92d2d72d76555e3837ecbc32aaaa8bf41e"
+    },
+    {
+      "pdf_page": 159,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p159.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b4863b10c4523b2dd7b94d878d15b5b84ad04502247abe6ba2ee087743dfb94f"
+    },
+    {
+      "pdf_page": 160,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p160.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8c799c25d69f8c2aabaa670d3f344221310c6f589dfebfa1a3f0109d2ea6bbb3"
+    },
+    {
+      "pdf_page": 161,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p161.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "eaecc349cf27c360386aada56ebc89f9d73305c61e692e525946a3c9d09b4c53"
+    },
+    {
+      "pdf_page": 162,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p162.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "19a27e249b1854907448f2efc6d9d5974e3f86a82e1364f7e2a65b69baffe8f4"
+    },
+    {
+      "pdf_page": 163,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p163.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b864de69d7c0446035baf33e9a74aa03cab1083c5120c1f0cfae6b05c1c23dbf"
+    },
+    {
+      "pdf_page": 164,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p164.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6d9fac798d3e7b1379a9d1c502d48c2ef2d782f4cba49b1d2b4f390adae9cd2f"
+    },
+    {
+      "pdf_page": 165,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p165.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5db17265298ed3f7c5b79278da5f526633555d9148930c9c80c0b3e858403c36"
+    },
+    {
+      "pdf_page": 166,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p166.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b2203f11a402a59dfccaf6f3d007e2c08fd45c7dabd3d86530725c276fa998f6"
+    },
+    {
+      "pdf_page": 167,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p167.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5f72452f4a92e5fa43a7f65d058962bbb32112a272797f9bbc3a6aa0e5e88375"
+    },
+    {
+      "pdf_page": 168,
+      "asset": "content.ta/docs/climate-and-natural-vegetation-of-india/assets/source-p168.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "fdf6d00127a9baeea7e116b98cc563130b82bb561c68ef6a643bbdb9207f23fd"
+    },
+    {
+      "pdf_page": 169,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p169.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4121f683eecf88633a74f49de86074ffe74bb4bf4aef16db69fc80f89e75dd63"
+    },
+    {
+      "pdf_page": 170,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p170.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1d73e2d3b489c6ef3635918717bfe2a6ff45a176c6f7c16202407162f7f32bc4"
+    },
+    {
+      "pdf_page": 171,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p171.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6bb9f4b7f2dfc4c9759fef28e00b01de76613dbbb0b1e485243c34f3087b0f97"
+    },
+    {
+      "pdf_page": 172,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p172.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3ae755f2d38ede894e82c1a8ddfa36c5175d53557bfc7e22dbb9989df3959e1c"
+    },
+    {
+      "pdf_page": 173,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p173.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8ef216ef11de3a1ed662851d57b46b8be813f783a883ea1e29e3a3dc808b162d"
+    },
+    {
+      "pdf_page": 174,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p174.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "270eb1203a66bba228118be9989db199aba247f9f7a9631dc000b40d89dca188"
+    },
+    {
+      "pdf_page": 175,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p175.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e26b3f2f1c890c0993b8481a24a52fb61969586cad8f9fa9cd24ece7d68a5483"
+    },
+    {
+      "pdf_page": 176,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p176.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8040efdb0b3b8b799199baacec728877f77b838ed2a57dca0017914a9ac20c82"
+    },
+    {
+      "pdf_page": 177,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p177.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "24b489662c13d219440a4b294bbc8e8602f150790e7274dce0ef3a2110764697"
+    },
+    {
+      "pdf_page": 178,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p178.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7d57d345dc52a2eaf446a6d07ee35aa0b84c4689ff4916de27ca594bd821410a"
+    },
+    {
+      "pdf_page": 179,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p179.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c063481cf4e0c60d51d082c137dbf50d411db7054fc52927a1b818e229104231"
+    },
+    {
+      "pdf_page": 180,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p180.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dd59974c0cbab1379208d4686233d4fc6258c6cef183cb248d5481ffc6a34318"
+    },
+    {
+      "pdf_page": 181,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p181.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "df416309b45dce0bf8ad92d315c211e51e9d3a2d2fae799f6edd78713cd7af4a"
+    },
+    {
+      "pdf_page": 182,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p182.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e5c5e9af661250f178d6b1dbaeca3cf1fa546fd291e99fe582645d8cca71dff1"
+    },
+    {
+      "pdf_page": 183,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p183.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bd531fdc1ed13e08b8753dc6f8a9f6156c805cace217d294c868cf58dfc6d5af"
+    },
+    {
+      "pdf_page": 184,
+      "asset": "content.ta/docs/india-agriculture/assets/source-p184.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0d2a9bc54cf52486e58580b1aa420029971e7851e389b094ae37b87ef55f857e"
+    },
+    {
+      "pdf_page": 185,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p185.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "10b9b42e37072d2a33eb305b580f91d2fee09dff18c0d69d53e9b317a2c2c624"
+    },
+    {
+      "pdf_page": 186,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p186.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b20ffd227e03558318445de8097ab039a42dcc3db035bbf5f7feaeabe71aba88"
+    },
+    {
+      "pdf_page": 187,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p187.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "66a93b6b0408601db61d9226e49edb32908105cb34c53705163177b5f027949c"
+    },
+    {
+      "pdf_page": 188,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p188.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7449eead18213d18d30fbdc82b22985348c2faf0aaba3e6a3e49130365b178a2"
+    },
+    {
+      "pdf_page": 189,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p189.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "93af6f347f844a07811e6733b59135b1d29e7eb9a6e74b920d25591aae2944ad"
+    },
+    {
+      "pdf_page": 190,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p190.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "05e9840cc88fe613d95c49a9f408eb97c759c34214e281a0a1ec762186489faa"
+    },
+    {
+      "pdf_page": 191,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p191.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8bd1d9197128a1a3eb77c098e654d7c756dbdf0e1e4514facb3d1b7b16910d5f"
+    },
+    {
+      "pdf_page": 192,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p192.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a50c743ba6117b64a324cc8da5518345dbf1a0b4249118cbe03b053d2338942d"
+    },
+    {
+      "pdf_page": 193,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p193.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a271ad32b706c4a926a629999208efe129a18d6defed7115f31ab3f354b9c523"
+    },
+    {
+      "pdf_page": 194,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p194.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "00d5af9f9c13d99e9aa6f998b75f8a0de236986d3b3966e552f35ba7e56275b7"
+    },
+    {
+      "pdf_page": 195,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p195.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "9743549466984b3ec6658903c430170df589718318c514b18aa5aab0c0dc9cba"
+    },
+    {
+      "pdf_page": 196,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p196.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "201cc795582a8c21b67e6bcd5fc4ee0daac600c21db9173695373ebc844831de"
+    },
+    {
+      "pdf_page": 197,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p197.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "913fea20eb6e0d751dc941ef7fa25a632983a90e53b7434b0d061eff7ac62e3d"
+    },
+    {
+      "pdf_page": 198,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p198.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7dbf81c8f2be7cef6cb6a56605cbd55d5153ca1f40a1ccd580704575eb698392"
+    },
+    {
+      "pdf_page": 199,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p199.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2c619afbcedf8d4599b77febc22df5a3ccd2864b91f6be8896a3379289ee2366"
+    },
+    {
+      "pdf_page": 200,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p200.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "14f5e63bd9c2abd8126113aebe571acc9030fce85c00e5d4269ee9192e22fdd5"
+    },
+    {
+      "pdf_page": 201,
+      "asset": "content.ta/docs/india-resources-and-industries/assets/source-p201.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6723d2ea8a653afb94e2612a719e54c207555b69d60eaa1bc2c760eabb2182d7"
+    },
+    {
+      "pdf_page": 202,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p202.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a35c4a7119feff9def553120f5aa4d73222f95e422b3052ce4693daab477386d"
+    },
+    {
+      "pdf_page": 203,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p203.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f537529604b42334b77d4c17e112e6ea758fd5111454547bf26951b7cda09f24"
+    },
+    {
+      "pdf_page": 204,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p204.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "777dc2289705e4fe62dcdd8569bc64eabe2c81675be321e1fbda6dff2ce0bbf9"
+    },
+    {
+      "pdf_page": 205,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p205.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1d3657cdff2451a2f9438e9e5beec92253b66cc65e6bc97a7881068e4f092365"
+    },
+    {
+      "pdf_page": 206,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p206.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "951009f683c5a8cbdd0c81f058f2b41e27f1cc08cb6633508cb33f5710ce98c2"
+    },
+    {
+      "pdf_page": 207,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p207.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4b05d8bafece01e46b8858c3dd2e9725cb85e8b96d5d5d7869339fc7c86d8c42"
+    },
+    {
+      "pdf_page": 208,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p208.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "92973943aab722d34061189587af8d7c93b66f44f8e298ed6724d2b29e5a3cf0"
+    },
+    {
+      "pdf_page": 209,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p209.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e3cf1721282b0554b9aeed9f5b24ac12e089c1c1f9ad824622b9c28a958f6ac4"
+    },
+    {
+      "pdf_page": 210,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p210.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "899906e94680b07bb7cba1e5af1b4e566396972fb2029943508fd05767ac18f9"
+    },
+    {
+      "pdf_page": 211,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p211.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8362675691f9534978830a8ed1cd0ef59fbf8e0e7027eccf0859732f6e43d059"
+    },
+    {
+      "pdf_page": 212,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p212.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a957ce63855121defcfa7f79303ff334e155a895a32896ae60e29f35de3744a8"
+    },
+    {
+      "pdf_page": 213,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p213.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "86d242200d7b4e4fc99f8b7c796f9725ecdf8b08e504614c587f7701a83a3b76"
+    },
+    {
+      "pdf_page": 214,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p214.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5a1b826065488060ee113c72a2a47ce94f1896a3c057763e52812080660e5942"
+    },
+    {
+      "pdf_page": 215,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p215.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4633254624b04b41b86fc443b366a8c1b86a2c6b09ccfd1c5abb6438dee99dfd"
+    },
+    {
+      "pdf_page": 216,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p216.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dd3f1654f4aed22489405f81395aa05bfe0cb26feadfb81352e2ef31f0f41ecd"
+    },
+    {
+      "pdf_page": 217,
+      "asset": "content.ta/docs/india-population-transport-communication-and-trade/assets/source-p217.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e24fbe3a6ee5d7197a6c7d3a70ffe3a4e02e38725ce16e1bbfd8f03adf6373f7"
+    },
+    {
+      "pdf_page": 218,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p218.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f727c445c9aeb979105db585f160fc212321d7d43aa7bd88389c582ab94f2c05"
+    },
+    {
+      "pdf_page": 219,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p219.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "725aca6c42724d5c78a58e8c5668713bf5155c5f657b2d8e4755059ebce0bde4"
+    },
+    {
+      "pdf_page": 220,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p220.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c6abb6971ceba36042ba4c75c9c98c19e2edb7c1fbbe96910f391f8873dfc0b3"
+    },
+    {
+      "pdf_page": 221,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p221.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5e8ededa3abf7b72d25188cd1076583af9a8c0c1ad3e5a2351410f93b25e6174"
+    },
+    {
+      "pdf_page": 222,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p222.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "26154b2518a27f9e7b6d5acf8600fc5c0b5e8ec8503b8cb62afacf7526ebbf2f"
+    },
+    {
+      "pdf_page": 223,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p223.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1fc2b189309f6f8e4a070bf1437e842da8323883e11eedd8994b7b1a4cf0027a"
+    },
+    {
+      "pdf_page": 224,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p224.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2fdc5b5a0f06999394c99288f32c4ed6aa638c7584008e6b7f1a73e2277e5423"
+    },
+    {
+      "pdf_page": 225,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p225.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "177ef0299c50d25bb7c2d0822c5c961b17490a97bcc8e3b72f027d83bb74ab1c"
+    },
+    {
+      "pdf_page": 226,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p226.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1e30fadf357a9738b7c6e0630fdc5fe38669f7940510c81edba4eb5338b8030d"
+    },
+    {
+      "pdf_page": 227,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p227.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d04ef4644af474affb9dd94b000f8e2f3608e0aca69f0a688b92aa6578ab15ba"
+    },
+    {
+      "pdf_page": 228,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p228.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "aea824bc0535cee72f402accc40b32111a5fbc98aa21a38a24a9ad71698107a3"
+    },
+    {
+      "pdf_page": 229,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p229.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "301a3c25979e5bac0523504db99da581e91663c3c1a66da950cb36523b52444e"
+    },
+    {
+      "pdf_page": 230,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p230.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8fd7a1eda1b49f847d312e64168ad4275c7e62996ce9ddf6eba25bfdd43f9cad"
+    },
+    {
+      "pdf_page": 231,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p231.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "828ee99a9f9ac332b466e75c5d5c177b2c6a628c0e96a2728e1b0de968f3fe7b"
+    },
+    {
+      "pdf_page": 232,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p232.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b6e02be8e91033bb85f7037b9343d6e6b237451670021425230b7127e69c6cc7"
+    },
+    {
+      "pdf_page": 233,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p233.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4e6f86ae9a13dc6de25dd8587eefb9f165e047549edd8410fda92f07fce3e646"
+    },
+    {
+      "pdf_page": 234,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p234.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e620bf9ca4712892801297f83769924436ebe7bab88c08ac5d02d8bd8dc6a5e2"
+    },
+    {
+      "pdf_page": 235,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p235.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b797de7ac716dd4a100a68edbfe08fd0e52b1f77b7e1d3fcf3cfc3ee5ef851ca"
+    },
+    {
+      "pdf_page": 236,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p236.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "fa4a5ff6366117c0cb20456a032600a35343aaa74090604aa78715382d7f1412"
+    },
+    {
+      "pdf_page": 237,
+      "asset": "content.ta/docs/physical-geography-of-tamil-nadu/assets/source-p237.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a7af7f8c41fb887cde5be974f079680a7f9a3e18bccae5cdee0a243fbe9d6356"
+    },
+    {
+      "pdf_page": 238,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p238.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "90924db4a6d58c8024aa2bec9b436cf510dc77380d2cadab43c9b3b5699b65f8"
+    },
+    {
+      "pdf_page": 239,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p239.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2d372220cab5206a84eb80d6887a188b03cdedbd79c90dfa03bebf543f28f463"
+    },
+    {
+      "pdf_page": 240,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p240.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "16e3dc0882502d66dcf926901c1ccad3aef8e048010e0f32e2c3d8e5a9d0ae41"
+    },
+    {
+      "pdf_page": 241,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p241.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0ef66241227ba3e8797ccd849fe3bbd62f08143ebc368caa56a26c4fe301bd31"
+    },
+    {
+      "pdf_page": 242,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p242.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "365b6343654bdecb464053fc3c68abbaccd4cf9aa789979df0b1a2765294455d"
+    },
+    {
+      "pdf_page": 243,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p243.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "df89105cc70afe8721b4a42a7f6d472834f9eee477f6811a212f3186b07d6446"
+    },
+    {
+      "pdf_page": 244,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p244.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1750f1c646425a6ae5b8be0afe93f74077e5d5f69dd281f1a8e5b6c9fa8b95a9"
+    },
+    {
+      "pdf_page": 245,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p245.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "fbea8d3bee98f610a4d942d7aee01b9a0df5daf62fd2980baca17a25076aecbf"
+    },
+    {
+      "pdf_page": 246,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p246.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1a07a10d12df84d0fee7cf844bc5e32885982c5d3fbac7b381333285c95b27c3"
+    },
+    {
+      "pdf_page": 247,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p247.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "717fadbdcaaae4b4cc3d253131fc3965976f61ac8bc25304331c84595b87f9a5"
+    },
+    {
+      "pdf_page": 248,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p248.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ab5388119343bc7408e86ef8bc930af8b3cbaaba82b40cd74e8a24837c1e3471"
+    },
+    {
+      "pdf_page": 249,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p249.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "52ef577a58ad86e961a9f9d31e9b57fb6f84c6d33690fbb17c0b224b14a55988"
+    },
+    {
+      "pdf_page": 250,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p250.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1a1e6b4b092ea220e9159990ba7709373d2497313d2da4b45b2184d097f23f4e"
+    },
+    {
+      "pdf_page": 251,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p251.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a6fe7aa9913a1dee404cb413553fd80aca6353ca5c2f63d3ed449a08879f48b5"
+    },
+    {
+      "pdf_page": 252,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p252.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "cd74507e2addda57e8daac6b5ea63dfc6ef223691aa4abae48c5d9cb3d9c2083"
+    },
+    {
+      "pdf_page": 253,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p253.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "12885638a44b591e10e0715e35f0a494134aa6de5f092583f6d65b7753f61381"
+    },
+    {
+      "pdf_page": 254,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p254.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "721154440c7c972e37c43c40461da166c748332abfaa5d808c3116aca577f20d"
+    },
+    {
+      "pdf_page": 255,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p255.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "07d091c591dae645095c5a45af9e7ac1d174a4ee15f9d7f5af3da58959c14600"
+    },
+    {
+      "pdf_page": 256,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p256.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "aab7c5df5ff30079063d50b062fe7e6587071be9f4b2692454e4ef9136989212"
+    },
+    {
+      "pdf_page": 257,
+      "asset": "content.ta/docs/human-geography-of-tamil-nadu/assets/source-p257.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "273cd1de4f9c9f3f0fe006ec773debdbce1633c64d7e7a08bfbdc2165934a7e7"
+    },
+    {
+      "pdf_page": 259,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p259.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "1bfb9e3feaea7d248316473cbfa1181689e3682dc7fd3982ffe8b88f3a275b0a"
+    },
+    {
+      "pdf_page": 260,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p260.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8aca8e1c100f7e2825d916cc777dc57d4eb284f0c871c9fb59f71983668cd19b"
+    },
+    {
+      "pdf_page": 261,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p261.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c1eede224817631c0136b32fbfa059834089bb5888e6513a3acf91e443c57e7a"
+    },
+    {
+      "pdf_page": 262,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p262.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "64ad9c832e75670c80ae60d027212480b2c8f821aa2e405bb3fa6cbca47ee441"
+    },
+    {
+      "pdf_page": 263,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p263.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "eae209217565b8fcbaf968656256fb3e364ec92c713259bae6837b26770ab16d"
+    },
+    {
+      "pdf_page": 264,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p264.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "bfc3306982dba01a0adc5009d3e1d9d03ba2a7c1f6be64bae43a0861190bc254"
+    },
+    {
+      "pdf_page": 265,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p265.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3de33ceac3c194dab85c0a1cd7976830e15bd6b60bc06456efa636940dec1ad5"
+    },
+    {
+      "pdf_page": 266,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p266.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5cdd207ddef80854747a174d6a7c0f9d5be1316f755294ab5f553bda8a67e78f"
+    },
+    {
+      "pdf_page": 267,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p267.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6c454e9b263137c98de3a10dd0e7c0ed025a22cdb75abe37ff6838152f52b435"
+    },
+    {
+      "pdf_page": 268,
+      "asset": "content.ta/docs/indian-constitution/assets/source-p268.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "665262582e81bb2e22c5522fae8a9e51fb092110083d69ef4e19e34c74f3b261"
+    },
+    {
+      "pdf_page": 269,
+      "asset": "content.ta/docs/central-government/assets/source-p269.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a4386ea0ce520fe1116771999e652b5e6518e08982465b572f43cc7f40d2f08a"
+    },
+    {
+      "pdf_page": 270,
+      "asset": "content.ta/docs/central-government/assets/source-p270.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f1820e5f3031278da804c7354f63ece9135b915ba744b381487be6c5fa1a4cd2"
+    },
+    {
+      "pdf_page": 271,
+      "asset": "content.ta/docs/central-government/assets/source-p271.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2b6998f87ab9da82ace64fbf7b25eb4791cfeb5c1a09481bac41fc5db88d3f49"
+    },
+    {
+      "pdf_page": 272,
+      "asset": "content.ta/docs/central-government/assets/source-p272.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5413ec7faa9003faf73ac9dd0a3ced44e6c22e86f58f2193b8f3eb0a7ec24249"
+    },
+    {
+      "pdf_page": 273,
+      "asset": "content.ta/docs/central-government/assets/source-p273.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "9accaa64d9202fa0b7ea508e5d516547feedd6328320ccb7ca500d5b7a9db95c"
+    },
+    {
+      "pdf_page": 274,
+      "asset": "content.ta/docs/central-government/assets/source-p274.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "705ab5b0de91c783484319c682db499790b6795296bc7b19449e73d65fff5d3f"
+    },
+    {
+      "pdf_page": 275,
+      "asset": "content.ta/docs/central-government/assets/source-p275.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "26ae2a1cda4ade0889716648ac1e73a707db1d7a16466e29e64921f01242687c"
+    },
+    {
+      "pdf_page": 276,
+      "asset": "content.ta/docs/central-government/assets/source-p276.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e5e182ffe5c2ada6affb4f875e771e602cac1b97e3176c74495ca375fa47c4ee"
+    },
+    {
+      "pdf_page": 277,
+      "asset": "content.ta/docs/central-government/assets/source-p277.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ff5f3321cfc4bc5ac4857ce50cd262aa37e0ebfbd728fd3505b1725d6cf6006f"
+    },
+    {
+      "pdf_page": 278,
+      "asset": "content.ta/docs/central-government/assets/source-p278.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "662cd135961c17ad1a599bb50da056ba896e071ada2bb5fffb2746e157042c60"
+    },
+    {
+      "pdf_page": 279,
+      "asset": "content.ta/docs/central-government/assets/source-p279.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "726e39667bcc14ea576fccb56786285b0faff89750a133a15ce236edf51f2b80"
+    },
+    {
+      "pdf_page": 280,
+      "asset": "content.ta/docs/central-government/assets/source-p280.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5d06f80fb4696eb54cf46300f311bd13ea7cba5dbcc0490fae58b9f85c445d01"
+    },
+    {
+      "pdf_page": 281,
+      "asset": "content.ta/docs/state-government/assets/source-p281.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e732450cb743dac1d7509b03bc17b1ea9259b81a26499e468385ab7f781b4f8b"
+    },
+    {
+      "pdf_page": 282,
+      "asset": "content.ta/docs/state-government/assets/source-p282.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "60895be31933e90d71c9a451b266ffd3c4287495f84370e9b649b42ed5437a01"
+    },
+    {
+      "pdf_page": 283,
+      "asset": "content.ta/docs/state-government/assets/source-p283.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0d09797ad3a4fd80d28e743f8b48ded3213467231c162f979cb7ad601c42ef16"
+    },
+    {
+      "pdf_page": 284,
+      "asset": "content.ta/docs/state-government/assets/source-p284.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "89898feada9e85eec53171741868469831a17ad3e7a5069b8b98b604aa333236"
+    },
+    {
+      "pdf_page": 285,
+      "asset": "content.ta/docs/state-government/assets/source-p285.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "97cb25378313eb3c0b06071fb0434c6c0ab56715944d9bf26daf7184c655e0c4"
+    },
+    {
+      "pdf_page": 286,
+      "asset": "content.ta/docs/state-government/assets/source-p286.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "49355f0f161da9f54c07a9832a75f18259470639668faeee2e47ec094fa562e5"
+    },
+    {
+      "pdf_page": 287,
+      "asset": "content.ta/docs/state-government/assets/source-p287.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b29c8759baad2927ec6d3d54d29d133e7470f6c2aeff6801875c54b534b4fe7e"
+    },
+    {
+      "pdf_page": 288,
+      "asset": "content.ta/docs/state-government/assets/source-p288.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "69ebcc3f17e548166545dbf3b1bd9a217d1b03153f79f7d84f0940bd4e9d3923"
+    },
+    {
+      "pdf_page": 289,
+      "asset": "content.ta/docs/state-government/assets/source-p289.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f7e7cec1ce016e1fa2fc248ee471b172cd0361b3e081667019b374734766671f"
+    },
+    {
+      "pdf_page": 290,
+      "asset": "content.ta/docs/state-government/assets/source-p290.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "aa10999fd48b5a40883df7438051973d055e51c0a68860db268853093bc51257"
+    },
+    {
+      "pdf_page": 291,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p291.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "8ef200d1984ad72274342c3eeec3d63209e2f8c51c690b7c837fffe21cb0044c"
+    },
+    {
+      "pdf_page": 292,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p292.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "634492a243605a2e12be3721f74cee8c36f21408cd27de73ec4de5e32ae1e086"
+    },
+    {
+      "pdf_page": 293,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p293.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e5240f206613c1544b770042f05f9b626776a82496c97b0e95ab9de9fcb80486"
+    },
+    {
+      "pdf_page": 294,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p294.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ffd9064b417b14ed1f20b0c0d1bf4a933043d7f57c78f9eb60954aabd878b902"
+    },
+    {
+      "pdf_page": 295,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p295.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d1ec107f131d72e6fe65ed98468cd30b44d57fce131f9e0567c6d5732560a5ca"
+    },
+    {
+      "pdf_page": 296,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p296.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "46ff66e4f0f4f93a9865ff037416a41ee57f479fddd81a273afccb3387ca9ec7"
+    },
+    {
+      "pdf_page": 297,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p297.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "09281a8151351ef4d0809dbb9c8313e9e368f3c85f4ee70ff9af14d4f5684a29"
+    },
+    {
+      "pdf_page": 298,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p298.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d6a548283e1532eb104b25ebb18583e4eec72a01c5f6d77cbb04191ebd015037"
+    },
+    {
+      "pdf_page": 299,
+      "asset": "content.ta/docs/indias-foreign-policy/assets/source-p299.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4fd5b036208191efaf7ef8782f3b10170c1d1c87d6a37cd236f80c10288a23c8"
+    },
+    {
+      "pdf_page": 300,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p300.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a1116b04822eac40600c9424f43a7957d7dee4b5fff1e519e1b38f6cbdb04d84"
+    },
+    {
+      "pdf_page": 301,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p301.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3f93ef4bffa802d91637f8cbeb0df5e60ff69daa88dc849969b2a3e0a2417962"
+    },
+    {
+      "pdf_page": 302,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p302.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "a82c73a716e3d6e66b70ef1383118b3b469ab2a0762b4efacd7fec3ca10687ba"
+    },
+    {
+      "pdf_page": 303,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p303.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "9e9db17fe063764a84e191647f6b42496dfef3a4060c5bf188b5baf873457478"
+    },
+    {
+      "pdf_page": 304,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p304.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "f6be11c1b3082ed51612dbd3d17445d0b8297f5bf4f1aae85d9b31fa239321b0"
+    },
+    {
+      "pdf_page": 305,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p305.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "eed264f72408209d91e98ca464d9b9bb2a9e5974f3bbd988b906a2315cd58271"
+    },
+    {
+      "pdf_page": 306,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p306.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dda2999aa99edb49c96727f4ab451ee1589b1569fc847ebc92b1974ecdc4cb04"
+    },
+    {
+      "pdf_page": 307,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p307.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "dcd6ab563a572721d67091c6d78f06a8699d5abf1874f0f356b1ad10e51bfc6a"
+    },
+    {
+      "pdf_page": 308,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p308.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c13f26b6929d10cfe381d5d6a3e6c5006690c4f225eac284c98dc1a4aaa68c2b"
+    },
+    {
+      "pdf_page": 309,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p309.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "38dbf1a2dee464c68f1552c8233af9e17d3d945504791d832cc5847209327f5f"
+    },
+    {
+      "pdf_page": 310,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p310.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "10751e0547830d4b0bcf0d904b1493f19d13cc626c3e5a5b1f9e7860521d5943"
+    },
+    {
+      "pdf_page": 311,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p311.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5354e34e260da7d18321f660c761d7f692afc76798c59a7185a577fb4a88d3be"
+    },
+    {
+      "pdf_page": 312,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p312.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "db82ab337c05315488bf9d39f9013a02a8e6c799f118ae13a381ef238b3b24be"
+    },
+    {
+      "pdf_page": 313,
+      "asset": "content.ta/docs/indias-international-relations/assets/source-p313.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "975ab9d5571d126213d9dff2ea0b50f75d50f616385476bd8940300bfca79935"
+    },
+    {
+      "pdf_page": 315,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p315.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "07db43f1c6b63d7484aef7a90366123f6330f3c1df5e30f56c5ffae6f92dd2d7"
+    },
+    {
+      "pdf_page": 316,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p316.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "db0e6b11138e60950b43b50d105380525e047d341f2bad2e2c17f68a22e7ca8e"
+    },
+    {
+      "pdf_page": 317,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p317.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3ebfe8b6e7546e61697cd0ca580444f37c2ee71afcb465a888094e7f662d067b"
+    },
+    {
+      "pdf_page": 318,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p318.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "4709b7dffb0ab7c1ec8869babb6825d9ca8837ccc17ec72ed75c78ee2a0dd85d"
+    },
+    {
+      "pdf_page": 319,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p319.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ec5a6d7c0755e0c02ad74b60bef609435ab222561c0d09485d4dcac10f468797"
+    },
+    {
+      "pdf_page": 320,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p320.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5102931f1c7da88d28195877853f47187fe31c2bd78a07904819b233e92044e1"
+    },
+    {
+      "pdf_page": 321,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p321.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "07a2661132d4c6eaeff337937eb437fc08e4077534161732d452fb2b72da59c7"
+    },
+    {
+      "pdf_page": 322,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p322.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "305902f9d98e87a7a69d98db2b78678950c453d09b812cbfde1702d9ebb08346"
+    },
+    {
+      "pdf_page": 323,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p323.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "046dd240d6cbf24fb66170c79750932774b2d5c18821834a71eb4405c2e667e6"
+    },
+    {
+      "pdf_page": 324,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p324.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "9bf60b7c18bd5d9d8ccb9e8aae198a98ba8b88e172525b57d5f6765229bd4c81"
+    },
+    {
+      "pdf_page": 325,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p325.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "608c3d88f2ae66dde399c74a0ffedad771b4246c063fcb30c6a43977396f60c4"
+    },
+    {
+      "pdf_page": 326,
+      "asset": "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/assets/source-p326.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "86561a813b618cd230d786e600b27bd5f973a820d1392131b009342624dbb173"
+    },
+    {
+      "pdf_page": 327,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p327.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "51a0530fb577b92541d1559ca4b23a41a0a64842b70856b0d010b008994dc45c"
+    },
+    {
+      "pdf_page": 328,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p328.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "2851645f0da4b9b2a1099d2196e560b87865f0525a23043f1d318e405b841abb"
+    },
+    {
+      "pdf_page": 329,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p329.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "c618e82d0661b2fd916565eb84fdb4a6210c10df65b7dbaa7b2284e60b7f9272"
+    },
+    {
+      "pdf_page": 330,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p330.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "58a534b4f5e3cf1a3a1acbe078ca98ad85055b693c352f7fcaacd2f4167b840e"
+    },
+    {
+      "pdf_page": 331,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p331.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "68bf2273a8b91c94e2369c13ed6378e43dd4ae6830a0b655a1117ffad6eb0d02"
+    },
+    {
+      "pdf_page": 332,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p332.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "37772e849dd44ac2669a19131afaf09ef9da76f817040ed9433eefeed910ab4c"
+    },
+    {
+      "pdf_page": 333,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p333.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7da697398ec001289c5e46d5bc1a3aaa5d98b83c1b6436c3ea200151c9fbe43f"
+    },
+    {
+      "pdf_page": 334,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p334.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7fb17ba50c68c4109470a24c0d00fcd5e70362579f347a6ea4154f929a2878c4"
+    },
+    {
+      "pdf_page": 335,
+      "asset": "content.ta/docs/globalization-and-trade/assets/source-p335.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b19bb7dee56e98c737617d108bc075687724baa55140ea519f892f7fc99e2149"
+    },
+    {
+      "pdf_page": 336,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p336.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b6d6280e69061947990a1e7ef6f88f5b21644513ebdf6be49c38b8034a2c2b17"
+    },
+    {
+      "pdf_page": 337,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p337.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "6247b2b5632bc998e4fd561552b9a92c66e82782d5086f0a45e6a4955ea2b825"
+    },
+    {
+      "pdf_page": 338,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p338.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e9bfb0d42d15507fe5917f7bab738fd46109441e12f7b3ffb8566ec26b04e104"
+    },
+    {
+      "pdf_page": 339,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p339.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0cf415761bd35e83cc9b5c8f25b58f7b87dfc921d4b45d2384e2b18958d8a10b"
+    },
+    {
+      "pdf_page": 340,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p340.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e8149440e8450ab13a139e5484bd10dd3b6ed64faedb134af65b4050b9e56c84"
+    },
+    {
+      "pdf_page": 341,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p341.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "5967d4fcb793f5f354e59dcca46eddbcb7add6845a741b5f8bf3cf203d6b82f5"
+    },
+    {
+      "pdf_page": 342,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p342.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "03738f4349173bbe92ff936f48543a5edbe4c6126c39583bc26bf3c78af18e21"
+    },
+    {
+      "pdf_page": 343,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p343.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "67ff7ca73b14f61615746642e74ad6702bf1a754d11ca9b91b4b10dbfe6d387f"
+    },
+    {
+      "pdf_page": 344,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p344.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "72a15f71678a27a2a990391a71ceca46906afdafc9559215f7c62483efff3422"
+    },
+    {
+      "pdf_page": 345,
+      "asset": "content.ta/docs/food-security-and-nutrition/assets/source-p345.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "7bcd5b57ea166dd0bb9045d93e5aa29fa1366acc19fb15e567dd84ea8dc1be02"
+    },
+    {
+      "pdf_page": 346,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p346.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "de9a8fc5f56e80ae81bcc9befe73a5165a14424c5dd76b2980eb105147b65221"
+    },
+    {
+      "pdf_page": 347,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p347.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "96e88bb8d5eb89a0209bd60559009e50d61d582b139e62133b4380410557a4e2"
+    },
+    {
+      "pdf_page": 348,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p348.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "437599fc8b3c03ef2475a89d0d330a065f74718bf3fd1bb42e77d2787c86bfe1"
+    },
+    {
+      "pdf_page": 349,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p349.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "501977041b68eafdb40a907b6f86d877ffec5cdeef9f543e36c88c51922df570"
+    },
+    {
+      "pdf_page": 350,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p350.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3541410ad586ac025f6b7f222178124281eb3f0ea7592ea47213941b52aef35f"
+    },
+    {
+      "pdf_page": 351,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p351.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "0b86e60d87d94f01d2da88f3265bc606a034b5f860d87bfb1e4ca8c7cc5b33d9"
+    },
+    {
+      "pdf_page": 352,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p352.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "911af7b877fe11c04c478859fd74e820799c0c08db6212a9eb657e127e4ee92c"
+    },
+    {
+      "pdf_page": 353,
+      "asset": "content.ta/docs/government-and-taxes/assets/source-p353.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "b81984e4bf7361cc8d4bdf2ced2726c9eb5fcf4652ea2d52fdcb075d95a3cbb4"
+    },
+    {
+      "pdf_page": 354,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p354.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "30491b9013fc70287474cd4cf13ea2cbc2de0aaafd08af6fd58f546fa8429e59"
+    },
+    {
+      "pdf_page": 355,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p355.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "454301fb66f2d0c43e9398ddfde7a39f962d1b7ef65a91f663af6477ca43a97c"
+    },
+    {
+      "pdf_page": 356,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p356.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "d81fe9eec3f6f118db3d4c3239d76e39b6d31ca34f5f1cf5d7df3fd292ad91cb"
+    },
+    {
+      "pdf_page": 357,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p357.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "fc1daaa7b7c4a80352a3e103bbe68479f2bff2b550f1fb54f26d7ec11b9d1657"
+    },
+    {
+      "pdf_page": 358,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p358.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "06988e427006a5320282b747d2a70ab4f5a8ccc87f88ad64f997ef85ddcf9999"
+    },
+    {
+      "pdf_page": 359,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p359.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ec3ad1ef9aa59dd70091a5d92d27478e92a2e12872097bbfaec5c46276c61eb1"
+    },
+    {
+      "pdf_page": 360,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p360.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e37f5cb9ee76879edf2c5de462827970d27b12dcc902836cb2addda12eb1a577"
+    },
+    {
+      "pdf_page": 361,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p361.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "ea6de33bf1e498b2d80c6149ea2a32143f775e01f07adfd8a5f299857f0f760d"
+    },
+    {
+      "pdf_page": 362,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p362.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "3c934a5917eafaca1f21c4abf6a88bf21799567ceed952b1e7209e5e324a2c3d"
+    },
+    {
+      "pdf_page": 363,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p363.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "e0f5d5748b4fb2bd9e9223e42bbf660d4dbc0b3f4ffe8cd94bb4aac2366d4a31"
+    },
+    {
+      "pdf_page": 364,
+      "asset": "content.ta/docs/industrial-clusters-in-tamil-nadu/assets/source-p364.webp",
+      "fresh_pdf_render_pixel_match": true,
+      "pixel_sha256": "040119dc44207010926044eb333495c695d8b8f36027af88d4c92376e8236b19"
+    }
+  ]
+}

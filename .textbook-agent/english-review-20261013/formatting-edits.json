@@ -1,0 +1,257 @@
+{
+  "edits": [
+    {
+      "file": "content.en/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md",
+      "expected_file_sha256": "32b78ac669b3e03fc98a4584a7af3c26a31c0729e4e6dcc4257733cca7a2f80d",
+      "result_sha256": "b4d9eeb415f2dadd9d6d1e2545559558a10469f6ff616e8267a1b68adc11476a",
+      "bell_characters_removed": 7,
+      "trailing_whitespace_lines": 31,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/the-world-between-two-world-wars/_index.md",
+      "expected_file_sha256": "b8540115b47bb7ae5465e3babeb8fda055b09d3f1b6542b232ffdd2b84e82774",
+      "result_sha256": "1fce672c93f78b13459c4872adab2436973b25d98062dc8301100ad58a742ceb",
+      "bell_characters_removed": 9,
+      "trailing_whitespace_lines": 16,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/world-war-ii/_index.md",
+      "expected_file_sha256": "172489ff3df0d2a07bc7314f3fb03573e5fc3d667fc4ff80cc7f99b9cee5af87",
+      "result_sha256": "9a4f439bb0ddd5f80d188175be38c2978506310bb543a88d19ee7c8a13e2d5ff",
+      "bell_characters_removed": 8,
+      "trailing_whitespace_lines": 20,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/the-world-after-world-war-ii/_index.md",
+      "expected_file_sha256": "6e136500b39163933fde4d87a4647f0061e355e8cf8ada0c40305461436c9ee2",
+      "result_sha256": "5c43385021a9dcf852ce262ca511d5a1c4b03bd785486aaf8499c8c61201acbe",
+      "bell_characters_removed": 6,
+      "trailing_whitespace_lines": 18,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md",
+      "expected_file_sha256": "d7e163491e2cd72b87474c657a59fb010dfb7c34f01794427079ada4b7bc5377",
+      "result_sha256": "1d33578e255e2081fd7e2b5bcf2305bd1ad5c1e74ac758b5b9376be636d461d9",
+      "bell_characters_removed": 15,
+      "trailing_whitespace_lines": 21,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md",
+      "expected_file_sha256": "53526616506b4bb0dac90b332535bc0dc0fe2cfd3effe0fb04f5b58f2c35945a",
+      "result_sha256": "6edb3f386ca35a30c108a58bc0cc251fe6124a49600c021064bef6a66fb215fa",
+      "bell_characters_removed": 5,
+      "trailing_whitespace_lines": 20,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "expected_file_sha256": "bd769b250141d42ee8b69d210b5d08aa5c8ba73f84d3ae2223dab57f3a8209d2",
+      "result_sha256": "5c43b91d6078e35abeb584ebd4446d058fa721de70b62ba04e320029f4549a0e",
+      "bell_characters_removed": 11,
+      "trailing_whitespace_lines": 25,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/nationalism-gandhian-phase/_index.md",
+      "expected_file_sha256": "254ea324a332ff5cb2420b397ee4ab9ab5fda5e03b0d39f5801f7153d64c479d",
+      "result_sha256": "5a918dad77daa7d6a4d03f40e6fe58b8d5979ebf5e57b322cf631e000899dd3e",
+      "bell_characters_removed": 24,
+      "trailing_whitespace_lines": 21,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/freedom-struggle-in-tamil-nadu/_index.md",
+      "expected_file_sha256": "20168c043e1b3cc34aa6b0781b87acda7cf960dc9b401e415dabfbabe8922b85",
+      "result_sha256": "983ecb0aace7bd4362891dd44950ec59b4754662d1d982ab1433cadfa00d21eb",
+      "bell_characters_removed": 15,
+      "trailing_whitespace_lines": 16,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/social-transformation-in-tamil-nadu/_index.md",
+      "expected_file_sha256": "3ee46deac0b2c3d351e2f4eb5170f40840304c4df409d23fa5b766aad35adcff",
+      "result_sha256": "f6c478644c5ff3d5a056d4953266f149f6961c0106892c63fc1a2239a3489db7",
+      "bell_characters_removed": 10,
+      "trailing_whitespace_lines": 18,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/india-location-relief-and-drainage/_index.md",
+      "expected_file_sha256": "f73394a8083e18882bd463ab974a7b2e3d112b3bfd1d640d31b40970f763b442",
+      "result_sha256": "9c7970219f1f9327e1eb7c848fe8ecc0c17410c6250fb8a846419bb594329226",
+      "bell_characters_removed": 49,
+      "trailing_whitespace_lines": 3,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/climate-and-natural-vegetation-of-india/_index.md",
+      "expected_file_sha256": "2fdc991e18f7802a453db24fc44be5005f161bff38f510e823c1546b3033145e",
+      "result_sha256": "57c6df5f4ac1b25c5af9029b24f75f18aa5c1c46aafdd448515bb742a619d18c",
+      "bell_characters_removed": 22,
+      "trailing_whitespace_lines": 2,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/india-agriculture/_index.md",
+      "expected_file_sha256": "f937f9833fbc367fed75c9e5fe601d870fc980b0b3ac8a3eccdc1e5235124590",
+      "result_sha256": "4a118c648fa92c73a67e52117e456c589a1d4beffb7af9019d0e4d649e68d3e6",
+      "bell_characters_removed": 46,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/india-resources-and-industries/_index.md",
+      "expected_file_sha256": "a7e0af48e9225a9271f7123cd40f57ff0e8c08091ead4adcf52e09fe55a626ef",
+      "result_sha256": "14e803aed2f14798921c0bbd0361b0e1813f459ab3a074a213b0381f2947de65",
+      "bell_characters_removed": 24,
+      "trailing_whitespace_lines": 10,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/india-population-transport-communication-and-trade/_index.md",
+      "expected_file_sha256": "018eebe32c4fe276125574b99a3b5ee228671514686ffe813b64c01175469224",
+      "result_sha256": "c18c1e114ce97c5a93257f91d96c98698a53e66de84e5b87e685090e3c18ff5a",
+      "bell_characters_removed": 26,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/physical-geography-of-tamil-nadu/_index.md",
+      "expected_file_sha256": "f360ddd8c07449ee80b40c29d87398ada4bf1b5fec7bd8abbf6affc74ff1357e",
+      "result_sha256": "527bff50eecc1ae663ec5a39ad496a6d51fe1918aeab4b8b24d5eb70d5902403",
+      "bell_characters_removed": 28,
+      "trailing_whitespace_lines": 3,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "expected_file_sha256": "e00dcfc12a06a8ee516788db1f939381e2d7d910eb8c30a981601f3696ff2df7",
+      "result_sha256": "4879b68a827117468194d96df698ee794c4f824abb7a88d7fdf30dd50d7e7a97",
+      "bell_characters_removed": 30,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/indian-constitution/_index.md",
+      "expected_file_sha256": "f309848be93b40c4d829d3dfdb0e97eeecdfc03f57bdfb38710aba8b5871b93b",
+      "result_sha256": "9a916547c8e58111acc80811ad9e1fe20f31f686246ae6b3e1e33ff6be4fe364",
+      "bell_characters_removed": 11,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/central-government/_index.md",
+      "expected_file_sha256": "2471482cd2673e4f5af1e8e14ddd920a68d25093351298435689ec89f1ce8ff0",
+      "result_sha256": "f6fcf09cf96f61e50b5ae956d29f2fe919d05e25959e790f387e9b92af7cbd72",
+      "bell_characters_removed": 8,
+      "trailing_whitespace_lines": 4,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/state-government/_index.md",
+      "expected_file_sha256": "8bd9ebf6c4a55d3130b9d67e47598643386dbe3b0d2002cdb09c9b3b350afd9f",
+      "result_sha256": "7024277fb6a308bd0c13bb63347f5d052668e73f7682f45ce9c080001851b00d",
+      "bell_characters_removed": 66,
+      "trailing_whitespace_lines": 4,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/indias-foreign-policy/_index.md",
+      "expected_file_sha256": "ff5f51243e81b916c5cf38229ee4864ff4150f46e2e4d935e1be1d73a66760f2",
+      "result_sha256": "bded79a496467f6fb8669613a021e1a3dcc965d5d4aca2ef199df51249ed43f5",
+      "bell_characters_removed": 42,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/indias-international-relations/_index.md",
+      "expected_file_sha256": "9d41e2aa3537c49a3fed0fadbab3d9e5e0571c7e335dc72751fb8c17d2355092",
+      "result_sha256": "c2690d4dc87f138809a0e9b1d33a8113ea31d462560dfc416f77d05532624ec7",
+      "bell_characters_removed": 18,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "expected_file_sha256": "9961822d8030af4990a4bcef4662a374497b9e50655e91c2e26cc65bc6446cb8",
+      "result_sha256": "3ca76c5df61a071cf93238c74b3ca41bc6eb657c355d5d0ea2795b1d3802679b",
+      "bell_characters_removed": 9,
+      "trailing_whitespace_lines": 3,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/globalization-and-trade/_index.md",
+      "expected_file_sha256": "14bce3a7f87c9d5ff93ecb556cad1be481edabee83975a1de20991a776166c62",
+      "result_sha256": "3bbb4af1eb7050e0f053ca3eb984c8b990e4e50eeb3619c12d3ae692c3c9bcc4",
+      "bell_characters_removed": 16,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/food-security-and-nutrition/_index.md",
+      "expected_file_sha256": "511b2acb371b96d4a347377ef161ba83d23f4c2677fcf634199d2284cc3eb4c8",
+      "result_sha256": "0876f2db372048647dae8cfa60aafa2c96cc1fc9bc4f8bf142ddae04e31247d4",
+      "bell_characters_removed": 21,
+      "trailing_whitespace_lines": 4,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/government-and-taxes/_index.md",
+      "expected_file_sha256": "005142554cedaa50a65008ae7b635037917b820b45f9aeba51b2a710d8307abb",
+      "result_sha256": "fc8ffa7de33b77ee1455615458d2457c9656581ce3c291bdd5b19707a517bc0d",
+      "bell_characters_removed": 15,
+      "trailing_whitespace_lines": 0,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "expected_file_sha256": "31c0e1cd91b369121d5d43ff771b47f28725ac989ff9996df69053273926443e",
+      "result_sha256": "ccc538bf4c3d3ad02b5963cfcf3f46a2d91be637bdf2a6829243ce67eeaee199",
+      "bell_characters_removed": 13,
+      "trailing_whitespace_lines": 4,
+      "teacher_approval": false,
+      "textual_changes": "Nonprinting control removal and trailing ASCII whitespace only."
+    },
+    {
+      "file": "content.en/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md",
+      "expected_file_sha256": "fe128bcc52e7bf968ada96e454ec3de9531d57f45071cdc875e43f61c34cd4f1",
+      "result_sha256": "d6115bd094d3c94f42ae723af01c0d13113ef7746255c94ae0f7e7ee7f04a8db",
+      "bell_characters_removed": 0,
+      "trailing_whitespace_lines": 1,
+      "teacher_approval": false,
+      "textual_changes": "Removed one trailing space introduced by final source exercise repair; no wording or list indentation changes."
+    }
+  ],
+  "teacher_approval": false
+}

@@ -1,0 +1,134 @@
+{
+  "source_pdf_sha256": "4aff7d62db883fa27c843bdc86ff0e08af680b45fa090dc2e2b96dce205ae461",
+  "archive_page_count": 334,
+  "crop_count": 50,
+  "final_asset_hashes_verified": 384,
+  "civics_reviewed_crop_pixel_matches": [
+    {
+      "id": "en-p300-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p302-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p303-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p252-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p262-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p272-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p280-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p294-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p306-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p307-glossary-2",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p315-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p324-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p332-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p342-glossary-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p330-sidebar-gst-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p320-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p321-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p312-activity-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p287-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p254-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p248-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p265-figure-1",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p299-equation-gdp",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p299-equation-gnp",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p299-equation-nnp",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p299-equation-ndp",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p300-equation-pci",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p300-equation-dpi",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p300-equation-di",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p300-equation-expenditure",
+      "reviewed_crop_matches_fresh_source_crop": true
+    },
+    {
+      "id": "en-p300-equation-income",
+      "reviewed_crop_matches_fresh_source_crop": true
+    }
+  ],
+  "errors": [],
+  "teacher_approval": false
+}

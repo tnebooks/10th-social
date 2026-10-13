@@ -7,6 +7,10 @@ weight: 3
 summary: "The first half of the twentieth century witnessed two wars which devastated the world. World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945. While the world at large had experienced many wars, these two wars are referred to as “World” wars be…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 3: World war II
 
 ![](assets/page_001_picture_001.png)
@@ -31,7 +35,9 @@ The first half of the twentieth century witnessed two wars which devastated the 
 
 In both wars, the combined forces of Great Britain, France, Russia and the United States fought against a war alliance led by Germany. Germany’s allies were Italy and Japan in World War II.
 
-## 3.1 Causes, Course and Effects of World War II
+<a id="topic-3-1"></a>
+
+## 3.1 Causes, Course and Effects of World War II
 
 ### (a) Causes
 
@@ -228,7 +234,9 @@ International agencies: Many international agencies, in particular the United Na
 
 Colonial powers were forced to give independence to former colonies in a process of decolonization. India was the first to achieve independence.
 
-## 3.2 Holocaust and Its Fallout
+<a id="topic-3-2"></a>
+
+## 3.2 Holocaust and Its Fallout
 
 After Hitler came to power, the Jews were persecuted in many ways. They were deprived of their civil rights, their properties were confiscated and many were confined to ghettos. Eventually, the Nazis came up with the notion of the Final Solution, which was to exterminate the Jews completely.
 
@@ -242,7 +250,9 @@ In the aftermath of the Holocaust the UNO in its Charter, pledged to promote uni
 
 A major outcome of the Holocaust was the creation of the state of Israel as a homeland for the Jews. While this was historically the original home of the Jews during Roman times.
 
-## 3.3 New International Order
+<a id="topic-3-3"></a>
+
+## 3.3 New International Order
 
 By 1941 the United States and Britain began to give serious consideration to the need for international cooperation for achieving lasting peace among all nations. International economic and financial stability were also important objectives. All these would need international organizations with members of the various nations across the world working together for these common objectives. This ultimately resulted in the establishment of the United Nations, the World Bank and the International Monetary Fund, with many associated organizations which deal with basic issues of importance for all societies and countries.
 
@@ -258,13 +268,11 @@ Symbol of UN
 
 ### General Assembly and Security Council
 
+The United Nations functions almost like any government, through its principal organs which are similar to the legislative, executive and judicial wings of a state. In the General Assembly is the body in which each member state is represented. It meets once a year and issues of interest and points of conflict are discussed in the Assembly. The Security Council has fifteen members. Five countries - the United States, Britain, France, Russia and China are permanent members, and there are ten temporary members who are elected in rotation. These two bodies function like a legislature. Each of the permanent members has the right to veto any decision by the other members of the Security Council. This right has often been used to block major decisions, especially by the superpowers, the US and Russia. Major issues and conflicts are discussed in the Security Council.
+
 ![](assets/page_008_picture_002.png)
 
-The United Nations functions almost like any government, through its principal organs which are similar to the legislative, executive and judicial wings of a state. In the General Assembly is the body in which each member state is represented. It meets once a year and issues of interest and points of conflict are discussed in the Assembly. The Security Council has
-
-UN Headquarters,
-
-New York fifteen members. Five countries - the United States, Britain, France, Russia and China are permanent members, and there are ten temporary members who are elected in rotation. These two bodies function like a legislature. Each of the permanent members has the right to veto any decision by the other members of the Security Council. This right has often been used to block major decisions, especially by the superpowers, the US and Russia. Major issues and conflicts are discussed in the Security Council.
+**UN Headquarters, New York**
 
 ### Administrative Structure
 
@@ -298,7 +306,9 @@ The International Monetary Fund was primarily the brainchild of Harry Dexter Whi
 
 The objectives of the IMF are: “to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth and reduce poverty around the world.”
 
-## 3.4 Post-War Welfare States in Europe
+<a id="topic-3-4"></a>
+
+## 3.4 Post-War Welfare States in Europe
 
 The term Welfare State refers to the concept that the government is responsible for the social and economic welfare of the people, thus expanding the role of the state beyond providing defence and maintaining law and order.
 
@@ -322,6 +332,8 @@ The benefits can either be achieved through cash transfers, like old age pension
 
 ### GLOSSARY
 
+![Source glossary, PDF page 43, including Tamil meanings](assets/source_glossary_pdf_043.png)
+
 | Term | Meaning |
 |---|---|
 | devastation / havoc | total destruction |
@@ -340,73 +352,88 @@ The benefits can either be achieved through cash transfers, like old age pension
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. When did the Japanese formally sign of their surrender?
+1. When did the Japanese formally sign of their surrender?
+   - a) 2 September, 1945
+   - b) 2 October, 1945
+   - c) 15 August, 1945
+   - d) 12 October, 1945
 
-a) 2 September, 1945 b) 2 October, 1945 c) 15 August, 1945 d) 12 October, 1945
+2. Who initiated the formation of League of Nations?
+   - a) Roosevelt
+   - b) Chamberlain
+   - c) Woodrow Wilson
+   - d) Baldwin
 
-2. Who initiated the formation of League of Nations? a) Roosevelt b) Chamberlain c) Woodrow Wilson d) Baldwin
+3. Where was the Japanese Navy defeated by the US Navy?
+   - a) Battle of Guadalcanal
+   - b) Battle of Midway
+   - c) Battle of Leningrad
+   - d) Battle of El Alamein
 
-3. Where was the Japanese Navy defeated by the US Navy? a) Battle of Guadalcanal b) Battle of Midway c) Battle of Leningrad d) Battle of El Alamein
+4. Where did the US drop its first atomic bomb?
+   - a) Kavashaki
+   - b) Tokyo
+   - c) Hiroshima
+   - d) Nagasaki
 
-4. Where did the US drop its first atomic bomb?
+5. Who were mainly persecuted by Hitler?
+   - a) Russians
+   - b) Arabs
+   - c) Turks
+   - d) Jews
 
-a) Kavashaki b) Tokyo c) Hiroshima d) Nagasaki
-
-5. Who were mainly persecuted by Hitler?
-
-a) Russians b) Arabs c) Turks d) Jews
-
-6. Which Prime Minister of England signed the Munich Pact with Germany ?
-
-a) Chamberlain b) Winston Churchill c) Lloyd George d) Stanley Baldwin
+6. Which Prime Minister of England signed the Munich Pact with Germany ?
+   - a) Chamberlain
+   - b) Winston Churchill
+   - c) Lloyd George
+   - d) Stanley Baldwin
 
 7. When was the Charter of the UN signed?
-
-a) June 26, 1942 b) June 26, 1945 c) January 1, 1942 d) January 1, 1945
+   - a) June 26, 1942
+   - b) June 26, 1945
+   - c) January 1, 1942
+   - d) January 1, 1945
 
 **II Fill in the blanks**
 
-1. Hitler attacked which was a demilitarised zone.
+1. Hitler attacked ________ which was a demilitarised zone.
 
-2. The alliance between Italy, Germany and Japan is known as .
+2. The alliance between Italy, Germany and Japan is known as ________.
 
-3. Britain Prime Minister resigned in 1940.
+3. Britain Prime Minister ________ resigned in 1940.
 
-4.  is a device used to find out the enemy aircraft from a distance.
+4. ________ is a device used to find out the enemy aircraft from a distance.
 
-**III Choose the correct statement**
+**III Choose the correct statement**
 
-1. Assertion: President Roosevelt realised that the United States had to change its policy of isolation. Reason: He started a programme of Lend Lease in 1941. a) Both A and R are correct b) A is right but R is not the correct reason c) Both A and R are wrong d) R is right but it has no relevance to A
+1. Assertion: President Roosevelt realised that the United States had to change its policy of isolation.
 
-**IV Match the Following**
+   Reason: He started a programme of Lend Lease in 1941.
+   - a) Both A and R are correct
+   - b) A is right but R is not the correct reason
+   - c) Both A and R are wrong
+   - d) R is right but it has no relevance to A
 
-1. Blitzkrieg
+**IV Match the following**
 
-- Stalingrad
-
-2. Royal Navy
-
-- Solomon Island
-
-3. Volga
-
-- Britain
-
-4. Guadalcanal
-
-- lightning strike
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Blitzkrieg | Stalingrad |
+| 2 | Royal Navy | Solomon Island |
+| 3 | Volga | Britain |
+| 4 | Guadalcanal | lightning strike |
 
 **V Answer the questions briefly**
 
-1. Who were the three prominent dictators of the post World War I ?
+1. Who were the three prominent dictators of the post World War I ?
 
-2. How did Hitler get the support from the people of Germany?
+2. How did Hitler get the support from the people of Germany?
 
 3. Describe the Pearl Harbour incident.
 
-4. What do you know of Beveridge Report?.
+4. What do you know of Beveridge Report?.
 
 5. Name the Bretton Woods Twins.
 
@@ -414,50 +441,92 @@ a) June 26, 1942 b) June 26, 1945 c) January 1, 1942 d) January 1, 1945
 
 **VI Answer in detail**
 
-1. Analyse the effects of the World War II.
+1. Analyse the effects of the World War II.
 
-2. Assess the structure and the activities of the UN.
+2. Assess the structure and the activities of the UN.
 
 **VII Students Activity**
 
-1. Marking the Allies and Axis countries, as well as important battlefields of World War II in a world map.
+1. Marking the Allies and Axis countries, as well as important battlefields of World War II in a world map.
 
-**VIII Map Work**
-
-**Mark the following on the world map.**
+**VIII Map Work** **Mark the following on the world map.**
 
 1. Axis Power Countries
 
 2. Allied Power Countries
 
-3. Hiroshima, Nagasaki, Hawaii Islands, Moscow, San Fransico
+3. Hiroshima, Nagasaki, Hawaii Islands, Moscow, San Fransico
 
 ### REFERENCE BOOKS
 
-1. R.D. Cornwell, World History in the Twentieth Century, London: Longman, 1972.
+1. R.D. Cornwell, World History in the Twentieth Century, London: Longman, 1972.
 
-2. C.V. Narasimhan, The United Nations - An Inside View, New Delhi: Vikas, 1988.
+2. C.V. Narasimhan, The United Nations - An Inside View, New Delhi: Vikas, 1988.
 
-3. Encyclopaedia Britannica, vol. 23 (1962 edition).
+3. Encyclopaedia Britannica, vol. 23 (1962 edition).
 
-4. Chris Harman, A People’s History of the World (Delhi: Orient Longman, 2007)
+4. Chris Harman, A People’s History of the World (Delhi: Orient Longman, 2007)
 
-## Steps
+### ICT CORNER
 
-- 
+**World War II**
 
-Open the Browser and type the URL given below (or) Scan the QR Code.
+**Steps**
 
-Click on ‘map’ to see the events happened in the location
+1. Open the Browser and type the URL given below (or) Scan the QR Code.
 
-- 
+2. Click on ‘map’ to see the events happened in the location
 
-Select any year from the bottom time line (Ex.1939) and select the ‘box’ to learn more about the World War II events.
-
-- 
-
-**Website URL:**
+3. Select any year from the bottom time line (Ex.1939) and select the ‘box’ to learn more about the World War II events.
 
 ![](assets/page_013_picture_001.png)
 
-https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/ index.html
+**Website URL:** https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/index.html
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — World war II](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Universal Declaration of Human Rights](https://www.youtube.com/watch?v=5RR4VXNX3jA) — UN Human Rights; English. Covers selected concepts; see the topic table below.
+- [Explainer: What is the UN?](https://www.youtube.com/watch?v=o8etWR7X-RQ) — United Nations; English. Covers selected concepts; see the topic table below.
+- [Post-WW2 Development of British Welfare State](https://www.youtube.com/watch?v=vG9wCSrTbXs) — danieljbmitchell; English. Covers selected concepts; see the topic table below.
+- [இரண்டாம் உலகப்போர் — Part 1 — காரணங்கள்](https://www.youtube.com/watch?v=y8O-pOXJCXk) — EduDeck; Tamil explanation.
+- [இரண்டாம் உலகப்போர் — Part 3 — ஆசியா–பசிபிக் போக்கு](https://www.youtube.com/watch?v=P0kJn27wLZk) — EduDeck; Tamil explanation.
+- [World War II — Detail Question 1 — Tamil explanation](https://www.youtube.com/watch?v=i0b9Fm2P630) — HTAS How To Approach Schooling; Tamil explanation.
+- [ஹிட்லரின் படுகொலை முகாம் எப்படி இருந்தது? — Auschwitz / Holocaust](https://www.youtube.com/watch?v=VWYP6077AhM) — BBC News Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [World war II — chapter quiz](https://test.brainkart.com/topic/history--chapter-3--world-war-ii-412/) — Brainkart; English. Runtime and answers have not been fully tested.
+- [World War II Timeline and Map](https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/) — American Battle Monuments Commission; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [3.1 Causes, Course and Effects of World War II](#topic-3-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=y8O-pOXJCXk) | [Topic activity](https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/) |
+| [3.2 Holocaust and Its Fallout](#topic-3-2) | [Topic video (English)](https://www.youtube.com/watch?v=5RR4VXNX3jA) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-3--world-war-ii-412/) |
+| [3.3 New International Order](#topic-3-3) | [Topic video (English)](https://www.youtube.com/watch?v=o8etWR7X-RQ) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-3--world-war-ii-412/) |
+| [3.4 Post-War Welfare States in Europe](#topic-3-4) | [Topic video (English)](https://www.youtube.com/watch?v=vG9wCSrTbXs) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-3--world-war-ii-412/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/` | Page opened in recent check | — |
+
+<!-- supplemental-resources:end -->

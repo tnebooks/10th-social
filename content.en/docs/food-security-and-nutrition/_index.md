@@ -7,6 +7,10 @@ weight: 25
 summary: "Food is defined as any substance that people eat and drink to maintain life and growth. Food security would denote a person’s ability to eat enough, stay active and lead a healthy life."
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Economics Unit 3: Food Security and Nutrition
 
 ![](assets/page_001_picture_001.png)
@@ -29,6 +33,8 @@ summary: "Food is defined as any substance that people eat and drink to maintain
 
 Food is defined as any substance that people eat and drink to maintain life and growth. Food security would denote a person’s ability to eat enough, stay active and lead a healthy life.
 
+<a id="topic-3-1"></a>
+
 ## 3.1 Food Security
 
 The United Nation’s Food and Agriculture Organisation defines food security as follows:
@@ -41,17 +47,19 @@ Dr.M.S.Swaminathan, nutrition security is:
 
 “physical, economic and social access to a balanced diet, safe drinking water, environmental hygiene, primary health care and primary education”.
 
-### Basic components of food and nutrition security
+### Basic components of food and nutrition security
 
 The three basic components of food and nutrition security. They are availability, access and absorption:
 
-1. Availability of food is physical availability of food stocks in desired quantities, which is a function of domestic production, changes in stocks and imports.
+1. Availability of food is physical availability of food stocks in desired quantities, which is a function of domestic production, changes in stocks and imports.
 
-2. Access to food is primarily a matter of purchasing power and is therefore closely linked with the capabilities and employment opportunities to earn. Capabilities and opportunities in turn are related to one’s access to assets and education.
+2. Access to food is primarily a matter of purchasing power and is therefore closely linked with the capabilities and employment opportunities to earn. Capabilities and opportunities in turn are related to one’s access to assets and education.
 
-3. Absorption of food is the ability to biologically utilise the food consumed.
+3. Absorption of food is the ability to biologically utilise the food consumed.
 
-## 3.2 Availability and Access to Food Grains
+<a id="topic-3-2"></a>
+
+## 3.2 Availability and Access to Food Grains
 
 Thus food security for people in a country is not only dependent on the quantum of food available but also on the ability of people to purchase/access food and to stay in appropriate healthy environment. Just as other developmental issues, food security of people is also related to a country’s overall development process. After Independence, India chose to adopt a planned developmental model.
 
@@ -91,7 +99,7 @@ These households are known as priority households identified based on a set of c
 
 On 1 November 2016, National Food Security Act was implemented in Tamil Nadu after holding out for three years.
 
-### Role of Consumer Cooperatives in Food Security
+### Role of Consumer Cooperatives in Food Security
 
 Consumer cooperatives play an important role in the supply of quality goods at responsible rates to common people. There is a three-tier structure of consumer cooperative societies in India. They are primary consumer cooperative societies. Central consumer cooperative stores and state level consumer federations. More than 50,000 village level societies are engaged in the distribution of consumer goods in rural areas. This scheme is playing an important role in food security in India. For example, out of all fair price shops running in Tamil Nadu, around 94% are being run by cooperatives.
 
@@ -102,6 +110,8 @@ The Food Corporation of India (FCI) procures wheat and rice from the farmers in 
 ![](assets/page_003_picture_002.png)
 
 Buffer Stock
+
+<a id="topic-3-3"></a>
 
 ## 3.3 Purchasing Power
 
@@ -121,7 +131,7 @@ Even though there has been a constant growth in the GDP and growth opportunities
 
 When demand for goods increases, the price of goods increases then the purchasing power is affected.
 
-### 4. Price of goods affect the value of currency
+### 4. Price of goods affect the value of currency
 
 When the price increases the purchasing power decreases and finally the value of currency decreases.
 
@@ -147,8 +157,12 @@ PPP can be used to compare countries income levels and other relevant economic d
 | US | 21.4 |
 | India | 11.4 |
 | Japan | 5.8 |
-| Russia | 4.5 |
-| Germany | 4.3 |
+| Germany | 4.5 |
+| Russia | 4.3 |
+
+![Largest economies by PPP - GDP in 2019 (Int $ Tn)](assets/source-en-p320-figure-1.png)
+
+<a id="topic-3-4"></a>
 
 ## 3.4 Agricultural Policy in India
 
@@ -182,7 +196,9 @@ Agricultural policy of India has set another objective to check environmental de
 
 The policy has set another objective to remove bureaucratic obstacles on the farmers’ co-operative societies and self-help institutions so that they can work independently.
 
-## 3.5 Multi-dimensional Nature of Poverty
+<a id="topic-3-5"></a>
+
+## 3.5 Multi-dimensional Nature of Poverty
 
 The Multi-dimensional Poverty Index (MPI) was launched by the United Nations Development Programme (UNDP) and the Oxford Poverty Human Development Initiative (OPHI) in 2010. The basic philosophy and significance of MPI is that it is based on the idea that poverty is not unidimensional, but is multidimensional.
 
@@ -190,23 +206,9 @@ Multi-dimensional poverty is made up of several factors that constitute poor peo
 
 ### Multi-dimensional poverty Index 2022-2023 Report in Tamil Nadu
 
-Over the last decades, Tamil Nadu has made a significant progress in poverty reduction. The districts in Tamil Nadu are classified into three categories, namely high-poverty districts (more
+Over the last decades, Tamil Nadu has made a significant progress in poverty reduction. The districts in Tamil Nadu are classified into three categories, namely high-poverty districts (more than 40% of the population living below poverty line), moderately poor districts (30% to 40%) and low-level poverty districts (below 30%).
 
-![](assets/page_005_picture_001.png)
-
-Child & Adolescent Mortality
-
-Antenatal Care
-
-Drinking Water
-
-Housing
-
-Bank Account
-
-**Multi-Dimensional Poverty Index**
-
-than 40% of the population living below poverty line), moderately poor districts (30% to 40%) and low-level poverty districts (below 30%).
+![Multi-Dimensional Poverty Index](assets/source-en-p321-figure-1.png)
 
 After 1994, poverty has declined steadily in both rural and urban areas of Tamil Nadu and the state has a smaller share of India’s poor relative to its population. After 2005, the poverty reduction in this state has been faster than in many other states in India. Tamil Nadu leads in the poverty alleviation programmes during 2014–2017. Government of India is implementing many policies and programmes to eradicate poverty.
 
@@ -225,7 +227,9 @@ Top and Bottom MPI districts in Tamil Nadu
 
 ![](assets/page_006_picture_001.png)
 
-## 3.6 Nutrition and Health Status
+<a id="topic-3-6"></a>
+
+## 3.6 Nutrition and Health Status
 
 ### Status of Nutrition
 
@@ -245,7 +249,7 @@ More than half of the women in the reproductive age group (15–49 years) in bot
 
 16. As regards children, about 60% of the rural and 56% of the urban children (in the age group of 6–59 months) are counted to be anaemic, in 2015–16. About 41% of the rural and 31% of urban children are stunted, that is, they are not of the required height in correspondence to their age. Another indicator of nutrition deficiency among children is “underweight”, which is weight in relation to their age. In India, in 2015–16, about 20% of children(in the age group of 6–59 months) in rural and urban India are estimated to be underweight.
 
-### Nutrition and Health Status in Tamil Nadu
+### Nutrition and Health Status in Tamil Nadu
 
 Nutrition plays a crucial role in human health and well-being. At the national level, despite higher economic growth, improvements in human development indicators like nutrition levels of the population have been unacceptably slow. A large number of Indian children are stunted. A substantial number of Indian children and women are underweight, anaemic and suffer from micronutrient deficiencies. To address these concerns, the Central and state governments have been channellising substantial resources into various health and nutrition schemes and programmes like Integrated Child Development Services (ICDS), mid-day meals, Reproductive and Child Health Programmes (RCH) and National Rural Health Mission (NRHM). However, an effective scaling up of these efforts is required to mitigate the incidence of under-nutrition in the country.
 
@@ -257,47 +261,47 @@ The Government of Tamil Nadu’s policy for “A Malnutrition Free Tamil Nadu”
 
 With steady expansion into unreached areas, increasing coverage of marginalised groups, enhanced allocations and enlarged scope of services, ICDS is now considered to be one of the world’s largest programmes of its kind.
 
-**Important ongoing Schemes in Tamil Nadu**
-
 The PTMGRNMP is considered to be the largest noon meal programme in the country for combating malnutrition among children, increasing primary school enrolment and reducing dropout rates. Other states in the country have modelled their noon meal programmes along the lines of Tamil Nadu’s pioneering efforts.
 
 ![](assets/page_007_picture_001.png)
 
 ICDS Scheme
 
-1. Under Dr. Muthulakshmi Reddy Maternity Benefit Scheme, financial assistance to the tune of ` 12,000 is being disbursed to poor pregnant women.
+**Important ongoing Schemes in Tamil Nadu**
 
-2. The Chief Minister’s Comprehensive Health Insurance Scheme was launched in the state in
+1. Under Dr. Muthulakshmi Reddy Maternity Benefit Scheme, financial assistance to the tune of ₹12,000 is being disbursed to poor pregnant women.
+
+2. The Chief Minister’s Comprehensive Health Insurance Scheme was launched in the state in
 
 2011-12 with the aim to provide Universal Healthcare to all by providing free medical and surgical treatment.
 
-3. Tamil Nadu Health Systems Projects (TNHSP) has launched ambulance services at free of cost (The 108 Emergency Ambulance Service).
+3. Tamil Nadu Health Systems Projects (TNHSP) has launched ambulance services at free of cost (The 108 Emergency Ambulance Service).
 
 ![](assets/page_007_picture_002.png)
 
-4. The School Health Programme emphasises on providing comprehensive healthcare services to all students studying in Government and Government-aided schools.
+4. The School Health Programme emphasises on providing comprehensive healthcare services to all students studying in Government and Government-aided schools.
 
-5. The National Leprosy Eradication Programme is being implemented in the state with the aim to detect and to provide sustained regular treatment to all leprosy patients.
-
-**Some Nutrition Programmes in Tamil Nadu**
+5. The National Leprosy Eradication Programme is being implemented in the state with the aim to detect and to provide sustained regular treatment to all leprosy patients.
 
 ### School Health Programme
 
-1. Puratchi Thalaivar M.G.R. Nutrition Meal Programme:
+**Some Nutrition Programmes in Tamil Nadu**
 
-2. National Programme of Nutritional Support to Primary Education
+1. Puratchi Thalaivar M.G.R. Nutrition Meal Programme:
+
+2. National Programme of Nutritional Support to Primary Education
 
 ![](assets/page_007_picture_003.png)
 
-3. General ICDS Projects and World Bank-Assisted Integrated Child
+3. General ICDS Projects and World Bank-Assisted Integrated Child
 
 Development Services:
 
-4. Pradhan Manthri Gramodaya Yojana Scheme (PMGYS):
+4. Pradhan Manthri Gramodaya Yojana Scheme (PMGYS):
 
-5. Tamil Nadu Integrated Nutrition Programme:
+5. Tamil Nadu Integrated Nutrition Programme:
 
-6. Mid-Day Meal Programme:
+6. Mid-Day Meal Programme:
 
 Mid-Day Meal Programme
 
@@ -331,83 +335,107 @@ Mid-Day Meal Programme
 | Unidimensional | having one direction |
 | Malnourished | lack of proper nutrition |
 
+![GLOSSARY](assets/source-en-p324-glossary-1.png)
+
 ### EXERCISE
 
-**I Choose the**
+**I Choose the correct answer**
 
-**correct answer**
+1. Buffer stock is the stock of food grains, namely wheat and rice, procured by the government through the __________.
 
-1. Buffer stock is the stock of food grains, namely wheat and rice, procured by the government through the .
+    a) FCI
 
-a) FCI b) Consumer Cooperatives c) ICICI d) IFCI
+    b) Consumer Cooperatives
+
+    c) ICICI
+
+    d) IFCI
 
 2. Which is correct?
 
-i) HYV–High Yielding Varieties ii) MSP–Minimum Support Price iii) PDS–Public Distribution System iv) FCI–Food Corporation of India a) i and ii are correct b) iii and iv are correct c) ii and iii are correct d) all are correct
+   i) HYV–High Yielding Varieties
+   ii) MSP–Minimum Support Price
+   iii) PDS–Public Distribution System
+   iv) FCI–Food Corporation of India
 
-3. extended assistance through its Public Law 480.
+    a) i and ii are correct
 
-a) United States of America b) India c) Singapore d) UK
+    b) iii and iv are correct
 
-4. revolution was born in India paving way for self-sufficiency in food grain production.
+    c) ii and iii are correct
 
-a) Blue Revolution b) White Revolution c) Green Revolution d) Grey Revolution
+    d) all are correct
 
-5. is the only state in India to adopt universal PDS.
+3. __________ extended assistance through its Public Law 480.
 
-a) Kerala b) Andhra Pradesh c) Tamil Nadu d) Karnataka
+    a) United States of America
 
-6. is the process of providing or obtaining the food necessary for health and growth.
+    b) India
 
-a) Health b) Nutrition c) Sanitation d) Security
+    c) Singapore
+
+    d) UK
+
+4. __________ revolution was born in India paving way for self-sufficiency in food grain production.
+
+    a) Blue Revolution
+
+    b) White Revolution
+
+    c) Green Revolution
+
+    d) Grey Revolution
+
+5. __________ is the only state in India to adopt universal PDS.
+
+    a) Kerala
+
+    b) Andhra Pradesh
+
+    c) Tamil Nadu
+
+    d) Karnataka
+
+6. __________ is the process of providing or obtaining the food necessary for health and growth.
+
+    a) Health
+
+    b) Nutrition
+
+    c) Sanitation
+
+    d) Security
 
 **II Fill in the blanks**
 
-1. is an important indicator of nutrition deficiency.
+1. __________ is an important indicator of nutrition deficiency.
 
-2. In the year
+2. In the year __________ National Food Security Act was passed by the Indian Parliament.
 
-National Food
-
-Security Act was passed by the Indian
-
-Parliament.
-
-3. play an important role in the supply of quality goods at responsible rates to common people.
+3. __________ play an important role in the supply of quality goods at responsible rates to common people.
 
 **III Match the following**
 
-1. Consumer cooperatives
-
-– subsidized rates
-
-2. Public Distribution
-
-System
-
-– 2013
-
-3. UNDP
-
-– supply of quality goods
-
-4. National
-
-Food Security Act
-
-– United Nations
-
-Development
-
-Programme
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Consumer cooperatives | subsidized rates |
+| 2 | Public Distribution System | 2013 |
+| 3 | UNDP | supply of quality goods |
+| 4 | National Food Security Act | United Nations Development Programme |
 
 **IV Assertion and Reason**
 
-1. Assertion (A): Purchasing power increases, price decreases and vice versa.
+1. Assertion (A): Purchasing power increases, price decreases and vice versa.
 
-Reason (R): The production of goods decline, the price of goods increases and then the purchasing power is affected.
+    Reason (R): The production of goods decline, the price of goods increases and then the purchasing power is affected.
 
-a) A is correct, R is false b) Both A and R are false statements c) A is correct but R is not a correct explanation d) A is correct, R is the correct explanation of A
+    a) A is correct, R is false
+
+    b) Both A and R are false statements
+
+    c) A is correct but R is not a correct explanation
+
+    d) A is correct, R is the correct explanation of A
 
 **V Answer in short**
 
@@ -415,9 +443,7 @@ a) A is correct, R is false b) Both A and R are false statements c) A is correct
 
 2. What are the basic three components of of food and nutrition security?
 
-3. What is the role of FCI in Green
-
-Revolution?
+3. What is the role of FCI in Green Revolution?
 
 4. What are the effects of Green Revolution?
 
@@ -433,9 +459,7 @@ Revolution?
 
 4. What are the factors affecting the purchasing power and explain them.
 
-5. What are the main objectives of the new
-
-Agricultural Policy?
+5. What are the main objectives of the new Agricultural Policy?
 
 **VII Activity and Project**
 
@@ -477,19 +501,11 @@ Security Act 2013”.
 
 ## Steps
 
-- 
+- Open the browser and type the URL given below.
 
-Open the browser and type the URL given below.
+- Click on the left side menu to view the policies on food security, procurement data for current marketing season, minimum support price of food grains.
 
-- 
-
-Click on the left side menu to view the policies on food security, procurement data for current marketing season, minimum support price of food grains.
-
-- 
-
-For example, click on the minimum support price of paddy. You can see the yearwise minimum support price of paddy, wheat and coarsegrain.
-
-- 
+- For example, click on the minimum support price of paddy. You can see the yearwise minimum support price of paddy, wheat and coarsegrain.
 
 ![](assets/page_010_picture_003.png)
 
@@ -498,3 +514,51 @@ Likewise, you can view regionwise procurement also.
 **Website URL:**
 
 http://fci.gov.in/procurements.php?view=51
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Food Security and Nutrition](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [What is Purchasing Power?](https://www.federalreserveeducation.org/teaching-resources/economics/inflation/purchasing-power-explained) — Federal Reserve Education; English. Covers selected concepts; see the topic table below.
+- [10th Social Economics: Food Security and Nutrition — Part 1](https://www.youtube.com/watch?v=O-U6AAE5BF4) — HTAS How To Approach Schooling; Tamil explanation.
+- [Food Security and Nutrition: basic components, FCI, Green Revolution, TN nutrition programmes](https://www.youtube.com/watch?v=thVm_rZYILk) — HTAS How To Approach Schooling; Tamil explanation.
+- [Purchasing Power Parity — Tamil](https://www.youtube.com/watch?v=J8vhlgGSxs4) — John Victor IAS teacher; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Multidimensional Poverty Index 2023 — Tamil](https://www.youtube.com/watch?v=HJ5YPMtJYyI) — Adda247 Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Agricultural policy in India — 10th Social, Food Security and Nutrition, தமிழ்](https://www.youtube.com/watch?v=evp1Ze20UDs) — Nivetha Jayakumar's Classroom; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [HungerMap LIVE — food insecurity and micronutrient layers](https://hungermap.wfp.org/) — UN World Food Programme; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [3.1 Food Security](#topic-3-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=O-U6AAE5BF4) | [Topic activity](https://hungermap.wfp.org/) |
+| [3.2 Availability and Access to Food Grains](#topic-3-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=thVm_rZYILk) | [Lesson activities](#interactive-resources) |
+| [3.3 Purchasing Power](#topic-3-3) | [Topic video (English)](https://www.federalreserveeducation.org/teaching-resources/economics/inflation/purchasing-power-explained) | [Topic activity](https://hungermap.wfp.org/) |
+| [3.4 Agricultural Policy in India](#topic-3-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=evp1Ze20UDs) | [Lesson activities](#interactive-resources) |
+| [3.5 Multi-dimensional Nature of Poverty](#topic-3-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=HJ5YPMtJYyI) | [Topic activity](https://hungermap.wfp.org/) |
+| [3.6 Nutrition and Health Status](#topic-3-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=thVm_rZYILk) | [Topic activity](https://hungermap.wfp.org/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `http://fci.gov.in/procurements.php?view=51` | Access not confirmed; failure is not proof of a broken site | — |
+
+<!-- supplemental-resources:end -->

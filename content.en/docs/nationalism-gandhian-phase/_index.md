@@ -7,6 +7,10 @@ weight: 8
 summary: "Mahatma Gandhi arrived in India in 1915 from South Africa after fighting for the civil rights of the Indians there for about twenty years. He brought with him a new impulse to Indian politics. He introduced satyagraha, which he had perfected in South Africa, that could be practi…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 8: Nationalism: Gandhian Phase
 
 ![](assets/page_001_picture_001.png)
@@ -45,7 +49,9 @@ Mahatma Gandhi arrived in India in 1915 from South Africa after fighting for the
 
 National Movement.
 
-## 8.1 Gandhi and Mass
+<a id="topic-8-1"></a>
+
+## 8.1 Gandhi and Mass
 
 ## Nationalism
 
@@ -63,7 +69,9 @@ Gandhi was introduced to the works of Tolstoy and John Ruskin. He was deeply inf
 
 Gandhi developed satyagraha (devotion to the truth, truth-force) as a strategy, in which campaigners went on peaceful marches and presented themselves for arrest in protest against unjust laws. He experimented with it for fighting the issues of immigration and racial discrimination. Meetings were held and registration offices of immigrants were picketed. Even when the police let loose violence no resistance was offered by the satyagrahis. Gandhi and other leaders were arrested. Indians, mostly indentured labourers turned hawkers continued the struggle despite police brutality. Finally, by the Smuts-Gandhi Agreement the poll tax on indentured labourers was abolished.
 
-## 8.2 Gandhi’s Early Satyagrahas in India
+<a id="topic-8-2"></a>
+
+## 8.2 Gandhi’s Early Satyagrahas in India
 
 Gandhi regarded Gopal Krishna Gokhale, whom he had met on previous visits to India, as his political guru. On his advice, Gandhi travelled the length and breadth of the country before plunging into politics. This enabled him to understand the conditions of the people. It is on one of these journeys through Tamil Nadu that Gandhi decided to discard his following robes and wear a simple dhoti.
 
@@ -77,7 +85,7 @@ Champaran Satyagraha system, prevailed on Gandhi to visit Champaran. On reaching
 
 The success of Champaran satyagraha, followed by his fruitful intervention in Ahmedabad mill strike (1918) and the Kheda Satyagraha (1918) helped Gandhi establish himself as a leader of mass struggle. Unlike earlier leaders, Gandhi demonstrated his ability to mobilise the common people across the country.
 
-### (b) Rowlatt Satyagraha and Jallianwala Bagh Massacre
+### (b) Rowlatt Satyagraha and Jallianwala Bagh Massacre
 
 The Government of India Act 1919, however, caused disappointment, as it did not transfer real power to the Indians. Besides, the government began to enforce the permanent extension of war time restrictions. The Rowlatt Act was enacted which provided for excessive police powers, arrest without warrant and detention without trial. Gandhi called it a ‘Black Act’ and in protest called for a nationwide satyagraha on 6 April 1919. It was to be a non-violent struggle with fasting and prayer, and it was the earliest anti-colonial struggle spread across the country. The anti-Rowlatt protest was intense in Punjab, especially in Amritsar and Lahore. Gandhi was arrested and prevented from visiting Punjab. On 9 April, two prominent local leaders Dr. Saifuddin Kitchlew and Dr. Satyapal were arrested in Amritsar.
 
@@ -93,7 +101,9 @@ Jallianwala Bagh in Amritsar. As it happened to be Baisaki day (spring harvest f
 
 The First World War came to an end in 1918. The Caliph of Turkey, who was considered the head of Muslims of the world, was given a harsh treatment. A movement was started called Khilafat Movement led by the Ali brothers, Maulana Mohamed Ali and Maulana Shaukat Ali. Gandhi supported the movement and saw in it an opportunity to unite Hindus and Muslims. He presided over the All India Khilafat Conference held at Delhi in November 1919. Gandhi supported Shaukat Ali’s proposal of three national slogans, Allaho Akbar, Bande Mataram and Hindu-Musslamanki Jai. The Khilafat Committee meeting at Allahabad, on 9 June 1920, adopted Gandhi’s non-violent, noncooperation programme. Non-Cooperation began on 1 August 1920.
 
-## 8.3 Non-Cooperation Movement and Its Fallout
+<a id="topic-8-3"></a>
+
+## 8.3 Non-Cooperation Movement and Its Fallout
 
 The Indian National Congress approved the non-cooperation movement in a special session held in Calcutta in September 1920. It was subsequently passed at the Nagpur Session, held in December 1920, Chaired by Salem C. Vijayaraghavachariar. The programme of non-cooperation included:
 
@@ -115,7 +125,7 @@ The Indian National Congress approved the non-cooperation movement in a special 
 
 8. Boycott of foreign goods and spreading the doctrine of Swadeshi.
 
-### (a) No-Tax Campaign and Chauri
+### (a) No-Tax Campaign and Chauri
 
 ### Chaura Incident
 
@@ -141,7 +151,7 @@ Dyarchy, a system of dual government introduced under the Government of India Ac
 
 used the legislature as a platform for propagation of nationalist ideas. In Bengal, they refused to take charge of transferred subjects, as they did not want to cooperate with the government. They exposed the true nature of the colonial government. However, the Swaraj Party began to decline after the death of its leader C.R. Das in 1925.
 
-### (c) Constructive Programme of Gandhi
+### (c) Constructive Programme of Gandhi
 
 After the Chauri Chaura incident, Gandhi felt that the volunteers and the people had to be trained for a non-violent struggle. As a part of this effort he focussed on promoting Khadi, Hindu-Muslim unity and the abolition of untouchability. He exhorted the Congressmen, “Go throughout your districts and spread the message of Khaddar, the message of Hindu- Muslim unity, the message of anti-untouchability and take up in hand the youth of the country and make them the real soldiers of Swaraj.” He made it compulsory for all Congress members to wear khaddar. The All India Spinner’s Association was formed.
 
@@ -173,7 +183,9 @@ Legislature. He demanded that one-third of the seats be reserved for Muslims. Te
 
 Jinnah
 
-## 8.4 The Struggle for Poorna Swaraj and Launch of Civil Disobedience Movement
+<a id="topic-8-4"></a>
+
+## 8.4 The Struggle for Poorna Swaraj and Launch of Civil Disobedience Movement
 
 Meanwhile, some congressmen were not satisfied with dominion status and wanted to demand complete independence. In the Congress session held in Lahore in December 1929 with Jawaharlal Nehru as the President, Poorna Swaraj was declared as the goal. It was also decided to boycott the Round Table Conference and launch a Civil Disobedience Movement and January 26, 1930 was declared as Independence Day and a pledge was taken throughout the country to attain Poorna Swaraj, non-violently through civil disobedience including non-payment of taxes. The Indian National Congress authorised Gandhi to launch the movement.
 
@@ -225,7 +237,7 @@ Lord Irwin held talks with Gandhi which resulted in the Gandhi–Irwin Pact on 5
 
 Second Round Table Conference - London
 
-### (d) Renewal of Civil Disobedience
+### (d) Renewal of Civil Disobedience
 
 ### Movement.
 
@@ -237,7 +249,7 @@ In the meantime, the Third Round Table Conference was held from 17 November to 2
 
 Call for Civil Disobedience
 
-### (e) Communal Award and Poona Pact
+### (e) Communal Award and Poona Pact
 
 On 16 August 1932, Ramsay MacDonald, announced the Communal Award. It provided separate electorates to the minorities, viz. Muslims, Sikhs, Indian Christians, Anglo- Indians and women and the “depressed classes”. Dr. B.R. Ambedkar, the leader of the depressed classes, strongly argued for the separate electorate, as it, according to him, would give them political representation and power. On 20 September 1932, Gandhi went on a fast unto death against the separate electorates for the depressed classes. Madan Mohan Malaviya, Rajendra Prasad and others held talks with Ambedkar and M.C. Rajah the leaders of the depressed classes. After intense negotiations an agreement was arrived between Gandhi and Ambedkar. Known as the Poona Pact, its main terms were:
 
@@ -245,7 +257,7 @@ On 16 August 1932, Ramsay MacDonald, announced the Communal Award. It provided s
 
 - Reserved seats for the depressed classes were increased from 71 to 148. In the Central Legislature 18 percent of the seats were reserved.
 
-### (f) Campaign Against
+### (f) Campaign Against
 
 ### Untouchability
 
@@ -257,7 +269,9 @@ His engagement with Dr. B.R. Ambedkar made a big impact on his ideas about the c
 
 Dr. B.R. Ambedkar
 
-## 8.5 Beginnings of Socialist Movements
+<a id="topic-8-5"></a>
+
+## 8.5 Beginnings of Socialist Movements
 
 Inspired by the Russian Revolution of 1917 the Communist Party of India (CPI) was founded at Tashkent, Uzbekistan in October 1920. M.N. Roy, Abani Mukherjee, and M.P.T. Acharya were some of its founding members. The British government in India made vigorous efforts to suppress the communist movement by
 
@@ -315,21 +329,23 @@ In this context, the Communist Party, fighting for the cause of peasants and ind
 
 - M. K. Gandhi
 
-## 8.6 First Congress Ministries under Government of India Act, 1935
+<a id="topic-8-6"></a>
+
+## 8.6 First Congress Ministries under Government of India Act, 1935
 
 The Government of India Act 1935 was one of the important positive outcomes of the Civil Disobedience Movement. The key features of the Act were provincial autonomy and dyarchy at the centre. The Act provided for an all India Federation with 11 provinces, 6 Chief commissioner’s provinces and all those Princely states which wished to join the federation. The Act also provided autonomy to the provinces. All the subjects were transferred to the control of Indian ministers. Dyarchy that was in operation in provinces was now extended to the central government. The franchise, based on property was extended though only about ten percent of the population enjoyed the right to vote. By this Act Burma was separated from India.
 
-### (a) Congress Ministries and their Work
+### (a) Congress Ministries and their Work
 
 The Government of India Act 1935 was implemented with the announcement of elections in 1937. The Congress immensely benefited because of the Civil Disobedience Movement. The Congress called off its programme of boycott of legislature and contested elections. It emerged victorious in seven out of the eleven provinces. It formed ministries in 8 provinces – Madras, Bombay, Central Provinces, Orissa, Bihar, United Provinces, North West Frontier Province in Assam. It formed a coalition government with Assam Valley Muslim Party led by Sir Muhammad Sadullah. The Congress Ministries functioned as a popular government and responded to the needs of the people. The salaries of ministers were reduced from Rs. 2,000 to Rs. 500 per month. Earlier action taken against nationalists were rescinded. They repealed the Acts, which vested emergency powers in the government, lifted the ban imposed on political organisations except the Communist Party, and removed the restrictions on the nationalist press. Police powers were curbed and reporting by the CID on political speeches discontinued. Legislative measures were adopted for reducing indebtedness of the peasantry and improving the working conditions of the industrial labour. Temple entry legislation was passed. Special attention was paid to education and public health.
 
-### (b) Resignation of Congress
+### (b) Resignation of Congress
 
 ### Ministries
 
 In 1939, the Second World War broke out. The colonial government of India entered the War on behalf of the Allies without consulting the Congress ministries. The Congress ministries resigned in protest. By 1940, he was demanding a separate state for the Muslims.
 
-### (c ) National Movement during the Second World War, 1939–45
+### (c ) National Movement during the Second World War, 1939–45
 
 In 1939 Subhas Chandra Bose became the President of the Congress by defeating Pattabhi
 
@@ -339,7 +355,9 @@ Sitaramayya, the candidate of Gandhi. When Gandhi refused to cooperate, Subhas C
 
 Pattabhi Sitaramayya
 
-## 8.7 Developments leading to Quit India Movement
+<a id="topic-8-7"></a>
+
+## 8.7 Developments leading to Quit India Movement
 
 ### (a) Individual Satyagraha
 
@@ -393,6 +411,8 @@ Subhas Chandra Bose’s INA
 
 The British government arrested the INA officers and put them on trial in the Red Fort. The trial became a platform for nationalist propaganda. The Congress set up a defence committee comprising Nehru, Tej Bahadur Sapru, Bhulabhai Desai and Asaf Ali. Though the INA officers were convicted they were released due to public pressure. The INA exploits and the subsequent trials inspired the Indians.
 
+<a id="topic-8-8"></a>
+
 ## 8.8 Towards Freedom
 
 ### (a) Royal Indian Navy Revolt
@@ -405,7 +425,7 @@ The Royal Indian Navy ratings revolted at Bombay in February 1946. It soon sprea
 
 Royal Indian Navy Revolt
 
-### (b) Negotiating Independence: Simla Conference
+### (b) Negotiating Independence: Simla Conference
 
 The Wavell Plan was announced on 14 June 1945. It provided for an interim government, with an equal number of Hindus and Muslims in the Viceroy’s Executive Council. All portfolios, except war portfolio, was to be held by Indian ministers. However, in the Simla Conference, the Congress and the Muslim League could not come to an agreement. Jinnah demanded that all the Muslim members should be from the Muslim League and they should have a veto on all important matters. In the provincial elections held in early 1946 the Congress won most of the general seats and the Muslim League won most of the seats reserved for the Muslims thus bolstering its claim.
 
@@ -413,7 +433,7 @@ The Wavell Plan was announced on 14 June 1945. It provided for an interim govern
 
 In Britain, the Labour Party had won a landslide victory and Clement Atlee became the Prime Minister. He declared that he wanted to transfer power at the earliest. He sent a Cabinet Mission comprising Pethick Lawrence, Sir Strafford Cripps and A.V. Alexander. Rejecting the demand for Pakistan, it provided for a Federal government with control over defence, communications and foreign affairs. The provinces were divided into three groups viz. Non-Muslim Majority Provinces, Muslim Majority Provinces in the Northwest and the Muslim Majority Provinces in the Northeast. A Constituent Assembly was to be elected and an interim government setup with representation for all the communities. The Congress and the Muslim League accepted the plan. However, both interpreted it differently.
 
-### (d) Direct Action Day Call by
+### (d) Direct Action Day Call by
 
 ### Muslim League
 
@@ -467,6 +487,8 @@ Arrival of refugees in the wake of Partition
 
 ### GLOSSARY
 
+![Source glossary, PDF page 108, including Tamil meanings](assets/source_glossary_pdf_108.png)
+
 | Term | Meaning |
 |---|---|
 | satyagraha | passive political resistance advocated by Mahatma Gandhi |
@@ -482,111 +504,103 @@ Arrival of refugees in the wake of Partition
 
 ### EXERCISE
 
-**I Choose the correct**
+**I Choose the correct answer**
 
-**answer**
+1. Who was arrested during the anti-Rowlatt protests in Amritsar?
+   - a) Motilal Nehru
+   - b) Dr. Saifuddin Kitchlew
+   - c) Mohamed Ali
+   - d) Raj Kumar Shukla
 
-1. Who was arrested during the anti-Rowlatt protests in Amritsar?
+2. In which session of the Indian National Congress was Non-Cooperation approved?
+   - a) Bombay
+   - b) Madras
+   - c) Calcutta
+   - d) Lucknow
 
-a) Motilal Nehru b) Dr. Saifuddin Kitchlew c) Mohamed Ali d) Raj Kumar Shukla
+3. Which among the following was declared as ‘Independence Day’?
+   - a) 26th January 1930
+   - b) 26th December 1929
+   - c) 16th June 1946
+   - d) 15th January 1947
 
-2. In which session of the Indian National
+4. When was the first Forest Act enacted?
+   - a) 1858
+   - b) 1911
+   - c) 1865
+   - d) 1936
 
-Congress was Non-Cooperation approved?
+5. On 8 January 1933, which day was observed ________.
+   - a) Temple Entry Day
+   - b) Day of Deliverance
+   - c) Direct Action Day
+   - d) Independence Day
 
-a) Bombay b) Madras c) Calcutta d) Lucknow
-
-3. Which among the following was declared as ‘Independence Day’?
-
-a) 26th January 1930 b) 26th December 1929 c) 16th June 1946 d) 15th January 1947
-
-4. When was the first Forest Act enacted?
-
-a) 1858 b) 1911 c) 1865 d) 1936
-
-5. On 8 January 1933, which day was observed
-
-.
-
-a) Temple Entry Day b) Day of Deliverance c) Direct Action Day d) Independence Day
-
-6. Which
-
-Act introduced Provincial Autonomy?
-
-a) 1858 Act b) Indian Councils Act, 1909 c) Government of India Act, 1919 d) Government of India Act, 1935
+6. Which Act introduced Provincial Autonomy?
+   - a) 1858 Act
+   - b) Indian Councils Act, 1909
+   - c) Government of India Act, 1919
+   - d) Government of India Act, 1935
 
 **II Fill in the blanks**
 
-1. Gandhi regarded as his political guru.
+1. Gandhi regarded ________ as his political guru.
 
-2. Khilafat
+2. Khilafat Movement was led by ________.
 
-Movement was led by .
+3. Government of India Act 1919 introduced ________ in the provinces.
 
-3. Government of India Act 1919 introduced in the provinces.
+4. The Civil Disobedience Movement in North West Frontier Province was led by ________.
 
-4. The Civil Disobedience Movement in
+5. Ramsay Macdonald announced ________ which provided separate electorates to the minorities and the depressed classes.
 
-North West Frontier Province was led by
+6. ________ established Congress Radio underground during the Quit India Movement.
 
-.
+**III Choose the correct statement**
 
-5. Ramsay
+1.
+    - (i) The Communist Party of India was founded in Tashkent in 1920.
+    - (ii) M. Singaravelar was tried in the Kanpur Conspiracy Case.
+    - (iii) The Congress Socialist Party was formed by Jayaprakash Narayan, Acharya Narendra Dev and Mino Masani.
+    - (iv) The Socialists did not participate in the Quit India Movement.
+    - a) (i) and (ii) are correct
+    - b) (ii) and (iii) are correct
+    - c) (iv) is correct
+    - d) (i), (ii) and (iii) are correct
 
-Macdonald announced which provided separate electorates to the minorities and the depressed classes.
+2. Assertion: The Congress attended the First Round Table Conference.
 
-6.  established Congress Radio underground during the Quit India Movement.
+   Reason: Gandhi-Irwin Pact enabled the Congress to attend the Second Round Table Conference.
+   - a) Both A and R are correct but R is not the correct explanation
+   - b) A is correct but R is wrong
+   - c) A is wrong but R is correct
+   - d) Both A and R are correct and R is the correct explanation
 
-**III Choose the correct statement**
+3. Assertion: The Congress Ministries resigned in 1939.
 
-1. (i) The Communist Party of India was founded in Tashkent in 1920. (ii) M. Singaravelar was tried in the Kanpur
+   Reason: The Colonial government of India entered the war without consulting the elected Congress ministries.
+   - a) Both A and R are correct but R is not the correct explanation
+   - b) A is correct but R is wrong
+   - c) Both A and R are wrong
+   - d) Both A and R are correct and R is the correct explanation
 
-Conspiracy Case. (iii) The Congress Socialist Party was formed by Jayaprakash Narayan, Acharya Narendra Dev and Mino Masani. (iv) The Socialists did not participate in the
+**IV Match the following**
 
-Quit India Movement. a) (i) and (ii) are correct b) (ii) and (iii) are correct c) (iv) is correct d) (i), (ii) and (iii) are correct
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Rowlatt Act | Surrender of titles |
+| 2 | Non-Cooperation Movement | Dyarchy |
+| 3 | Government of India Act, 1919 | M.N. Roy |
+| 4 | Communist Party of India | Direct Action Day |
+| 5 | 16th August 1946 | Black Act |
 
-2. Assertion: The Congress attended the First
+**V Answer the following briefly**
 
-Round Table Conference. Reason: Gandhi-Irwin Pact enabled the Congress to attend the Second Round Table Conference.
+1. Describe the Jallianwala Bagh Massacre.
 
-a) Both A and R are correct but R is not the correct explanation b) A is correct but R is wrong c) A is wrong but R is correct d) Both A and R are correct and R is the correct explanation
+2. Write a note on the Khilafat Movement.
 
-3. Assertion: The Congress Ministries resigned in 1939. Reason: The Colonial government of India entered the war without consulting the elected Congress ministries.
-
-a) Both A and R are correct but R is not the correct explanation b) A is correct but R is wrong c) Both A and R are wrong d) Both A and R are correct and R is the correct explanation
-
-**IV Match the Following**
-
-1. Rowlatt Act
-
-- Surrender of titles
-
-2. Non-Cooperation
-
-Movement
-
-- Dyarchy
-
-3. Government of
-
-India Act, 1919
-
-- M.N. Roy
-
-4. Communist Party of India
-
-- Direct Action Day
-
-5. 16th August 1946 - Black Act
-
-**V Answer the following briefly**
-
-1. Describe the Jallianwala Bagh Massacre.
-
-2. Write a note on the Khilafat Movement.
-
-3. Why did Gandhi withdraw the Non-Cooperation Movement?
+3. Why did Gandhi withdraw the Non-Cooperation Movement?
 
 4. Why was Simon Commission boycotted?
 
@@ -598,60 +612,105 @@ India Act, 1919
 
 **VI Answer in detail**
 
-1. Examine the factors that led to the transformation of Gandhi into a mass leader.
+1. Examine the factors that led to the transformation of Gandhi into a mass leader.
 
-2. Critically examine the Civil Disobedience
+2. Critically examine the Civil Disobedience Movement as the typical example of Gandhian movement.
 
-Movement as the typical example of Gandhian movement.
-
-3. Discuss the reasons behind the partition of India.
+3. Discuss the reasons behind the partition of India.
 
 **VII Activity**
 
-1. Students can be asked to mark the important places of Gandhian Movement in a map and write a sentence or two about what happened there.
+1. Students can be asked to mark the important places of Gandhian Movement in a map and write a sentence or two about what happened there.
 
-2. Students can be divided into groups and asked to debate the views of Gandhi, Jinnah, B.R. Ambedkar, Revolutionaries and Communists.
+2. Students can be divided into groups and asked to debate the views of Gandhi, Jinnah, B.R. Ambedkar, Revolutionaries and Communists.
 
 ### REFERENCE BOOKS
 
-1. Bipan Chandra, History of Modern India,
+1. Bipan Chandra, History of Modern India,
 
 Orient BlackSwan, 2016.
 
-2. Bipan Chandra, Amales Tripathi and
+2. Bipan Chandra, Amales Tripathi and
 
 Barun De, Freedom Struggle, NBT,1993.
 
-3. Bipan Chandra, et al., India’s Struggle for
+3. Bipan Chandra, et al., India’s Struggle for
 
 Independence, Penguin Books, 1989.
 
-4. Sumit Sarkar, Modern India, 1885–1947,
+4. Sumit Sarkar, Modern India, 1885–1947,
 
 Pearson, 2014.
 
-5. Sekhar Bandyopadhyay, From Plassey to
+5. Sekhar Bandyopadhyay, From Plassey to
 
 Partition, Orient BlackSwan, 2013.
 
-6. B.R. Nanda, Mahatma Gandhi: A
+6. B.R. Nanda, Mahatma Gandhi: A
 
 Biography, Oxford University Press, 1958.
 
-**Step-1**
+### ICT CORNER
 
-Open the Browser and type the URL given below (or) Scan the QR Code.
+**Nationalism: Gandhian Phase**
 
-**Step-2**
+**Steps**
 
-Click on ‘Chronology/Time line’ and Select ‘Family tree of Mahatma Gandhi’
+1. Open the Browser and type the URL given below (or) Scan the QR Code.
 
-**Step-3**
+2. Click on ‘Chronology/Time line’ and Select ‘Family tree of Mahatma Gandhi’
 
-Click on ‘Glimpses of Gandhi’ in the Left side menu and click on ‘Next or Previous’ to see events in life of Gandhi
-
-**Website URL:**
-
-https://www.mkgandhi.org/main.htm
+3. Click on ‘Glimpses of Gandhi’ in the Left side menu and click on ‘Next or Previous’ to see events in life of Gandhi
 
 ![](assets/page_016_picture_001.png)
+
+**Website URL:** https://www.mkgandhi.org/main.htm
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [தேசியம் — காந்திய காலகட்டம் — Part 1](https://www.youtube.com/watch?v=HN6wp6O433U) — EduDeck; Tamil explanation.
+- [Nationalism Gandhian Phase — Part 1 — Tamil lesson explanation](https://www.youtube.com/watch?v=SVVM0QS-PZk) — HTAS How To Approach Schooling; Tamil explanation.
+- [தேசியம் — காந்திய காலகட்டம் — Part 2](https://www.youtube.com/watch?v=1lpOVWLN0m4) — EduDeck; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Poorna Swaraj & Launch of Civil Disobedience — 10th](https://www.youtube.com/watch?v=YHZxag45ryI) — Kaikoru Education - Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [தேசியம் — காந்திய காலகட்டம் — Part 4](https://www.youtube.com/watch?v=FLPOgh1sIB4) — EduDeck; Tamil explanation. Covers selected concepts; see the topic table below.
+- [வெள்ளையனே வெளியேறு இயக்கம் — Quit India](https://www.youtube.com/watch?v=76QVqXoWT8w) — G Gnanasambandan; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Indian Independence Act 1947 — Tamil](https://www.youtube.com/watch?v=k6o7a2BjzbU) — UPSC TAMIL; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Nationalism: Gandhian Phase — chapter quiz](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [8.1 Gandhi and Mass](#topic-8-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=HN6wp6O433U) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.2 Gandhi’s Early Satyagrahas in India](#topic-8-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=HN6wp6O433U) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.3 Non-Cooperation Movement and Its Fallout](#topic-8-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=1lpOVWLN0m4) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.4 The Struggle for Poorna Swaraj and Launch of Civil Disobedience Movement](#topic-8-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=1lpOVWLN0m4) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.5 Beginnings of Socialist Movements](#topic-8-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=FLPOgh1sIB4) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.6 First Congress Ministries under Government of India Act, 1935](#topic-8-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=FLPOgh1sIB4) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.7 Developments leading to Quit India Movement](#topic-8-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=76QVqXoWT8w) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+| [8.8 Towards Freedom](#topic-8-8) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=k6o7a2BjzbU) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.mkgandhi.org/main.htm` | Page opened in recent check | [Alternative](https://www.mkgandhi.org/main.php); [Alternative](https://www.mkgandhi.org/onlinequiz.php) |
+
+<!-- supplemental-resources:end -->

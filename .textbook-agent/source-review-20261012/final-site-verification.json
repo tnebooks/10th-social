@@ -1,0 +1,236 @@
+{
+  "status": "pass",
+  "lesson_count": 27,
+  "source_page_count": 355,
+  "main_topic_count": 180,
+  "unique_video_urls": 181,
+  "video_references": 186,
+  "unique_interactive_urls": 27,
+  "interactive_references": 31,
+  "prior_repository_url_checks": 54,
+  "checked_local_links": 3929,
+  "errors": [],
+  "lesson_navigation_preserved": true,
+  "teacher_approval": false,
+  "source_text_semantic_review_complete": false,
+  "rows": [
+    {
+      "slug": "outbreak-of-world-war-i-and-its-aftermath",
+      "topics": 5,
+      "videos": 5,
+      "interactive": 2,
+      "new_local_links_and_assets_checked": 150
+    },
+    {
+      "slug": "the-world-between-two-world-wars",
+      "topics": 5,
+      "videos": 5,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 140
+    },
+    {
+      "slug": "world-war-ii",
+      "topics": 4,
+      "videos": 7,
+      "interactive": 2,
+      "new_local_links_and_assets_checked": 142
+    },
+    {
+      "slug": "the-world-after-world-war-ii",
+      "topics": 10,
+      "videos": 12,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 163
+    },
+    {
+      "slug": "social-and-religious-reform-movements-in-the-19th-century",
+      "topics": 7,
+      "videos": 6,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 146
+    },
+    {
+      "slug": "early-revolts-against-british-rule-in-tamil-nadu",
+      "topics": 3,
+      "videos": 3,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 136
+    },
+    {
+      "slug": "anti-colonial-movements-and-the-birth-of-nationalism",
+      "topics": 6,
+      "videos": 5,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 150
+    },
+    {
+      "slug": "nationalism-gandhian-phase",
+      "topics": 8,
+      "videos": 7,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 173
+    },
+    {
+      "slug": "freedom-struggle-in-tamil-nadu",
+      "topics": 6,
+      "videos": 7,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 152
+    },
+    {
+      "slug": "social-transformation-in-tamil-nadu",
+      "topics": 7,
+      "videos": 9,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 152
+    },
+    {
+      "slug": "india-location-relief-and-drainage",
+      "topics": 3,
+      "videos": 4,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 138
+    },
+    {
+      "slug": "climate-and-natural-vegetation-of-india",
+      "topics": 5,
+      "videos": 6,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 129
+    },
+    {
+      "slug": "india-agriculture",
+      "topics": 7,
+      "videos": 8,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 148
+    },
+    {
+      "slug": "india-resources-and-industries",
+      "topics": 3,
+      "videos": 3,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 154
+    },
+    {
+      "slug": "india-population-transport-communication-and-trade",
+      "topics": 6,
+      "videos": 7,
+      "interactive": 2,
+      "new_local_links_and_assets_checked": 144
+    },
+    {
+      "slug": "physical-geography-of-tamil-nadu",
+      "topics": 12,
+      "videos": 8,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 170
+    },
+    {
+      "slug": "human-geography-of-tamil-nadu",
+      "topics": 14,
+      "videos": 13,
+      "interactive": 2,
+      "new_local_links_and_assets_checked": 171
+    },
+    {
+      "slug": "indian-constitution",
+      "topics": 13,
+      "videos": 15,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 140
+    },
+    {
+      "slug": "central-government",
+      "topics": 6,
+      "videos": 5,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 137
+    },
+    {
+      "slug": "state-government",
+      "topics": 5,
+      "videos": 5,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 130
+    },
+    {
+      "slug": "indias-foreign-policy",
+      "topics": 7,
+      "videos": 6,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 130
+    },
+    {
+      "slug": "indias-international-relations",
+      "topics": 4,
+      "videos": 6,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 145
+    },
+    {
+      "slug": "gross-domestic-product-and-its-growth-an-introduction",
+      "topics": 7,
+      "videos": 3,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 154
+    },
+    {
+      "slug": "globalization-and-trade",
+      "topics": 7,
+      "videos": 8,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 132
+    },
+    {
+      "slug": "food-security-and-nutrition",
+      "topics": 6,
+      "videos": 6,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 139
+    },
+    {
+      "slug": "government-and-taxes",
+      "topics": 7,
+      "videos": 7,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 126
+    },
+    {
+      "slug": "industrial-clusters-in-tamil-nadu",
+      "topics": 7,
+      "videos": 10,
+      "interactive": 1,
+      "new_local_links_and_assets_checked": 138
+    }
+  ],
+  "final_lesson_sha256": {
+    "content.ta/docs/outbreak-of-world-war-i-and-its-aftermath/_index.md": "c17b7342a9e372773d071b9e7ec4910a4e2de55f56287f6cb1615a88d3d58fd5",
+    "content.ta/docs/the-world-between-two-world-wars/_index.md": "5c25609e9f6a8604b5a4cfeb8de62b863c7f00026b187cba0e0ffcd4ac9cfa27",
+    "content.ta/docs/world-war-ii/_index.md": "58b08702e891285826e7677e385189462a31a0981c1558c0f2bbddcbb6674409",
+    "content.ta/docs/the-world-after-world-war-ii/_index.md": "bdc5ddf4956bc801bcd4f7f1664b9c6657d1494e55abc9962746e5197867cd7b",
+    "content.ta/docs/social-and-religious-reform-movements-in-the-19th-century/_index.md": "a95a0be298985eabb7110d4caef6cff6007650c797426771781a335f06711814",
+    "content.ta/docs/early-revolts-against-british-rule-in-tamil-nadu/_index.md": "c11c38d826b3906a969446ce955865285b57ed667480d691db259c10a2f7b453",
+    "content.ta/docs/anti-colonial-movements-and-the-birth-of-nationalism/_index.md": "dc991919f7cf9c2d2c00fc8ceb576b4724ea5a5e7295ff7ee22c8892967076e5",
+    "content.ta/docs/nationalism-gandhian-phase/_index.md": "15443b7089962444a456fc8f6de91bb746a432df06290ebe0f05ea2b1c451c5f",
+    "content.ta/docs/freedom-struggle-in-tamil-nadu/_index.md": "c9af094648fdbc6ee2274d3897377360ccf040f24b5f6b502f22fa39f817f438",
+    "content.ta/docs/social-transformation-in-tamil-nadu/_index.md": "5ae4b88d562fa846277a431657530a586e56efa134ed46256cf2d26e3c7cf1ec",
+    "content.ta/docs/india-location-relief-and-drainage/_index.md": "13d631352bf65fdd2c98e12ea86c623c9dfca48a10e359753d2ff634a94b2b85",
+    "content.ta/docs/climate-and-natural-vegetation-of-india/_index.md": "86b4fe4537721fb2749dff7c136275be5794125d526747d3e8940edce691768f",
+    "content.ta/docs/india-agriculture/_index.md": "18ae9a5f078bb52c302238208893a517b88030e9491b229f41e39be6587842d6",
+    "content.ta/docs/india-resources-and-industries/_index.md": "eaf9c7da050fef4871b9d5d47131de1c3fa52ebd7ccf6865e25dbf5d1fe81046",
+    "content.ta/docs/india-population-transport-communication-and-trade/_index.md": "6f5f6f3b39bdcf7ad84155597b21abd385d4eef0f51d7bc4381c36d9e299479a",
+    "content.ta/docs/physical-geography-of-tamil-nadu/_index.md": "f58f1e450bc4996875dde762596044d017521046c80327b0028ea5abfd6f37ac",
+    "content.ta/docs/human-geography-of-tamil-nadu/_index.md": "c733a953fd125bb08d323f0228d8d2afb7a260389367ae21f24170a148978ff0",
+    "content.ta/docs/indian-constitution/_index.md": "35e926e9a850b1efa2e73c815d54d22d623c3c6bee03471704e87ce08257442d",
+    "content.ta/docs/central-government/_index.md": "a1c39a2c455d30737e1870e4a6f63284f4e2255a03d4287b2d939db332ab4838",
+    "content.ta/docs/state-government/_index.md": "21e6ac6ccb17feafc3f9838ef6b25807c843e962419b6c22ec424d308752c700",
+    "content.ta/docs/indias-foreign-policy/_index.md": "21e06b633136735ccb3c591fe1b63e10ea449ae8cb2b5135a3a9c61829bedbb0",
+    "content.ta/docs/indias-international-relations/_index.md": "50f9008c7265aa2f300b3155d7a11f9732af3bca00eaef29b2c84b1c782c69de",
+    "content.ta/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md": "edc8209de26e6cf4e9f64b655e1895e15d9babacfe275aafb23c56c8049ec314",
+    "content.ta/docs/globalization-and-trade/_index.md": "cd2b03c5a2641b1d8d60ec6fcb47aea7edea6f5d4e451ecbddfa0c003b6e3940",
+    "content.ta/docs/food-security-and-nutrition/_index.md": "fdd11951f31d803ffd766c796b4f93092ced67d3b5894884d9e757740f8c20b5",
+    "content.ta/docs/government-and-taxes/_index.md": "7dbf33478894344abe2d54c85a66d6205e6c727916ac2655fea5f392f98e6e0f",
+    "content.ta/docs/industrial-clusters-in-tamil-nadu/_index.md": "ae34d260a5e02044b4ada58dc556457f0a298b3caa73f8365f7a666ae19b7711"
+  }
+}

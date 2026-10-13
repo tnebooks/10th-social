@@ -7,6 +7,10 @@ weight: 21
 summary: "Foreign policy can be defined as a country’s policy that is conceived, designed and formulated to safeguard and promote her national interests in her external affairs, in the conduct of relationships with other countries, both bilaterally and multilaterally. It seeks to secure t…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Civics Unit 4: India’s Foreign Policy
 
 ![](assets/page_001_picture_001.png)
@@ -37,17 +41,17 @@ The Ministry of External Affairs of India also known as Foreign Ministry comes u
 
 Lays down Directive Principles of India’s foreign policy. The state shall endeavour to
 
-- Promote International peace and security.
+- Promote International peace and security.
 
-- Maintain just and honourable relations between nations.
+- Maintain just and honourable relations between nations.
 
-- Foster respect for international law and international organisation.
+- Foster respect for international law and international organisation.
 
-- Encourage settlement of international disputes by arbitration.
+- Encourage settlement of international disputes by arbitration.
 
-## 4.1 Main Objectives of Our
+<a id="topic-4-1"></a>
 
-## Foreign Policy
+## 4.1 Main Objectives of Our Foreign Policy
 
 - National security
 
@@ -55,9 +59,11 @@ Lays down Directive Principles of India’s foreign policy. The state shall ende
 
 - Increasing the number of friendly nations
 
-- Achieving world peace and enable every nation to peacefully co-exist
+- Achieving world peace and enable every nation to peacefully co-exist
 
-- Economic development
+- Economic development
+
+<a id="topic-4-2"></a>
 
 ## 4.2 Panchsheel
 
@@ -69,23 +75,25 @@ The Five Principles of Peaceful Coexistence (Panchsheel) between India (Prime Mi
 
 These principles were incorporated in the Bandung Declaration signed in the Afro-Asian Conference held in 1955 in Indonesia.
 
-## 4.3 Basic Determinants of a Foreign Policy
+<a id="topic-4-3"></a>
 
-- Geographical position and size of territory
+## 4.3 Basic Determinants of a Foreign Policy
 
-- Nation’s history, traditions and philosophical basis
+- Geographical position and size of territory
 
-- Natural resources
+- Nation’s history, traditions and philosophical basis
 
-- The compulsion of economic development
+- Natural resources
 
-- Political stability and structure of government
+- The compulsion of economic development
 
-- The necessity of peace, disarmament and non-proliferation of nuclear weapons
+- Political stability and structure of government
 
-- Military strength
+- The necessity of peace, disarmament and non-proliferation of nuclear weapons
 
-- International milieu
+- Military strength
+
+- International milieu
 
 ### Foreign Policy in 1950s and 1960s
 
@@ -95,15 +103,13 @@ The period from Independence through 1950s and 1960s constituted the most ideali
 
 – Jawaharlal Nehru
 
-## 4.4 The Non-Aligned
+<a id="topic-4-4"></a>
 
-## Movement (NAM) in 1961
+## 4.4 The Non-Aligned Movement (NAM) in 1961
 
 The term ‘Non-alignment’ was coined by V.K. Krishna Menon in his speech at the United Nations in 1953. Non-alignment has been regarded as the most important feature of India’s foreign policy. It aimed to maintain national independence in foreign affairs by not joining any military alliance. The Non- Aligned Movement (NAM) was formed with a membership of 120 countries and 17 states as observers and 10 international organisations. It has transformed from a political movement to an economic movement.
 
-**The founding fathers of Non-Aligned**
-
-Movement : Jawaharlal Nehru of India, Tito of Yugoslavia, Nasser of Egypt, Sukarno of Indonesia, and Kwame Nkrumah of Ghana were the founding fathers of NAM.
+**The founding fathers of Non-Aligned Movement :** Jawaharlal Nehru of India, Tito of Yugoslavia, Nasser of Egypt, Sukarno of Indonesia, and Kwame Nkrumah of Ghana were the founding fathers of NAM.
 
 ### India's Foreign Policy during Cold War Era
 
@@ -123,23 +129,19 @@ During the 1990’s along with the fall of the Soviet Union, a new global econom
 
 This shifts in India’s policy manifested in various ways such as,
 
-- - Better relations with China – the Look
+- - Better relations with China – the Look East Policy (1992).
 
-East Policy (1992).
+- The second nuclear test at Pokhran (1998) in Rajasthan.
 
-- The second nuclear test at Pokhran (1998) in Rajasthan.
+- Defence procurement relationship with Israel.
 
-- Defence procurement relationship with
-
-Israel.
-
-- Energy diplomacy with Arab countries and
+- Energy diplomacy with Arab countries and
 
 Iran.
 
-- Agreeing to the US nuclear missile defence program.
+- Agreeing to the US nuclear missile defence program.
 
-- India’s vote against Iran at the International
+- India’s vote against Iran at the International
 
 Atomic Energy Agency.
 
@@ -157,23 +159,25 @@ India’s global security concerns are reflected in its military modernisation, 
 
 India has emerged as a major voice in global decision-making and management, and as a bridge and balancing power in the emerging global strategic architecture. The response of our policymakers at economic, political and strategic level has enabled India to emerge as a potential great power though it faces enormous developmental challenges. These challenges include sustaining the country’s economic growth rate, ensuring energy and security. Non-military issues like climate change, energy security, competition for scarce resources, food and water security, pandemics and migration. Though numerous and formidable, these challenges are not beyond the reach of India’s policy establishment.
 
-## 4.5 Basic Concepts of India’s Foreign Policy
+<a id="topic-4-5"></a>
 
-- Preservation of national interest
+## 4.5 Basic Concepts of India’s Foreign Policy
 
-- Achievement of world peace
+- Preservation of national interest
 
-- Implementing disarmament
+- Achievement of world peace
 
-- Fostering cordial relationship with other countries
+- Implementing disarmament
 
-- Solving conflicts by peaceful means
+- Fostering cordial relationship with other countries
 
-- Independence of thought and action as per the principle of NAM
+- Solving conflicts by peaceful means
 
-- Equality in conducting international relations
+- Independence of thought and action as per the principle of NAM
 
-- Anti-colonialism, anti-imperialism, antiracism
+- Equality in conducting international relations
+
+- Anti-colonialism, anti-imperialism, antiracism
 
 ### Policy of Disarmament
 
@@ -181,13 +185,15 @@ Since independence, global nonproliferation has been a dominant theme of India�
 
 The two themes of India’s nuclear doctrine are
 
-- No first use
+- No first use
 
-- Credible minimum deterrence
+- Credible minimum deterrence
 
 It has decided not to use nuclear power for ‘offensive purposes’ and would never use against any non-nuclear state. Indo-US civilian nuclear deal marks a significant progress in India’s foreign policy.
 
-## 4.6 SAARC (1985) – South Asian Association for Regional Cooperation
+<a id="topic-4-6"></a>
+
+## 4.6 SAARC (1985) – South Asian Association for Regional Cooperation
 
 SAARC is an economic and geopolitical organisation of eight countries that are primarily located in South Asia. The SAARC policies aim to promote welfare economics, collective self-reliance among the countries of South Asia and to accelerate socio-cultural development in the region. SAARC Disaster Management Centre was set up at New Delhi. The Centre is a sleek body of professionals working on various dimensions of disaster risk reduction and management in South Asia. SAARC satellite is a proposed communication–cum-meteorology satellite by Indian Space Research Organisation (ISRO) for the SAARC region.
 
@@ -203,29 +209,31 @@ Foreign Policy is a combination of strategies carefully formulated by a nation f
 
 is the instrument for implementing foreign policy of a state.
 
-## 4.7 Contemporary context: change and continuity in India’s Foreign Policy
+<a id="topic-4-7"></a>
 
-**a) Prioritising an integrated neighbourhood:**
+## 4.7 Contemporary context: change and continuity in India’s Foreign Policy
+
+**a) Prioritising an integrated neighbourhood:**
 
 **Neighbourhood First policy**
 
 India’s foreign policy has always regarded the concept of neighbourhood as one of widening concentric circles, around the central axis of historical and cultural commonalties. India gives political and diplomatic priority to her immediate neighbours and the Indian Ocean Island states such as Maldives. This centrality of neighbours in India’s foreign policy stems from the clear understanding that a peaceful periphery is essential for India to achieve her multifarious developmental goals. India provides neighbours with support as needed in the form of resources, equipment and training. Greater connectivity and integration is provided so as to improve the free flow of goods, people, energy, capital and information.
 
-**b) Bridging diplomacy and development**
+**b) Bridging diplomacy and development**
 
 One of the major objectives of India’s foreign policy has been to leverage international partnership for India’s domestic development. This includes improving technological access, sourcing capital, gaining market access and securing natural resources.
 
-**c) A gradual transition from ‘Look East’ to**
+**c) A gradual transition from ‘Look East’ to**
 
 **‘Act East’ policy**
 
 South East Asia begins with North East India. Myanmar is our land bridge to the countries of the Association of the Southeast Asian Nations (ASEAN). The purpose is to ensure a stable and multipolar balance of power in the Indo-Pacific and to become an integral part of Asia. This policy emphasises a more productive role for ASEAN and East Asian countries. The three big elements in our eastern policy are stronger emphasis on physical connectivity, commercial and security-related.
 
-**d) Economic development**
+**d) Economic development**
 
 Currently India’s political moves are being influenced by economic imperatives. Many nations are moving to forge better relationship with India. Accelerated, balanced and inclusive economic development is India’s primary goal. India achieves this by ensuring peace and security and by leveraging the nation’s international partnership, to obtain all that is needed to fuel economic development, markets, investment, technology, linkage, mobility of personnel, fair global governance and a stable and fair environment conducive for growth.
 
-**e) India as a leading power**
+**e) India as a leading power**
 
 India is a member of the G20, the East Asia Summit and the BRICS coalition, a testament to its status as a large country with a fastgrowing economy. India aspires for permanent membership on the UN Security Council. And India now has an increasing range of interests, which are anchored in different parts of the world and which stem from a wide range of factors such as the need to secure energy, vital natural resources, the imperative of maintaining open shipping lanes, seeking investments and trade opportunities overseas and the need to secure trade access.
 
@@ -233,7 +241,7 @@ India is a member of the G20, the East Asia Summit and the BRICS coalition, a te
 
 | Domestic Policy | Foreign Policy |
 |---|---|
-|  Domestic policy is the nation’s plan for dealing issues within its own nation.  It includes laws focusing on domestic affairs, social welfare, health care, education, civil rights, economic issues and social issues. |  Foreign policy is the nation’s plan for dealing with other nations.  Trade, diplomacy, sanctions, defence, intelligence and global environments are the types of foreign policy. |
+|  Domestic policy is the nation’s plan for dealing issues within its own nation.  It includes laws focusing on domestic affairs, social welfare, health care, education, civil rights, economic issues and social issues. |  Foreign policy is the nation’s plan for dealing with other nations.  Trade, diplomacy, sanctions, defence, intelligence and global environments are the types of foreign policy. |
 
 ### Conclusion
 
@@ -273,95 +281,165 @@ foe, only the interests are permanent’. New challenges have forced India to ad
 | pluralism | the practice of holding more than one benefice at a time |
 | pandemics | an epidemic disease |
 
+![GLOSSARY](assets/source-en-p280-glossary-1.png)
+
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. The Panchaseel treaty has been signed between a) India and Nepal b) India and Pakistan c) India and China d) India and Sri Lanka
+1. The Panchaseel treaty has been signed between
+
+    a) India and Nepal
+
+    b) India and Pakistan
+
+    c) India and China
+
+    d) India and Sri Lanka
 
 2. Which article of Indian constitution directs to adopt foreign policy?
 
-a) Article 50 b) Article 51 c) Article 52 d) Article 53
+    a) Article 50
 
-3. The Agreement signed by India and China in 1954 related to a) Trade and Commerce b) Restoration of normal relations c) Cultural exchange programmes d) The Five Principles of Co existence
+    b) Article 51
 
-4. Which is not related to our foreign policy a) World co operation b) World peace c) Racial equality d) Colonialism
+    c) Article 52
+
+    d) Article 53
+
+3. The Agreement signed by India and China in 1954 related to
+
+    a) Trade and Commerce
+
+    b) Restoration of normal relations
+
+    c) Cultural exchange programmes
+
+    d) The Five Principles of Co existence
+
+4. Which is not related to our foreign policy
+
+    a) World co operation
+
+    b) World peace
+
+    c) Racial equality
+
+    d) Colonialism
 
 5. Which of the following country is not the founder member of NAM?
 
-a) Yugoslavia b) Indonesia c) Egypt d) Pakistan
+    a) Yugoslavia
 
-6. Non-Alliance means a) being neutral b) freedom to decide on issues independently c) demilitarisation d) none of the above
+    b) Indonesia
 
-7. Non – military issues are a) Energy security b) Water security c) Pandemics d) All the above.
+    c) Egypt
+
+    d) Pakistan
+
+6. Non-Alliance means
+
+    a) being neutral
+
+    b) freedom to decide on issues independently
+
+    c) demilitarisation
+
+    d) none of the above
+
+7. Non – military issues are
+
+    a) Energy security
+
+    b) Water security
+
+    c) Pandemics
+
+    d) All the above.
 
 **II Fill in the blanks**
 
-1. India conducted its first nuclear test at
-
-___________.
+1. India conducted its first nuclear test at ___________.
 
 2. ____________is the instrument for implementing foreign policy of a state.
 
 3. _____________ was India’s policy in the face of the bipolar order of the cold war.
 
-**III Consider the following statement and**
-
-**tick the appropriate answer**
+**III Consider the following statement and tick the appropriate answer**
 
 1. Arrange the following in the correct chronological order and choose the correct answer from the code given below.
 
-(i) Panchsheel
+    (i) Panchsheel
 
-(ii) China's Nuclear test
+    (ii) China's Nuclear test
 
-(iii) Indo-Soviet treaty
+    (iii) Indo-Soviet treaty
 
-(iv) First Nuclear test of India a) (i), (iii), (iv), (ii) b) (i), (ii), (iii), (iv) c) (i), (ii), (iv), (iii) d) (i), (iii), (ii), (iv)
+    (iv) First Nuclear test of India
+
+    a) (i), (iii), (iv), (ii)
+
+    b) (i), (ii), (iii), (iv)
+
+    c) (i), (ii), (iv), (iii)
+
+    d) (i), (iii), (ii), (iv)
 
 2. Which of the following is not about NAM?
 
-(i) The term Non-alignment was coined by V.K. Krishna Menon
+    (i) The term Non-alignment was coined by V.K. Krishna Menon
 
-(ii) It aimed to maintain national independence in foreign affairs by joining any military alliance
+    (ii) It aimed to maintain national independence in foreign affairs by joining any military alliance
 
-(iii) At present it has 120 member countries.
+    (iii) At present it has 120 member countries.
 
-(iv) It has transformed to an economical movement a) (i) and (ii) b) (iii) and (iv) c) (ii) only d) (iv) only
+    (iv) It has transformed to an economical movement
+
+    a) (i) and (ii)
+
+    b) (iii) and (iv)
+
+    c) (ii) only
+
+    d) (iv) only
 
 3. Assertion(A): India has formal diplomatic relations with most of the nations.
 
-Reason(R): India is the World’s most populous country.
+    Reason(R): India is the World’s most populous country.
 
-a) A is correct and R explains A b) A is correct and R does not explain A c) A is wrong and R is correct d) Both are wrong
+    a) A is correct and R explains A
 
-4. Avoidance of military blocs was necessity for India after political freedom. Because India had to redeemed from a) acute poverty b) illiteracy c) chaotic socio-economic conditions d) all the above
+    b) A is correct and R does not explain A
+
+    c) A is wrong and R is correct
+
+    d) Both are wrong
+
+4. Avoidance of military blocs was necessity for India after political freedom. Because India had to redeemed from
+
+    a) acute poverty
+
+    b) illiteracy
+
+    c) chaotic socio-economic conditions
+
+    d) all the above
 
 **IV Match the following**
 
-1. Indian Ocean island
-
-- 1955
-
-2. Land bridge to ASEAN - 1954
-
-3. Panchsheel
-
-- Maldives
-
-4. Afro Asian Conference - Foreign Policy
-
-5. World Peace
-
-- Myanmar
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Indian Ocean island | 1955 |
+| 2 | Land bridge to ASEAN | 1954 |
+| 3 | Panchsheel | Maldives |
+| 4 | Afro Asian Conference | Foreign Policy |
+| 5 | World Peace | Myanmar |
 
 **V Give short answers**
 
 1. What is foreign policy?
 
-2. List any four guiding principles of
-
-Panchsheel?
+2. List any four guiding principles of Panchsheel?
 
 3. Name the architects of the Non-Aligned movement.
 
@@ -379,7 +457,7 @@ Panchsheel?
 
 **VII Project and activity**
 
-1. Identify any two aspects of India’s foreign policy that you would like to retain and to change if you were the decision maker.
+1. Identify any two aspects of India’s foreign policy that you would like to retain and to change if you were the decision maker.
 
 ### REFERENCE BOOKS
 
@@ -434,3 +512,53 @@ Step – 3 Click on respective country to view details on Indian Missions Abroad
 https://mea.gov.in/index.htm
 
 ![](assets/page_009_picture_002.png)
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [Class 10 \| இந்தியாவின் வெளியுறவுக் கொள்கை \| Kalvi TV](https://www.youtube.com/watch?v=NPLJakz4PPM) — KalviTVOfficial; Tamil explanation.
+- [India's Foreign Policy — short answers 1–4 — Tamil](https://www.youtube.com/watch?v=cfYQ63vgQb0) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [India's Foreign Policy — detailed answers — Tamil](https://www.youtube.com/watch?v=-KA8qM5j2R0) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Cold War and Non-Aligned Movement — Tamil](https://www.youtube.com/watch?v=zE5mofqPtpE) — John Victor IAS teacher; Tamil explanation. Covers selected concepts; see the topic table below.
+- [SAARC — South Asian Association for Regional Cooperation — Tamil](https://www.youtube.com/watch?v=2RdFo6S7YiE) — Tamil Geography News; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Foreign Policy — Objectives of Indian Foreign Policy in Tamil](https://www.youtube.com/watch?v=nTz6pcNPVcw) — Yogesh Exams; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [India’s Foreign Policy — chapter quiz](https://www.geoguessr.com/vgp/3167) — Seterra / GeoGuessr; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [4.1 Main Objectives of Our Foreign Policy](#topic-4-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=nTz6pcNPVcw) | [Chapter practice](https://www.geoguessr.com/vgp/3167) |
+| [4.2 Panchsheel](#topic-4-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=cfYQ63vgQb0) | [Chapter practice](https://www.geoguessr.com/vgp/3167) |
+| [4.3 Basic Determinants of a Foreign Policy](#topic-4-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=-KA8qM5j2R0) | [Chapter practice](https://www.geoguessr.com/vgp/3167) |
+| [4.4 The Non-Aligned Movement (NAM) in 1961](#topic-4-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=-KA8qM5j2R0) | [Chapter practice](https://www.geoguessr.com/vgp/3167) |
+| [4.5 Basic Concepts of India’s Foreign Policy](#topic-4-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=NPLJakz4PPM) | [Chapter practice](https://www.geoguessr.com/vgp/3167) |
+| [4.6 SAARC (1985) – South Asian Association for Regional Cooperation](#topic-4-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=2RdFo6S7YiE) | [Topic activity](https://www.geoguessr.com/vgp/3167) |
+| [4.7 Contemporary context: change and continuity in India’s Foreign Policy](#topic-4-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=NPLJakz4PPM) | [Chapter practice](https://www.geoguessr.com/vgp/3167) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://mea.gov.in/index.htm` | Page opened in recent check | [Alternative](https://www.mea.gov.in/index) |
+| `https://www.mea.gov.in/` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.mea.gov.in/index) |
+| `https://mnoal.org/` | Access not confirmed; failure is not proof of a broken site | — |
+| `http://www.saarc-sec.org/` | Page opened in recent check | [Alternative](https://www.saarc-sec.org/) |
+
+<!-- supplemental-resources:end -->

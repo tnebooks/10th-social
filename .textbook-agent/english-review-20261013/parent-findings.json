@@ -1,0 +1,179 @@
+{
+  "teacher_approval": false,
+  "findings": [
+    {
+      "id": "parent-energy-map-caption",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/india-resources-and-industries/_index.md",
+      "current_snippet": "**Non-renewable and Renewable Resources of India** (Not to Scale)",
+      "replacement": "**Renewable Resources of India**; **Non-renewable Resources of India** (Not to Scale)",
+      "expected_sha256": "05b7d1e8e85b0c3fe42ab4b865254f0a7c93ecddd199d7780c3052110db0ebd2",
+      "current_occurrences": 1,
+      "kind": "caption_or_source_note",
+      "pdf_pages": [
+        182
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-transport-source-edge-note",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "current_snippet": "**Tamilnadu - Transport: Roadways and Railways** (Not to Scale)",
+      "replacement": "**Tamilnadu - Transport: Roadways and Railways** (Not to Scale)\n\n> Source image note: the map’s frame edge is clipped in the supplied PDF (printed page 230; PDF page 236).",
+      "expected_sha256": "42c27c159ab889c0d0ead2d45b4e006c94638af980ed450d0af0514e6b953d8c",
+      "current_occurrences": 1,
+      "kind": "caption_or_source_note",
+      "pdf_pages": [
+        236
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-history02-glossary-continuation",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/the-world-between-two-world-wars/_index.md",
+      "current_snippet": "![Source glossary, PDF page 30, including Tamil meanings](assets/source_glossary_pdf_030.png)\n\n",
+      "replacement": "![Source glossary, PDF page 30, including Tamil meanings](assets/source_glossary_pdf_030.png)\n\n![Source glossary, PDF page 31, including Tamil meanings](assets/source_glossary_pdf_031.png)\n\n",
+      "expected_sha256": "58dda372b78e5735338022daa14c005e13be8e53818aa11a387040d85acbc3cc",
+      "current_occurrences": 1,
+      "kind": "source_glossary_continuation",
+      "pdf_pages": [
+        31
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-dadabhai-sidebar-line-wrap",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "In\n\n1867-68 for the first time Dadabhai Naoroji",
+      "replacement": "In 1867-68 for the first time Dadabhai Naoroji",
+      "expected_sha256": "771b4d6b62377cffbd73399022c9986ab1d7124de84d93fda712cf5b2278d737",
+      "current_occurrences": 1,
+      "kind": "source_reading_order",
+      "pdf_pages": [
+        300
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-gdp-pie-legend-transcription",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "![](assets/page_006_picture_002.png)\n\nSector-wise contribu on of GDP (2018-19)\n\nPercentage share (%)\n\nAgriculture Sector\n\nAgriculture Forestry & Fishing\n\n![Sector-wise contribution of GDP (2018-19) Percentage share (%)](assets/source-en-p302-figure-1.png)\n\nSource: Statistics times.com.\n\nIndustrial sector\n\nMining & quarrying\n\nManufacturing\n\nElectricity, gas, water supply& other u lity services\n\nConstruc on\n\nServices Sector\n\nTrade, hotels, transport, communica on and services related to broad cas ng\n\nFinancial, real estate & Prof Services Public administra ve, defense and other services\n\nNote: The Diagram shows that Sector-wise contribution in GDP of India for the year 2018 - 2019.\n",
+      "replacement": "**Sector-wise contribution of GDP (2018-19)**\n\n**Percentage share (%)**\n\n![Sector-wise contribution of GDP (2018-19) Percentage share (%)](assets/source-en-p302-figure-1.png)\n\n| Printed legend | Percentage share (%) |\n|---|---|\n| Agriculture Sector | 15.87 |\n| Agriculture Forestry & Fishing | 15.87 |\n| Industrial sector | 29.73 |\n| Mining & quarrying | 2.7 |\n| Manufacturing | 16.83 |\n| Electricity, gas, water supply & other utility services | 2.67 |\n| Construction | 7.54 |\n| Services Sector | 54.4 |\n| Trade, hotels, transport, communication and services related to broad casting | 18.62 |\n| Financial, real estate & Prof Services | 20.96 |\n| Public administrative, defense and other services | 14.82 |\n\n**Source:** Statistics times.com.\n\n**Note:** The Diagram shows that Sector-wise contribution in GDP of India for the year 2018 - 2019.\n",
+      "expected_sha256": "a253b050d08ddc80dfe2f3450adb70f82d859aea8d6c0d92afbd4284dd9893bd",
+      "current_occurrences": 1,
+      "kind": "source_figure_context_or_reading_order",
+      "pdf_pages": [
+        302
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-gdp-growth-axis-context",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "Services (Blue colour) Agriculture (Green colour)\n\nIndustry (Orange colour)\n\n![Sector - wise GDP Growth of India (1950-2018)](assets/source-en-p303-figure-1.png)\n\n**1950**\n\n**1960**\n\n**1970**\n\n**1980**\n\n**1990**\n\n**2000**\n\n**2010**\n\n**2018**\n\n## Year\n\nSource: Statistics times.com. Note: The chart Diagram shows that Sector-wise contribution in GDP of India for the year 1950-2018\n",
+      "replacement": "Agriculture (Green colour) · Industry (Orange colour) · Services (Blue colour)\n\n![Sector - wise GDP Growth of India (1950-2018)](assets/source-en-p303-figure-1.png)\n\n**Year:** 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2018\n\n**Source:** Statistics times.com.\n\n**Note:** The chart Diagram shows that Sector-wise contribution in GDP of India for the year 1950-2018\n",
+      "expected_sha256": "a4bb1fc5dfb37e52f4929ad77b5fa47ed6624d3ca3a07f326f0c6d302a8efb86",
+      "current_occurrences": 1,
+      "kind": "source_figure_context_or_reading_order",
+      "pdf_pages": [
+        303
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-gdp-postal-caption-context",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "current_snippet": "Tertiary sector is known as service sector which includes Government, scientific research, transport communication, trade, Postal\n\n![](assets/page_006_picture_001.png)\n\nPostal Department\n\nDepartment, Banking,\n\nEducation, Entertainment, Healthcare and Information Technology, etc.",
+      "replacement": "Tertiary sector is known as service sector which includes Government, scientific research, transport communication, trade, Postal Department, Banking, Education, Entertainment, Healthcare and Information Technology, etc.\n\n![](assets/page_006_picture_001.png)\n\n**Postal Department**",
+      "expected_sha256": "0cccabbf98b5ee2029ef8c62a975f8728fda5a38cab580afba356df8106d3609",
+      "current_occurrences": 1,
+      "kind": "source_figure_context_or_reading_order",
+      "pdf_pages": [
+        302
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-1",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/state-government/_index.md",
+      "current_snippet": "| Cabinet | It is an inner body within the Council of Ministers which is responsible for formulating the policy of the Government. | அமைச் ரவை |",
+      "replacement": "| Cabinet | It is an inner body within the Council of Ministers which is responsible for formulating the policy of the Government. | அமைச்சரவை |",
+      "expected_sha256": "f515170c1a38498b4e6dc615e94cd7d91083e17ac45c535bf13d3c9fa011a549",
+      "current_occurrences": 1,
+      "kind": "source_font_mapping_transcription",
+      "pdf_pages": [
+        272
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-2",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/state-government/_index.md",
+      "current_snippet": "| Legislature | the group of people in a country or part of a country who have the power to make and change laws. | சச ட் மன் ம் |",
+      "replacement": "| Legislature | the group of people in a country or part of a country who have the power to make and change laws. | சட்டமன்றம் |",
+      "expected_sha256": "9d22570b277ea33f44adefd623560eee1a66e2b63c2ae7759468fb1a3cab1a2d",
+      "current_occurrences": 1,
+      "kind": "source_font_mapping_transcription",
+      "pdf_pages": [
+        272
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-3",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/state-government/_index.md",
+      "current_snippet": "| Tribunal | a special court chosen, especially by the government, to examine particular problem. | தீர் பாயம் |",
+      "replacement": "| Tribunal | a special court chosen, especially by the government, to examine particular problem. | தீர்ப்பாயம் |",
+      "expected_sha256": "a1690306fccdd7eb90232a54442eb7b38c3b63c6d9383ad2afa9e4b3cb0ab7c0",
+      "current_occurrences": 1,
+      "kind": "source_font_mapping_transcription",
+      "pdf_pages": [
+        272
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    },
+    {
+      "id": "parent-state-glossary-tamil-glyph-4",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/state-government/_index.md",
+      "current_snippet": "| Resolution | an official decision that is made after a group or organisation has voted. | தீர் மமாா னம் |",
+      "replacement": "| Resolution | an official decision that is made after a group or organisation has voted. | தீர்மானம் |",
+      "expected_sha256": "c03f1c047b157ef2a0aa5b31bd233074b1f8f2cbe18d518fe0cb8997ba12f715",
+      "current_occurrences": 1,
+      "kind": "source_font_mapping_transcription",
+      "pdf_pages": [
+        272
+      ],
+      "source_visually_verified": true,
+      "teacher_approval": false
+    }
+  ],
+  "independent_full_page_views": [
+    4,
+    5,
+    19,
+    20,
+    236,
+    253,
+    300,
+    302,
+    304,
+    305,
+    320,
+    303
+  ],
+  "map_crops_independently_viewed": [
+    182,
+    208,
+    211,
+    236
+  ]
+}

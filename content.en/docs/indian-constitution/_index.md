@@ -7,6 +7,10 @@ weight: 18
 summary: "The Constitution is the fundamental law of a country which reflects the fundamental principles on which the government of that country is based. It is the vehicle of a Nation’s progress. The concept of constitution was first originated in U.S.A."
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Civics Unit 1: Indian Constitution
 
 ![](assets/page_002_picture_001.png)
@@ -29,11 +33,15 @@ summary: "The Constitution is the fundamental law of a country which reflects th
 
 The Constitution is the fundamental law of a country which reflects the fundamental principles on which the government of that country is based. It is the vehicle of a Nation’s progress. The concept of constitution was first originated in U.S.A.
 
-## 1.1 The Need for a Constitution
+<a id="topic-1-1"></a>
+
+## 1.1 The Need for a Constitution
 
 All Democratic countries have a constitution that governs them. A constitution puts down certain principles that form the basis of any kind of a state that we as citizens, desire to live in. A constitution tells us the fundamental nature of our society.
 
-## 1.2 Making of Indian Constitution
+<a id="topic-1-2"></a>
+
+## 1.2 Making of Indian Constitution
 
 The Constitution of India was framed by a Constituent Assembly setup under the Cabinet Mission Plan, 1946. The Assembly consisted of 389 members representing Provinces (292), States (93), the Chief Commissioner’s provinces (3) and Baluchistan (1). The Assembly held its first meeting on December 9, 1946.
 
@@ -53,7 +61,9 @@ Prem Behari Narain Raizada was the calligrapher of the Indian Constitution.
 
 The original constitution was handwritten by him in a flowing italic style.
 
-## 1.3 Salient features of Indian Constitution
+<a id="topic-1-3"></a>
+
+## 1.3 Salient features of Indian Constitution
 
 - It is the lengthiest of all the written constitutions of the world.
 
@@ -69,6 +79,8 @@ The original constitution was handwritten by him in a flowing italic style.
 
 - It introduces Universal Adult Franchise and accords the right to vote to all citizens above 18 years of age without any discrimination.
 
+<a id="topic-1-4"></a>
+
 ## 1.4 Preamble
 
 The term ‘preamble’ refers to the introduction or preface to the Constitution. It consists of the ideals, objectives and basic principles of the Constitution. It has great value and has been described as the ‘key to the Constitution’.
@@ -76,6 +88,8 @@ The term ‘preamble’ refers to the introduction or preface to the Constitutio
 The Preamble to the Indian Constitution is based on the ‘Objective Resolution’, drafted by Jawaharlal Nehru, which was adopted by the Constituent Assembly on January 22, 1947. It has been amended once by the 42nd Constitutional Amendment Act of 1976, which added three new words - socialist, secular and integrity. The Preamble begins with the phrase ‘We, the People of India’. Thus, we can say that the people of India are the source of our Constitution. The Preamble of our Constitution states that India is a Sovereign Socialist Secular Democratic Republic. Its aim is to secure to all Indian citizens Social, economic and political justice.
 
 Liberty, Equality and Fraternity were the important slogans during the French Revolution in 1789. They are given importance in the Preamble of our Constitution.
+
+<a id="topic-1-5"></a>
 
 ## 1.5 Citizenship
 
@@ -108,6 +122,8 @@ The Citizenship Act of 1955 prescribes three ways of losing citizenship whether 
 2. It can be terminated if a person acquires the citizenship of some other country.
 
 3. The central government can deprive a naturalized citizen, if it satisfied that the citizenship was acquired by fraud, false representation or concealment of material facts or indulges in trade with enemy countries or if the person has been sentenced to imprisonment for a period of 2 years.
+
+<a id="topic-1-6"></a>
 
 ## 1.6 Fundamental Rights
 
@@ -147,6 +163,8 @@ When the President makes a Proclamation of Emergency under Article 352, the free
 
 
 ![](assets/page_004_picture_001.png)
+
+![Original textbook diagram](assets/source-en-p248-figure-1.png)
 
 ![](assets/page_005_picture_001.png)
 
@@ -201,11 +219,13 @@ VI. RIGHT TO CONSTITUTIONAL REMEDIES
 
 ![](assets/page_005_picture_006.png)
 
-Art. 32 - It allows individuals to seek redressal for the violation of their fundamental rights.
+Art. 32 - It allows individuals to seek redressal for the violation of their fundamental rights.
 
 ![](assets/page_005_picture_007.png)
 
-## 1.7 Directive Principles of State Policy
+<a id="topic-1-7"></a>
+
+## 1.7 Directive Principles of State Policy
 
 The Directive Principles of State Policy are enumerated in Part IV of the Constitution from Articles 36 to 51. The Constitution does not contain any classification of Directive Principles. However, on the basis of their content and direction, they can be classified into three broad categories, viz, socialistic, Gandhian and liberal-intellectual. These principles are not enforceable by the courts.
 
@@ -213,17 +233,21 @@ But they are fundamental for the governance of the country. They aim at promotin
 
 The 86th Amendment Act of 2002 changed the subject -matter of Article 45 and made elementary education a fundamental right under Article 21 A. This amendment directs the state to provide early childhood care and education for all children until they complete the age of six years.
 
+<a id="topic-1-8"></a>
+
 ## 1.8 Fundamental Duties
 
 The Fundamental Duties in the Indian Constitution are inspired by the Constitution of former USSR (Russia). In 1976, the Congress party set up the Sardar Swaran Singh Committee to make recommendations on fundamental duties. The 42nd Amendment Act of 1976 added some responsibilities of citizens to our Constitution called the Fundamental Duties. This amendment added a new part, namely, Part IVA to the Constitution. This new part consists of only one Article that is Article 51A which for the first time specified a code of eleven fundamental duties of the citizens.
 
 ### List of Fundamental Duties
 
-(a) To abide by the constitution and respect its ideals and institutions, the National Flag and the National Anthem.
+(a) To abide by the constitution and respect its ideals and institutions, the National Flag and the National Anthem.
 
 (b) To cherish and follow the noble ideals which inspired the national struggle for freedom
 
 (c) To uphold and protect the s o v e r e i g n t y, unity and integrity of India (d) To defend the country and render national service when called upon to do so (e) To promote harmony and the spirit of common brotherhood among all the people of India transcending religious, linguistic and regional or sectional diversities; to renounce practices derogatory to the dignity of women (f) To value and preserve the rich heritage of our composite culture (g) To protect and improve the natural environment including forests, lakes, rivers and wildlife, and to have compassion for living creatures (h) To develop scientific temper, humanism and the spirit of inquiry and reform (i) To safeguard public property and to abjure violence (j) To strive towards excellence in all spheres of individual and collective activity, so that the nation constantly rises to higher levels of endeavour and achievement (k) To provide opportunities for education to his child or ward between the age of six and fourteen years. (The 86th Constitutional Amendment Act, 2002 has also introduced the 11th Fundamental Duty under 51A(k) under which all citizens of India or parents shall provide opportunities for education to their children between age of 6 and 14 years)
+
+<a id="topic-1-9"></a>
 
 ## 1.9 Centre-State Relations
 
@@ -247,6 +271,8 @@ Late Prime Minister Indira Gandhi appointed the Sarkaria Commission in 1983 to m
 
 In 1969, the Tamil Nadu Government appointed a three-member committee under the chairmanship of Dr. P V Rajamannar to examine the entire question of Centre-state relations.
 
+<a id="topic-1-10"></a>
+
 ## 1.10 Official Language
 
 Part XVII of the Constitution deals with the official language in Articles 343 to 351. Initially, the Constitution recognised 14 regional languages which were included in the Eighth Schedule. At present, 22 languages are recognised.
@@ -256,6 +282,8 @@ Part XVII of the Constitution deals with the official language in Articles 343 t
 List out the recognised languages in the Eighth Schedule of the Constitution?
 
 In 2004, the Government of India decided to create new category of languages called as “classical languages”. So far, the six languages are granted the classical language status namely Tamil (2004), Sanskrit (2005), Telugu (2008), Kannada (2008), Malayalam (2013) and Odia (2014).
+
+<a id="topic-1-11"></a>
 
 ## 1.11 Emergency Provisions
 
@@ -271,7 +299,9 @@ Under Article 356, the President can declare an emergency in a state if the Gove
 
 Article 360 authorises the President to declare financial emergency if he is satisfied that the financial stability or credit of India or of any of its parts is in danger. In this type of emergency, salaries and allowances of any class of persons serving State or Union, including judges of the Supreme Court and High Court can be reduced by an order of the President. This type of emergency has not been declared in India so far.
 
-## 1.12 Amendment of the Constitution
+<a id="topic-1-12"></a>
+
+## 1.12 Amendment of the Constitution
 
 The term amendment denotes change, improvement and modification. Article 368 of the Constitution in Part XX, deals with the powers of Parliament to amend the Constitution and its procedure.
 
@@ -297,7 +327,9 @@ Parliament and the ratification of half of the state legislatures.
 
 42nd amendment of the Constitution is known as the mini Constitution.
 
-## 1.13 Constitutional Reform Commissions
+<a id="topic-1-13"></a>
+
+## 1.13 Constitutional Reform Commissions
 
 The National Commission to Review the Working of the Constitution was set up by a resolution of the Government of India in 2000 headed by M.N.Venkatachaliah. In April 2007, a three member commission headed by the former Chief Justice of India M.M.Punchchi was set up by the then Government to take a fresh look at relative roles and responsibilities of various levels of Government and their inter-relations.
 
@@ -336,137 +368,139 @@ Democratic Republic.
 | Autonomy | independence in one’s thoughts or actions |
 | Proclamation | an announcement |
 
+![GLOSSARY](assets/source-en-p252-glossary-1.png)
+
 ### EVALUATION
 
-**I Choose the Correct**
+**I Choose the Correct Answer**
 
-**Answer**
+1. Which of the following sequences in right regarding the Preamble?
 
-1. Which of the following sequences in right regarding the Preamble? (a) Republic, democratic, secular, socialist, sovereign (b) Sovereign, socialist, secular, republic, democratic (c) Sovereign, republic, secular, socialist, democratic (d) Sovereign, socialist, secular, democratic, republic
+    (a) Republic, democratic, secular, socialist, sovereign
 
-2. How many times has the Preamble to the
+    (b) Sovereign, socialist, secular, republic, democratic
 
-Constitution of India amended?
+    (c) Sovereign, republic, secular, socialist, democratic
 
-(a) Once (b) Twice (c) Thrice (d) Never
+    (d) Sovereign, socialist, secular, democratic, republic
 
-3. A foreigner can acquire Indian citizenship through
+2. How many times has the Preamble to the Constitution of India amended?
 
-(a) Descent
+    (a) Once
 
-(b) Registration
+    (b) Twice
 
-(c) Naturalisation
+    (c) Thrice
 
-(d) All of the above
+    (d) Never
+
+3. A foreigner can acquire Indian citizenship through
+
+    (a) Descent
+
+    (b) Registration
+
+    (c) Naturalisation
+
+    (d) All of the above
 
 4. Find the odd one out.
 
-(a) Right to Equality
+    (a) Right to Equality
 
-(b) Right against Exploitation
+    (b) Right against Exploitation
 
-(c) Right to Property
+    (c) Right to Property
 
-(d) Cultural and Educational Rights
+    (d) Cultural and Educational Rights
 
-5. One of the following is not an instance of an exercise of a fundamental right?
+5. One of the following is not an instance of an exercise of a fundamental right?
 
-(a) Workers from Karnataka go to Kerala to work on the farms
+    (a) Workers from Karnataka go to Kerala to work on the farms
 
-(b) Christian missions set up a chain of missionary schools
+    (b) Christian missions set up a chain of missionary schools
 
-(c) Men and Women government employees got the same salary.
+    (c) Men and Women government employees got the same salary.
 
-(d) Parents property is inherited by their children
+    (d) Parents property is inherited by their children
 
-6. Which one of the following rights was described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?
+6. Which one of the following rights was described by Dr. B.R. Ambedkar as the heart and soul of the Constitution?
 
-(a) Right to freedom of religion
+    (a) Right to freedom of religion
 
-(b) Right to equality
+    (b) Right to equality
 
-(c) Right to Constitutional remedies
+    (c) Right to Constitutional remedies
 
-(d) Right to property
+    (d) Right to property
 
-7. How can the Fundamental Rights be suspended?
+7. How can the Fundamental Rights be suspended?
 
-(a) If the Supreme Court so desires
+    (a) If the Supreme Court so desires
 
-(b) If the Prime Minister orders to this effect
+    (b) If the Prime Minister orders to this effect
 
-(c) If the President orders it during the national emergency
+    (c) If the President orders it during the national emergency
 
-(d) All of the above
+    (d) All of the above
 
-8. We borrowed the Fundamental Duties from the
+8. We borrowed the Fundamental Duties from the
 
-(a) American Constitution
+    (a) American Constitution
 
-(b) Canadian Constitution
+    (b) Canadian Constitution
 
-(c) Russian Constitution
+    (c) Russian Constitution
 
-(d) Irish Constitution
+    (d) Irish Constitution
 
-9. Under which Article financial emergency can be proclaimed?
+9. Under which Article financial emergency can be proclaimed?
 
-(a) Article 352
+    (a) Article 352
 
-(b) Article 356
+    (b) Article 356
 
-(c) Article 360
+    (c) Article 360
 
-(d) Article 368
+    (d) Article 368
 
-10. Which of the following committees/ commissions made recommendations about the Centre-State Relations?
+10. Which of the following committees/ commissions made recommendations about the Centre-State Relations?
 
-1. Sarkaria Commission
+    1. Sarkaria Commission
+    2. Rajamannar Committee
+    3. M.N.Venkatachaliah Commission
 
-2. Rajamannar Committee
+    Select the correct answer from the codes given below
 
-3. M.N.Venkatachaliah Commission Select the correct answer from the codes given below
+    (a) 1, 2 & 3
 
-(a) 1, 2 & 3
+    (b) 1 & 2
 
-(b) 1 & 2
+    (c) 1 & 3
 
-(c) 1 & 3
-
-(d) 2 & 3
+    (d) 2 & 3
 
 **II Fill in the Blanks**
 
-1. The concept of constitution first originated in ________.
+1. The concept of constitution first originated in ________.
 
-2. ________was elected as the temporary
+2. ________was elected as the temporary President of the Constituent Assembly.
 
-President of the Constituent Assembly.
+3. The Constitution of India was adopted on________.
 
-3. The Constitution of India was adopted on________.
+4. ________ writs are mentioned in Article 32.
 
-4. ________ writs are mentioned in Article
-
-5. Fundamental duties have been given to the citizen of India under Article________.
+5. Fundamental duties have been given to the citizen of India under Article________.
 
 **III Match the Following**
 
-1. Citizenship Act
-
-- Jawaharlal Nehru
-
-2. The Preamble
-
-- 42nd Amendment
-
-3. The mini Constitution - 1955
-
-4. Classical language
-
-- 1962
-
-5. National Emergency - Tamil
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Citizenship Act | Jawaharlal Nehru |
+| 2 | The Preamble | 42nd Amendment |
+| 3 | The mini Constitution | 1955 |
+| 4 | Classical language | 1962 |
+| 5 | National Emergency | Tamil |
 
 **IV Give short Answers**
 
@@ -474,11 +508,11 @@ President of the Constituent Assembly.
 
 2. What is meant by citizenship?
 
-3. List out the fundamental rights guaranteed by Indian Constitution.
+3. List out the fundamental rights guaranteed by Indian Constitution.
 
 4. What is a Writ?
 
-5. List out the three heads of the relations between the Centre and the States.
+5. List out the three heads of the relations between the Centre and the States.
 
 6. What are the classical languages in India?
 
@@ -486,34 +520,93 @@ President of the Constituent Assembly.
 
 **V Answer in Detail**
 
-1. Explain the salient features of the
-
-Constitution of India.
+1. Explain the salient features of the Constitution of India.
 
 2. Point out the Fundamental Rights.
 
-3. Write briefly on the Right to Constitutional
+3. Write briefly on the Right to Constitutional Remedies.
 
-Remedies.
-
-4. Mention the differences between Fundamental Rights and Directive Principles of State Policy.
+4. Mention the differences between Fundamental Rights and Directive Principles of State Policy.
 
 **VI Project and activity**
 
-1. Collect information about the various members of the Constituent Assembly.
+1. Collect information about the various members of the Constituent Assembly.
 
-2. Collect the pictures of the Members of the
-
-Drafting Committee.
+2. Collect the pictures of the Members of the Drafting Committee.
 
 ### REFERENCE BOOKS
 
-1. D.D. Basu - Introduction to the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
+1. D.D. Basu - Introduction to the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
 
-2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
+2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
 
 ### INTERNET RESOURCES
 
 1. https://www.india.org
 
-2. https://legislative.gov.in/constitution-ofindia
+2. https://legislative.gov.in/constitution-of-india
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Indian Constitution](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [இந்திய அரசியலமைப்பு 10th \| Indian Constitution \| Tamil](https://www.youtube.com/watch?v=LjfT-bPFwd0) — think before; Tamil explanation.
+- [Making of the Indian Constitution in Tamil](https://www.youtube.com/watch?v=Z3SWTPWLiDI) — UPSC TAMIL; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Salient Features of the Indian Constitution — Tamil](https://www.youtube.com/watch?v=HnLmJdc-L0s) — Polity Simplified by Rangarajan - ex-IAS; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Preamble — Tamil](https://www.youtube.com/watch?v=MSyURYMHpP4) — Polity Simplified by Rangarajan - ex-IAS; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Citizenship — Tamil](https://www.youtube.com/watch?v=FR5IYw5lBHk) — Polity Simplified by Rangarajan - ex-IAS; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Fundamental Rights — Introduction — Tamil](https://www.youtube.com/watch?v=EIiStAN2wSs) — Polity Simplified by Rangarajan - ex-IAS; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Sansad TV Special: Directive Principles of State Policy — Tamil](https://www.youtube.com/watch?v=KJvDfZWPB1k) — Sansad TV; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Fundamental Duties of Indian Constitution](https://www.youtube.com/watch?v=EFiJpra7Las) — TAMIL WAY; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Centre-State Legislative Relations — Tamil](https://www.youtube.com/watch?v=M6wH8iY0oY4) — Polity Simplified by Rangarajan - ex-IAS; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Financial Relations between Centre and State — Tamil](https://www.youtube.com/watch?v=cZYpnGmHpNQ) — Shine Way Materials; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Official Languages of India in Tamil](https://www.youtube.com/watch?v=0HrfOMjf8dA) — Adda247 Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Emergency Provisions — Indian Polity — Tamil](https://www.youtube.com/watch?v=vWKdwGkIxNM) — Yogesh Exams; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Important Constitutional Amendments in Tamil — Part 1](https://www.youtube.com/watch?v=2rTBT6WUAUs) — Vimal ananthan AP; Tamil explanation. Covers selected concepts; see the topic table below.
+- [National Constitution Day — Constitution significance explained in Tamil](https://www.youtube.com/watch?v=NzmWXUBztrM) — Adda247 Tamil; Tamil explanation. Covers selected concepts; see the topic table below.
+- [National Commission to Review the Constitution — Indian Polity in Tamil](https://www.youtube.com/watch?v=LiylSqzo7hQ) — Yogesh Exams; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Indian Constitution — chapter quiz](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) — Wordwall / Librarykvdnc; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [1.1 The Need for a Constitution](#topic-1-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=NzmWXUBztrM) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.2 Making of Indian Constitution](#topic-1-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Z3SWTPWLiDI) | [Topic activity](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.3 Salient features of Indian Constitution](#topic-1-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=HnLmJdc-L0s) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.4 Preamble](#topic-1-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=MSyURYMHpP4) | [Topic activity](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.5 Citizenship](#topic-1-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=FR5IYw5lBHk) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.6 Fundamental Rights](#topic-1-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=EIiStAN2wSs) | [Topic activity](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.7 Directive Principles of State Policy](#topic-1-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=KJvDfZWPB1k) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.8 Fundamental Duties](#topic-1-8) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=EFiJpra7Las) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.9 Centre-State Relations](#topic-1-9) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=M6wH8iY0oY4) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.10 Official Language](#topic-1-10) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=0HrfOMjf8dA) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.11 Emergency Provisions](#topic-1-11) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=vWKdwGkIxNM) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.12 Amendment of the Constitution](#topic-1-12) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=2rTBT6WUAUs) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+| [1.13 Constitutional Reform Commissions](#topic-1-13) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=LiylSqzo7hQ) | [Chapter practice](https://wordwall.net/resource/80404739/quiz-on-indian-constitution) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.india.org` | Destination unrelated to this lesson | [Alternative](https://www.india.gov.in/) |
+| `https://legislative.gov.in/constitution-of-india` | Page opened in recent check | [Alternative](https://www.legislative.gov.in/constitution-of-india) |
+
+<!-- supplemental-resources:end -->

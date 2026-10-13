@@ -1,0 +1,779 @@
+{
+  "teacher_approval": false,
+  "aids": [],
+  "edits": [
+    {
+      "id": "civics-spacing-features",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 260,
+      "bbox_normalized": [
+        0.12,
+        0.49,
+        0.48,
+        0.53
+      ],
+      "current_snippet": "உலகிலுள்ளஎழுதப்பட்ட",
+      "replacement": "உலகிலுள்ள எழுதப்பட்ட",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "fee6aedffdab0add7a338e9bfcf1d43c90a7f57c2085f16f0e57da1a75a91199",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-rights-heading3",
+      "kind": "broken_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 262,
+      "bbox_normalized": [
+        0.12,
+        0.34,
+        0.48,
+        0.39
+      ],
+      "current_snippet": "### III. சுரண்டலுக்கெதிரான\n\n![](assets/page_004_picture_002.png)\n\n### உரிமை",
+      "replacement": "### III. சுரண்டலுக்கெதிரான உரிமை\n\n![](assets/page_004_picture_002.png)",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "05043542480bda3a7019c44ad01a8ec5e38b71bea9759b64194fbc846306e24c",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-rights-humanity",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 262,
+      "bbox_normalized": [
+        0.12,
+        0.45,
+        0.49,
+        0.49
+      ],
+      "current_snippet": "மனித்தன்மையற்ற",
+      "replacement": "மனிதத்தன்மையற்ற",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "906186c77a7030a427de3bcbad9dd1a2b25f69ccc58cbe706dad32ca1266e9b0",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-rights-heading4",
+      "kind": "broken_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 262,
+      "bbox_normalized": [
+        0.51,
+        0.45,
+        0.88,
+        0.52
+      ],
+      "current_snippet": "IV. சமயச்சார்பு உரிமைபிரிவு 25 - எந்த ஒரு சமயத்தினை",
+      "replacement": "### IV. சமயச்சார்பு உரிமை\n\nபிரிவு 25 - எந்த ஒரு சமயத்தினை",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "bbe3307100bc943c94fef6ae9928f8c547a2cda8dd6ae9d94b98abb6211c2ad9",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-rights-religion",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 262,
+      "bbox_normalized": [
+        0.51,
+        0.54,
+        0.88,
+        0.59
+      ],
+      "current_snippet": "எந்தவொரு மத்தையும்",
+      "replacement": "எந்தவொரு மதத்தையும்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "f101dd3a22faf3b8428967e47c88d6451e0e6099a0d16865d3ad6aaf8f6a7f54",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-rights-heading6",
+      "kind": "broken_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 262,
+      "bbox_normalized": [
+        0.51,
+        0.66,
+        0.88,
+        0.72
+      ],
+      "current_snippet": "### VI. அரசியலமைப்புக்குட்பட்டு\n\n### தீர்வு காணும் உரிமை",
+      "replacement": "### VI. அரசியலமைப்புக்குட்பட்டு தீர்வு காணும் உரிமை",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "49d522883088ba049469a2368cd01ee71a83d3bbc33f5bb69d2afee7c487fb85",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-table-title",
+      "kind": "broken_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 263,
+      "bbox_normalized": [
+        0.12,
+        0.61,
+        0.49,
+        0.66
+      ],
+      "current_snippet": "### அடிப்படை உரிமைகளுக்கும் அரசு நெறிமுறையுறுத்தும் கோட்பாடுகளுக்கும்\n\n### இடையேயான வேறுபாடுகள்",
+      "replacement": "### அடிப்படை உரிமைகளுக்கும் அரசு நெறிமுறையுறுத்தும் கோட்பாடுகளுக்கும் இடையேயான வேறுபாடுகள்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "2ecc150e578b3f837ef2a2b21d6913faae87ea155f1d92e2c2f152d38c067a4e",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-table-continuation",
+      "kind": "broken_table",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 263,
+      "bbox_normalized": [
+        0.12,
+        0.09,
+        0.88,
+        0.91
+      ],
+      "current_snippet": "| இவை சட்ட ஒப்புதலைப் பெற்றவை. | இவை தார்மீக மற்றும் அரசியல் ஒப்புதலைப் பெற்றவை. |\n|---|---|",
+      "replacement": "| இவை சட்ட ஒப்புதலைப் பெற்றவை. | இவை தார்மீக மற்றும் அரசியல் ஒப்புதலைப் பெற்றவை. |",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "68f8f57927592a9d9d6f19d54e98a1e91eac70a1d4f0791dc737c738436280b7",
+      "current_occurrences": 1,
+      "note": "These are rows 4–5 of same table continued from left column bottom to right column top. Remove blank between prior row and this row as well.",
+      "status": "applied"
+    },
+    {
+      "id": "civics-note-this",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 263,
+      "bbox_normalized": [
+        0.52,
+        0.28,
+        0.88,
+        0.46
+      ],
+      "current_snippet": "இந்த் திருத்தம்",
+      "replacement": "இந்தத் திருத்தம்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "3a4f0b1ad7ee69789fccce2b58dc9af32c4fb26562c21ad533d36788cb39ca5d",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-heading-relations",
+      "kind": "broken_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 264,
+      "bbox_normalized": [
+        0.12,
+        0.74,
+        0.48,
+        0.8
+      ],
+      "current_snippet": "1.9 நடுவண்-மாநில அரசுகளின்\n\n### உறவுகள்",
+      "replacement": "\n\n## 1.9 நடுவண்-மாநில அரசுகளின் உறவுகள்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "faa395fdf5075485fa42e70f824e3ce04af5b4401929c044e77824499ba282e8",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-external-emergency",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 265,
+      "bbox_normalized": [
+        0.52,
+        0.25,
+        0.88,
+        0.3
+      ],
+      "current_snippet": "அது ளிப்புற அவசரநிலை’",
+      "replacement": "அது 'வெளிப்புற அவசரநிலை'",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "53dfd38fbc06ce9a508393cbf99024e5428c736d6ea8fe2eef892a7b98fbd17b",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-financial-heading",
+      "kind": "broken_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 265,
+      "bbox_normalized": [
+        0.52,
+        0.69,
+        0.88,
+        0.72
+      ],
+      "current_snippet": "### நிதி சார்ந்த்த அவசரநிலை (சட்டப்பிரிவு 360)",
+      "replacement": "### நிதி சார்ந்த அவசரநிலை (சட்டப்பிரிவு 360)",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "0901906dc42edfc8dc89694b0a9ea8272e73ad60a82771b6f3f8bfaebfd90e1c",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-glossary-discrimination",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 267,
+      "bbox_normalized": [
+        0.12,
+        0.185,
+        0.3,
+        0.212
+      ],
+      "current_snippet": "| ாகுபாடு | Discrimination",
+      "replacement": "| பாகுபாடு | Discrimination",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "9943cb3a23131fbacd14a799cebc6bbd328678ddad3d1c14b87a997fb15389f3",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-glossary-heritage",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 267,
+      "bbox_normalized": [
+        0.12,
+        0.27,
+        0.3,
+        0.3
+      ],
+      "current_snippet": "| ாரம்பரியம் | Heritage",
+      "replacement": "| பாரம்பரியம் | Heritage",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "ac209084fc87a4d5d27b022061994b36bcba62b5f00a0ecbb0b0721880d23e3a",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-glossary-autonomy",
+      "kind": "source_transcription_error",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 267,
+      "bbox_normalized": [
+        0.12,
+        0.3,
+        0.3,
+        0.33
+      ],
+      "current_snippet": "| ன்னாட்சி | Autonomy",
+      "replacement": "| தன்னாட்சி | Autonomy",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "95dc2b776b37a49b7addeb0167d24bac5c80c21e86b4359ba44340089f777a1a",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-question6-boundary",
+      "kind": "merged_question",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 267,
+      "bbox_normalized": [
+        0.52,
+        0.62,
+        0.88,
+        0.7
+      ],
+      "current_snippet": "செல்லுதல் 6. பின்வருவனவற்றுள்",
+      "replacement": "செல்லுதல்\n\n6. பின்வருவனவற்றுள்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "ca6b012fdda46a1a5af9e8d5c3a39243e07574e04fa2ca933a8a99ab577cf7e5",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-question8-blank",
+      "kind": "missing_blank",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.09,
+        0.48,
+        0.12
+      ],
+      "current_snippet": "8. நமது அடிப்படைக் கடமைகளை இடமிருந்து பெற்றோம்.",
+      "replacement": "8. நமது அடிப்படைக் கடமைகளை ___________ இடமிருந்து பெற்றோம்.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "848ff081091765e3898c4227b01cfcc819848ac047f5f9be8185f1ff4ffc85f8",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-question10-choices",
+      "kind": "missing_question_choices",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.28,
+        0.48,
+        0.45
+      ],
+      "current_snippet": "3. M.N. வெங்கடாசலையா குழு கீழே கொடுக்கப்பட்டுள்ள குறியீடுகளிலிருந்து சரியான விடையைத் தேர்ந்தெடு",
+      "replacement": "3. M.N. வெங்கடாசலையா குழு\n\nகீழே கொடுக்கப்பட்டுள்ள குறியீடுகளிலிருந்து சரியான விடையைத் தேர்ந்தெடு\n\nஅ) 1, 2 & 3\n\nஆ) 1 & 2\n\nஇ) 1 & 3\n\nஈ) 2 & 3",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "2f5b95822318b6cd1773e52f23466f07901b901763100bff06d1b024fe04b60b",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-fill1",
+      "kind": "missing_blank",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.475,
+        0.48,
+        0.511
+      ],
+      "current_snippet": "1. முதன் முதலில் அரசியலமைப்பு எனும் கொள்கை இல் தோன்றியது.",
+      "replacement": "1. முதன் முதலில் அரசியலமைப்பு எனும் கொள்கை ___________ இல் தோன்றியது.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "26e0e63808aa8857b17e630a8251dc2fee72184cab3027eb148e6b5681073abd",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-fill2",
+      "kind": "missing_blank",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.513,
+        0.48,
+        0.55
+      ],
+      "current_snippet": "2. அரசியல் நிர்ணய சபையின் தற்காலிகத் தலைவராக தேர்ந்தெடுக்கப்பட்டார்.",
+      "replacement": "2. அரசியல் நிர்ணய சபையின் தற்காலிகத் தலைவராக ___________ தேர்ந்தெடுக்கப்பட்டார்.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "54d7f942750620ed84a05afe1c533262b54cc4ce04d78ad6e939abe51bdc6e9f",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-fill3",
+      "kind": "missing_blank",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.555,
+        0.48,
+        0.592
+      ],
+      "current_snippet": "3. இந்திய அரசியலமைப்பு ஏற்றுக்கொள்ளப்பட்ட நாள் மற்றும் ஆண்டு",
+      "replacement": "3. இந்திய அரசியலமைப்பு ஏற்றுக்கொள்ளப்பட்ட நாள் மற்றும் ஆண்டு ___________.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "955cf4f7d6fc11636139dd937c6c4b0519503918b020093bf71573d0c8ff9162",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-fill4",
+      "kind": "missing_blank",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.596,
+        0.48,
+        0.647
+      ],
+      "current_snippet": "4. சட்டப்பிரிவு 32இல் குறிப்பிடப்பட்டுள்ள நீதிபேராணைகளின் எண்ணிக்கை .",
+      "replacement": "4. சட்டப்பிரிவு 32இல் குறிப்பிடப்பட்டுள்ள நீதிபேராணைகளின் எண்ணிக்கை ___________.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "fdc9dc70843515b1b6c355ef2f6019fb5d8f2ad567f096222f5a70d323502b68",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-fill5",
+      "kind": "missing_blank",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.12,
+        0.653,
+        0.48,
+        0.691
+      ],
+      "current_snippet": "5. இந்திய குடிமக்களுக்கு அடிப்படைக் கடமைகள் பிரிவின் கீழ் வழங்கப்பட்டுள்ளன.",
+      "replacement": "5. இந்திய குடிமக்களுக்கு அடிப்படைக் கடமைகள் ___________ பிரிவின் கீழ் வழங்கப்பட்டுள்ளன.",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "dccc09506d6ae7dee0c3d343ca410de8617492c4441099ea4c358d06a972fd1c",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-heading-references",
+      "kind": "corrupted_tamil_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.52,
+        0.65,
+        0.88,
+        0.69
+      ],
+      "current_snippet": "### ேமற்ேகாள் நூல்கள்",
+      "replacement": "### மேற்கோள் நூல்கள்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "177d5264d2301cd5ca136becbaaec08326b08ee4a57304e3efd7f456298888eb",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-heading-links",
+      "kind": "corrupted_tamil_heading",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.52,
+        0.81,
+        0.88,
+        0.84
+      ],
+      "current_snippet": "### இைணயதள வளங்கள்",
+      "replacement": "### இணையதள வளங்கள்",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "71074f4ad450eef376afae7e54fe581c02e7c9812bbce9da25337fc2eef2a665",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "civics-link-linebreak",
+      "kind": "broken_source_url",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/indian-constitution/_index.md",
+      "pdf_page": 268,
+      "bbox_normalized": [
+        0.52,
+        0.88,
+        0.88,
+        0.92
+      ],
+      "current_snippet": "https://legislative.gov.in/constitution-of- india",
+      "replacement": "https://legislative.gov.in/constitution-of-india",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "bc78fbd3841beedf1fa7fc0ee4cc03dd77033325bc5f441aeac89f805d887b12",
+      "current_occurrences": 1,
+      "status": "applied"
+    },
+    {
+      "id": "geo-duplicate-border",
+      "kind": "duplicate_transcription",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 144,
+      "bbox_normalized": [
+        0.12,
+        0.74,
+        0.48,
+        0.82
+      ],
+      "current_snippet": "மேலும் இந்தியா அதிகபட்சமாக வங்காள தேசத்துடன் 4156 கிலோமீட்டர்நீளமுள்ள நில எல்லையையும் குறுகிய எல்லையாக ஆப்கானிஸ்தானுடன் 106 கிலோமீட்டர்நில எல்லையையும் கொண்டுள்ளது.",
+      "replacement": "",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "9d86823132282edbe4bb0cb501482babf06825f923574bc0b3318fca7917e947",
+      "current_occurrences": 1,
+      "note": "Preceding paragraph already transcribes same single source paragraph.",
+      "status": "applied"
+    },
+    {
+      "id": "geo-duplicate-five-divisions",
+      "kind": "duplicate_transcription",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 146,
+      "bbox_normalized": [
+        0.12,
+        0.48,
+        0.48,
+        0.6
+      ],
+      "current_snippet": "1. வடக்கு மலைகள் 2. வட பெரும் சமவெளிகள் 3. தீபகற்ப பீடபூமிகள் 4. கடற்கரைச் சமவெளிகள் 5. தீவுகள்",
+      "replacement": "",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "f602942c37a10bc174bffb5876042bb0b71952e93ca2a880c6d7bc6e3ad8a38b",
+      "current_occurrences": 1,
+      "note": "Source contains single five-item list. Preserve multiline numbered list.",
+      "status": "applied"
+    },
+    {
+      "id": "geo-duplicate-himalaya-intro",
+      "kind": "duplicate_transcription",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 146,
+      "bbox_normalized": [
+        0.52,
+        0.145,
+        0.88,
+        0.191
+      ],
+      "current_snippet": "இந்தியாவின் பெரும் அரணாக உள்ள இமயமலையை மூன்று பெரும் உட்பிரிவுகளாகபிரிக்கலாம்.",
+      "replacement": "",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "e89e84e3317f5d3be91008cd13f04bcc1967ae175b530a32122d50fce8427f92",
+      "current_occurrences": 1,
+      "note": "Prior வடக்குமலையை sentence matches source; this second equivalent sentence is absent.",
+      "status": "applied"
+    },
+    {
+      "id": "geo-exercises-duplicate-and-spurious",
+      "kind": "section_reconstruction",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 157,
+      "bbox_normalized": [
+        0.12,
+        0.09,
+        0.88,
+        0.9
+      ],
+      "current_snippet": "பயிற்சி\nபயிற்சி வினாக்களுக்கான விரைவுத் துலங்கல் குறியீடு E W Q 2 R வழங்கப்பட்டுள்ளது\n\nபடத்திற்கான விளக்கம் தொடங்குகிறது.\n\nபயிற்சி வினாக்களுக்கான விரைவுத் துலங்கல் குறியீடு E W Q 2 R வழங்கப்பட்டுள்ளது\n\nபடத்திற்கான விளக்கம் முடிகிறது\n\n \n\n \n\n1. சரியான விடையைத் தேர்வு செய்க\n1. இந்தியாவின் வடக்கு தெற்கு பரவல்.\n\nஅ) 2500 கிலோ மீட்டர்\n\nஆ) 2933 கிலோ மீட்டர்\n\nஇ) 3214 கிலோ மீட்டர்\n\nஈ) 2814 கிலோ மீட்டர்\n\n2. பீகாரின் துயரம் என்று அழைக்கப்படும் ஆறு\n\nஅ) நர்மதா\n\nஆ) கோதாவரி\n\nஇ) கோசி\n\nஈ) தாமோதர்\n\n3. மூன்று பக்கம் நீரால் சூழப்பட்ட பகுதி டேஷ் என அழைக்கப்படுகிறது.\n\nஅ) கடற்கரை\n\nஆ) தீபகற்பம்\n\nஇ) தீவு\n\nஈ) நீர்ச்சந்தி\n\n4. பாக் நீர்சந்தி மற்றும் மன்னார் வளைகுடா டேஷ் ஐ இந்தியாவிடமிருந்து பிரிக்கிறது.\n\nஅ) கோவா\n\nஆ) மேற்கு வங்காளம்\n\nஇ) இலங்கை\n\nஈ) மாலத்தீவு\n\n5. தென்னிந்தியாவின் மிக உயரமான சிகரம் டேஷ்\n\nஅ) ஊட்டி\n\nஆ) ஆனை முடி\n\nஇ) கொடைக்கானல்\n\nஈ) ஜின்டா கடா\n\n6. பழைய வண்டல் படிவுகளால் உருவான சமவெளி டேஷ்\n\nஅ) பாபர்\n\nஆ) தராய்\n\nஇ) பாங்கர்\n\nஈ) காதர்\n\n7. பழவேற்காடு ஏரி டேஷ் மாநிலங்களுக்கிடையே அமைந்துள்ளது.\n\nஅ) மேற்கு வங்காளம் மற்றும் ஒடிசா\n\nஆ) கர்நாடகா மற்றும் கேரளா\n\nஇ) ஒடிசா மற்றும் ஆந்திரப் பிரதேசம்\n\nஈ) தமிழ்நாடு மற்றும் ஆந்திரப் பிரதேசம்\n\n2. பொருத்துக\n1. சாங்போ - கங்கை ஆற்றின் துணை ஆறு\n\n2. யமுனை இந்தியாவின் உயர்ந்த சிகரம்\n\n3. புதிய வண்டல் படிவுகள் - பிரம்மபுத்திரா\n\n4. காட்வின் ஆஸ்டின் (K 2) தென்கிழக்கு கடற்கரைச் சமவெளி\n\n5. சோழ மண்டலக்கடற்கரை - காதர்\n\n3. காரணம் கூறுக\n1. இமயமலைகள் மடிப்புமலைகள் என அழைக்கப்படுகின்றன.\n\n2. வட இந்திய ஆறுகள் வற்றாத ஆறுகள்\n\n3. தென்னிந்திய நதிகள் கிழக்கு நோக்கிப் பாயும் நதிகள்\n\n4 மேற்கு நோக்கிப் பாயும் நதிகள் டெல்ட்டாவை உருவாக்குவதில்லை\n\nஇந்நதி 724 கி.மீ நீளத்தையும் 65145 ச.கி.மீ பரப்பளவு வடிநிலத்தை கொண்டது.\n\n4) நீர்மின் உற்பத்திக்கு ஏற்றவை.\n\n**I சரியான விடையைத் தெரிவு செய்க**\n\n1. இந்தியாவின் வடக்கு தெற்கு பரவல். அ) 2500 கி.மீ ஆ) 2933 கி.மீ இ) 3214 கி.மீ ஈ) 2814 கி.மீ\n\n2. பீகாரின் துயரம் என்று அழைக்கப்படும் ஆறு அ) நர்மதா ஆ) கோதாவரி இ) கோசி ஈ) தாமோதர்\n\n3. மூன்று பக்கம் நீரால் சூழப்பட்ட பகுதி ___________ என அழைக்கப்படுகிறது. அ) கடற்கரை ஆ) தீவு இ) தீபகற்பம் ஈ) நீர்ச்சந்தி\n\n4. பாக் நீர்சந்தி மற்றும் மன்னார் வளைகுடா __________________ ஐ இந்தியாவிடமிருந்து பிரிக்கிறது. அ) கோவா ஆ) மேற்கு வங்காளம் இ) இலங்கை ஈ) மாலத்தீவு\n\n5. தென்னிந்தியாவின் மிக உயரமான சிகரம் ___________. அ) ஊட்டி ஆ) கொடைக்கானல் இ) ஆனை முடி ஈ) ஜின்டா கடா\n\n6. பழைய வண்டல் படிவுகளால் உருவான சமவெளி ___________. அ) பாபர் அ) தராய் இ) பாங்கர் ஈ) காதர்\n\nபழவேற்காடு ஏரி ___________________ மாநிலங்களுக்கிடையே அமைந்துள்ளது.\n\n4. காட்வின் ஆஸ்டின் (K2) - தென்கிழக்கு கடற்கரைச் சமவெளி\n\n### III காரணம் கூறுக\n\n3. தென்னிந்திய ஆறுகள் கிழக்கு நோக்கிப் பாயும் ஆறுகளாகும்.\n\n4. வேறுபடுத்துக\n1. இமயமலை ஆறுகள் மற்றும் தீபகற்ப ஆறுகள்\n\n2. மேற்குத் தொடர்ச்சி மலைகள் மற்றும் கிழக்கு தொடர்ச்சி மலைகள்\n\n3. மேற்கு கடற்கரைச் சமவெளி மற்றும் கிழக்கு கடற்கரைச் சமவெளி\n\n### V சுருக்கமாக விடையளி\n\n5. சுருக்கமாக விடையளி\n1. இந்தியாவின் அண்டை நாடுகளின் பெயர்களைக் கூறுக.\n\n2. இந்திய திட்டநேரத்தின் முக்கியத்துவம் பற்றி கூறுக.\n\n3. தக்காண பீடபூமி குறிப்பு வரைக.\n\n4. இந்தியாவின் மேற்கு நோக்கி பாயும் ஆறுகளைப் பற்றி கூறுக.\n\n5. இலட்சத்தீவுக் கூட்டங்கள் பற்றி விவரி.\n\n6. ஒரு பத்தியில் விடையளிக்கவும்\n1. இமயமலையின் உட்பிரிவுகளையும் அதன் முக்கியத்துவம் பற்றியும் விவரி.\n\n2. தீபகற்ப ஆறுகளைப் பற்றி விவரி.\n\n3. கங்கை ஆற்று வடிநிலம் குறித்து விரிவாக எழுதுக.\n\n### VII வரைபடப் பயிற்சி\n\n7. வரைபடப் பயிற்சி\nகொடுக்கப்பட்டுள்ள இடங்களை இந்திய வரைபடத்தில் குறிக்கவும்.\n\n1. மலைத் தொடர்கள்: காரகோரம், லடாக், ஜஸ்கர், ஆரவல்லி, மேற்கு தொடர்ச்சி மலை, கிழக்கு தொடர்ச்சி மலை.\n\n2. ஆறுகள்: சிந்து, கங்கை, பிரம்மபுத்திரா, நர்மதை, தபதி, மகாநதி, கோதாவரி, கிருஷ்ணா மற்றும் காவிரி.\n\n3. பீடபூமிகள்: மாளவபீடபூமி, சோட்டா நாகபுரிபீடபூமி, தக்காண பீடபூமி.\n\n### VIII செய்முறைப் பயிற்சி\n\n8. செய்முறைப் பயிற்சி\n1. நிலவரைபடத்தில் தீபகற்ப பீடபூமியை உற்று நோக்கி முக்கிய பீடபூமி பகுதிகளைக் குறிக்கவும்.\n\n2. தீபகற்ப இந்தியாவில் கிழக்கு நோக்கி பாயும் ஆறுகளையும், மேற்கு நோக்கி பாயும் ஆறுகளையும் அட்டவணைப்படுத்தவும்.\n\n3. மேற்கு வங்கத்திலிருந்து கடற்கரை வழியாக குஜராத்திற்கு பயணம் செய்யும் போது நீங்கள் கடந்து சென்ற மாநிலங்களின் பெயர்களைக் கண்டுபிடிக்கவும்.\n\n4. நில வரைபடப் புத்தகத்தைக் கொண்டு கங்கை ஆறு பாயும் மாநிலங்களைக் இந்திய நில வரைபடத்தில் குறிக்கவும்.\n\n5. இந்தியாவில் உள்ள முக்கிய ஆறுகளின் பிறப்பிடம், நீளம், வடிநிலம், பரப்பளவு மற்றும் அவற்றின் துணையாறுகள் ஆகியவற்றை அட்டவணைப்படுத்தவும்.\n\n1. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.\n\n2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.\n\n3. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.\n\n4. Singh, S. and Saroha, J. (2014). Geography of India (1st Edition). Access Publishing India Pvt. Ltd., New Delhi.\n\n \n\nமேற்கோள் நூல்கள்\n\n1. ஹுசைன் , எம் . (2015).ஜியாகிராபி ஆப் (ஆறாம் எடிஷன் ). எம்சி கராவ் ஹில் எஜுகேஷன் ,நியூ டெல்லி\n\n2. சிதார்த் தா கே மற்றும் முகர்ஜி , எஸ் . (2013). ஜியாக்கிரபி த்ரூ மேப்ஸ் (பதினொன்றாம் எடிஷன் ). கிசலயா பப்ளிகேஷன் பிரைவேட் லிமிடெட் நியூ டெல்லி\n\n3. சிங் G. (1976).எ ஜியாகிராபி ஆப் இந்தியா . ஆத்ம ராம் &சன்ஸ் பப்ளிகேஷன்ஸ் நியூ டெல்லி\n\n4. சிங் , S. அணட் சரோகா J. (2014). ஜியாக்கியபி ஆப் இந்தியா (பர்ஸ்ட் எடிஷன் ). அக்செஸ் பப்ளிஷிங் இந்தியா பிரைவேட் லிமிடெட் நியூ டெல்லி\n\nஇணையதள வளங்கள்\n\n1. http://www.nplindia.in/\n\n2. http://india-wris.nrsc.government.in/\n\n3. http://ncert.nic.in/ncerts/l/iess102.pdf\n\n4. http://www.scert.kerala.government.in/images/\n\ntext_books/chapter%204.pdf\n\n",
+      "replacement": "## பயிற்சி\n\n### I சரியான விடையைத் தெரிவு செய்க\n\n1. இந்தியாவின் வடக்கு தெற்கு பரவல்.\n   - அ) 2500 கி.மீ\n   - ஆ) 2933 கி.மீ\n   - இ) 3214 கி.மீ\n   - ஈ) 2814 கி.மீ\n2. பீகாரின் துயரம் என்று அழைக்கப்படும் ஆறு\n   - அ) நர்மதா\n   - ஆ) கோதாவரி\n   - இ) கோசி\n   - ஈ) தாமோதர்\n3. மூன்று பக்கம் நீரால் சூழப்பட்ட பகுதி ___________ என அழைக்கப்படுகிறது.\n   - அ) கடற்கரை\n   - ஆ) தீவு\n   - இ) தீபகற்பம்\n   - ஈ) நீர்ச்சந்தி\n4. பாக் நீர்சந்தி மற்றும் மன்னார் வளைகுடா ___________ ஐ இந்தியாவிடமிருந்து பிரிக்கிறது.\n   - அ) கோவா\n   - ஆ) மேற்கு வங்காளம்\n   - இ) இலங்கை\n   - ஈ) மாலத்தீவு\n5. தென்னிந்தியாவின் மிக உயரமான சிகரம் ___________.\n   - அ) ஊட்டி\n   - ஆ) கொடைக்கானல்\n   - இ) ஆனை முடி\n   - ஈ) ஜின்டா கடா\n6. பழைய வண்டல் படிவுகளால் உருவான சமவெளி ___________.\n   - அ) பாபர்\n   - ஆ) தராய்\n   - இ) பாங்கர்\n   - ஈ) காதர்\n7. பழவேற்காடு ஏரி ___________ மாநிலங்களுக்கிடையே அமைந்துள்ளது.\n   - அ) மேற்கு வங்காளம் மற்றும் ஒடிசா\n   - ஆ) கர்நாடகா மற்றும் கேரளா\n   - இ) ஒடிசா மற்றும் ஆந்திரப் பிரதேசம்\n   - ஈ) தமிழ்நாடு மற்றும் ஆந்திரப் பிரதேசம்\n\n### II பொருத்துக\n\n| எண் | இடது பக்கம் | வலது பக்கம் |\n|---|---|---|\n| 1 | சாங்போ | கங்கை ஆற்றின் துணை ஆறு |\n| 2 | யமுனை | இந்தியாவின் உயர்ந்த சிகரம் |\n| 3 | புதிய வண்டல் படிவுகள் | பிரம்மபுத்திரா |\n| 4 | காட்வின் ஆஸ்டின் (K2) | தென்கிழக்கு கடற்கரைச் சமவெளி |\n| 5 | சோழ மண்டலக்கடற்கரை | காதர் |\n\n### III காரணம் கூறுக\n\n1. இமயமலைகள் மடிப்புமலைகள் என அழைக்கப்படுகின்றன.\n2. வட இந்திய ஆறுகள் வற்றாத ஆறுகள்.\n3. தென்னிந்திய ஆறுகள் கிழக்கு நோக்கிப் பாயும் ஆறுகளாகும்.\n\n### IV வேறுபடுத்துக\n\n1. இமயமலை ஆறுகள் மற்றும் தீபகற்ப ஆறுகள்.\n2. மேற்குத் தொடர்ச்சி மலைகள் மற்றும் கிழக்குத் தொடர்ச்சி மலைகள்.\n3. மேற்குக் கடற்கரைச் சமவெளி மற்றும் கிழக்குக் கடற்கரைச் சமவெளி.\n\n### V சுருக்கமாக விடையளி\n\n1. இந்தியாவின் அண்டை நாடுகளின் பெயர்களைக் கூறுக.\n2. இந்திய திட்டநேரத்தின் முக்கியத்துவம் பற்றிக் கூறுக.\n3. தக்காண பீடபூமி – குறிப்பு வரைக.\n4. இந்தியாவின் மேற்கு நோக்கி பாயும் ஆறுகளைப் பற்றி குறிப்பிடுக.\n5. இலட்சத்தீவுக் கூட்டங்கள் பற்றி விவரி.\n\n### VI ஒரு பத்தியில் விடையளிக்கவும்\n\n1. இமயமலையின் உட்பிரிவுகளையும் அதன் முக்கியத்துவம் பற்றியும் விவரி.\n2. தீபகற்ப ஆறுகளைப் பற்றி விவரி.\n3. கங்கை ஆற்று வடிநிலம் குறித்து விரிவாக எழுதுக.\n\n### VII வரைபடப் பயிற்சி\n\nகொடுக்கப்பட்டுள்ள இடங்களை இந்திய வரைபடத்தில் குறிக்கவும்.\n\n1. மலைத் தொடர்கள்: காரகோரம், லடாக், ஜஸ்கர், ஆரவல்லி, மேற்கு தொடர்ச்சி மலை, கிழக்கு தொடர்ச்சி மலை.\n2. ஆறுகள்: சிந்து, கங்கை, பிரம்மபுத்திரா, நர்மதை, தபதி, மகாநதி, கோதாவரி, கிருஷ்ணா மற்றும் காவிரி.\n3. பீடபூமிகள்: மாளவப் பீடபூமி, சோட்டா நாகபுரி பீடபூமி, தக்காண பீடபூமி.\n\n### VIII செய்முறைப் பயிற்சி\n\n1. நிலவரைபடத்தில் தீபகற்ப பீடபூமியை உற்று நோக்கி முக்கிய பீடபூமி பகுதிகளைக் குறிக்கவும்.\n2. தீபகற்ப இந்தியாவில் கிழக்கு நோக்கிப் பாயும் ஆறுகளையும், மேற்கு நோக்கிப் பாயும் ஆறுகளையும் அட்டவணைப்படுத்தவும்.\n3. மேற்கு வங்கத்திலிருந்து கடற்கரை வழியாக குஜராத்திற்கு பயணம் செய்யும் போது நீங்கள் கடந்து செல்லும் மாநிலங்களின் பெயர்களைக் கண்டுபிடிக்கவும்.\n4. நில வரைபடப் புத்தகத்தைக் கொண்டு கங்கை ஆறு பாயும் மாநிலங்களை இந்திய நில வரைபடத்தில் குறிக்கவும்.\n5. இந்தியாவில் உள்ள முக்கிய ஆறுகளின் பிறப்பிடம், நீளம், வடிநிலம், பரப்பளவு மற்றும் அவற்றின் துணையாறுகள் ஆகியவற்றை அட்டவணைப்படுத்தவும்.\n\n### மேற்கோள் நூல்கள்\n\n1. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.\n2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.\n3. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.\n4. Singh, S. and Saroha, J. (2014). Geography of India (1st Edition). Access Publishing India Pvt. Ltd., New Delhi.\n\n### இணையதள வளங்கள்\n\n1. http://www.nplindia.in/\n2. http://india-wris.nrsc.gov.in/\n3. http://ncert.nic.in/ncerts/l/iess102.pdf\n4. http://www.scert.kerala.gov.in/images/text_books/chapter%204.pdf\n",
+      "source_visually_verified": true,
+      "teacher_approval": false,
+      "current_snippet_sha256": "89b8c6c49f3a0848fb93dd1d51fad02c6a7bd8c0cba2fb0fa475199747527f53",
+      "current_occurrences": 1,
+      "note": "Source PDF157–158 visually transcribed into separate replacement file. Removes duplicate I/II/III content, incorrect first-copy option order, spurious fourth reason question, misplaced numeric sentence from prior content, duplicate translated references, and restores source .gov.in URLs. Recheck legacy match against parent snapshots before replacing.",
+      "status": "applied"
+    },
+    {
+      "id": "geo-legacy-label-table",
+      "file": "/Users/apple/ariv/10th-social/content.ta/docs/india-location-relief-and-drainage/_index.md",
+      "pdf_page": 147,
+      "original": "|  | யாமா A |\n|---|---|\n| ெட ேல னா |  |",
+      "replacement": "",
+      "expected_sha256": "1ca7514f95c959e140cc7d4a57cb684030c39528183a090856ca5a8b8202d924",
+      "reason": "Map-label fragments incorrectly represented as a table; actual original map is restored as a source crop.",
+      "source_visually_verified": true
+    }
+  ],
+  "additional_repairs": [
+    "civics-table-continuation-join",
+    "civics-summary-source-order",
+    "geo-map-label-table-crop-replacement"
+  ],
+  "preserved_source_errors": [
+    "civics-source-artifact-republic",
+    "geo-source-summary-inconsistency"
+  ],
+  "figures": [
+    {
+      "id": "p144-figure-001",
+      "pdf_page": 144,
+      "bbox_normalized": [
+        0.47,
+        0.089,
+        0.879,
+        0.27
+      ],
+      "kind": "title_relief_illustration",
+      "source_caption": null,
+      "placement_before": "கற்றலின் நோக்கங்கள்",
+      "caption_inference": "இந்தியா – அமைவிடம், நிலத்தோற்றம் மற்றும் வடிகாலமைப்பு",
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p144-figure-001.png"
+    },
+    {
+      "id": "p145-figure-001",
+      "pdf_page": 145,
+      "bbox_normalized": [
+        0.173,
+        0.089,
+        0.826,
+        0.46
+      ],
+      "kind": "world_location_map",
+      "source_caption": "உலக வரைபடத்தில் இந்தியாவின் அமைவிடம்",
+      "placement_before": "1.1 அமைவிடமும் பரப்பளவும்",
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p145-figure-001.png"
+    },
+    {
+      "id": "p146-figure-001",
+      "pdf_page": 146,
+      "bbox_normalized": [
+        0.521,
+        0.394,
+        0.88,
+        0.546
+      ],
+      "kind": "mountain_photo",
+      "source_caption": null,
+      "placement_before": "1. ட்ரான்ஸ் இமயமலைகள்",
+      "caption_inference": null,
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p146-figure-001.png"
+    },
+    {
+      "id": "p147-figure-001",
+      "pdf_page": 147,
+      "bbox_normalized": [
+        0.123,
+        0.089,
+        0.876,
+        0.81
+      ],
+      "kind": "political_map",
+      "source_caption": "இந்தியா மாநிலங்கள் மற்றும் யூனியன் பிரதேசங்கள்",
+      "placement_after": "முக்கிய மலைத் தொடர்கள் லடாக், காரகோரம் மற்றும் ஜஸ்கர்",
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p147-figure-001.png"
+    },
+    {
+      "id": "p148-figure-001",
+      "pdf_page": 148,
+      "bbox_normalized": [
+        0.16,
+        0.091,
+        0.85,
+        0.752
+      ],
+      "kind": "physical_map",
+      "source_caption": "இந்தியா இயற்கை அமைப்பு",
+      "placement_before": "(i) உயர் இமயமலை அல்லது இமாத்ரி",
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p148-figure-001.png"
+    },
+    {
+      "id": "p153-figure-001",
+      "pdf_page": 153,
+      "bbox_normalized": [
+        0.521,
+        0.183,
+        0.879,
+        0.33
+      ],
+      "kind": "river_classification_flowchart",
+      "source_caption": null,
+      "diagram_heading": "ஆறுகள்",
+      "placement_before": "இமயமலையில் தோன்றும் ஆறுகள்",
+      "diagram_text": {
+        "ஆறுகள்": {
+          "இமயமலை ஆறுகள்": [
+            "சிந்து",
+            "கங்கை",
+            "பிரம்மபுத்திரா"
+          ],
+          "தீபகற்ப ஆறுகள்": [
+            "நர்மதை",
+            "தபதி",
+            "மகாநதி",
+            "கோதாவரி",
+            "கிருஷ்ணா",
+            "காவிரி"
+          ]
+        }
+      },
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p153-figure-001.png"
+    },
+    {
+      "id": "p154-figure-001",
+      "pdf_page": 154,
+      "bbox_normalized": [
+        0.132,
+        0.089,
+        0.86,
+        0.786
+      ],
+      "kind": "drainage_map",
+      "source_caption": "இந்தியா ஆறுகள் மற்றும் ஏரிகள்",
+      "placement_after": "ஆ. கங்கை நதி",
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p154-figure-001.png"
+    },
+    {
+      "id": "p155-figure-001",
+      "pdf_page": 155,
+      "bbox_normalized": [
+        0.12,
+        0.089,
+        0.478,
+        0.217
+      ],
+      "kind": "ganga_photo",
+      "source_caption": "கங்கை ஆறு – ஹரித்துவார்",
+      "placement_before": "இ. பிரம்மபுத்திரா ஆற்றுத்தொகுப்பு",
+      "source_visually_verified": true,
+      "bbox_coordinates": "[left,top,right,bottom], normalized to complete cached page raster (including crop marks)",
+      "teacher_approval": false,
+      "current_image_link_present": false,
+      "asset": "content.ta/docs/india-location-relief-and-drainage/assets/p155-figure-001.png"
+    }
+  ],
+  "qr_asset": {
+    "id": "p157-qr-1",
+    "bbox": [
+      0.359,
+      0.075,
+      0.479,
+      0.166
+    ]
+  },
+  "result_file_sha256": {
+    "content.ta/docs/indian-constitution/_index.md": "f41ca868ca67ce4e15223fe0fd473b701b1e39aa29112f098930d8fe449c6c4e",
+    "content.ta/docs/india-location-relief-and-drainage/_index.md": "d25226e2dda4e022bd52fb5a73e4d040c82301f5ff86fc658e68f1e93498bdfb"
+  }
+}

@@ -7,6 +7,10 @@ weight: 26
 summary: "Tax is levied by government for the development of the state’s economy. The revenue of the government depends upon direct and indirect taxes. Direct taxes are levied on income of the persons and the indirect taxes are levied on goods and services by which the government mobilise…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Economics Unit 4: Government and Taxes
 
 ![](assets/page_001_picture_001.png)
@@ -31,7 +35,9 @@ summary: "Tax is levied by government for the development of the state’s econo
 
 Tax is levied by government for the development of the state’s economy. The revenue of the government depends upon direct and indirect taxes. Direct taxes are levied on income of the persons and the indirect taxes are levied on goods and services by which the government mobilises its “Financial Sources”.
 
-## 4.1 Role of Government in Development Policies
+<a id="topic-4-1"></a>
+
+## 4.1 Role of Government in Development Policies
 
 1. Defence: This is an essential security function to protect our nation from our enemies. The Union Government is responsible for creating and maintaining defence forces.
 
@@ -50,6 +56,8 @@ Governments enact numerous laws to protect our rights, properties and to regulat
 7. Regulate the economy:
 
 The Union Government, through the Reserve Bank of India, controls money supply and controls the interest rate, inflation and foreign exchange rate. The main objective is to remove too much of fluctuation in these rates. The Union Government also controls the economy through various other agencies such as Securities Exchange Board of India and Competition Commission of India. All the Governments in India run public sector enterprises to provide important goods and services at affordable rates to the people.
+
+<a id="topic-4-2"></a>
 
 ## 4.2 Tax
 
@@ -89,13 +97,15 @@ States and their functional equivalents throughout history have used money provi
 
 When expenditures exceed tax revenue, a government accumulates debt. A portion of taxes may be used to service past debts. Governments also use taxes to fund welfare and public services. These services can include education systems, pensions for the elderly, unemployment benefits and public transportation. Energy, water and waste management systems are also common public utilities.
 
+<a id="topic-4-3"></a>
+
 ## 4.3 Types of Taxes
 
 ### Direct Taxes
 
 A tax imposed on an individual or organisation, which is paid directly, is a direct tax. The burden of a direct tax cannot be shifted to others. J.S. Mill defines a direct tax as “one which is demanded from the very persons who it is intended or desired should pay it.” Some direct taxes are income tax, wealth tax and corporation tax.
 
-In India, Income Tax was introduced for the first time in 1860 by Sir James Wilson in order to meet the losses sustained by the Government on account of the Mutiny of 1857.
+In India, Income Tax was introduced for the first time in 1860 by Sir James Wilson in order to meet the losses sustained by the Government on account of the Mutiny of 1857.
 
 **Income Tax**
 
@@ -149,6 +159,8 @@ The goods and service tax (GST) is one of the indirect taxes. The GST was passed
 
 France was the first country to implement GST in 1954.
 
+<a id="topic-4-4"></a>
+
 ## 4.4 How Are Taxes Levied?
 
 Tax is levied by the government progressively, proportionately as well as regressively.
@@ -161,9 +173,9 @@ Progressive tax rate is one in which the rate of taxation increases (multiplier)
 
 | Tax Base | Tax Rate | Amount of Tax |
 |---|---|---|
-| `10,000 | 10% | `1000 |
-| `20,000 | 15% | `3000 |
-| `30,000 | 25% | `7500 |
+| ₹10,000 | 10% | ₹1000 |
+| ₹20,000 | 15% | ₹3000 |
+| ₹30,000 | 25% | ₹7500 |
 
 **Proportionate Taxes**
 
@@ -173,13 +185,23 @@ Tax levied on goods and service in a fixed portion is known as proportionate tax
 
 | Tax Base | Tax Rate | Amount of Tax |
 |---|---|---|
-| `10,000 | 10% | `1000 |
-| `20,000 | 10% | `2000 |
-| `30,000 | 10% | `3000 |
+| ₹10,000 | 10% | ₹1000 |
+| ₹20,000 | 10% | ₹2000 |
+| ₹30,000 | 10% | ₹3000 |
 
 ### Structure of Goods and Service Tax (GST)
 
-State Goods and Service Tax (SGST): Intra state (within the state) VAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and cesses Central Goods and Service Tax (CGST): Intra state (within the state) Central Excise Duty , service tax, countervailing duty, additional duty of customs, surcharge, education and secondary/higher secondary cess Integrated Goods and Service Tax (IGST): Inter state (integrated GST)
+**State Goods and Service Tax (SGST):** Intra state (within the state)
+
+VAT/sales tax, purchase tax, entertainment tax, luxury tax, lottery tax and state surcharge and cesses
+
+**Central Goods and Service Tax (CGST):** Intra state (within the state)
+
+Central Excise Duty , service tax, countervailing duty, additional duty of customs, surcharge, education and secondary/higher secondary cess
+
+**Integrated Goods and Service Tax (IGST):** Inter state (integrated GST)
+
+![Structure of Goods and Service Tax (GST)](assets/source-en-p330-sidebar-gst-1.png)
 
 There are four major GST rates: (5%, 12%, 18% and 28%) Almost all the necessities of life like vegetables and food grains are exempted from this tax.
 
@@ -195,7 +217,11 @@ It implies that higher the rate of tax lower the income groups than in the case 
 | Tax Increases | Tax Decreases | Same Tax always |
 | E.g. Income Tax | E.g. Corporate Tax | E.g. Sales Tax |
 
-## 4.5 Black Money
+> **Source error (PDF p.331):** The original comparison table prints “Tax Decreases” for proportional tax and “Same Tax always” for regressive tax. These entries conflict with the surrounding descriptions; the source table is reproduced unchanged.
+
+<a id="topic-4-5"></a>
+
+## 4.5 Black Money
 
 ### Black Money
 
@@ -207,17 +233,19 @@ Several sources of black money are identified as causes.
 
 ![](assets/page_005_picture_002.png)
 
-1. Shortage of goods
+1. Shortage of goods
 
-2. Licensing proceeding
+2. Licensing proceeding
 
-3. Contribution of the industrial sector
+3. Contribution of the industrial sector
 
-4. Smuggling
+4. Smuggling
 
-5. Tax structure
+5. Tax structure
 
-## 4.6 Tax Evasion
+<a id="topic-4-6"></a>
+
+## 4.6 Tax Evasion
 
 Tax evasion is the illegal evasion of taxes by individuals, corporations and trusts. Tax evasion activities included
 
@@ -233,23 +261,25 @@ Tax evasion is the illegal evasion of taxes by individuals, corporations and tru
 
 1 If a person willfully commits the act of tax evasion, he may face felony charges. Tax evasion penalties include imprisonment of up to five years and high amount as fines. 2 The defendant may also be ordered to pay for the costs of prosecution. 3 Tax evasion penalties can be harsh, depending on the severity of the crime.
 
+<a id="topic-4-7"></a>
+
 ## 4.7 Taxes and Development
 
 The role of taxation in developing economies is as follows.
 
-1. Resource Mobilisation: Taxation enables the government to mobilise a substantial amount of revenue. The tax revenue is generated by imposing direct taxes such as personal income tax and corporate tax and indirect taxes such as customs duty, excise duty, etc.
+1. Resource Mobilisation: Taxation enables the government to mobilise a substantial amount of revenue. The tax revenue is generated by imposing direct taxes such as personal income tax and corporate tax and indirect taxes such as customs duty, excise duty, etc.
 
-**2. Reduction Inequalities of**
+**2. Reduction Inequalities of**
 
 Income: Taxation follows the principle of equity. The direct taxes are progressive in nature. Also certain indirect taxes, such as taxes on luxury goods, is also progressive in nature.
 
-3. Social Welfare: Taxation generates social welfare. Social welfare is generated due to higher taxes on certain undesirable products like alcoholic products.
+3. Social Welfare: Taxation generates social welfare. Social welfare is generated due to higher taxes on certain undesirable products like alcoholic products.
 
-4. Foreign Exchange: Taxation encourages exports and restricts imports, Generally developing countries and even the developed countries do not impose taxes on export items.
+4. Foreign Exchange: Taxation encourages exports and restricts imports, Generally developing countries and even the developed countries do not impose taxes on export items.
 
-5. Regional Development: Taxation plays an important role in regional development, Tax incentives such as tax holidays for setting up industries in backward regions, which induces business firms to set up industries in such regions.
+5. Regional Development: Taxation plays an important role in regional development, Tax incentives such as tax holidays for setting up industries in backward regions, which induces business firms to set up industries in such regions.
 
-6. Control of Inflation: Taxation can be used as an instrument for controlling inflation. Through taxation the government can control inflation by reducing the tax on the commodities.
+6. Control of Inflation: Taxation can be used as an instrument for controlling inflation. Through taxation the government can control inflation by reducing the tax on the commodities.
 
 ### Difference between Tax and other Payments
 
@@ -289,39 +319,97 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 | Proportionate Tax | (of a variable quantity) having a constant ratio to another quantity. |
 | Evasion | The action of evading something |
 
+![GLOSSARY](assets/source-en-p332-glossary-1.png)
+
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. The three levels of governments in India are a) Union, state and local b) Union, state and village c) Union, municipality and panchayat d) None of the above
+1. The three levels of governments in India are
 
-2. In India, taxes are including a) Direct taxes b) Indirect taxes. c) Both (a) and (b) d) None of these
+    a) Union, state and local
 
-3. Which is the role of government and development policies? a) Defence b) Foreign policy c) Regulate the economy d) all of above
+    b) Union, state and village
 
-4. The most common and important tax levied on an individual in India is a) Service tax b) Excise duty. c) Income tax d) Central sales tax
+    c) Union, municipality and panchayat
 
-5. Under which tax one nation, one uniform tax is ensured a) Value added tax (VAT) b) Income tax c) Goods and service tax d) Sales tax
+    d) None of the above
+
+2. In India, taxes are including
+
+    a) Direct taxes
+
+    b) Indirect taxes.
+
+    c) Both (a) and (b)
+
+    d) None of these
+
+3. Which is the role of government and development policies?
+
+    a) Defence
+
+    b) Foreign policy
+
+    c) Regulate the economy
+
+    d) all of above
+
+4. The most common and important tax levied on an individual in India is
+
+    a) Service tax
+
+    b) Excise duty.
+
+    c) Income tax
+
+    d) Central sales tax
+
+5. Under which tax one nation, one uniform tax is ensured
+
+    a) Value added tax (VAT)
+
+    b) Income tax
+
+    c) Goods and service tax
+
+    d) Sales tax
 
 6. Income tax was introduced in India for the first time in the year __________ .
 
-a) 1860 b) 1870 c) 1880 d) 1850
+    a) 1860
+
+    b) 1870
+
+    c) 1880
+
+    d) 1850
 
 7. __________ tax is charged on the benefits derived from property ownership.
 
-a) Income tax b) Wealth tax c) Corporate tax d) Excise duty
+    a) Income tax
+
+    b) Wealth tax
+
+    c) Corporate tax
+
+    d) Excise duty
 
 8. What are identified as causes of black money?
 
-a) Shortage of goods b) High tax rate c) Smuggling d) All of above
+    a) Shortage of goods
+
+    b) High tax rate
+
+    c) Smuggling
+
+    d) All of above
 
 **II Fill in the blanks**
 
 1. __________ is levied by government for the development of the state’s economy.
 
-2. The origin of the word ‘tax’ is from the word
-
-__________.
+2. The origin of the word ‘tax’ is from the word __________.
 
 3. The burden of the __________ tax cannot be shifted to others.
 
@@ -331,33 +419,33 @@ __________.
 
 ### III Choose the correct statement
 
-1. Which of the following statement is correct about GST? (i) GST is the ‘one point tax’. (ii) This aims to replace all direct taxes levied on goods and services by the Central and State governments. (iii) It will be implemented from 1st July
+1. Which of the following statement is correct about GST?
 
-2017 throughout the country.
+    (i) GST is the ‘one point tax’.
 
-(iv) It will unified the tax structure in India. a) (i) and (ii) are correct b) (ii), (iii) and (iv) are correct c) (i), (iii) and (iv) are correct d) All are correct
+    (ii) This aims to replace all direct taxes levied on goods and services by the Central and State governments.
+
+    (iii) It will be implemented from 1st July 2017 throughout the country.
+
+    (iv) It will unified the tax structure in India.
+
+    a) (i) and (ii) are correct
+
+    b) (ii), (iii) and (iv) are correct
+
+    c) (i), (iii) and (iv) are correct
+
+    d) All are correct
 
 **IV Match the following**
 
-1. Income Tax
-
-- Value added tax
-
-2. Excise duty
-
-- 1 July 2017
-
-3. VAT
-
-- Smuggling
-
-4. GST
-
-- Direct tax
-
-5. Black money
-
-- Indirect tax
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Income Tax | Value added tax |
+| 2 | Excise duty | 1 July 2017 |
+| 3 | VAT | Smuggling |
+| 4 | GST | Direct tax |
+| 5 | Black money | Indirect tax |
 
 **V Give Short Answers**
 
@@ -387,13 +475,9 @@ __________.
 
 **VII Activity and Projects**
 
-1. Collect information about the local taxes
+1. Collect information about the local taxes (water, electricity and house tax etc).
 
-(water, electricity and house tax etc).
-
-2. Students purchase some goods on the shop.
-
-The teacher and students discuss those goods, maximum retail price, purchasing price or GST.
+2. Students purchase some goods on the shop. The teacher and students discuss those goods, maximum retail price, purchasing price or GST.
 
 ### REFERENCE BOOKS
 
@@ -412,3 +496,43 @@ Dr.H. Girija, Public Finance.
 1. World Bank Report in 2018
 
 2. www.GST.in
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [Tax Avoidance vs Tax Evasion — Global Tax Game Explained](https://www.youtube.com/watch?v=kLWFY9uMDDs) — tutor2u; English. Covers selected concepts; see the topic table below.
+- [Government and Taxes — Lesson 4 — Part 1](https://www.youtube.com/watch?v=Go7VZPLXoC0) — Surya Academy; Tamil explanation.
+- [Tax definition and why we pay tax](https://www.youtube.com/watch?v=cwviwhMiy6g) — HTAS How To Approach Schooling; Tamil explanation.
+- [Direct and indirect taxes — class 10 — Tamil](https://www.youtube.com/watch?v=r0lq6gbFErw) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Structure of GST in India — class 10 — Tamil](https://www.youtube.com/watch?v=lI761cKPlPA) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Black money — class 10 — Tamil](https://www.youtube.com/watch?v=Jcd7ejVWapU) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Why we pay tax to the government — 10th Social Economics explained in Tamil](https://www.youtube.com/watch?v=cwviwhMiy6g) — HTAS How To Approach Schooling; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Income tax calculator — change fictional incomes](https://cleartax.in/paytax/TaxCalculatorEmbedNoMktg) — ClearTax; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [4.1 Role of Government in Development Policies](#topic-4-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Go7VZPLXoC0) | [Lesson activities](#interactive-resources) |
+| [4.2 Tax](#topic-4-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=cwviwhMiy6g) | [Topic activity](https://cleartax.in/paytax/TaxCalculatorEmbedNoMktg) |
+| [4.3 Types of Taxes](#topic-4-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=r0lq6gbFErw) | [Topic activity](https://cleartax.in/paytax/TaxCalculatorEmbedNoMktg) |
+| [4.4 How Are Taxes Levied?](#topic-4-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=lI761cKPlPA) | [Topic activity](https://cleartax.in/paytax/TaxCalculatorEmbedNoMktg) |
+| [4.5 Black Money](#topic-4-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Jcd7ejVWapU) | [Lesson activities](#interactive-resources) |
+| [4.6 Tax Evasion](#topic-4-6) | [Topic video (English)](https://www.youtube.com/watch?v=kLWFY9uMDDs) | [Lesson activities](#interactive-resources) |
+| [4.7 Taxes and Development](#topic-4-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=cwviwhMiy6g) | [Lesson activities](#interactive-resources) |
+
+<!-- supplemental-resources:end -->

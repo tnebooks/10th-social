@@ -7,6 +7,10 @@ weight: 5
 summary: "English education, introduced with the objective of producing clerks, also produced a new English-educated middle class. This class came under the influence of western ideas and thoughts. Christianity also had its effect on the newly emerging middle class. Though small in number…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 5: Social and Religious Reform Movements in the 19th Century
 
 ![](assets/page_001_picture_001.png)
@@ -35,9 +39,11 @@ English education, introduced with the objective of producing clerks, also produ
 
 The reform movements of nineteenth century in the realm of religion fall under two broad categories: Reformist movements like the Brahmo Samaj, the Prarthana Samaj and the Aligarh Movement; and the revivalist movements such as the Arya Samaj, the Ramakrishna Mission and the Deoband Movement. There were also attempts to challenge the oppressive social structure by Jyotiba Phule in Pune, Narayana Guru and Ayyankali in Kerala and Ramalinga Adigal, and Iyothee Thassar in Tamil Nadu.
 
-## 5.1 Early Reform Movements in Bengal
+<a id="topic-5-1"></a>
 
-### (a) Raja Rammohan Roy and Brahmo Samaj
+## 5.1 Early Reform Movements in Bengal
+
+### (a) Raja Rammohan Roy and Brahmo Samaj
 
 Rammohan Roy (1772–1833) was one of the earlier reformers influenced by the Western ideas to initiate reforms. He was a great scholar, well-versed in Sanskrit, Arabic, Persian and English apart from his knowledge in his mother tongue, Bengali.
 
@@ -53,7 +59,7 @@ Rammohan Roy condemned the subjugation of women and opposed the prevailing ideas
 
 Rammohan Roy founded the Brahmo Samaj on 20 August 1828. He opened a temple in Calcutta, where there was no image. There he laid down that ‘no religion should be reviled or slightly or contemptuously spoken off or alluded to.’ The Samaj forbade idol-worship and condemned meaningless religious rites and ceremonies. However, from the beginning, the appeal of the Brahmo Samaj remained limited to the intellectuals and enlightened Bengalis. Though the Samaj failed to attract the people from the lower sections of society, its impact on the culture of modern Bengal and its middle class was quite significant.
 
-### (b) Maharishi Debendranath
+### (b) Maharishi Debendranath
 
 ### Tagore
 
@@ -65,17 +71,17 @@ Debendranath
 
 Tagore
 
-1. In the beginning there was nothing. The one supreme being alone existed, who created the Universe.
+1. In the beginning there was nothing. The one supreme being alone existed, who created the Universe.
 
-2. He alone is the God of Truth, Infinite
+2. He alone is the God of Truth, Infinite
 
 Wisdom, Goodness, and Power, eternal, omnipresent, the One without second.
 
-3. Our salvation depends on belief in Him and in His worship in this world and the next.
+3. Our salvation depends on belief in Him and in His worship in this world and the next.
 
-4. Belief consists in loving Him and doing His will.
+4. Belief consists in loving Him and doing His will.
 
-### (c ) Keshab Chandra Sen &
+### (c ) Keshab Chandra Sen &
 
 ### Brahmo Samaj of India
 
@@ -111,9 +117,11 @@ Dr. Atma Ram Pandurang
 
 M.G. Ranade
 
+<a id="topic-5-2"></a>
+
 ## 5.2 Hindu Revivalism
 
-### (a) Swami Dayanand Saraswati and Arya Samaj 1875
+### (a) Swami Dayanand Saraswati and Arya Samaj 1875
 
 In the Punjab, the reform movement was spearheaded by the Arya Samaj. It was founded (1875) by a wandering ascetic in the western Gangetic plain, Swami Dayanand Saraswati (1824–83). Swami
 
@@ -175,6 +183,8 @@ In India the movement became further popular with the election of Annie Besant (
 
 Annie Besant
 
+<a id="topic-5-3"></a>
+
 ## 5.3 Anti-Caste Movements
 
 ### (a) Jyotiba Phule
@@ -203,6 +213,8 @@ Ayyankali
 
 Inspired by Sree Narayana Guru, Ayyankali founded the Sadhu Jana Paripalana Sangam (Association for the Protection of the Poor) in 1907.
 
+<a id="topic-5-4"></a>
+
 ## 5.4 Islamic Reforms
 
 After the suppression of great revolt of 1857 Indian Muslims looked to Western culture with suspicion. The community feared that Western education, Western culture and Western ideas would endanger their religion. Therefore only a small section of Muslims accepted the new avenues for modern education.
@@ -229,13 +241,17 @@ Deoband was a revivalist movement organized by the orthodox Muslim Ulema. The Ul
 
 Maulana Mahmud-ul-Hassan became the new Deoband leader. The Jamait-Ul-Ulema (council of theologians) led by him gave a concrete shape to Hassan’s ideas of protection of the religious and political rights of the Muslims in the overall context of Indian unity.
 
+<a id="topic-5-5"></a>
+
 ## 5.5 Parsi Reform Movement
 
 In the middle of the nineteenth century the reform activities began in Mumbai.
 
 Furdunji Naoroji founded the Rahnumai Mazdayasnan Sabha (Parsis’ Reform Society) in 1851. Rast Goftar (The Truth Teller) was the main voice of the movement. Behrramji Malabari organized a campaign for legislation against the practice of child marriage. The community produced many leaders, such as Pherozeshah Mehta and Dinshaw Wacha, who played a big role in the early Congress.
 
-## 5.6 Sikh Reform Movement (Nirankaris and Namdharis)
+<a id="topic-5-6"></a>
+
+## 5.6 Sikh Reform Movement (Nirankaris and Namdharis)
 
 Among the Sikhs of Punjab too there were attempts to reform. Baba Dayal Das, founder of the Nirankari Movement, stressed the worship of god as Nirankar (formless). Rejection of idols, rejection of rituals associated with idolatry, reverence for the authority of Guru Nanak and of the Adi Granth formed the essence of his teachings. He reiterated the prohibition on meat-eating, and liquor consumption.
 
@@ -243,7 +259,9 @@ The Namdhari Movement, founded by Baba Ram Singh, was another socio-religious mo
 
 In the wake of the gathering influence of Arya Samaj and the Christian missionaries, the Singh Sabha of Amritsar was established. Its main objective was to restore the purity of Sikhism. With the support of British, it established Khalsa College for the Sikhs in Amritsar. Singh Sabha was a forerunner of Akali Movement.
 
-## 5.7 Social Reformers of Tamilnadu
+<a id="topic-5-7"></a>
+
+## 5.7 Social Reformers of Tamilnadu
 
 ### (a) Ramalinga Swamigal
 
@@ -299,6 +317,8 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 
 ### GLOSSARY
 
+![Source glossary, PDF page 66, including Tamil meanings](assets/source_glossary_pdf_066.png)
+
 | Term | Meaning |
 |---|---|
 | Alleged | stated but not proved |
@@ -311,149 +331,146 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
 1. In which year was Sati abolished?
+   - a) 1827
+   - b) 1829
+   - c) 1826
+   - d) 1927
 
-a) 1827 b) 1829 c) 1826 d) 1927
+2. What was the name of the Samaj founded by Dayanand Saraswati?
+   - a) Arya Samaj
+   - b) Brahmo Samaj
+   - c) Prarthana Samaj
+   - d) Adi Brahmo Samaj
 
-2. What was the name of the Samaj founded by Dayanand Saraswati?
-
-a) Arya Samaj b) Brahmo Samaj c) Prarthana Samaj d) Adi Brahmo Samaj
-
-3. Whose campaign and work led to the enactment of Widow Remarriage Reform Act of 1856?
-
-a) Iswarchandra Vidyasagar b) Raja Rammohan Roy c) Annie Besant d) Jyotiba Phule
+3. Whose campaign and work led to the enactment of Widow Remarriage Reform Act of 1856?
+   - a) Iswarchandra Vidyasagar
+   - b) Raja Rammohan Roy
+   - c) Annie Besant
+   - d) Jyotiba Phule
 
 4. Whose voice was Rast Goftar?
+   - a) Parsi Movement
+   - b) Aligarh Movement
+   - c) Ramakrishna Mission
+   - d) Dravida Mahajana Sabha
 
-a) Parsi Movement b) Aligarh Movement c) Ramakrishna Mission d) Dravida Mahajana Sabha
+5. Who was the founder of Namdhari Movement?
+   - a) Baba Dayal Das
+   - b) Baba Ramsingh
+   - c) Gurunanak
+   - d) Jyotiba Phule
 
-5. Who was the founder of Namdhari
+6. Who was the founder of Widow Remarriage Association?
+   - a) Mahadev Govind Ranade
+   - b) Devendranath Tagore c ) Jyotiba Phule
+   - d) Ayyankali
 
-Movement?
-
-a) Baba Dayal Das b) Baba Ramsingh c) Gurunanak d) Jyotiba Phule
-
-6. Who was the founder of Widow
-
-Remarriage Association?
-
-a) Mahadev Govind Ranade b) Devendranath Tagore c ) Jyotiba Phule d) Ayyankali
-
-7. Who was the author of the book
-
-Satyarthaprakash ?
-
-a) Dayananda Saraswathi b) Iyothee Thassar c) Annie Besant d) Narayana Guru
+7. Who was the author of the book Satyarthaprakash ?
+   - a) Dayananda Saraswathi
+   - b) Iyothee Thassar
+   - c) Annie Besant
+   - d) Narayana Guru
 
 **II Fill in the blanks**
 
-1.  founded the Samarasa Vedha Sanmarga Sangam.
+1. ________ founded the Samarasa Vedha Sanmarga Sangam.
 
-2. The founder of Poona Sarvajanik Sabha was .
+2. The founder of Poona Sarvajanik Sabha was ________.
 
-3. Gulamgiri was written by
+3. Gulamgiri was written by ________.
 
-.
+4. Ramakrishna Mission was established by ________.
 
-4. Ramakrishna Mission was established by
+5. ________ was the forerunner of Akali Movement.
 
-.
-
-5.  was the forerunner of Akali Movement.
-
-6. Oru Paisa Tamilan was started by
-
-.
+6. Oru Paisa Tamilan was started by ________.
 
 **III Choose the correct statement**
 
-1. i) Raja
+1.
+    - i) Raja Rammohan Roy preached monotheism
+    - ii) He encouraged idolatry
+    - iii) He published tracts condemning social evils
+    - a) i) is correct
+    - b) i) and ii) are correct
+    - c) i), ii) and iii) are correct
+    - d) i) and iii) are correct
 
-Rammohan Roy preached monotheism ii) He encouraged idolatry iii) He published tracts condemning social evils a) i) is correct b) i) and ii) are correct c) i), ii) and iii) are correct d) i) and iii) are correct
+2.
+    - i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang
+    - ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage
+    - iii) Jyotiba Phule worked for the upliftment of men.
+    - iv) Prarthana Samaj had it’s origin in the Punjab.
+    - a) i) is correct
+    - b) ii) is correct
+    - c) i) and ii) are correct
+    - d) iii) and iv) are correct
 
-2. i) Prarthana Samaj was founded by
+3.
+    - i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities.
+    - ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices.
+    - iii) Ramakrishna established the Ramakrishna Mission
+    - a) i) is correct
+    - b) i) and ii) are correct
+    - c) iii) is correct
+    - d) i) and iii) correct
 
-Dr. Atma Ram Pandurang ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage iii) Jyotiba Phule worked for the upliftment of men. iv) Prarthana Samaj had it’s origin in the
+4. Assertion: Jyotiba Phule opened orphanages and homes for widows
 
-Punjab. a) i) is correct b) ii) is correct c) i) and ii) are correct d) iii) and iv) are correct
-
-3. i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities. ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices. iii) Ramakrishna established the Ramakrishna Mission a) i) is correct b) i) and ii) are correct c) iii) is correct d) i) and iii) correct
-
-4. Assertion:
-
-Jyotiba Phule opened orphanages and homes for widows Reason: Jyotiba Phule opposed child marriage and supported widow remarriage a)Assertion is correct but reason is not apt to the assertion b) Assertion is correct and the reason is apt to the assertion c) Both are wrong d) Reason is correct but assertion is irrelevant
+    Reason: Jyotiba Phule opposed child marriage and supported widow remarriage
+    - a) Assertion is correct but reason is not apt to the assertion
+    - b) Assertion is correct and the reason is apt to the assertion
+    - c) Both are wrong
+    - d) Reason is correct but assertion is irrelevant
 
 **IV Match the following**
 
-1. Oru Paisa
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Oru Paisa Tamilan | Widows Remarriage Reform Act |
+| 2 | Thiruvarutpa | Nirankari |
+| 3 | Baba Dayal Das | Adi Bramo Samaj |
+| 4 | Iswarchandra Vidyasagar | Journal |
+| 5 | Debendranath | Songs of Grace |
 
-- Widows Remarriage Tamilan Reform Act
+**V Answer briefly**
 
-2. Thiruvarutpa
+1. Mention the four articles of faith laid down by Maharishi Debendranath Tagore?
 
-- Nirankari
+2. Discuss Mahadev Govind Ranade’s contribution to social reforms.
 
-3. Baba Dayal Das - Adi Bramo Samaj
+3. Write a note on reforms of Ramalinga Adigal.
 
-4. Iswarchandra
+4. List the social evils eradicated by Brahmo Samaj.
 
-Vidyasagar
-
-- Journal
-
-5. Debendranath
-
-- Songs of Grace
-
-**V Answer briefly**
-
-1. Mention the four articles of faith laid down by Maharishi Debendranath Tagore?
-
-2. Discuss Mahadev Govind Ranade’s contribution to social reforms.
-
-3. Write a note on reforms of Ramalinga
-
-Adigal.
-
-4. List the social evils eradicated by Brahmo
-
-Samaj.
-
-5. Highlight the work done by Jyotiba
-
-Phule for the welfare of the poor and the marginalized.
+5. Highlight the work done by Jyotiba Phule for the welfare of the poor and the marginalized.
 
 **VI Answer in detail**
 
-1. Discuss the circumstances that led to the
+1. Discuss the circumstances that led to the Reform movements of 19th century.
 
-Reform movements of 19th century.
+2. Evaluate the contributions of Ramakrishna Paramahamsa and Swami Vivekananda to regenerate Indian society.
 
-2. Evaluate the contributions of Ramakrishna
-
-Paramahamsa and Swami Vivekananda to regenerate Indian society.
-
-3. Write an essay on the role played by the
-
-19th century reformers towards the cause of Women.
+3. Write an essay on the role played by the 19th century reformers towards the cause of Women.
 
 **VII Activity**
 
-1. Role-play by students on Reformers and their Reforms of the 19th century India.
+1. Role-play by students on Reformers and their Reforms of the 19th century India.
 
-2. Debate Social evils of 19th century with those of present day.
+2. Debate Social evils of 19th century with those of present day.
 
 ### REFERENCE BOOKS
 
-1. Kenneth W. Jones, Socio-Religious Reform Movement in British India, New Edition, Cambridge University Press, 2006.
+1. Kenneth W. Jones, Socio-Religious Reform Movement in British India, New Edition, Cambridge University Press, 2006.
 
-2. Manickam, S., “Depressed Class Movement in South India,” in Manikumar K.A. (ed.), History and Society, Tirunelveli, 1996.
+2. Manickam, S., “Depressed Class Movement in South India,” in Manikumar K.A. (ed.), History and Society, Tirunelveli, 1996.
 
-3. V. Geetha and S.V. Rajathurai, Towards a Non-Brahmin Millennium from Iyothee Thass to Periyar, Calcutta, 1998.
+3. V. Geetha and S.V. Rajathurai, Towards a Non-Brahmin Millennium from Iyothee Thass to Periyar, Calcutta, 1998.
 
-4. Mohan, P. Sanal (2013), “Religion, Social Space, and Identity: The Prathyaksha Raksha Daiva Sabha and the Making of Cultural Boundaries in Twentieth Century Kerala”, in Joan Mencher(ed.), Life as a Dalit: Views from the Bottom on Caste in India, SAGE Publications.
+4. Mohan, P. Sanal (2013), “Religion, Social Space, and Identity: The Prathyaksha Raksha Daiva Sabha and the Making of Cultural Boundaries in Twentieth Century Kerala”, in Joan Mencher(ed.), Life as a Dalit: Views from the Bottom on Caste in India, SAGE Publications.
 
 ### INTERNET RESOURCES
 
@@ -461,20 +478,69 @@ Paramahamsa and Swami Vivekananda to regenerate Indian society.
 
 2. http://en.wikipedia.org/wiki/ timesofindia.com
 
-- 
+### ICT CORNER
 
-Open the Browser and type the URL given below (or) Scan the QR Code.
+**Social and Religious Reform Movements in the 19th Century**
 
-Type ‘History of modern India’ in the search box
+**Steps**
 
-- 
+1. Open the Browser and type the URL given below (or) Scan the QR Code.
 
-- 
+2. Type ‘History of modern India’ in the search box
 
-Explore the Timeline Events with Pictorial Descriptions.
-
-**Website URL:**
-
-https://www.timetoast.com/categories
+3. Explore the Timeline Events with Pictorial Descriptions.
 
 ![](assets/page_010_picture_001.png)
+
+**Website URL:** https://www.timetoast.com/categories
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Social and Religious Reform Movements in the 19th Century](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [19ஆம் நூற்றாண்டில் சமூக, சமய சீர்திருத்த இயக்கங்கள் — Part 1](https://www.youtube.com/watch?v=5lzxsHdmUtk) — EduDeck; Tamil explanation.
+- [இந்து புத்தெழுச்சி இயக்கம் — 10th History Part 3](https://www.youtube.com/watch?v=Jb2OHji3srs) — DHRONA ACADEMY; Tamil explanation. Covers selected concepts; see the topic table below.
+- [19th Century Reform Movements — Part 3 — Tamil](https://www.youtube.com/watch?v=YUZF8WP2XRE) — EduDeck; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Reform Movements — Part 6 — Islamic, Parsi and Sikh](https://www.youtube.com/watch?v=2jZAmV5nHhg) — TIME TO LEARN EASY; language not verified. Covers selected concepts; see the topic table below.
+- [தமிழ்நாட்டின் சமூக சீர்திருத்தவாதிகள்](https://www.youtube.com/watch?v=ymHjIMfJsVk) — Shanmugam IAS Academy; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Social reformers from Tamil Nadu — Ramalinga and Iyothee](https://www.youtube.com/watch?v=_x7ppyymdxE) — Let's Crack TN Exams; language not verified. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Social and Religious Reform Movements in the 19th Century — chapter quiz](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [5.1 Early Reform Movements in Bengal](#topic-5-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=5lzxsHdmUtk) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+| [5.2 Hindu Revivalism](#topic-5-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Jb2OHji3srs) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+| [5.3 Anti-Caste Movements](#topic-5-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=YUZF8WP2XRE) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+| [5.4 Islamic Reforms](#topic-5-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=YUZF8WP2XRE) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+| [5.5 Parsi Reform Movement](#topic-5-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=YUZF8WP2XRE) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+| [5.6 Sikh Reform Movement (Nirankaris and Namdharis)](#topic-5-6) | [Topic video (language not verified)](https://www.youtube.com/watch?v=2jZAmV5nHhg) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+| [5.7 Social Reformers of Tamilnadu](#topic-5-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=ymHjIMfJsVk) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.timetoast.com/categories` | Page opened in recent check | — |
+| `https://www.deccanherald.com.` | URL transcription or spacing issue | [Alternative](https://www.deccanherald.com/) |
+| `http://en.wikipedia.org/wiki/timesofindia. com` | URL transcription or spacing issue | — |
+
+<!-- supplemental-resources:end -->

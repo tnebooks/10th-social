@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "prompt_version": "1",
+  "source_pdf_sha256": "87d4c27ebaba040c1a6d421d15074a5d3065ae7023c20b24b850387e9a5ed0c3",
+  "lesson_ranges_valid": true,
+  "lossless_source_page_assets_verified": 355,
+  "all_main_topics_have_relevant_video_link": true,
+  "complete_item_inventory": false,
+  "full_semantic_review_passed": false,
+  "blocking": true,
+  "teacher_approval": false,
+  "verified_aid_ids": [],
+  "pending": [
+    "Line-by-line comparison and complete item inventory for all 27 lessons",
+    "All video playback and interactive execution tests",
+    "External quiz answer verification"
+  ],
+  "source_preservation": "355 original page images, pixel-matched to fresh source render",
+  "local_site_validation": "pass",
+  "changes_reviewable_in": "TEXTBOOK_REVIEW.md"
+}

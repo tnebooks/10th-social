@@ -1,0 +1,225 @@
+{
+  "teacher_approval": false,
+  "findings": [
+    {
+      "id": "final-en-18-heading-after-matching-table",
+      "lesson_id": "18",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/indian-constitution/_index.md",
+      "pdf_pages": [
+        252,
+        253
+      ],
+      "current_snippet": "| 5 | National Emergency | Tamil | **IV Give short Answers**",
+      "expected_sha256": "6c443601d5b46164e7fdd61e4b5700a55ee14825b04896fd2d293fb739efd391",
+      "replacement": "| 5 | National Emergency | Tamil |\n\n**IV Give short Answers**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-19-heading-after-matching-table",
+      "lesson_id": "19",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/central-government/_index.md",
+      "pdf_pages": [
+        263,
+        264
+      ],
+      "current_snippet": "| 5 | Article 352 | Office of the Attorney General | **V Answer the brief questions**",
+      "expected_sha256": "94b877a187bcb872987c1b007800daa71bd68308475378958bc1d1ad943b9353",
+      "replacement": "| 5 | Article 352 | Office of the Attorney General |\n\n**V Answer the brief questions**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-20-heading-after-matching-table",
+      "lesson_id": "20",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/state-government/_index.md",
+      "pdf_pages": [
+        273,
+        274
+      ],
+      "current_snippet": "| 5 | Armed forces | cannot vote for grants | **IV Answer the brief questions**",
+      "expected_sha256": "a1d11c77ff5382563dc9a16e8097e56f3be990e881c079b48df96b34353b46b4",
+      "replacement": "| 5 | Armed forces | cannot vote for grants |\n\n**IV Answer the brief questions**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-21-heading-after-matching-table",
+      "lesson_id": "21",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/indias-foreign-policy/_index.md",
+      "pdf_pages": [
+        281,
+        282
+      ],
+      "current_snippet": "| 5 | World Peace | Myanmar | **V Give short answers**",
+      "expected_sha256": "f5ee5d1348ef7aae88b4dbe63ae58b6b024e29784625c52139a581dfa38eaae7",
+      "replacement": "| 5 | World Peace | Myanmar |\n\n**V Give short answers**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-22-heading-after-matching-table",
+      "lesson_id": "22",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/indias-international-relations/_index.md",
+      "pdf_pages": [
+        295,
+        296
+      ],
+      "current_snippet": "| 5 | OPEC | Garment city in Vishakapatnam | **V Give short answers**",
+      "expected_sha256": "b9faf3bf6e8286b2a8c187980a4a979bb181ec38ad1008c951a7e01624113637",
+      "replacement": "| 5 | OPEC | Garment city in Vishakapatnam |\n\n**V Give short answers**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-23-heading-after-matching-table",
+      "lesson_id": "23",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/gross-domestic-product-and-its-growth-an-introduction/_index.md",
+      "pdf_pages": [
+        307,
+        308
+      ],
+      "current_snippet": "| 5 | C + I + G + (X-M) | Tax on goods and service | **IV Give short answer**",
+      "expected_sha256": "7b5b08ec342733784fe2601d3ce2faaadfa8013c2bbfcbdcc7d72d9488d73b91",
+      "replacement": "| 5 | C + I + G + (X-M) | Tax on goods and service |\n\n**IV Give short answer**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-24-heading-after-matching-table",
+      "lesson_id": "24",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/globalization-and-trade/_index.md",
+      "pdf_pages": [
+        316
+      ],
+      "current_snippet": "| 4 | WTO | Infosys | **IV Give Short Answers**",
+      "expected_sha256": "0f031dc4a400df58aeecae3c067b278ae9eaa7841e92b9e33a7ac505045b88fa",
+      "replacement": "| 4 | WTO | Infosys |\n\n**IV Give Short Answers**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-25-heading-after-matching-table",
+      "lesson_id": "25",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/food-security-and-nutrition/_index.md",
+      "pdf_pages": [
+        324,
+        325
+      ],
+      "current_snippet": "| 4 | National Food Security Act | United Nations Development Programme | **IV Assertion and Reason**",
+      "expected_sha256": "9666f6557e16c7062cb83e0aa1247ec5fc9ff9966eff4d50e8c1bc4ba83b074c",
+      "replacement": "| 4 | National Food Security Act | United Nations Development Programme |\n\n**IV Assertion and Reason**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-26-heading-after-matching-table",
+      "lesson_id": "26",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/government-and-taxes/_index.md",
+      "pdf_pages": [
+        332,
+        333
+      ],
+      "current_snippet": "| 5 | Black money | Indirect tax | **V Give Short Answers**",
+      "expected_sha256": "da8f220541988b9b98a068f969ea4d57a967b82b187900724636d4e0fad56e88",
+      "replacement": "| 5 | Black money | Indirect tax |\n\n**V Give Short Answers**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-27-heading-after-matching-table",
+      "lesson_id": "27",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/industrial-clusters-in-tamil-nadu/_index.md",
+      "pdf_pages": [
+        342,
+        343
+      ],
+      "current_snippet": "| 4 | Manchester of South India | 1965 | **V Write Short Answer**",
+      "expected_sha256": "8d58898e6370a7b46c8f610472b51c483bdef9d3cc480b46bb7cd422debc1f04",
+      "replacement": "| 4 | Manchester of South India | 1965 |\n\n**V Write Short Answer**",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Following source section heading is appended as an extra cell on the last matching row. Hugo omits that heading. Put it on a separate paragraph after the table."
+    },
+    {
+      "id": "final-en-18-nested-code-prompt",
+      "lesson_id": "18",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/indian-constitution/_index.md",
+      "pdf_pages": [
+        252,
+        253
+      ],
+      "current_snippet": "Select the correct answer from the codes given below",
+      "expected_sha256": "28abd8c873d0d93a9d0a2083337087fabf0f4b494c1907b790fd228440d52609",
+      "replacement": "    Select the correct answer from the codes given below",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Prompt escapes question10 list; four code choices then render as a code block. Indent prompt within question10 to retain nested choices."
+    },
+    {
+      "id": "final-en-19-statement1-nesting",
+      "lesson_id": "19",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/central-government/_index.md",
+      "pdf_pages": [
+        263
+      ],
+      "current_snippet": "1.\n\n    i) Total members of the Rajya Sabha is\n\n250.",
+      "expected_sha256": "88aeec40b483dc37c41cee37e93c5e28bc04c8f296fc83053a91b2907023d0f5",
+      "replacement": "1. i) Total members of the Rajya Sabha is 250.",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Empty question1 item followed by code text and a numbered item250. Join first roman statement with its original value and question number."
+    },
+    {
+      "id": "final-en-19-statement2-nesting",
+      "lesson_id": "19",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/central-government/_index.md",
+      "pdf_pages": [
+        263
+      ],
+      "current_snippet": "2.\n\n    i) The Chief Justice and other judges of the Supreme Court hold the office up to the age of 62 years.",
+      "expected_sha256": "f2612291353b16fd64f99bd12fde2c1777216709e90bfa4f572aaff4cfef3f31",
+      "replacement": "2. i) The Chief Justice and other judges of the Supreme Court hold the office up to the age of 62 years.",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Empty question2 item closes before indented roman statements, making them code. Keep first statement within item2 so all nested statements/options render as question content."
+    },
+    {
+      "id": "final-en-22-question5-nested-table",
+      "lesson_id": "22",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/indias-international-relations/_index.md",
+      "pdf_pages": [
+        295
+      ],
+      "current_snippet": "| Item | Left column | Right column |\n|---|---|---|\n| i | Salma Dam | 1. Bangladesh |\n| ii | Farakka accord | 2. Nepal |\n| iii | Chukha hydroelectric project | 3. Afghanistan |\n| iv | Sharda River project | 4. Bhutan |",
+      "expected_sha256": "0d1bb8380e12a620160e941e2096e0acf2b5a0044503ee839fdac9c86ad4f412",
+      "replacement": "    | Item | Left column | Right column |\n    |---|---|---|\n    | i | Salma Dam | 1. Bangladesh |\n    | ii | Farakka accord | 2. Nepal |\n    | iii | Chukha hydroelectric project | 3. Afghanistan |\n    | iv | Sharda River project | 4. Bhutan |",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Unindented table closes question5 numbered item; all four code choices become a code block. Indent this table to keep it inside question5."
+    },
+    {
+      "id": "final-en-22-transport-codes-prompt",
+      "lesson_id": "22",
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/indias-international-relations/_index.md",
+      "pdf_pages": [
+        295
+      ],
+      "current_snippet": "Select the correct answer using the codes given below",
+      "expected_sha256": "12d5e882dd52471d154a96f1ab694b16b6559c6aa649f6a58ee8f4ce0486f789",
+      "replacement": "    Select the correct answer using the codes given below",
+      "source_text_unchanged": true,
+      "teacher_approval": false,
+      "reason": "Unindented transport-code prompt exits its question; four code choices render as code. Indent within question1 after the four transport subitems."
+    }
+  ]
+}

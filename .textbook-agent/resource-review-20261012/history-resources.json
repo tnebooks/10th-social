@@ -1,0 +1,3313 @@
+{
+  "schema_version": 1,
+  "checked_date": "2026-10-12",
+  "scope": "Manifest weights 1–14",
+  "method": "Inspected current Tamil lesson headings and printed URL strings. Web searches verified direct YouTube watch IDs against indexed creator metadata. Provider activity pages were opened and their controls/activity descriptions inspected. No external source used to revise textbook facts.",
+  "verification_limits": [
+    "YouTube direct fetches were blocked/cache misses; playback and current video availability are unverified.",
+    "Most resource titles/descriptions establish chapter or topic relevance, not exhaustive coverage. Do not repeat a partial video as if it covered all lesson topics.",
+    "Brainkart is a third-party practice provider. Quiz answers were not audited against the textbook; optional name/phone/email score-sharing fields need not be used.",
+    "Browsing access failures alone are classified as blocked or unverified, not broken."
+  ],
+  "lessons": [
+    {
+      "slug": "outbreak-of-world-war-i-and-its-aftermath",
+      "weight": 1,
+      "title": "முதல் உலகப்போரின் வெடிப்பும் அதன் பின்விளைவுகளும்",
+      "videos": [
+        {
+          "title": "முதல் உலகப் போர் மற்றும் விளைவுகள் — Kalvi TV",
+          "url": "https://www.youtube.com/watch?v=qEEq9-Y3wxg",
+          "language": "ta",
+          "provider": "KalviTVOfficial",
+          "primary_provider": true,
+          "topic": [
+            "1.3",
+            "1.4",
+            "1.5"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "YouTube search returned KalviTVOfficial, published 2020-03-26; description names war causes/course/effects, Versailles, Russian Revolution and League of Nations.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "1.3",
+            "1.4",
+            "1.5"
+          ]
+        },
+        {
+          "title": "World War 1 — Part 1 — Explained in Tamil — 10th",
+          "url": "https://www.youtube.com/watch?v=KqM9a1wdjIQ",
+          "language": "ta",
+          "provider": "Gayathri Ravikumar",
+          "primary_provider": false,
+          "topic": [
+            "1.3"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title and 2020-12-11 publication identify Tamil class-10 TN syllabus explanation.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "1.3"
+          ]
+        },
+        {
+          "title": "முதல் உலகப்போர் வரைபடம் — 10th Social Science",
+          "url": "https://www.youtube.com/watch?v=mKFd8qMJpCg",
+          "language": "ta",
+          "provider": "STK MATHS 2.0",
+          "primary_provider": false,
+          "topic": [
+            "வரைபடப் பணி"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title/description explicitly identify Tamil-medium class-10 First World War map; published 2024-01-24.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Imperialism & Colonialism — Tamil",
+          "url": "https://www.youtube.com/watch?v=F7aNDTG5qZo",
+          "language": "ta",
+          "provider": "Padeepz",
+          "primary_provider": false,
+          "topic": [
+            "1.1"
+          ],
+          "topic_ids": [
+            "1.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify Imperialism & Colonialism, class-10 history in Tamil; published 2017-12-21. Older syllabus; relevant concepts only.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "The Meiji Restoration and the Empire of Japan",
+          "url": "https://www.youtube.com/watch?v=Oc_un-o4hGc",
+          "language": "en",
+          "provider": "History Matters",
+          "primary_provider": false,
+          "topic": [
+            "1.2"
+          ],
+          "topic_ids": [
+            "1.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly covers Meiji Restoration, Japanese social change and imperial expansion; published 2017-07-07.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "முதல் உலகப்போரின் வெடிப்பும் அதன் பின்விளைவுகளும் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-1--outbreak-of-world-war-i-and-its-aftermath-410/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        },
+        {
+          "title": "WWI Interactive Timeline",
+          "url": "https://www.theworldwar.org/interactive-wwi-timeline",
+          "provider": "National WWI Museum and Memorial",
+          "language": "en",
+          "topic": [
+            "1.3",
+            "1.4",
+            "1.5"
+          ],
+          "kind": "interactive activity",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Museum page presents navigation for 97 chronological events spanning 1914–1920; previous/next/arrow-key instructions verified.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://www.theworldwar.org/",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Opened museum homepage; official timeline link present.",
+          "alternatives": [
+            {
+              "url": "https://www.theworldwar.org/interactive-wwi-timeline",
+              "status": "reachable",
+              "evidence": "Opened museum interactive timeline with event navigation."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 1.1: Imperialism/colonialism concepts; monopoly capitalism not independently confirmed. 1.2: Japanese modernisation/imperial expansion; European rivalry not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "1.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=F7aNDTG5qZo"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Imperialism/colonialism concepts; monopoly capitalism not independently confirmed."
+        },
+        {
+          "topic_id": "1.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=Oc_un-o4hGc"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Japanese modernisation/imperial expansion; European rivalry not independently confirmed."
+        },
+        {
+          "topic_id": "1.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=qEEq9-Y3wxg",
+            "https://www.youtube.com/watch?v=KqM9a1wdjIQ"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "1.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=qEEq9-Y3wxg"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "1.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=qEEq9-Y3wxg"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        }
+      ]
+    },
+    {
+      "slug": "the-world-between-two-world-wars",
+      "weight": 2,
+      "title": "இரு உலகப்போர்களுக்கு இடையில் உலகம்",
+      "videos": [
+        {
+          "title": "இரு உலகப் போர்களுக்கு இடையில் உலகம் — பொருளாதாரப் பெருமந்தம்",
+          "url": "https://www.youtube.com/watch?v=gQ6TJsh6ueQ",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "2.1"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description identifies Great Depression, post-war developments, withdrawal of US capital, stock crash and exchange system; published 2020-06-09.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "2.1"
+          ]
+        },
+        {
+          "title": "The World between Two World Wars — Part 3 — Asian anti-colonial movements",
+          "url": "https://www.youtube.com/watch?v=SHux65ZqBs8",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "2.3"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description identifies French Indo-China, Viet Minh and Indian decolonisation/depression; published 2020-06-15.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "2.3"
+          ]
+        },
+        {
+          "title": "Fascism and Nazism — simple Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=Y0StutxoCOo",
+          "language": "ta",
+          "provider": "Meyira Maadu",
+          "primary_provider": false,
+          "topic": [
+            "2.2"
+          ],
+          "topic_ids": [
+            "2.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly says Tamil and lists Fascism at 04:10–05:08 and Nazism at 05:08–06:08; published 2022-02-16. Definitions, not comprehensive rise narrative.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Anti-colonial movements in South Africa — Tamil",
+          "url": "https://www.youtube.com/watch?v=t49dI9cEHvg",
+          "language": "ta",
+          "provider": "SSLC (Social Science Learners Camp)",
+          "primary_provider": false,
+          "topic": [
+            "2.4"
+          ],
+          "topic_ids": [
+            "2.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies anti-colonial movements in South Africa, explained in Tamil; published 2022-02-02.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Latin American Revolutions — Crash Course World History 31",
+          "url": "https://www.youtube.com/watch?v=ZBw35Ze3bg8",
+          "language": "en",
+          "provider": "CrashCourse",
+          "primary_provider": false,
+          "topic": [
+            "2.5"
+          ],
+          "topic_ids": [
+            "2.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description names Spanish/Portuguese colonies, Brazil/Pedro, Mexico, Venezuela, Argentina and Bolivar's project; chapter timestamps returned; published 2012-08-23. Does not confirm Monroe/US imperialism/depression.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "இரு உலகப்போர்களுக்கு இடையில் உலகம் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [],
+      "issues": [
+        "Remaining detailed coverage limits: 2.2: Definitions of Fascism/Nazism; detailed rise in Italy/Germany not independently confirmed. 2.5: Latin American revolutions and Bolivar/Pedro; Monroe Doctrine, US imperialism and Depression not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "2.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=gQ6TJsh6ueQ"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "2.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=Y0StutxoCOo"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Definitions of Fascism/Nazism; detailed rise in Italy/Germany not independently confirmed."
+        },
+        {
+          "topic_id": "2.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=SHux65ZqBs8"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "2.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=t49dI9cEHvg"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "2.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=ZBw35Ze3bg8"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Latin American revolutions and Bolivar/Pedro; Monroe Doctrine, US imperialism and Depression not independently confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "world-war-ii",
+      "weight": 3,
+      "title": "இரண்டாம் உலகப்போர்",
+      "videos": [
+        {
+          "title": "இரண்டாம் உலகப்போர் — Part 1 — காரணங்கள்",
+          "url": "https://www.youtube.com/watch?v=y8O-pOXJCXk",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "3.1 (அ)"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description identifies Versailles, League failure, German crisis, Hitler, non-intervention and Munich Pact; published 2020-06-22.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "3.1"
+          ]
+        },
+        {
+          "title": "இரண்டாம் உலகப்போர் — Part 3 — ஆசியா–பசிபிக் போக்கு",
+          "url": "https://www.youtube.com/watch?v=P0kJn27wLZk",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "3.1 (ஆ)"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description identifies Hitler's end, Pearl Harbour, Southeast Asian invasion and atomic bombs; published 2020-06-25.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "3.1"
+          ]
+        },
+        {
+          "title": "World War II — Detail Question 1 — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=i0b9Fm2P630",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "பயிற்சி: விரிவான விடை"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title identifies class-10 unit 3 detail question 1; description says English-medium syllabus explained in Tamil.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "ஹிட்லரின் படுகொலை முகாம் எப்படி இருந்தது? — Auschwitz / Holocaust",
+          "url": "https://www.youtube.com/watch?v=VWYP6077AhM",
+          "language": "ta",
+          "provider": "BBC News Tamil",
+          "primary_provider": false,
+          "topic": [
+            "3.2"
+          ],
+          "topic_ids": [
+            "3.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed BBC Tamil creator title names Auschwitz, Holocaust, Jews and Hitler; published 2020. Topic-relevant documentary, other section themes not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Universal Declaration of Human Rights",
+          "url": "https://www.youtube.com/watch?v=5RR4VXNX3jA",
+          "language": "en",
+          "provider": "UN Human Rights",
+          "primary_provider": true,
+          "topic": [
+            "3.2"
+          ],
+          "topic_ids": [
+            "3.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Official creator description explicitly covers document history, content and ongoing significance; published 2017-05-15.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Explainer: What is the UN?",
+          "url": "https://www.youtube.com/watch?v=o8etWR7X-RQ",
+          "language": "en",
+          "provider": "United Nations",
+          "primary_provider": true,
+          "topic": [
+            "3.3"
+          ],
+          "topic_ids": [
+            "3.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Official creator description names UN key components, mission and work; published 2017-08-15.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Post-WW2 Development of British Welfare State",
+          "url": "https://www.youtube.com/watch?v=vG9wCSrTbXs",
+          "language": "en",
+          "provider": "danieljbmitchell",
+          "primary_provider": false,
+          "topic": [
+            "3.4"
+          ],
+          "topic_ids": [
+            "3.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly names post-WWII British welfare state, NHS and Beveridge interview; published 2007-08-07. Britain example, not every European country.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "இரண்டாம் உலகப்போர் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-3--world-war-ii-412/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        },
+        {
+          "title": "World War II Timeline and Map",
+          "url": "https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/",
+          "provider": "American Battle Monuments Commission",
+          "language": "en",
+          "topic": [
+            "3.1"
+          ],
+          "kind": "interactive activity",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Printed activity URL opened successfully. Provider page contains timeline/map controls, Allied/Axis/neutral-area legend, campaign links and JavaScript requirement.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Opened World War II Timeline Experience; map/time controls and JavaScript requirement present.",
+          "alternatives": []
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 3.2: Holocaust/Auschwitz and UDHR; birth of Israel not independently confirmed. 3.4: British welfare state/NHS example; other European welfare-state development not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "3.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=y8O-pOXJCXk",
+            "https://www.youtube.com/watch?v=P0kJn27wLZk"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "3.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=VWYP6077AhM",
+            "https://www.youtube.com/watch?v=5RR4VXNX3jA"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Holocaust/Auschwitz and UDHR; birth of Israel not independently confirmed."
+        },
+        {
+          "topic_id": "3.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=o8etWR7X-RQ"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "3.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=vG9wCSrTbXs"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "British welfare state/NHS example; other European welfare-state development not independently confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "the-world-after-world-war-ii",
+      "weight": 4,
+      "title": "இரண்டாம் உலகப்போருக்குப் பிந்தைய உலகம்",
+      "videos": [
+        {
+          "title": "The World after World War II — Detail Question 1 — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=bygNVs_i_eM",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "பயிற்சி: விரிவான விடை"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title identifies class-10 history unit 4 detail question 1 and description specifies Tamil explanation.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "The World after World War II — Council of Europe — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=Oc9GFcg582Q",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "Council of Europe / European integration"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Council of Europe unit-4 detail question 2; description says Tamil explanation.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "சீனப்புரட்சி — Chinese revolution in Tamil",
+          "url": "https://www.youtube.com/watch?v=S1P42n3p--c",
+          "language": "ta",
+          "provider": "HF Tamil",
+          "primary_provider": false,
+          "topic": [
+            "4.1"
+          ],
+          "topic_ids": [
+            "4.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify Chinese revolution and China/Taiwan; published 2023-10-21.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Cold War Explained — Tamil",
+          "url": "https://www.youtube.com/watch?v=e0qdZH_8jEE",
+          "language": "ta",
+          "provider": "Siddhu Mohan",
+          "primary_provider": false,
+          "topic": [
+            "4.2"
+          ],
+          "topic_ids": [
+            "4.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly calls the video Cold War history in Tamil; published 2018-11-01.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "The Warsaw Pact (1955–1991)",
+          "url": "https://www.youtube.com/watch?v=-OMvRNFTrbM",
+          "language": "en",
+          "provider": "Simple History",
+          "primary_provider": false,
+          "topic": [
+            "4.3"
+          ],
+          "topic_ids": [
+            "4.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly describes NATO/West Germany entry and USSR's formation of Warsaw Pact; published 2018-09-17. SEATO/CENTO unconfirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "The Korean War (1950–53)",
+          "url": "https://www.youtube.com/watch?v=yxaegqvl4aE",
+          "language": "en",
+          "provider": "Simple History",
+          "primary_provider": false,
+          "topic": [
+            "4.4"
+          ],
+          "topic_ids": [
+            "4.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title names Korean War and description names negotiations, armistice and demilitarised zone; published 2018-02-21.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Cold War & Non-Aligned Movement — explained in Tamil",
+          "url": "https://www.youtube.com/watch?v=zE5mofqPtpE",
+          "language": "ta",
+          "provider": "John Victor IAS teacher",
+          "primary_provider": false,
+          "topic": [
+            "4.2",
+            "4.5"
+          ],
+          "topic_ids": [
+            "4.2",
+            "4.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify international relations, Cold War and Non-Aligned Movement in Tamil; published 2021-08-17.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Cuban revolution — How 300 rebels defeated the Cuban army",
+          "url": "https://www.youtube.com/watch?v=ipWPLeSulq0",
+          "language": "ta",
+          "provider": "Lets Talk History",
+          "primary_provider": false,
+          "topic": [
+            "4.6"
+          ],
+          "topic_ids": [
+            "4.6"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description identifies Cuba revolution, Che Guevara and Fidel Castro, and explains the rebels' defeat of Cuban army; provider describes Tamil history channel; published 2023-09-23.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Arab Israeli War — Six-Day War — Tamil",
+          "url": "https://www.youtube.com/watch?v=zzCsCs8TxBc",
+          "language": "ta",
+          "provider": "IBC Tamil",
+          "primary_provider": false,
+          "topic": [
+            "4.7"
+          ],
+          "topic_ids": [
+            "4.7"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title explicitly names Arab-Israeli war; description tags Six Day War and Cold War; published 2022-01-24. Other Arab-Israeli wars not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "வியட்நாம் போரின் கதை — Vietnam War Documentary",
+          "url": "https://www.youtube.com/watch?v=BqWWNLb51L8",
+          "language": "ta",
+          "provider": "News7 Tamil",
+          "primary_provider": false,
+          "topic": [
+            "4.8"
+          ],
+          "topic_ids": [
+            "4.8"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify Vietnam War documentary in Tamil; published 2019-12-27.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "A road to unity: the EU's history",
+          "url": "https://www.youtube.com/watch?v=Oxl4KVBFviE",
+          "language": "en",
+          "provider": "European Parliament",
+          "primary_provider": true,
+          "topic": [
+            "4.9"
+          ],
+          "topic_ids": [
+            "4.9"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Official creator description explicitly names EEC, Maastricht, Euro and Lisbon plus integration milestones; published 2024-06-17.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "பெர்லின் சுவர் — Berlin Wall history",
+          "url": "https://www.youtube.com/watch?v=9fUiJbzRbco",
+          "language": "ta",
+          "provider": "Tamil Heritage Foundation",
+          "primary_provider": false,
+          "topic": [
+            "4.10"
+          ],
+          "topic_ids": [
+            "4.10"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator Tamil description explicitly discusses Cold War, East/West Germany and the wall's fall in November 1989; published 2021-12-02.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "Cold War Timeline — Open the box",
+          "url": "https://wordwall.net/resource/11242009/cold-war-timeline",
+          "provider": "Wordwall / Rwellham",
+          "language": "en",
+          "topic": [
+            "4.3",
+            "4.6",
+            "4.8",
+            "4.10"
+          ],
+          "kind": "interactive activity",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Activity page opened; open-the-box template displays NATO, Warsaw Pact, Cuba, Vietnam and Berlin events. This is recall practice, not an audited textbook timeline.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://www.brittanica.com",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "unverified",
+          "evidence": "Exact repository domain spelling differs from Britannica; browsing cannot access it. Not evidence of printed-book typo.",
+          "alternatives": [
+            {
+              "url": "https://www.britannica.com/",
+              "status": "blocked",
+              "evidence": "Canonical provider domain also blocked by browse."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "English chapter quiz returned anti-bot interstitial; not published as verified activity.",
+        "Remaining detailed coverage limits: 4.1: Chinese revolution identified; detailed text subsection list not returned. 4.3: NATO/Warsaw formation; SEATO/CENTO not independently confirmed. 4.7: Six-Day War; other Arab-Israeli wars/PLO not independently confirmed. 4.10: Berlin Wall fall; complete Soviet dissolution narrative not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "4.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=S1P42n3p--c"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Chinese revolution identified; detailed text subsection list not returned."
+        },
+        {
+          "topic_id": "4.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=e0qdZH_8jEE",
+            "https://www.youtube.com/watch?v=zE5mofqPtpE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=-OMvRNFTrbM"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "NATO/Warsaw formation; SEATO/CENTO not independently confirmed."
+        },
+        {
+          "topic_id": "4.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=yxaegqvl4aE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=zE5mofqPtpE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=ipWPLeSulq0"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.7",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=zzCsCs8TxBc"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Six-Day War; other Arab-Israeli wars/PLO not independently confirmed."
+        },
+        {
+          "topic_id": "4.8",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=BqWWNLb51L8"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.9",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=Oxl4KVBFviE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.10",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=9fUiJbzRbco"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Berlin Wall fall; complete Soviet dissolution narrative not independently confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "social-and-religious-reform-movements-in-the-19th-century",
+      "weight": 5,
+      "title": "19ஆம் நூற்றாண்டில் சமூக, சமய சீர்திருத்த இயக்கங்கள்",
+      "videos": [
+        {
+          "title": "19ஆம் நூற்றாண்டில் சமூக, சமய சீர்திருத்த இயக்கங்கள் — Part 1",
+          "url": "https://www.youtube.com/watch?v=5lzxsHdmUtk",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "5.1"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description identifies Bengal reform movements, Rammohan Roy, Debendranath Tagore, Keshab Chandra Sen, Vidyasagar and Prarthana Samaj; published 2020-08-07.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "5.1"
+          ]
+        },
+        {
+          "title": "இந்து புத்தெழுச்சி இயக்கம் — 10th History Part 3",
+          "url": "https://www.youtube.com/watch?v=Jb2OHji3srs",
+          "language": "ta",
+          "provider": "DHRONA ACADEMY",
+          "primary_provider": false,
+          "topic": [
+            "5.2"
+          ],
+          "topic_ids": [
+            "5.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies the class-10 reform chapter and Hindu revival movement; published 2023-08-11. Subtopic list not returned.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "19th Century Reform Movements — Part 3 — Tamil",
+          "url": "https://www.youtube.com/watch?v=YUZF8WP2XRE",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "5.3",
+            "5.4",
+            "5.5"
+          ],
+          "topic_ids": [
+            "5.3",
+            "5.4",
+            "5.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly lists anti-caste/Phule/Narayana Guru/Ayyankali, Islamic reform/Sayyid/Aligarh/Deoband and Parsi reform; published 2020-08-10.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Reform Movements — Part 6 — Islamic, Parsi and Sikh",
+          "url": "https://www.youtube.com/watch?v=2jZAmV5nHhg",
+          "language": "unverified",
+          "provider": "TIME TO LEARN EASY",
+          "primary_provider": false,
+          "topic": [
+            "5.4",
+            "5.5",
+            "5.6"
+          ],
+          "topic_ids": [
+            "5.4",
+            "5.5",
+            "5.6"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies TN Samacheer unit 5, Islamic/Aligarh/Deoband, Parsi and Sikh (Nirankaris/Namdharis); published 2020-10-07. Tamil presentation indicated by TN teaching context; no playback review.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          },
+          "language_evidence": "TN Samacheer creator context, but returned metadata does not explicitly name audio language; do not assert Tamil playback."
+        },
+        {
+          "title": "தமிழ்நாட்டின் சமூக சீர்திருத்தவாதிகள்",
+          "url": "https://www.youtube.com/watch?v=ymHjIMfJsVk",
+          "language": "ta",
+          "provider": "Shanmugam IAS Academy",
+          "primary_provider": false,
+          "topic": [
+            "5.7"
+          ],
+          "topic_ids": [
+            "5.7"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Social Reformers of Tamil Nadu in Tamil; published 2024. Named reformers not listed in returned description.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Social reformers from Tamil Nadu — Ramalinga and Iyothee",
+          "url": "https://www.youtube.com/watch?v=_x7ppyymdxE",
+          "language": "unverified",
+          "provider": "Let's Crack TN Exams",
+          "primary_provider": false,
+          "topic": [
+            "5.7"
+          ],
+          "topic_ids": [
+            "5.7"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies Ramalinga Adigal and Iyothee Thassar; published 2020-10-26. Vaikunda Swamigal not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "19ஆம் நூற்றாண்டில் சமூக, சமய சீர்திருத்த இயக்கங்கள் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-5--social-and-religious-reform-movements-in-the-19th-century-414/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://www.timetoast.com/categories",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Opened provider timeline categories. This is a catalogue, not a lesson-specific activity.",
+          "alternatives": []
+        },
+        {
+          "original_url": "https://www.deccanherald.com.",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Trailing sentence punctuation in repository URL; exact form could not open. Canonical news homepage opened.",
+          "alternatives": [
+            {
+              "url": "https://www.deccanherald.com/",
+              "status": "reachable",
+              "evidence": "Opened news provider homepage; reference, not interactive."
+            }
+          ]
+        },
+        {
+          "original_url": "http://en.wikipedia.org/wiki/timesofindia. com",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Repository URL contains space in article path. Browse encoded space and failed; intended article not identified.",
+          "alternatives": []
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 5.2: Exact Hindu revival main topic identified in Tamil; named organisation subtopics not returned. 5.7: TN reform topic identified; Ramalinga/Iyothee explicitly confirmed, Vaikunda not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "5.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=5lzxsHdmUtk"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "5.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=Jb2OHji3srs"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Exact Hindu revival main topic identified in Tamil; named organisation subtopics not returned."
+        },
+        {
+          "topic_id": "5.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=YUZF8WP2XRE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "5.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=YUZF8WP2XRE",
+            "https://www.youtube.com/watch?v=2jZAmV5nHhg"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "5.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=YUZF8WP2XRE",
+            "https://www.youtube.com/watch?v=2jZAmV5nHhg"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "5.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=2jZAmV5nHhg"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "5.7",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=ymHjIMfJsVk",
+            "https://www.youtube.com/watch?v=_x7ppyymdxE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "TN reform topic identified; Ramalinga/Iyothee explicitly confirmed, Vaikunda not independently confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "early-revolts-against-british-rule-in-tamil-nadu",
+      "weight": 6,
+      "title": "ஆங்கிலேய ஆட்சிக்கு எதிராக தமிழகத்தில் நிகழ்ந்த தொடக்ககால கிளர்ச்சிகள்",
+      "videos": [
+        {
+          "title": "தமிழகத்தில் தொடக்ககால கிளர்ச்சிகள் — Part 1",
+          "url": "https://www.youtube.com/watch?v=-Z8n97Xftgo",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "6.1",
+            "6.2: Puli Thevar and Velunachiyar"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description lists regional resistance, Palayams, revenue, Puli Thevar and Velunachiyar; published 2020-08-17.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "6.1",
+            "6.2"
+          ]
+        },
+        {
+          "title": "Early Revolts against British Rule in Tamil Nadu — Part 1",
+          "url": "https://www.youtube.com/watch?v=KueEWmgBHKc",
+          "language": "ta",
+          "provider": "TIME TO LEARN EASY",
+          "primary_provider": false,
+          "topic": [
+            "Chapter introduction / Part 1"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title and description identify class-10 TN Samacheer history unit 6; published 2020-11-15. Exact subtopic coverage unspecified.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Causes & Outbreak of Vellore Revolt — 10th Social",
+          "url": "https://www.youtube.com/watch?v=_ow-UOpc9lk",
+          "language": "ta",
+          "provider": "Vedantu 9th 10th State Board Tamil",
+          "primary_provider": false,
+          "topic": [
+            "6.3"
+          ],
+          "topic_ids": [
+            "6.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies underlying causes and outbreak of Vellore Revolt; published 2024. Topic title class-10 history.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "ஆங்கிலேய ஆட்சிக்கு எதிராக தமிழகத்தில் நிகழ்ந்த தொடக்ககால கிளர்ச்சிகள் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-6--early-revolts-against-british-rule-in-tamil-nadu-415/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [],
+      "issues": [
+        "Remaining detailed coverage limits: 6.2: Puli Thevar/Velunachiyar confirmed; Kattabomman/Marudhu subdivisions not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "6.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=-Z8n97Xftgo"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "6.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=-Z8n97Xftgo"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Puli Thevar/Velunachiyar confirmed; Kattabomman/Marudhu subdivisions not independently confirmed."
+        },
+        {
+          "topic_id": "6.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=_ow-UOpc9lk"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        }
+      ]
+    },
+    {
+      "slug": "anti-colonial-movements-and-the-birth-of-nationalism",
+      "weight": 7,
+      "title": "காலனியத்துக்கு எதிரான இயக்கங்களும் தேசியத்தின் தோற்றமும்",
+      "videos": [
+        {
+          "title": "காலனிய எதிர்ப்பு மற்றும் தேசியத்தின் தோற்றம் — Kalvi TV",
+          "url": "https://www.youtube.com/watch?v=roKrETsURno",
+          "language": "ta",
+          "provider": "KalviTVOfficial",
+          "primary_provider": true,
+          "topic": [
+            "7.2",
+            "7.4",
+            "7.5",
+            "7.6"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed official creator description lists 1857 causes/failure/administrative changes, Congress, Bengal partition and Home Rule; published 2020-03-26.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "7.2",
+            "7.4",
+            "7.5",
+            "7.6"
+          ]
+        },
+        {
+          "title": "காலனியத்துக்கு எதிரான இயக்கங்கள் — Part 1 — விவசாயிகள் எதிர்ப்பு",
+          "url": "https://www.youtube.com/watch?v=Ar3FZY9moDE",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "7.1"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description names revenue changes, subletting, Farazi and Wahhabi movements; published 2020-10-12.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "7.1"
+          ]
+        },
+        {
+          "title": "Peasant Movements During British Rule — Tamil",
+          "url": "https://www.youtube.com/watch?v=D-obB6n7GuM",
+          "language": "ta",
+          "provider": "YouTube teaching creator (name not returned)",
+          "primary_provider": false,
+          "topic": [
+            "7.3"
+          ],
+          "topic_ids": [
+            "7.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly names peasant movements during British rule in Tamil, UPSC/TNPSC/8th-book context; published 2020. Relevant supplement; exact revolt list not returned.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "தக்காண கலகம் (1875) — Deccan Riots",
+          "url": "https://www.youtube.com/watch?v=WBiacck3JwI",
+          "language": "ta",
+          "provider": "Shiva IAS Academy Salem",
+          "primary_provider": false,
+          "topic": [
+            "7.3"
+          ],
+          "topic_ids": [
+            "7.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title and description tags explicitly identify Deccan Riots, Indian history in Tamil; published 2023-02-07.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Indigo Revolt — History Animation in Tamil",
+          "url": "https://www.youtube.com/watch?v=vajPRGrRmig",
+          "language": "ta",
+          "provider": "Quick Learning 4 TNPSC, IBPS, SSC",
+          "primary_provider": false,
+          "topic": [
+            "7.3"
+          ],
+          "topic_ids": [
+            "7.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Indigo Revolt animation in Tamil; published 2025-01-17.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "காலனியத்துக்கு எதிரான இயக்கங்களும் தேசியத்தின் தோற்றமும் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-7--anti-colonial-movements-and-the-birth-of-nationalism-416/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://artsandculture.google.com/",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Opened provider homepage; no chapter-specific activity target printed in repository.",
+          "alternatives": []
+        },
+        {
+          "original_url": "https//www.brittanica.com",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Repository string has no colon after https and noncanonical domain spelling. Exact original-book URL not verified.",
+          "alternatives": [
+            {
+              "url": "https://www.britannica.com/",
+              "status": "blocked",
+              "evidence": "Canonical provider domain not accessible through browse."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 7.1: Farazi/Wahhabi confirmed; Kol/Santhal/Munda subdivisions not independently confirmed. 7.3: Peasant movements under British rule plus Indigo/Deccan; every printed revolt not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "7.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=Ar3FZY9moDE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Farazi/Wahhabi confirmed; Kol/Santhal/Munda subdivisions not independently confirmed."
+        },
+        {
+          "topic_id": "7.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=roKrETsURno"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "7.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=D-obB6n7GuM",
+            "https://www.youtube.com/watch?v=WBiacck3JwI",
+            "https://www.youtube.com/watch?v=vajPRGrRmig"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Peasant movements under British rule plus Indigo/Deccan; every printed revolt not independently confirmed."
+        },
+        {
+          "topic_id": "7.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=roKrETsURno"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "7.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=roKrETsURno"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "7.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=roKrETsURno"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        }
+      ]
+    },
+    {
+      "slug": "nationalism-gandhian-phase",
+      "weight": 8,
+      "title": "தேசியம்: காந்திய காலகட்டம்",
+      "videos": [
+        {
+          "title": "தேசியம் — காந்திய காலகட்டம் — Part 1",
+          "url": "https://www.youtube.com/watch?v=HN6wp6O433U",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "8.1",
+            "8.2"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description names South African satyagraha, Champaran, Rowlatt, Jallianwala Bagh and Khilafat; published 2020-10-29.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "8.1",
+            "8.2"
+          ]
+        },
+        {
+          "title": "Nationalism Gandhian Phase — Part 1 — Tamil lesson explanation",
+          "url": "https://www.youtube.com/watch?v=SVVM0QS-PZk",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "Chapter introduction / Part 1"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title identifies history unit 8 part 1, description specifies Tamil explanation; published 2021-10-21. Exact subtopics unspecified.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "தேசியம் — காந்திய காலகட்டம் — Part 2",
+          "url": "https://www.youtube.com/watch?v=1lpOVWLN0m4",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "8.3",
+            "8.4"
+          ],
+          "topic_ids": [
+            "8.3",
+            "8.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly lists Non-Cooperation/fallout, no-tax/Chauri Chaura, Swarajists, Gandhi constructive programme, Simon boycott and Nehru report; published 2020-11-02.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Poorna Swaraj & Launch of Civil Disobedience — 10th",
+          "url": "https://www.youtube.com/watch?v=YHZxag45ryI",
+          "language": "ta",
+          "provider": "Kaikoru Education - Tamil",
+          "primary_provider": false,
+          "topic": [
+            "8.4"
+          ],
+          "topic_ids": [
+            "8.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies class-10 history chapter 8 lesson 4, Poorna Swaraj and Civil Disobedience; published 2021.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "தேசியம் — காந்திய காலகட்டம் — Part 4",
+          "url": "https://www.youtube.com/watch?v=FLPOgh1sIB4",
+          "language": "ta",
+          "provider": "EduDeck",
+          "primary_provider": false,
+          "topic": [
+            "8.5",
+            "8.6"
+          ],
+          "topic_ids": [
+            "8.5",
+            "8.6"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly lists socialist movements, Communist Party, revolutionary activities, left movement in 1930s, first Congress ministries under 1935 Act and their work; published 2020-11-08.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "வெள்ளையனே வெளியேறு இயக்கம் — Quit India",
+          "url": "https://www.youtube.com/watch?v=76QVqXoWT8w",
+          "language": "ta",
+          "provider": "G Gnanasambandan",
+          "primary_provider": false,
+          "topic": [
+            "8.7"
+          ],
+          "topic_ids": [
+            "8.7"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator Tamil title explicitly identifies Quit India Movement; published 2021-08-07. Cripps/individual satyagraha preliminaries not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Indian Independence Act 1947 — Tamil",
+          "url": "https://www.youtube.com/watch?v=k6o7a2BjzbU",
+          "language": "ta",
+          "provider": "UPSC TAMIL",
+          "primary_provider": false,
+          "topic": [
+            "8.8"
+          ],
+          "topic_ids": [
+            "8.8"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly says explanation of Indian Independence Act 1947 in Tamil for TNPSC/UPSC; published 2021. Cabinet Mission/INA not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "தேசியம்: காந்திய காலகட்டம் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-8--nationalism--gandhian-phase-417/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://www.mkgandhi.org/main.htm",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Opened and redirected to /main.php.",
+          "alternatives": [
+            {
+              "url": "https://www.mkgandhi.org/main.php",
+              "status": "reachable",
+              "evidence": "Redirect target opened."
+            },
+            {
+              "url": "https://www.mkgandhi.org/onlinequiz.php",
+              "status": "reachable",
+              "evidence": "Opened provider Gandhi quiz with multiple-choice input controls."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "Provider Gandhi quiz opens, but several stems/choices are mismatched; excluded from recommended activities.",
+        "Remaining detailed coverage limits: 8.7: Quit India topic; Cripps/individual satyagraha precursors not independently confirmed. 8.8: Indian Independence Act; INA, Cabinet Mission and partition process not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "rejected_resources": [
+        {
+          "title": "Gandhi Online Quiz",
+          "url": "https://www.mkgandhi.org/onlinequiz.php",
+          "language": "en",
+          "provider": "Mahatma Gandhi One Spot Information / Bombay Sarvodaya Mandal",
+          "topic": [
+            "8.1",
+            "8.2",
+            "Dandi March",
+            "Quit India"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Provider homepage quiz link clicked; loaded quiz page includes multiple-choice inputs on Gandhi, South Africa, Dandi and Quit India.",
+            "runtime": "unverified"
+          },
+          "limits": "Covers Gandhi biography beyond textbook. Some question stems/choices appear mismatched; recommended selectively with textbook cross-check, answers not audited.",
+          "rejection_reason": "Several displayed stems and answer sets are visibly mismatched; keep as URL-review evidence, do not recommend this quiz."
+        }
+      ],
+      "topic_coverage": [
+        {
+          "topic_id": "8.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=HN6wp6O433U"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "8.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=HN6wp6O433U"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "8.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=1lpOVWLN0m4"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "8.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=1lpOVWLN0m4",
+            "https://www.youtube.com/watch?v=YHZxag45ryI"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "8.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=FLPOgh1sIB4"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "8.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=FLPOgh1sIB4"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "8.7",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=76QVqXoWT8w"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Quit India topic; Cripps/individual satyagraha precursors not independently confirmed."
+        },
+        {
+          "topic_id": "8.8",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=k6o7a2BjzbU"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Indian Independence Act; INA, Cabinet Mission and partition process not independently confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "freedom-struggle-in-tamil-nadu",
+      "weight": 9,
+      "title": "தமிழ்நாட்டில் விடுதலைப் போராட்டம்",
+      "videos": [
+        {
+          "title": "Freedom Struggle in Tamil Nadu — 10th History Unit 9 — Part 1",
+          "url": "https://www.youtube.com/watch?v=qll4dx8ncBM",
+          "language": "unverified",
+          "provider": "Kalaivani Matric Higher Secondary School Gingee",
+          "primary_provider": true,
+          "topic": [
+            "Chapter Part 1"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed school creator title identifies class-10 history unit 9 part 1, published 2021-01-05; no topic description. Language not established by metadata.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Freedom Struggle in Tamil Nadu — Part 1 — Early Nationalist Movement",
+          "url": "https://www.youtube.com/watch?v=hr3aqAceE_4",
+          "language": "en",
+          "provider": "KalviTVOfficial",
+          "primary_provider": true,
+          "topic": [
+            "9.1"
+          ],
+          "topic_ids": [
+            "9.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Official creator description explicitly identifies detailed early nationalist movement teaching in lesson unit 9 part 1; English medium; published 2021-03-10.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Madras Mahajana Sabha — Tamil",
+          "url": "https://www.youtube.com/watch?v=YuanRy3QaOE",
+          "language": "ta",
+          "provider": "think before",
+          "primary_provider": false,
+          "topic": [
+            "9.1"
+          ],
+          "topic_ids": [
+            "9.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify Madras Mahajana Sabha history in Tamil and exam questions; published 2025-07-19.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Swadesi & Non-Brahmin movements — 10th History",
+          "url": "https://www.youtube.com/watch?v=m5S2HdVU1Bs",
+          "language": "ta",
+          "provider": "Kaikoru Education - Tamil",
+          "primary_provider": false,
+          "topic": [
+            "9.2",
+            "9.3"
+          ],
+          "topic_ids": [
+            "9.2",
+            "9.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies textbook sections 9.2 Swadesi, 9.3 Non-Brahmin movement and challenge to Congress; published 2021-12-12.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Non-Cooperation movement in Tamil Nadu — 10th",
+          "url": "https://www.youtube.com/watch?v=7OeQQmE_LBY",
+          "language": "ta",
+          "provider": "Kaikoru Education - Tamil",
+          "primary_provider": false,
+          "topic": [
+            "9.4"
+          ],
+          "topic_ids": [
+            "9.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly names section 9.4, Non-Cooperation in TN, Subbarayan ministry and Simon boycott; published 2021-12-12.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "வேதாரணியம் உப்பு சத்தியாகிரகம்",
+          "url": "https://www.youtube.com/watch?v=yz5AtJMFQKk",
+          "language": "ta",
+          "provider": "FactDrops Tamil",
+          "primary_provider": false,
+          "topic": [
+            "9.5"
+          ],
+          "topic_ids": [
+            "9.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator bilingual description explicitly identifies Vedaranyam Salt Satyagraha, Tamil Nadu and Rajagopalachari; published 2025-02-11. Short specific supplement; other district movements unconfirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "தமிழ்நாட்டில் வெள்ளையனே வெளியேறு இயக்கம்",
+          "url": "https://www.youtube.com/watch?v=Xom5nUM7_mI",
+          "language": "ta",
+          "provider": "Sengo Academy",
+          "primary_provider": false,
+          "topic": [
+            "9.6"
+          ],
+          "topic_ids": [
+            "9.6"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator Tamil title/description explicitly identify Quit India movement in Tamil Nadu for TNPSC; published 2024-09-09.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "தமிழ்நாட்டில் விடுதலைப் போராட்டம் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [],
+      "issues": [
+        "Remaining detailed coverage limits: 9.1: Early nationalist movement and Madras Mahajana Sabha; all printed groups/leaders not independently confirmed. 9.5: Vedaranyam salt satyagraha; regional spread and other district events not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "9.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=hr3aqAceE_4",
+            "https://www.youtube.com/watch?v=YuanRy3QaOE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Early nationalist movement and Madras Mahajana Sabha; all printed groups/leaders not independently confirmed."
+        },
+        {
+          "topic_id": "9.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=m5S2HdVU1Bs"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "9.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=m5S2HdVU1Bs"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "9.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=7OeQQmE_LBY"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "9.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=yz5AtJMFQKk"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Vedaranyam salt satyagraha; regional spread and other district events not independently confirmed."
+        },
+        {
+          "topic_id": "9.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=Xom5nUM7_mI"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        }
+      ]
+    },
+    {
+      "slug": "social-transformation-in-tamil-nadu",
+      "weight": 10,
+      "title": "தமிழ்நாட்டில் சமூக மாற்றங்கள்",
+      "videos": [
+        {
+          "title": "தமிழ்நாட்டில் சமூக மாற்றங்கள் — 10th new book",
+          "url": "https://www.youtube.com/watch?v=UJEURrw5qpo",
+          "language": "ta",
+          "provider": "PRK அகாடமி கள்ளக்குறிச்சி",
+          "primary_provider": false,
+          "topic": [
+            "Lesson overview"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator Tamil title and Tamilnadu social changes in Tamil description establish relevance, published 2020-03-20; exact subtopics unspecified.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Social Transformation in Tamil Nadu — 2 marks Part 1 — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=hlaxCN5AB3o",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "பயிற்சி: சுருக்கமான விடை"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed title identifies history unit-10 questions 1–2 English medium in Tamil, new syllabus 2020.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Tamil Renaissance — Unit 10 detail answer — Tamil",
+          "url": "https://www.youtube.com/watch?v=s_FWpV2t9nA",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "10.1"
+          ],
+          "topic_ids": [
+            "10.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies essay on foundation/development of 19th-century Tamil Renaissance, unit 10, Tamil explanation; published 2019-12-12.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Rise of the Dravidian Movement — தமிழ்",
+          "url": "https://www.youtube.com/watch?v=KKJ2SKlm97I",
+          "language": "ta",
+          "provider": "Nivetha Jayakumar's Classroom",
+          "primary_provider": false,
+          "topic": [
+            "10.2"
+          ],
+          "topic_ids": [
+            "10.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Rise of Dravidian Movement, class-10 Social Transformation in Tamil Nadu, Tamil; published 2021-02-07.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "தமிழக வரலாற்றில் நீதிக்கட்சி — Justice Party History",
+          "url": "https://www.youtube.com/watch?v=kB1azeys6Zk",
+          "language": "ta",
+          "provider": "Kalaignar TV News",
+          "primary_provider": false,
+          "topic": [
+            "10.3"
+          ],
+          "topic_ids": [
+            "10.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Tamil Nadu Justice Party history; description identifies Kalaignar TV News; published 2021. Exact programme subtopics not returned.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Self-Respect movement — 10th History",
+          "url": "https://www.youtube.com/watch?v=_Nygzz-mZrU",
+          "language": "ta",
+          "provider": "Kaikoru Education - Tamil",
+          "primary_provider": false,
+          "topic": [
+            "10.4"
+          ],
+          "topic_ids": [
+            "10.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies section 10.4, Self Respect Movement, Periyar, feminism, Rettaimalai Srinivasan and MC Rajah; published 2021-12-13.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Labour Movements in Tamil Nadu — தமிழ்",
+          "url": "https://www.youtube.com/watch?v=PgGkUq0LcDQ",
+          "language": "ta",
+          "provider": "Nivetha Jayakumar's Classroom",
+          "primary_provider": false,
+          "topic": [
+            "10.5"
+          ],
+          "topic_ids": [
+            "10.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies class-10 labour movements in Tamil Nadu, Tamil; published 2021-02-07.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "இந்தி எதிர்ப்பு வரலாறு — Hindi agitation history",
+          "url": "https://www.youtube.com/watch?v=cDLmsYSUioc",
+          "language": "ta",
+          "provider": "Vikatan TV",
+          "primary_provider": false,
+          "topic": [
+            "10.6"
+          ],
+          "topic_ids": [
+            "10.6"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies pre-independence 1938 anti-Hindi agitation; chapter timestamps 00:52 agitation, 01:39 Thalamuthu/Natarajan and 02:22 WWII. Later video extends to 1965/current politics; restrict to early segment.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Women's Movements — Social Transformation in Tamil Nadu — தமிழ்",
+          "url": "https://www.youtube.com/watch?v=_WhKxiCdlk8",
+          "language": "ta",
+          "provider": "Nivetha Jayakumar's Classroom",
+          "primary_provider": false,
+          "topic": [
+            "10.7"
+          ],
+          "topic_ids": [
+            "10.7"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Women's Movements in Tamil Nadu lesson, Tamil; published 2021-02-07.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "தமிழ்நாட்டில் சமூக மாற்றங்கள் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [],
+      "issues": [
+        "Remaining detailed coverage limits: 10.1: Essay Part 1; complete Tamil Renaissance leader list not independently confirmed. 10.3: Justice Party history identified; full printed reform programme not independently confirmed. 10.6: Pre-independence 1938 segment explicitly confirmed; video beyond 02:22 extends outside the textbook period."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "10.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=s_FWpV2t9nA"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Essay Part 1; complete Tamil Renaissance leader list not independently confirmed."
+        },
+        {
+          "topic_id": "10.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=KKJ2SKlm97I"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "10.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=kB1azeys6Zk"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Justice Party history identified; full printed reform programme not independently confirmed."
+        },
+        {
+          "topic_id": "10.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=_Nygzz-mZrU"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "10.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=PgGkUq0LcDQ"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "10.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=cDLmsYSUioc"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Pre-independence 1938 segment explicitly confirmed; video beyond 02:22 extends outside the textbook period."
+        },
+        {
+          "topic_id": "10.7",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=_WhKxiCdlk8"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        }
+      ]
+    },
+    {
+      "slug": "india-location-relief-and-drainage",
+      "weight": 11,
+      "title": "இந்தியா அமைவிடம் நிலத்தோற்றம் மற்றும் வடிகாலமைப்பு",
+      "videos": [
+        {
+          "title": "இந்தியா அமைவிடம் நிலத்தோற்றம் வடிகாலமைப்பு — Kalvi TV",
+          "url": "https://www.youtube.com/watch?v=WDUMcZMDVxM",
+          "language": "ta",
+          "provider": "KalviTVOfficial",
+          "primary_provider": true,
+          "topic": [
+            "India location, relief and drainage"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed official creator title/description identifies class-10 location, relief and drainage, published 2020-03-25; individual segments unreviewed.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Location Relief and Drainage — Detail Question 3 — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=cm5fX-SPGKk",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "பயிற்சி: விரிவான விடை"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed title identifies geography unit 1 detail question 3; description specifies Tamil explanation.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "இந்தியாவின் இயற்கை அமைப்புகள் — Physiographic Divisions",
+          "url": "https://www.youtube.com/watch?v=FJPnntlmjcA",
+          "language": "ta",
+          "provider": "Adda247 Tamil",
+          "primary_provider": false,
+          "topic": [
+            "India physiographic divisions"
+          ],
+          "topic_ids": [],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly lists Northern Mountains, Northern Plains, Peninsular Plateau, desert, coastal plains and islands; published 2023.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Himalayan and Peninsular rivers — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=rt_JhQsvT2E",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "India drainage / Himalayan and Peninsular rivers"
+          ],
+          "topic_ids": [],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify unit-1 Geography comparison of Himalayan/Peninsular rivers and TN new syllabus; published 2020.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "இந்தியா அமைவிடம் நிலத்தோற்றம் மற்றும் வடிகாலமைப்பு — chapter quiz",
+          "url": "https://test.brainkart.com/topic/geography--chapter-1--india---location%2C-relief-and-drainage-420/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "http://www.nplindia.in/",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Opened official CSIR-NPL homepage, upgraded to HTTPS.",
+          "alternatives": [
+            {
+              "url": "https://www.nplindia.in/",
+              "status": "reachable",
+              "evidence": "Official homepage loaded."
+            }
+          ]
+        },
+        {
+          "original_url": "http://india-wris.nrsc.gov.in/",
+          "provenance": "PDF158_original_verified_by_source_reviewer",
+          "checked_date": "2026-10-12",
+          "status": "blocked",
+          "evidence": "Original book domain verified by source reviewer. Browse cannot access original NRSC portal; do not label broken.",
+          "alternatives": [
+            {
+              "url": "https://indiawris.gov.in/wris/",
+              "status": "unverified",
+              "evidence": "Current India-WRIS alternative times out; official NWIC brochure confirms India-WRIS interactive GIS platform, runtime not verified."
+            }
+          ]
+        },
+        {
+          "original_url": "http://ncert.nic.in/ncerts/l/iess102.pdf",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "blocked",
+          "evidence": "Original path could not be accessed by browse.",
+          "alternatives": []
+        },
+        {
+          "original_url": "http://www.scert.kerala.gov.in/images/text_books/chapter%204.pdf",
+          "provenance": "PDF158_original_verified_by_source_reviewer",
+          "checked_date": "2026-10-12",
+          "status": "blocked",
+          "evidence": "Original book domain/path verified by source reviewer; original PDF inaccessible via browse. Not proven broken.",
+          "alternatives": [
+            {
+              "url": "https://www.scert.kerala.gov.in/",
+              "status": "unverified",
+              "evidence": "Official provider alternative timed out; not a verified replacement PDF."
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "coverage": "Separate direct resources identify location, relief/physiographic divisions and drainage; numbered headings unavailable in current repository text. Parent/source reviewer owns topic numbering.",
+      "prior_repository_transcription_issues": [
+        {
+          "url": "http://india-wris.nrsc.government.in/",
+          "issue": "government.in substituted for original gov.in; source reviewer correcting."
+        },
+        {
+          "url": "http://www.scert.kerala.government.in/images/text_books/chapter%204.pdf",
+          "issue": "government.in substituted for original gov.in; source reviewer correcting."
+        }
+      ],
+      "topic_coverage": [
+        {
+          "topic_name": "India location",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=WDUMcZMDVxM"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "chapter title explicitly names location"
+        },
+        {
+          "topic_name": "India relief / physiographic divisions",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=FJPnntlmjcA"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "six divisions explicitly listed by creator"
+        },
+        {
+          "topic_name": "India drainage / Himalayan and Peninsular rivers",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=rt_JhQsvT2E"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "river comparison explicitly identified; named rivers not exhaustive"
+        }
+      ]
+    },
+    {
+      "slug": "climate-and-natural-vegetation-of-india",
+      "weight": 12,
+      "title": "இந்தியா – காலநிலை மற்றும் இயற்கைத் தாவரங்கள்",
+      "videos": [
+        {
+          "title": "Climate and Natural Vegetation — South West Monsoon — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=gVebo_ZHbFg",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "2.2 பருவக்காற்று"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description specifies 'Write about South West Monsoon', new-syllabus class-10 geography unit 2 question 1, Tamil explanation.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "2.2"
+          ]
+        },
+        {
+          "title": "Climate and Natural Vegetation — Map Places Part 3",
+          "url": "https://www.youtube.com/watch?v=xFZPG607n8s",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "Direction of South West Monsoon / map work"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator description identifies Southwest Monsoon wind direction and unit-2 book-back map practice.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Climate of India — factors and monsoon theories — Tamil",
+          "url": "https://www.youtube.com/watch?v=X4elHkhod48",
+          "language": "ta",
+          "provider": "YouTube geography educator (name not returned)",
+          "primary_provider": false,
+          "topic": [
+            "2.1",
+            "2.2"
+          ],
+          "topic_ids": [
+            "2.1",
+            "2.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies climate factors, monsoon theories in Tamil; returned description mentions jet streams; published 2020.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Rainfall Distribution in India & Tamil Nadu",
+          "url": "https://www.youtube.com/watch?v=5Cid2yOzWkA",
+          "language": "unverified",
+          "provider": "YouTube TNPSC geography educator (name not returned)",
+          "primary_provider": false,
+          "topic": [
+            "2.3"
+          ],
+          "topic_ids": [
+            "2.3"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies rainfall distribution in India/Tamil Nadu; published 2020. Tamil presentation suggested by topic/context; no playback.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          },
+          "language_evidence": "Title/topic returned in English; Tamil language not explicitly confirmed."
+        },
+        {
+          "title": "இயற்கைத் தாவரங்கள் — Types of forests in India",
+          "url": "https://www.youtube.com/watch?v=UASaKTqsSrw",
+          "language": "ta",
+          "provider": "YouTube TNPSC geography educator (name not returned)",
+          "primary_provider": false,
+          "topic": [
+            "2.4"
+          ],
+          "topic_ids": [
+            "2.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies vegetation and forest types in India; description labels Topic 10 Natural Vegetation; published 2020.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "10 Indian native animals — Tamil",
+          "url": "https://www.youtube.com/watch?v=B17SvEBbIC4",
+          "language": "ta",
+          "provider": "SS TV TAMIL",
+          "primary_provider": false,
+          "topic": [
+            "2.5"
+          ],
+          "topic_ids": [
+            "2.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly says it narrates animals native to India; Tamil creator/title; published 2020-05-13. Wildlife examples; protected areas/conservation law not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "இந்தியா – காலநிலை மற்றும் இயற்கைத் தாவரங்கள் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Provider page explicitly states it moved to /moe_ncert/.",
+          "alternatives": [
+            {
+              "url": "https://bhuvan-app1.nrsc.gov.in/moe_ncert/",
+              "status": "unverified",
+              "evidence": "Link found on provider move notice; direct fetch timed out, activity not confirmed working."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 2.1: Factors/monsoon title and jet stream explicitly confirmed; full factor list not returned. 2.3: Rainfall distribution topic title confirmed; exact regional textbook categories not independently confirmed. 2.4: Vegetation/forest types topic confirmed; complete type list not returned. 2.5: Native animals; conservation laws/protected areas not independently confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "2.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=X4elHkhod48"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Factors/monsoon title and jet stream explicitly confirmed; full factor list not returned."
+        },
+        {
+          "topic_id": "2.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=gVebo_ZHbFg",
+            "https://www.youtube.com/watch?v=X4elHkhod48"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "2.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=5Cid2yOzWkA"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Rainfall distribution topic title confirmed; exact regional textbook categories not independently confirmed."
+        },
+        {
+          "topic_id": "2.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=UASaKTqsSrw"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Vegetation/forest types topic confirmed; complete type list not returned."
+        },
+        {
+          "topic_id": "2.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=B17SvEBbIC4"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Native animals; conservation laws/protected areas not independently confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "india-agriculture",
+      "weight": 13,
+      "title": "இந்தியா – வேளாண்மை",
+      "videos": [
+        {
+          "title": "இந்தியா – வேளாண்மை — 10th Geography Lesson 3",
+          "url": "https://www.youtube.com/watch?v=gtO8Ka7k-nc",
+          "language": "ta",
+          "provider": "UMA TNPSC MATHS",
+          "primary_provider": false,
+          "topic": [
+            "Lesson revision"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator Tamil title identifies 10th geography lesson 3 India agriculture, published 2026-05; exact topics unspecified.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "India Agriculture — Detail Question 3 — Tamil explanation",
+          "url": "https://www.youtube.com/watch?v=WJdgBB7F5lc",
+          "language": "ta",
+          "provider": "HTAS How To Approach Schooling",
+          "primary_provider": false,
+          "topic": [
+            "பயிற்சி: விரிவான விடை"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title identifies geography unit 3 detail question 3; description specifies English-medium syllabus explained in Tamil.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "Types of soils in India — Tamil",
+          "url": "https://www.youtube.com/watch?v=I83N2pJtp5Q",
+          "language": "ta",
+          "provider": "WIN & SHINE IAS",
+          "primary_provider": false,
+          "topic": [
+            "3.1"
+          ],
+          "topic_ids": [
+            "3.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly lists alluvial, black, red/yellow, peaty, saline, arid, forest and laterite soils; Tamil/English explanation; published 2019-04-21.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Irrigation — introduction and types — Tamil",
+          "url": "https://www.youtube.com/watch?v=_jldhPGFBaM",
+          "language": "ta",
+          "provider": "Letz Do It",
+          "primary_provider": false,
+          "topic": [
+            "3.2"
+          ],
+          "topic_ids": [
+            "3.2"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies irrigation meaning, need, advantages/disadvantages and types; Tamil title; published 2021-01-30. India-specific dam/canal examples not confirmed.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Major crop types — Kharif, Rabi and Zaid — Tamil",
+          "url": "https://www.youtube.com/watch?v=DQT7MJjcGRw",
+          "language": "ta",
+          "provider": "John Victor IAS teacher",
+          "primary_provider": false,
+          "topic": [
+            "3.3",
+            "3.4"
+          ],
+          "topic_ids": [
+            "3.3",
+            "3.4"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator title/description explicitly identify agriculture and Indian crop types/seasons in Tamil; published 2020-07-13. Individual major crop conditions not exhaustive.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Livestock Farming — Successful Farmer",
+          "url": "https://www.youtube.com/watch?v=00o-sb5GVMU",
+          "language": "ta",
+          "provider": "DD Tamil",
+          "primary_provider": true,
+          "topic": [
+            "3.5"
+          ],
+          "topic_ids": [
+            "3.5"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Official public broadcaster creator description identifies Animal Husbandry and farmer in Vedaranyam/Nagapattinam; published 2026-08-28. Practical example, not Indian livestock statistics.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Fish Farming — Successful Farmer",
+          "url": "https://www.youtube.com/watch?v=jfJLnYkU5nc",
+          "language": "ta",
+          "provider": "DD Tamil",
+          "primary_provider": true,
+          "topic": [
+            "3.6"
+          ],
+          "topic_ids": [
+            "3.6"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Official public broadcaster creator description identifies fish farming and farmer in Nagapattinam district; published 2026-07-06. Practical aquaculture example.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        },
+        {
+          "title": "Agriculture in India — Tamil",
+          "url": "https://www.youtube.com/watch?v=dl8R7PM-vmE",
+          "language": "ta",
+          "provider": "Siddhu Mohan",
+          "primary_provider": false,
+          "topic": [
+            "3.3",
+            "3.7"
+          ],
+          "topic_ids": [
+            "3.3",
+            "3.7"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Creator description explicitly identifies agriculture in Indian economy and hardships of marginal farmers, Tamil title; published 2018-08-03.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "இந்தியா – வேளாண்மை — chapter quiz",
+          "url": "https://test.brainkart.com/topic/geography--chapter-3--india---agriculture-422/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://extension.psu.edu/introduction-to- soils-managing-soils",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Repository wrapping leaves space after hyphen; exact encoded form inaccessible.",
+          "alternatives": [
+            {
+              "url": "https://extension.psu.edu/introduction-to-soils-managing-soils",
+              "status": "blocked",
+              "evidence": "Whitespace-normalized version returned HTTP 403; not verified replacement."
+            }
+          ]
+        },
+        {
+          "original_url": "http://mospi.nic.in/statistical-year-book- india/2017/181",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Repository URL has an embedded space; encoded form inaccessible. Original source line wrapping not independently reviewed.",
+          "alternatives": []
+        },
+        {
+          "original_url": "http://www.india-wris.nrsc.gov.in/wrpinfo/ index.php?title=Multi_Purpose_Projects",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Repository URL has a space before index.php; encoded form inaccessible. Current WRIS interactive alternative times out.",
+          "alternatives": [
+            {
+              "url": "https://indiawris.gov.in/wris/",
+              "status": "unverified",
+              "evidence": "Current portal timeout; official NWIC brochure confirms GIS purpose."
+            }
+          ]
+        },
+        {
+          "original_url": "http://dahd.nic.in/sites/default/filess/ Volume%20I.pdf",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "malformed",
+          "evidence": "Repository URL has embedded space and filess spelling; exact encoded path inaccessible. Do not infer printed-book typo.",
+          "alternatives": [
+            {
+              "url": "https://dahd.gov.in/taxonomy/term/411",
+              "status": "indexed_metadata_only",
+              "evidence": "Current official statistics report collection indexed; not yet opened."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 3.2: Irrigation meaning/types; India dam/canal specifics not independently confirmed. 3.3: Indian agriculture and cropping seasons; every farming system not independently confirmed. 3.4: Major crop types/seasons; individual food/cash crops and growing conditions not exhaustively confirmed. 3.5: Practical Indian livestock example; national statistics unconfirmed. 3.6: Practical fish-farming example; marine/inland categories not exhaustively confirmed. 3.7: Marginal farmer hardships; all printed challenges not exhaustively confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "3.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=I83N2pJtp5Q"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "3.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=_jldhPGFBaM"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Irrigation meaning/types; India dam/canal specifics not independently confirmed."
+        },
+        {
+          "topic_id": "3.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=DQT7MJjcGRw",
+            "https://www.youtube.com/watch?v=dl8R7PM-vmE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Indian agriculture and cropping seasons; every farming system not independently confirmed."
+        },
+        {
+          "topic_id": "3.4",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=DQT7MJjcGRw"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Major crop types/seasons; individual food/cash crops and growing conditions not exhaustively confirmed."
+        },
+        {
+          "topic_id": "3.5",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=00o-sb5GVMU"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Practical Indian livestock example; national statistics unconfirmed."
+        },
+        {
+          "topic_id": "3.6",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=jfJLnYkU5nc"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Practical fish-farming example; marine/inland categories not exhaustively confirmed."
+        },
+        {
+          "topic_id": "3.7",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=dl8R7PM-vmE"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Marginal farmer hardships; all printed challenges not exhaustively confirmed."
+        }
+      ]
+    },
+    {
+      "slug": "india-resources-and-industries",
+      "weight": 14,
+      "title": "இந்தியா – வளங்கள் மற்றும் தொழிலகங்கள்",
+      "videos": [
+        {
+          "title": "வளங்கள் மற்றும் தொழிலகங்கள் — Kalvi TV",
+          "url": "https://www.youtube.com/watch?v=oLxTCe9A2O0",
+          "language": "ta",
+          "provider": "KalviTVOfficial",
+          "primary_provider": true,
+          "topic": [
+            "4.1",
+            "4.2",
+            "4.3"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed official creator description identifies resource types, renewable/nonrenewable resources, industry distribution and problems; published 2020-03-25.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": [
+            "4.1",
+            "4.2",
+            "4.3"
+          ]
+        },
+        {
+          "title": "இந்தியா வளங்கள் மற்றும் தொழிலகங்கள் — Q&A Part 3 — Kalvi TV",
+          "url": "https://www.youtube.com/watch?v=UsDZGPnIvbY",
+          "language": "ta",
+          "provider": "KalviTVOfficial",
+          "primary_provider": false,
+          "topic": [
+            "பயிற்சி: வினா விடை"
+          ],
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed title/description identify class-10 resources and industries Q&A continuation, published 2020.",
+            "playback": "unverified",
+            "direct_fetch": "blocked or cache miss"
+          },
+          "topic_ids": []
+        },
+        {
+          "title": "இந்தியாவின் கனிம வளங்கள் — Iron Ore, Copper, Bauxite, Zinc",
+          "url": "https://www.youtube.com/watch?v=EdkyFShH5Wo",
+          "language": "ta",
+          "provider": "YouTube TNPSC geography educator (name not returned)",
+          "primary_provider": false,
+          "topic": [
+            "4.1"
+          ],
+          "topic_ids": [
+            "4.1"
+          ],
+          "coverage_scope": "Topic-relevant supplement; exhaustive section coverage not established",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "indexed_creator_metadata",
+            "evidence": "Indexed creator title explicitly identifies Indian mineral resources and metallic minerals; description identifies Tamil explanation; published 2020.",
+            "playback": "unverified",
+            "direct_fetch": "Not individually retested; YouTube direct fetches blocked earlier in this review."
+          }
+        }
+      ],
+      "interactive": [
+        {
+          "title": "இந்தியா – வளங்கள் மற்றும் தொழிலகங்கள் — chapter quiz",
+          "url": "https://test.brainkart.com/topic/geography--chapter-4--india---resources-and-industries-423/",
+          "provider": "Brainkart",
+          "language": "en",
+          "topic": [
+            "Chapter practice (topic subset)"
+          ],
+          "kind": "interactive multiple-choice practice",
+          "checked_date": "2026-10-12",
+          "verification": {
+            "level": "provider_page_opened",
+            "evidence": "Chapter-specific provider page opened from provider catalogue; multiple-choice questions, View Solution and workspace controls are present. No quiz answer audit or full browser execution performed.",
+            "runtime": "unverified"
+          }
+        }
+      ],
+      "printed_urls": [
+        {
+          "original_url": "https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/",
+          "provenance": "repository_before_source_review",
+          "checked_date": "2026-10-12",
+          "status": "reachable",
+          "evidence": "Provider page explicitly states it moved to /moe_ncert/.",
+          "alternatives": [
+            {
+              "url": "https://bhuvan-app1.nrsc.gov.in/moe_ncert/",
+              "status": "unverified",
+              "evidence": "Link found on provider move notice; direct fetch timed out, activity not confirmed working."
+            }
+          ]
+        }
+      ],
+      "issues": [
+        "Remaining detailed coverage limits: 4.1: Indian metallic minerals identified; every printed mineral not confirmed."
+      ],
+      "coverage": "Every main numbered topic has an explicitly relevant direct video or topic-group video; some are partial subtopic supplements. Full lower-level heading coverage and playback are not established.",
+      "topic_coverage": [
+        {
+          "topic_id": "4.1",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=oLxTCe9A2O0",
+            "https://www.youtube.com/watch?v=EdkyFShH5Wo"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "partial_subtopic",
+          "remaining_gaps": "Indian metallic minerals identified; every printed mineral not confirmed."
+        },
+        {
+          "topic_id": "4.2",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=oLxTCe9A2O0"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        },
+        {
+          "topic_id": "4.3",
+          "resource_urls": [
+            "https://www.youtube.com/watch?v=oLxTCe9A2O0"
+          ],
+          "status": "explicit_topic_relevance",
+          "coverage": "main_topic_or_group_explicitly_identified",
+          "remaining_gaps": "Exhaustive coverage of all lower-level textbook headings not verified."
+        }
+      ]
+    }
+  ],
+  "source_provenance_notice": "Unless explicitly marked PDF158_original_verified_by_source_reviewer, original_url preserves an existing repository string captured before the PDF review, not a claim about exact printed textbook spelling. Parent owns source correction.",
+  "topic_audit": {
+    "main_topics": 79,
+    "main_topics_without_relevant_video": [],
+    "definition": "Explicit topic relevance means creator title/description names the topic or a subsection; it does not certify full textbook coverage or factual accuracy of external videos.",
+    "research_queries_attempted": "Targeted English/Tamil queries for all initially uncovered main topic groups, followed by primary-provider and creator-specific queries. No fabricated video IDs or search-page links."
+  }
+}

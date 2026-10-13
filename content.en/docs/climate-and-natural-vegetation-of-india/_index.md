@@ -7,21 +7,22 @@ weight: 12
 summary: "We drink more water during summer and do not drink the same amount of water during winter. Why do we wear cotton or light clothes during summer season and heavy woollen clothes during cold weather season in North India? Why do not we wear woollen clothes in South India? This is…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Geography Unit 2: Climate and Natural Vegetation of India
 
 ![](assets/page_001_picture_001.png)
 
 ## Learning Objectives
 
-To describe the factors controlling the climate of India.
+- To describe the factors controlling the climate of India.
+- To understand the characteristics of different seasons in India.
+- To know about the rainfall distribution.
+- To study the different types of natural vegetation and wildlife in India.
 
 ![](assets/page_001_picture_002.png)
-
-To understand the characteristics of different seasons in India.
-
-To know about the rainfall distribution.
-
-To study the different types of natural vegetation and wildlife in India.
 
 ## Introduction
 
@@ -29,9 +30,9 @@ We drink more water during summer and do not drink the same amount of water duri
 
 Equable climate is also called as the British climate, which is neither too hot nor too cold.
 
-## 2.1 The factors affecting the
+<a id="topic-2-1"></a>
 
-### climate
+## 2.1 The factors affecting the climate
 
 Climate of India is affected by the factors of latitude, altitude, distance from the seas, monsoon wind, relief features and jet stream.
 
@@ -41,11 +42,11 @@ Latitudinally, India lies between 8°4'N and 37°6'N latitudes. The Tropic of Ca
 
 ### Altitude
 
-When the altitude increases, The temperature decreases. Temperature decreases at the rate of 6.50C for every 1000 metres of ascent. It is called normal lapse rate.
+When the altitude increases, The temperature decreases. Temperature decreases at the rate of 6.5°C for every 1000 metres of ascent. It is called normal lapse rate.
 
 Hence, places in the mountains are cooler than the places on the plains. Ooty and several other hill stations of South India and of the Himalayan ranges like Mussourie, Shimla etc., are much cooler than the places located on the Great Plains.
 
-Find out the temperature of Ooty (2240m) when it is 350C in Chennai (6.7m)
+Find out the temperature of Ooty (2240m) when it is 35°C in Chennai (6.7m)
 
 ### Distance from the Sea
 
@@ -64,6 +65,8 @@ Relief of India has a great bearing on major elements of climate such as tempera
 ### Jet Streams
 
 Jet streams are the fast moving winds blowing in a narrow zone in the upper atmosphere. According to the Jet stream theory, the onset of southwest monsoon is driven by the shift of the sub tropical westerly jet from the plains of India towards the Tibetan plateau. The easterly jet streams cause tropical depressions both during southwest monsoon and retreating monsoon in India.
+
+<a id="topic-2-2"></a>
 
 ## 2.2 Monsoon
 
@@ -85,7 +88,7 @@ The meteorologists recognize the four distinct seasons in India. They are;
 
 **4. Northeast monsoon season (October - December).**
 
-### 1. Winter Season
+### 1. Winter Season
 
 During this period, rays of the sun fall vertically over the Tropic of Capricorn which is far away from India. Hence, India receives the slanting sun’s rays which results in low temperature. The cold weather season is characterized by clear skies, fine weather, light northerly winds, low humidity and large day time variations of temperature. During this season a high pressure develops over North India and a north-westerly wind blows down the Indus and Ganges valleys. In South India, the general direction of wind is from east to west.
 
@@ -103,9 +106,7 @@ Because of the atmospheric pressure conditions, the winds blow from southwest to
 
 “Norwesters” or “Kalbaisakhis” are the local storms with thunder that blow from north western part and rain lasting for short durations. It occurs over the eastern and north eastern parts over Bihar, West Bengal and Assam during April and May.
 
-### 3. Southwest Monsoon or Rainy
-
-### Season
+### 3. Southwest Monsoon or Rainy Season
 
 The southwest monsoon is the most significant feature of the Indian climate. The onset of the southwest monsoon takes place normally over the southern tip of the country by the first week of June, advances along the Konkan coast in early June and covers the whole country by 15th July. The monsoon is influenced by global phenomenon like ElNino.
 
@@ -129,6 +130,8 @@ The southwest monsoon begins to retreat from north India by the end of September
 
 Mawsynram, the place which receives the highest rainfall (1141 cm) in the world. It is located in Meghalaya.
 
+<a id="topic-2-3"></a>
+
 ## 2.3 Distribution of Rainfall
 
 **The average annual rainfall of India is**
@@ -136,6 +139,8 @@ Mawsynram, the place which receives the highest rainfall (1141 cm) in the world.
 118 cm. However, spatial distribution of rainfall in the country is highly uneven.
 
 The Western coast, Assam, South Meghalaya, Tripura, Nagaland and Arunachal Pradesh are the heavy rainfall areas which get more than 200 cm rainfall. The whole of Rajasthan, Punjab, Haryana, Western and Southwestern parts of Uttar Pradesh, Western Madhya Pradesh, the entire Deccan Trap or Plateau region east of Western Ghats except for a narrow strip along Tamil Nadu coast receive a low rainfall of less than 100 cm. The rest of the areas receive a rainfall ranging between 100 and 200 cm.
+
+<a id="topic-2-4"></a>
 
 ## 2.4 Natural Vegetation
 
@@ -200,15 +205,13 @@ It occurs all along the Himalayas with above 2400 m altitude. These are purely h
 
 These forests occur in and around the deltas, estuaries and creeks prone to tidal influences and as such are also known as delta or swamp forests. The delta of the Ganga-Brahmaputra has the largest tidal forest. These are also known as Sundarbans forest. The deltas of Mahanadi, Godavari and Krishna rivers are also known for tidal forests.
 
+<a id="topic-2-5"></a>
+
 ## 2.5 Wildlife
 
 The term ‘Wildlife’ includes animals of any habitat in nature. Wild animals are non-domesticated animals and include both vertebrates (fish, amphibians, reptiles, birds and mammals) and invertebrates (bees, butterflies, moths etc.). India has a rich and diversified wildlife. The Indian fauna consists of about 81,251 species of animals out of the world’s total of about 1.5 million species.
 
-Our country is home to tigers, lions, leopards, snow leopards, pythons, wolves, foxes, bears, crocodiles, rhinoceroses, camels, wild dogs, monkeys, snakes, antelope species, deer species, varieties of bison and the mighty Asian elephant. Hunting, poaching, deforestation and other anthropogenic interferences in the natural
-
-### SUMMARY
-
-habitats have caused extinction of some species and many are facing the danger of extinction.
+Our country is home to tigers, lions, leopards, snow leopards, pythons, wolves, foxes, bears, crocodiles, rhinoceroses, camels, wild dogs, monkeys, snakes, antelope species, deer species, varieties of bison and the mighty Asian elephant. Hunting, poaching, deforestation and other anthropogenic interferences in the natural habitats have caused extinction of some species and many are facing the danger of extinction.
 
 ### The Indian Board for Wildlife (IBWL)
 
@@ -230,6 +233,8 @@ Project Tiger was launched in April 1973 with the aim to conserve tiger populati
 
 Eleven of the eighteen biosphere reserves (Gulf of Mannar, Nandadevi, the Nilgiris, Nokrek, Pachmarhi, Simlipal, Sundarbans Agasthiyamalai, Great Nicobar, Kanjanjunga and Amarkantak) of India fall under the list of Man and Biosphere programme of UNESCO.
 
+### SUMMARY
+
 Climate of India is labelled as “Tropical Monsoon Type”. There are four seasons in India. They are winter season, hot weather, southwest monsoon, and northeast monsoon. Natural vegetation refers to a plant community unaffected by man either directly or indirectly.
 
 Natural vegetation can be classified as tropical evergreen forests, tropical deciduous forests, tropical dry forests, desert and semi-desert vegetation, mountain forests, Alpine forests, Tidal forests, etc. Biosphere reserves are protected areas of land coastal environment whereby people are an integral component of a system.
@@ -238,19 +243,19 @@ Natural vegetation can be classified as tropical evergreen forests, tropical dec
 
 ### EXERCISE
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. Western disturbances cause rainfall in
+1. Western disturbances cause rainfall in
 
 _________.
 
 a) Tamil Nadu b) Kerala c) Punjab d) Madhya Pradesh
 
-2. _________ helps in quick ripening of mangoes along the coast of Kerala and Karnataka.
+2. _________ helps in quick ripening of mangoes along the coast of Kerala and Karnataka.
 
 a) Loo b) Norwester c) Mango showers d) Jet stream
 
-3. _________ is a line joining the places of equal rainfall.
+3. _________ is a line joining the places of equal rainfall.
 
 a) Isohyets b) Isobar c) Isotherm d) Latitudes
 
@@ -258,47 +263,43 @@ a) Isohyets b) Isobar c) Isotherm d) Latitudes
 
 a) Tropical humid b) Equatorial Climate c) Tropical Monsoon Climate d) Temperate Climate
 
-5. The monsoon forests are otherwise called as
+5. The monsoon forests are otherwise called as
 
 _________.
 
 a) Tropical evergreen forest b) Deciduous forest c) Mangrove forest d) Mountain forest
 
-6. Sesahachalam hills, a Biosphere reserve is situated in _________.
+6. Sesahachalam hills, a Biosphere reserve is situated in _________.
 
 a) Tamil Nadu b) Andhra Pradesh c) Madhya Pradesh d) Karnataka
 
-7. _________ is not a part of the world network biosphere reserves of UNESCO
+7. _________ is not a part of the world network biosphere reserves of UNESCO
 
 A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch
 
 **II Match the following**
 
-1. Sundarbans
+| No. | Column A | Column B (shuffled) |
+|---|---|---|
+| 1 | Sundarbans | Desert and semi desert vegetation |
+| 2 | Biodiversity hotspot | October - December |
+| 3 | North east monsoon | Littoral forest |
+| 4 | Tropical thorn forests | West Bengal |
+| 5 | Coastal forests | The Himalayas |
 
-— Desert and semi desert vegetation
-
-2. Biodiversity hotspot — October - December
-
-3. North east monsoon — Littoral forest
-
-4. Tropical thorn forests — West Bengal
-
-5. Coastal forests — The Himalayas
-
-**III Consider the given statements and**
+**III Consider the given statements and**
 
 **choose the correct option from the given below ones**
 
-1. Assertion(A): The Himalayas acts as a climatic barrier.
+1. Assertion(A): The Himalayas acts as a climatic barrier.
 
-Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions) a) Both (A) and (R) are true: R explains A b) Both (A) and (R) are true: R does not explain A c) (A) is true (R) is false d) (A) is false (R) is true
+Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indian Sub-continent warm.(Give option for this questions) a) Both (A) and (R) are true: R explains A b) Both (A) and (R) are true: R does not explain A c) (A) is true (R) is false d) (A) is false (R) is true
 
-**IV Choose the inappropriate answer**
+**IV Choose the inappropriate answer**
 
 1. Tidal forests are found in and around____.
 
-(a) Desert (b) The Deltas of Ganga and Brahmaputra (c) The Delta of Godavari (d) The Delta of Mahanadhi
+(a) Desert (b) The Deltas of Ganga and Brahmaputra (c) The Delta of Godavari (d) The Delta of Mahanadhi
 
 2. Climate of India is affected by__________.
 
@@ -324,7 +325,7 @@ Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indi
 
 6. What is ‘burst of monsoon’?
 
-7. Name the areas which receive heavy rainfall.
+7. Name the areas which receive heavy rainfall.
 
 8. State the places of mangrove forests in India.
 
@@ -334,15 +335,15 @@ Reason(R): The Himalayas prevents cold winds from Central Asia and keep the Indi
 
 1. Weather and Climate
 
-2. Tropical Evergreen Forest and Deciduous
+2. Tropical Evergreen Forest and Deciduous
 
 Forest.
 
-3. Northeast
+3. Northeast
 
 Monsoon and Southwest Monsoon.
 
-**VII Give reasons**
+**VII Give reasons**
 
 1. India has a tropical monsoon climate.
 
@@ -372,32 +373,77 @@ Monsoon and Southwest Monsoon.
 
 ### REFERENCE BOOKS
 
-1. Attri, S.D. and A. Tyagi, 2010. “Climate
+1. Attri, S.D. and A. Tyagi, 2010. “Climate
 
 Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.
 
-2. Singh, S. and J. Saroha, 2014. “Geography of India”, Access Publishing India Pvt. Ltd. New Delhi.
+2. Singh, S. and J. Saroha, 2014. “Geography of India”, Access Publishing India Pvt. Ltd. New Delhi.
 
-3. Hussain, M. 2008. “Geography of India”
+3. Hussain, M. 2008. “Geography of India”
 
 Tata McGraw-Hill Publishing House Company Ltd. New Delhi.
 
-4. Govt. of India, 2014. “India’s fifth National report to the Convention on Biological Diversity” Ministry of Environment and Forests.
+4. Govt. of India, 2014. “India’s fifth National report to the Convention on Biological Diversity” Ministry of Environment and Forests.
 
-- 
+### ICT CORNER: Climate and Natural Vegetation of India
 
-Open the Browser and type the URL given below (or) Scan the QR Code.
+**Steps**
 
-- 
+- Open the Browser and type the URL given below (or) Scan the QR Code.
 
-Scroll Down and click on ‘Explore’
+- Scroll Down and click on ‘Explore’
 
-- 
-
-Click on ‘Climate’ in left side menu and Select ‘Annual Rainfall’
+- Click on ‘Climate’ in left side menu and Select ‘Annual Rainfall’
 
 **Website URL:**
 
 https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/
 
 ![](assets/page_010_picture_001.png)
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Climate and Natural Vegetation of India](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Climate and Natural Vegetation — South West Monsoon — Tamil explanation](https://www.youtube.com/watch?v=gVebo_ZHbFg) — HTAS How To Approach Schooling; Tamil explanation.
+- [Climate and Natural Vegetation — Map Places Part 3](https://www.youtube.com/watch?v=xFZPG607n8s) — HTAS How To Approach Schooling; Tamil explanation.
+- [Climate of India — factors and monsoon theories — Tamil](https://www.youtube.com/watch?v=X4elHkhod48) — YouTube geography educator (name not returned); Tamil explanation. Covers selected concepts; see the topic table below.
+- [Rainfall Distribution in India & Tamil Nadu](https://www.youtube.com/watch?v=5Cid2yOzWkA) — YouTube TNPSC geography educator (name not returned); language not verified. Covers selected concepts; see the topic table below.
+- [இயற்கைத் தாவரங்கள் — Types of forests in India](https://www.youtube.com/watch?v=UASaKTqsSrw) — YouTube TNPSC geography educator (name not returned); Tamil explanation. Covers selected concepts; see the topic table below.
+- [10 Indian native animals — Tamil](https://www.youtube.com/watch?v=B17SvEBbIC4) — SS TV TAMIL; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Climate and Natural Vegetation of India — chapter quiz](https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/) — Brainkart; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [2.1 The factors affecting the climate](#topic-2-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=X4elHkhod48) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/) |
+| [2.2 Monsoon](#topic-2-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=gVebo_ZHbFg) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/) |
+| [2.3 Distribution of Rainfall](#topic-2-3) | [Topic video (language not verified)](https://www.youtube.com/watch?v=5Cid2yOzWkA) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/) |
+| [2.4 Natural Vegetation](#topic-2-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=UASaKTqsSrw) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/) |
+| [2.5 Wildlife](#topic-2-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=B17SvEBbIC4) | [Chapter practice](https://test.brainkart.com/topic/geography--chapter-2--climate-and-natural-vegetation-of-india-421/) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/` | Page opened in recent check | [Alternative](https://bhuvan-app1.nrsc.gov.in/moe_ncert/) |
+
+<!-- supplemental-resources:end -->

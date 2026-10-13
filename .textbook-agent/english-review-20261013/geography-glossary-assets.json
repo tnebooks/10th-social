@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "checked_date": "2026-10-13",
+  "medium": "en",
+  "teacher_approval": false,
+  "source_pdf": "/Users/apple/Downloads/Class_10_Social_Science_English_2025_Edition-www.tntextbooks.in.pdf",
+  "pdf_sha256": "4aff7d62db883fa27c843bdc86ff0e08af680b45fa090dc2e2b96dce205ae461",
+  "finding": "The Geography section has a combined English glossary on PDF241–243 (printed235–237). It uses two English panels, not term/English/Tamil three-column tables. No omitted Tamil translations exist in these source pages. Do not add fabricated Tamil translations or duplicate this combined glossary into every geography lesson.",
+  "coverage": [
+    {
+      "weight": 11,
+      "source_glossary": "none in assigned lesson source range",
+      "action": "No glossary crop insertion proposed"
+    },
+    {
+      "weight": 12,
+      "source_glossary": "none in assigned lesson source range",
+      "action": "No glossary crop insertion proposed"
+    },
+    {
+      "weight": 13,
+      "source_glossary": "none in assigned lesson source range",
+      "action": "No glossary crop insertion proposed"
+    },
+    {
+      "weight": 14,
+      "source_glossary": "none in assigned lesson source range",
+      "action": "No glossary crop insertion proposed"
+    },
+    {
+      "weight": 15,
+      "source_glossary": "none in assigned lesson source range",
+      "action": "No glossary crop insertion proposed"
+    },
+    {
+      "weight": 16,
+      "source_glossary": "none in assigned lesson source range",
+      "action": "No glossary crop insertion proposed"
+    },
+    {
+      "weight": 17,
+      "source_glossary": "Combined geography glossary",
+      "pdf_pages": [
+        241,
+        242,
+        243
+      ],
+      "printed_pages": [
+        "235",
+        "236",
+        "237"
+      ],
+      "action": "Append complete source crops within existing glossary section; retain current readable transcription"
+    }
+  ],
+  "visual_review": {
+    "full_resolution_whole_pages_viewed": [
+      241,
+      242,
+      243
+    ],
+    "source_tamil_column_present": false,
+    "source_column_structure": "Two parallel panels containing English bold term labels and English definitions",
+    "limits": "All three pages inspected at full resolution. Preserve unusual printed definitions, incomplete Flood/Endemism lines, and duplicate terms; no external corrections.",
+    "crop_previews_viewed": [
+      241,
+      242,
+      243
+    ]
+  },
+  "assets": [
+    {
+      "id": "geo-glossary-241",
+      "pdf_page": 241,
+      "printed_page": "235",
+      "bbox_normalized": [
+        0.1281902585701509,
+        0.09523302077894147,
+        0.8713885433756686,
+        0.9069811502756331
+      ],
+      "bbox_points": [
+        84,
+        84,
+        571,
+        800
+      ],
+      "page_size_points": [
+        655.2760009765625,
+        882.0469970703125
+      ],
+      "target_path": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p235-geography-glossary.png",
+      "markdown_path": "assets/source-2025-p235-geography-glossary.png",
+      "preview_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/glossary-crop-241.png",
+      "caption": "Geography glossary, source page 235",
+      "include": "Both complete English text panels including continuation fragments, original labels, blue frames, and source wording. Printer marks/footer excluded. No Tamil column exists in source.",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-glossary-242",
+      "pdf_page": 242,
+      "printed_page": "236",
+      "bbox_normalized": [
+        0.1281902585701509,
+        0.09523302077894147,
+        0.8713885433756686,
+        0.9069811502756331
+      ],
+      "bbox_points": [
+        84,
+        84,
+        571,
+        800
+      ],
+      "page_size_points": [
+        655.2760009765625,
+        882.0469970703125
+      ],
+      "target_path": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p236-geography-glossary.png",
+      "markdown_path": "assets/source-2025-p236-geography-glossary.png",
+      "preview_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/glossary-crop-242.png",
+      "caption": "Geography glossary, source page 236",
+      "include": "Both complete English text panels including continuation fragments, original labels, blue frames, and source wording. Printer marks/footer excluded. No Tamil column exists in source.",
+      "teacher_approval": false
+    },
+    {
+      "id": "geo-glossary-243",
+      "pdf_page": 243,
+      "printed_page": "237",
+      "bbox_normalized": [
+        0.1281902585701509,
+        0.09523302077894147,
+        0.8713885433756686,
+        0.8344226582535824
+      ],
+      "bbox_points": [
+        84,
+        84,
+        571,
+        736
+      ],
+      "page_size_points": [
+        655.2760009765625,
+        882.0469970703125
+      ],
+      "target_path": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/assets/source-2025-p237-geography-glossary.png",
+      "markdown_path": "assets/source-2025-p237-geography-glossary.png",
+      "preview_path": "/Users/apple/ariv/10th-social/.textbook-agent/english-review-20261013/geography/glossary-crop-243.png",
+      "caption": "Geography glossary, source page 237",
+      "include": "Both complete English text panels including continuation fragments, original labels, blue frames, and source wording. Printer marks/footer excluded. No Tamil column exists in source.",
+      "teacher_approval": false
+    }
+  ],
+  "insertions": [
+    {
+      "id": "geo-combined-glossary-insertion",
+      "weight": 17,
+      "file": "/Users/apple/ariv/10th-social/content.en/docs/human-geography-of-tamil-nadu/_index.md",
+      "file_sha256": "0de26ccdf3901f9b191b1f36a1ec9fe2f22d747b6c499c296b48824d9789348e",
+      "old": "### GLOSSARY\n\nBack waters: The part of a river which are stagnant and do not reach the sea as they are pushed by the current.",
+      "old_sha256": "10175242c61a061e511dd8b8683bdae793cf5d6d3d940265c570aafa6fbef771",
+      "replacement": "### GLOSSARY\n\n**Original geography glossary (printed pages 235–237)**\n\n![Geography glossary, source page 235](assets/source-2025-p235-geography-glossary.png)\n\n![Geography glossary, source page 236](assets/source-2025-p236-geography-glossary.png)\n\n![Geography glossary, source page 237](assets/source-2025-p237-geography-glossary.png)\n\nBack waters: The part of a river which are stagnant and do not reach the sea as they are pushed by the current.",
+      "replacement_sha256": "41e2871ab636ffec18e2a4c662526582f62a785d07073b3b49addc5f14f6696e",
+      "expected_occurrences": 1,
+      "asset_ids": [
+        "geo-glossary-241",
+        "geo-glossary-242",
+        "geo-glossary-243"
+      ],
+      "teacher_approval": false,
+      "preserve_transcription": true,
+      "scope": "Insert crops immediately below current GLOSSARY heading, before Back waters; preserve all existing glossary entries and all other sections."
+    }
+  ],
+  "summary": {
+    "source_glossaries": 1,
+    "source_pages": 3,
+    "proposed_assets": 3,
+    "proposed_insertions": 1,
+    "missing_tamil_columns": 0,
+    "index_files_edited": 0
+  }
+}

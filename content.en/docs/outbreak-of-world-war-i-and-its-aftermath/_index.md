@@ -7,6 +7,10 @@ weight: 1
 summary: "The year 1914 is a turning point in world history. The political and social processes that began in 1789, culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteen…"
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # History Unit 1: Outbreak of World War I and Its Aftermath
 
 ![](assets/page_001_picture_001.png)
@@ -35,6 +39,8 @@ summary: "The year 1914 is a turning point in world history. The political and s
 
 The year 1914 is a turning point in world history. The political and social processes that began in 1789, culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteenth century’. This was the first industrial war that drew on the economic resources of the entire world, and also affected large sections of the civilian population. The political map of the world was redrawn. Three major empires lay shattered by the end of the War: Germany, Austria–Hungary, and the Ottomans. The biggest outcome of the War was the Russian Revolution. It was a unique event, as well as the first revolution of its kind in world history. For the first time, countries tried to bring about world peace through the League of Nations. In this lesson, we discuss the circumstances leading to the outbreak of the First World War and its repercussions, including the Russian Revolution and the formation of an international peace organisation, namely the League of Nations.
 
+<a id="topic-1-1"></a>
+
 ## 1.1 Scramble for Colonies
 
 ### Capitalist Countries’ Race for Markets
@@ -52,6 +58,8 @@ A trust is an industrial organisation engaged in the production or distribution 
 ### Imperialism and its Essential Characteristics
 
 Capitalism inevitably led to imperialism. According to Lenin, imperialism is the highest stage of capitalism. Besides being a market for surplus goods, colonies served another purpose. Imperialism was not just about colonies. It became a total system, the logic of which was total militarisation and total war.
+
+<a id="topic-1-2"></a>
 
 ## 1.2 Rivalry of Great Powers
 
@@ -81,7 +89,9 @@ In 1876, barely 10 percent of Africa was under European rule. By 1900, practical
 
 The first European attempts to carve out colonies in Africa resulted in bloody battles. The French had to fight a long and bitter war to conquer Algeria and Senegal. The British lost to the Zulus (1879) and to the Sudanese Army (1884). The Italian army suffered a devastating defeat at the hands of an Ethiopian army at Adowa (1896).
 
-## 1.3 Causes, Course and Results of World War I
+<a id="topic-1-3"></a>
+
+## 1.3 Causes, Course and Results of World War I
 
 ### (a) Causes European Alliances and Counter-Alliances
 
@@ -145,19 +155,15 @@ Germany steamrolled and smashed the resistance of the people of Belgium. On the 
 
 ### Battles of Tannenberg and Marne
 
-Meanwhile Russian forces invaded East Prussia. In the battle of Tannenberg Russia suffered heavy losses. Germany defeated them decisively. At the Battle of the Marne (early September 1914), the French succeeded in
+Meanwhile Russian forces invaded East Prussia. In the battle of Tannenberg Russia suffered heavy losses. Germany defeated them decisively. At the Battle of the Marne (early September 1914), the French succeeded in pushing back the Germans. Paris was thus saved. The battle of Marne is a memorable for **trench warfare.**
 
-Trench Warfare: Trenches or ditches dug by troops enabled soldiers to safely stand and protect themselves from enemy fire. The main lines of trenches were connected to each other and to the rear by a series of linking trenches through which food, ammunition, fresh troops, mail, and orders were delivered.
+**Trench Warfare:** Trenches or ditches dug by troops enabled soldiers to safely stand and protect themselves from enemy fire. The main lines of trenches were connected to each other and to the rear by a series of linking trenches through which food, ammunition, fresh troops, mail, and orders were delivered.
 
 ![](assets/page_006_picture_001.png)
 
-pushing back the Germans. Paris was thus saved. The battle of Marne is a memorable for
-
-**trench warfare.**
-
 ![](assets/page_006_picture_002.png)
 
-Battle of Tannenberg
+**Battle of Tannenberg**
 
 ### Battle of Verdun
 
@@ -203,21 +209,17 @@ In 1916 a naval battle (Battle of Jutland) had taken place in the North Sea. The
 
 Sinking of Lusitania
 
-### (c) The Armistice and Treaty of Versailles
+### (c) The Armistice and Treaty of Versailles
 
 Germany ultimately surrendered in November 1918. The armistice took effect from 11 November 1918. Germany was forced to accept harsh terms by the political situation at home with the abdication of the Kaiser William II.
 
 ### Peace Conference in Paris
 
-The Peace Conference opened in Paris in January 1919, two months after the signing of the armistice. Woodrow
+The Peace Conference opened in Paris in January 1919, two months after the signing of the armistice. Woodrow Wilson (USA), Lloyd George (Prime Minister of England) and Clemenceau (Prime Minister of France) played a very important part in the deliberations.
 
 ![](assets/page_007_picture_002.png)
 
-Wilson (USA), Lloyd
-
-George (Prime Minister of England) and Clemenceau (Prime Minister
-
-A News paper Report of France) played a very important part in the deliberations.
+**A News paper Report**
 
 ![](assets/page_008_picture_001.png)
 
@@ -259,7 +261,7 @@ Allies. The area on the east bank of the Rhine was to be demilitarized.
 
 President Wilson laid down his Fourteen Points, which were to be followed by the Allies. The most important one he highlighted was the need for ‘a general association of nations for the purpose of affording mutual guarantees of political independence and territorial integrity to great and small states like’.
 
-Separate treaties were drawn up and signed by the Allies with Austria, Hungary, Bulgaria and Turkey. T e Treaty with Turkey (Treaty of Sevres), though accepted by the Sultan, failed because of the resistance of Mustafa Kemal Pasha and his followers.
+Separate treaties were drawn up and signed by the Allies with Austria, Hungary, Bulgaria and Turkey. The Treaty with Turkey (Treaty of Sevres), though accepted by the Sultan, failed because of the resistance of Mustafa Kemal Pasha and his followers.
 
 ### Fallout of the First World War
 
@@ -279,7 +281,9 @@ The War conditions led to the rise of Home Rule Movement in India. The Congress 
 
 India and Indians had taken an active part in the War believing that Britain would reward India's loyalty. But only disappointment was in store.Thus the War had multiple effects on Indian society, economy and polity.
 
-## 1.4 Russian Revolution and its Impact
+<a id="topic-1-4"></a>
+
+## 1.4 Russian Revolution and its Impact
 
 ### Introduction
 
@@ -355,6 +359,8 @@ The revolution ignited people’s imagination across the world. In many countrie
 
 Pravda is a Russian word meaning “Truth”. It was the official newspaper of the Communist Party of the Soviet Union from 1918 to 1991.
 
+<a id="topic-1-5"></a>
+
 ## 1.5 League of Nations
 
 ### Structure and Composition
@@ -417,6 +423,8 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 
 ### GLOSSARY
 
+![Source glossary, PDF page 19, including Tamil meanings](assets/source_glossary_pdf_019.png)
+
 | Term | Meaning |
 |---|---|
 | monopoly | exclusive possession or control |
@@ -431,113 +439,118 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 
 ### EXERCISE
 
-**I Choose the correct**
+**I Choose the correct answer**
 
-**answer**
+1. What were the three major empires shattered by the end of First World War?
+   - a) Germany, Austria Hungary, and the Ottomans
+   - b) Germany, Austria-Hungary, and Russia
+   - c) Spain, Portugal and Italy
+   - d) Germany, Austria-Hungary, Italy
 
-1. What were the three major empires shattered by the end of First World War? a) Germany, Austria Hungary, and the
+2. Which country emerged as the strongest in East Asia towards the close of nineteenth century?
+   - a) China
+   - b) Japan
+   - c) Korea
+   - d) Mongolia
 
-Ottomans b) Germany, Austria-Hungary, and Russia c) Spain, Portugal and Italy d) Germany, Austria-Hungary, Italy
+3. Who said “imperialism is the highest stage of capitalism”?
+   - a) Lenin
+   - b) Marx
+   - c) Sun Yat-sen
+   - d) Mao Tsetung
 
-2. Which country emerged as the strongest in
+4. What is the Battle of Marne remembered for?
+   - a) air warfare
+   - b) trench warfare
+   - c) submarine warfare
+   - d) ship warfare
 
-East Asia towards the close of nineteenth century? a) China b) Japan c) Korea d) Mongolia
+5. To which country did the first Secretary General of League of Nations belong?
+   - a) Britain
+   - b) France
+   - c) Dutch
+   - d) USA
 
-3. Who said “imperialism is the highest stage of capitalism”? a) Lenin b) Marx c) Sun Yat-sen d) Mao Tsetung
-
-4. What is the Battle of Marne remembered for? a) air warfare b) trench warfare c) submarine warfare d) ship warfare
-
-5. To which country did the first Secretary
-
-General of League of Nations belong? a) Britain b) France c) Dutch d) USA
-
-6. Which country was expelled from the
-
-League of Nations for attacking Finland? a) Germany b) Russia c) Italy d) France
+6. Which country was expelled from the League of Nations for attacking Finland?
+   - a) Germany
+   - b) Russia
+   - c) Italy
+   - d) France
 
 **II Fill in the blanks**
 
-1. Japan forced a war on China in the year
+1. Japan forced a war on China in the year ________.
 
-.
+2. The new state of Albania was created according to the Treaty of ________ signed in May 1913.
 
-2. The new state of Albania was created according to the Treaty of signed in May 1913.
+3. Japan entered into an alliance with England in the year ________.
 
-3. Japan entered into an alliance with
+4. In the Balkans ________ had mixed population.
 
-England in the year .
+5. In the battle of Tannenberg ________ suffered heavy losses.
 
-4. In the Balkans had mixed population.
+6. ________ as Prime Minister represented France in Paris Peace Conference.
 
-5. In the battle of Tannenberg suffered heavy losses.
-
-6. as Prime Minister represented France in Paris Peace Conference.
-
-7. Locarno Treaty was signed in the year
-
-.
+7. Locarno Treaty was signed in the year ________.
 
 **III Choose the correct statement**
 
-1. i) The Turkish Empire contained many non-Turkish people in the Balkans. ii) Turkey fought on the side of the central powers iii) Turkey’s attempt to attack Suez Canal but were repulsed. a) i) and ii) are correct b) i) and iii) are correct c) ii) and iii) are correct d) i), ii) and iii) are correct
+1.
+    - i) The Turkish Empire contained many non-Turkish people in the Balkans.
+    - ii) Turkey fought on the side of the central powers
+    - iii) Turkey’s attempt to attack Suez Canal but were repulsed.
+    - a) i) and ii) are correct
+    - b) i) and iii) are correct
+    - c) ii) and iii) are correct
+    - d) i), ii) and iii) are correct
 
-2. Assertion: The first European attempts to carve out colonies in Africa resulted in bloody battles. Reason: There was stiff resistance from the native population.
+2. Assertion: The first European attempts to carve out colonies in Africa resulted in bloody battles.
 
-a) Both A and R are correct b) A is right but R is not the correct reason c) Both A and R are wrong d) R is right but A is wrong.
+   Reason: There was stiff resistance from the native population.
+   - a) Both A and R are correct
+   - b) A is right but R is not the correct reason
+   - c) Both A and R are wrong
+   - d) R is right but A is wrong.
 
 **IV Match the following**
 
-1. Treaty of Brest- Litovsk - Versailles
-
-2. Jingoism
-
-- Turkey
-
-3. Kemal Pasha
-
-- Russia with
-
-Germany
-
-4. Emden
-
-- England
-
-5. Hall of Mirrors
-
-- Madras
+| No. | Column A | Column B |
+| --- | --- | --- |
+| 1 | Treaty of Brest- Litovsk | Versailles |
+| 2 | Jingoism | Turkey |
+| 3 | Kemal Pasha | Russia with Germany |
+| 4 | Emden | England |
+| 5 | Hall of Mirrors | Madras |
 
 **V Answer briefly**
 
-1. How do you assess the importance of Sino-Japanese War?
+1. How do you assess the importance of Sino-Japanese War?
 
-2. Name the countries in the Triple Entente.
+2. Name the countries in the Triple Entente.
 
-3. What were the three militant forms of nationalism in Europe?
+3. What were the three militant forms of nationalism in Europe?
 
-4. What do you know of trench warfare?
+4. What do you know of trench warfare?
 
-5. What was the role of Mustafa Kemal Pasha?
+5. What was the role of Mustafa Kemal Pasha?
 
-6. List out any two causes for the failure of the League of Nations.
+6. List out any two causes for the failure of the League of Nations.
 
-**VI Answer the following in detail**
+**VI Answer the following in detail**
 
-1. Discuss the main causes of the First World War.
+1. Discuss the main causes of the First World War.
 
-2. Highlight the provisions of the Treaty of Versailles relating to Germany.
+2. Highlight the provisions of the Treaty of Versailles relating to Germany.
 
-3. Explain the course of the Russian Revolution under the leadership of Lenin.
+3. Explain the course of the Russian Revolution under the leadership of Lenin.
 
-4. Estimate the work done by the League of Nations.
+4. Estimate the work done by the League of Nations.
 
 **VII Activity**
 
-1. Students can be taught to mark the places of battles and the capital cities of the countries that were engaged in the War.
+1. Students can be taught to mark the places of battles and the capital cities of the countries that were engaged in the War.
 
-**VIII Map Work**
-
-**Mark the following countries on the world map.**
+**VIII Map Work** **Mark the following countries on the world map.**
 
 1. Great Britain
 
@@ -565,32 +578,77 @@ Germany
 
 ### REFERENCE BOOKS
 
-1. R.D. Cormvell, World History in the Twentieth Century, London: Longman, 1972
+1. R.D. Cormvell, World History in the Twentieth Century, London: Longman, 1972
 
-2. David Thomson, Europe since Napoleon, Harmondsworth: Penguin, 1990
+2. David Thomson, Europe since Napoleon, Harmondsworth: Penguin, 1990
 
-3. Eric Hobsbawm,The Age of extremes, 1914 – 1991, London: Abacus, 1994.
+3. Eric Hobsbawm,The Age of extremes, 1914 – 1991, London: Abacus, 1994.
 
-4. Hew Strachan, The Oxford Illustrated History of the First World War. Oxford: Oxford University Press, 2014).
+4. Hew Strachan, The Oxford Illustrated History of the First World War. Oxford: Oxford University Press, 2014).
+
+### ICT CORNER
+
+**Outbreak of World War I and Its Aftermath**
 
 Through this activity you will learn about Time Line Events of World War -I
 
-## Steps
+**Steps**
 
-- 
+1. Open the Browser and type the URL given below (or) Scan the QR Code.
+
+2. Click on ‘Learn’ in menu and Select ‘Interactive Timeline’
+
+3. Drag the Time line bar and click to see the events
 
 ![](assets/page_015_picture_001.png)
 
-Open the Browser and type the URL given below (or) Scan the QR Code.
-
-- 
-
-Click on ‘Learn’ in menu and Select ‘Interactive Timeline’
-
-- 
-
 ![](assets/page_015_picture_002.png)
 
-Drag the Time line bar and click to see the events
+**Website URL:** https://www.theworldwar.org/
 
-Website URL: https://www.theworldwar.org/
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Outbreak of World War I and Its Aftermath](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [The Meiji Restoration and the Empire of Japan](https://www.youtube.com/watch?v=Oc_un-o4hGc) — History Matters; English. Covers selected concepts; see the topic table below.
+- [முதல் உலகப் போர் மற்றும் விளைவுகள் — Kalvi TV](https://www.youtube.com/watch?v=qEEq9-Y3wxg) — KalviTVOfficial; Tamil explanation.
+- [World War 1 — Part 1 — Explained in Tamil — 10th](https://www.youtube.com/watch?v=KqM9a1wdjIQ) — Gayathri Ravikumar; Tamil explanation.
+- [முதல் உலகப்போர் வரைபடம் — 10th Social Science](https://www.youtube.com/watch?v=mKFd8qMJpCg) — STK MATHS 2.0; Tamil explanation.
+- [Imperialism & Colonialism — Tamil](https://www.youtube.com/watch?v=F7aNDTG5qZo) — Padeepz; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [Outbreak of World War I and Its Aftermath — chapter quiz](https://test.brainkart.com/topic/history--chapter-1--outbreak-of-world-war-i-and-its-aftermath-410/) — Brainkart; English. Runtime and answers have not been fully tested.
+- [WWI Interactive Timeline](https://www.theworldwar.org/interactive-wwi-timeline) — National WWI Museum and Memorial; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [1.1 Scramble for Colonies](#topic-1-1) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=F7aNDTG5qZo) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-1--outbreak-of-world-war-i-and-its-aftermath-410/) |
+| [1.2 Rivalry of Great Powers](#topic-1-2) | [Topic video (English)](https://www.youtube.com/watch?v=Oc_un-o4hGc) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-1--outbreak-of-world-war-i-and-its-aftermath-410/) |
+| [1.3 Causes, Course and Results of World War I](#topic-1-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=qEEq9-Y3wxg) | [Topic activity](https://www.theworldwar.org/interactive-wwi-timeline) |
+| [1.4 Russian Revolution and its Impact](#topic-1-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=qEEq9-Y3wxg) | [Topic activity](https://www.theworldwar.org/interactive-wwi-timeline) |
+| [1.5 League of Nations](#topic-1-5) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=qEEq9-Y3wxg) | [Topic activity](https://www.theworldwar.org/interactive-wwi-timeline) |
+
+### Source-link checks
+
+The following URLs occur in this lesson. Recent checks are shown separately from the printed source, which remains available in the original-page view. Access failures alone do not establish that a URL is broken.
+
+| Lesson URL | Recent check | Alternative resource |
+|---|---|---|
+| `https://www.theworldwar.org/` | Page opened in recent check | [Alternative](https://www.theworldwar.org/interactive-wwi-timeline) |
+
+<!-- supplemental-resources:end -->

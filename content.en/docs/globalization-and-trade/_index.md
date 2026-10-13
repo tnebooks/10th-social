@@ -7,6 +7,10 @@ weight: 24
 summary: "Liberalization, Privatization and Globalization (LPG) have become a much talked of subjects among politicians, economists and businessmen in present time."
 ---
 
+<!-- textbook-source-view:start -->
+[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
+<!-- textbook-source-view:end -->
+
 # Economics Unit 2: Globalization and Trade
 
 ![](assets/page_001_picture_001.png)
@@ -29,6 +33,8 @@ summary: "Liberalization, Privatization and Globalization (LPG) have become a mu
 
 Liberalization, Privatization and Globalization (LPG) have become a much talked of subjects among politicians, economists and businessmen in present time.
 
+<a id="topic-2-1"></a>
+
 ## 2.1 Globalization
 
 Globalization is the integration of a country with the world economy. Basically, globalization signifies a process of internationalization plus liberalization.
@@ -36,6 +42,8 @@ Globalization is the integration of a country with the world economy. Basically,
 ![](assets/page_001_picture_003.png)
 
 **Globalization**
+
+<a id="topic-2-2"></a>
 
 ## 2.2 History of Globalization
 
@@ -69,7 +77,9 @@ The next phase is known as proto globalization. It was charterized by the rise o
 
 The 19th century witnessed the advent of globalization approaching its modern form. Between the globalization in the 19th and in the 20th century there are significant differences. There are two main points one is the global trade in these centuries as well as the capital, investment and the economy and another one is the global trade in the 20th century that shows a higher share of trade in merchant production, a growth of the trade in services and the rise of production and trade by multinational firms.
 
-## 2.3 Trade and Traders in South India-Historical Perspective
+<a id="topic-2-3"></a>
+
+## 2.3 Trade and Traders in South India-Historical Perspective
 
 Southern Indian trade guilds were formed by merchants in order to organize and expand their trading activities. Trade guilds become channels through which Indian culture spread to other lands.
 
@@ -101,6 +111,8 @@ The Danes formed an East India company and arrived in India in 1616. The Danish 
 
 The first French factory in India was established in 1668 by obtaining permission from the Sultan of Golconda. In 1693, the Dutch captured Pondicherry but was handed back to the French. In 1701, Pondicherry was the headquarters of the French.
 
+<a id="topic-2-4"></a>
+
 ## 2.4 Globalization in India
 
 In India the period after 1980-81 was marked by severe balance of payment difficulties mainly due to hike in oil price and Gulf war in 1990-91 and hostilities in West Asia.
@@ -113,19 +125,21 @@ Since India lost its credit worthiness in the international market, the governme
 
 ### Reforms made to adopt Globalization:- (New Economic policy in India)
 
-1. Abolition of Industrial licensing, except for a few industries.
+1. Abolition of Industrial licensing, except for a few industries.
 
-2. Reduction in the number of industries reserved for public sector.
+2. Reduction in the number of industries reserved for public sector.
 
-3. Fixation of a realistic exchange rate of rupee to exchange exports of Indian goods.
+3. Fixation of a realistic exchange rate of rupee to exchange exports of Indian goods.
 
-4. Foreign private sector by making rupee convertible on trade, on current account and by reducing import duties.
+4. Foreign private sector by making rupee convertible on trade, on current account and by reducing import duties.
 
-5. Foreign exchanges regulations were suitably amended
+5. Foreign exchanges regulations were suitably amended
 
-6. The Statutory Liquidity Ratio (SLR) was reduced to increase lending by RBI.
+6. The Statutory Liquidity Ratio (SLR) was reduced to increase lending by RBI.
 
-## 2.5 Multinational Corporation (MNC)
+<a id="topic-2-5"></a>
+
+## 2.5 Multinational Corporation (MNC)
 
 Multinational Corporation is a Corporate organization which owns or controls production of goods or services in at least one country other than its home country.
 
@@ -159,9 +173,17 @@ A multinational firm enjoys a number of marketing superiorities over the nationa
 
 It has financial resources and high level of funds utilization. It has easier access of external capital markets. Because of its international reputation it is able to raise more international resources.
 
-**Find and write the largest Multinational**
+**Find and write the largest Multinational Companies in India**
 
-**Companies in India**
+|  |  |
+|---|---|
+| ________ | ________ |
+| ________ | ________ |
+| ________ | ________ |
+| ________ | ________ |
+| ________ | ________ |
+
+![Find and write the largest Multinational Companies in India](assets/source-en-p312-activity-1.png)
 
 **4. Technological Superiorities:**
 
@@ -205,7 +227,9 @@ Disadvantages of MNCs
 
 4. MNC breach ethical standards, accusing them of evading ethical laws and leveraging their business agenda with capital.
 
-## 2.6 Fair Trade Practices and World Trade Organization
+<a id="topic-2-6"></a>
+
+## 2.6 Fair Trade Practices and World Trade Organization
 
 Fair Trade is a way of doing business that ultimately aims to keep small farmers an active part of the world market place, and aims to empower consumer to make purchases that support their values.
 
@@ -239,23 +263,23 @@ Disadvantaged producers.
 
 - Respect for the environment.
 
-### GATT: (General Agreement on Tariffs and Trade)
+### GATT: (General Agreement on Tariffs and Trade)
 
 GATT was signed by 23 countries in 1947. India was one of the founder members of GATT. The Director General of GATT, Arthur Dunkel, came up with a Draft Final Act, known as Dunkel Draft was approved and signed. GATT’s primary purpose was to increase International Trade by reducing various tariffs, quotas and subsidies while maintaining meaningful regulations.
 
 **Rounds of GATT**
 
-- First in Geneva (Switzerland) (1947)
+- First in Geneva (Switzerland) (1947)
 
-- Second in Annecy (France) in 1949
+- Second in Annecy (France) in 1949
 
 - Third in Torquay (UK) in 1950 – 51
 
-- Fourth, fifth, and Sixth in Geneva (Switzerland) in 1956, 1960-61, 1964 -67.
+- Fourth, fifth, and Sixth in Geneva (Switzerland) in 1956, 1960-61, 1964 -67.
 
 - Seventh in Tokyo (Japan) in 1973 – 79
 
-- Eighth and final round at Punta del Este (Uruguay) in 1986 – 1994, known as ‘Uruguay Round’.
+- Eighth and final round at Punta del Este (Uruguay) in 1986 – 1994, known as ‘Uruguay Round’.
 
 ### World Trade Organization (WTO)
 
@@ -290,11 +314,13 @@ The signing of the Final Act of the Uruguay Round by member nations of GATT in A
 
 - To ensure full employment and broad increase in effective demand.
 
-### Trade-Related Aspects of Intellectual Property Rights (TRIPs)
+### Trade-Related Aspects of Intellectual Property Rights (TRIPs)
 
 Intellectual Property Rights may be defined as “Information with a commercial Value” Under TRIPs Patent shall be available for any invention whether product or process in all fields of industrial technologies. TRIPS agreement covers seven areas of intellectual’s property rights.
 
-## 2.7 Impact and Challenges of Globalization
+<a id="topic-2-7"></a>
+
+## 2.7 Impact and Challenges of Globalization
 
 ### Positive Impact
 
@@ -373,55 +399,88 @@ This caused, the degradation of health and spread of diseases.
 
 ![](assets/page_008_picture_001.png)
 
+![GLOSSARY](assets/source-en-p315-glossary-1.png)
+
 ### EVALUATION
 
-**I Choose the correct answer**
+**I Choose the correct answer**
 
-1. Who is the head of the World Trade Organisation (WTO) a) Ministerial conference b) Director General c) Deputy Director General d) None of these
+1. Who is the head of the World Trade Organisation (WTO)
 
-2. Colonial advent in India a) Portuguese, Dutch, English, Danish,
+    a) Ministerial conference
 
-French b) Dutch, English, Danish , French c) Portuguese , Danish, Dutch, French,
+    b) Director General
 
-English d) Danish, Portuguese, French, English,
+    c) Deputy Director General
 
-Dutch
+    d) None of these
 
-3. GATT’s first round held in a) Tokyo b) Uruguay c) Torquay d) Geneva
+2. Colonial advent in India
 
-4. India signed the Dunkel proposal in a) 1984 b) 1976 c) 1950 d) 1994
+    a) Portuguese, Dutch, English, Danish, French
 
-5. who granted the English “golden Fireman” in 1632 a) Jahangir b) Sultan of Golconda c) Akbar d) Aurangzeb
+    b) Dutch, English, Danish , French
 
-6. Foreign Investment policy (FIP) announced in a) June 1991 b) July 1991 c) July- Aug-1991 d) Aug 1991
+    c) Portuguese , Danish, Dutch, French, English
+
+    d) Danish, Portuguese, French, English, Dutch
+
+3. GATT’s first round held in
+
+    a) Tokyo
+
+    b) Uruguay
+
+    c) Torquay
+
+    d) Geneva
+
+4. India signed the Dunkel proposal in
+
+    a) 1984
+
+    b) 1976
+
+    c) 1950
+
+    d) 1994
+
+5. who granted the English “golden Fireman” in 1632
+
+    a) Jahangir
+
+    b) Sultan of Golconda
+
+    c) Akbar
+
+    d) Aurangzeb
+
+6. Foreign Investment policy (FIP) announced in
+
+    a) June 1991
+
+    b) July 1991
+
+    c) July- Aug-1991
+
+    d) Aug 1991
 
 **II Fill in the Blanks**
 
-1. A better economy introduce rapid development of the ___________.
+1. A better economy introduce rapid development of the ___________.
 
-2. WTO agreement came into force from
+2. WTO agreement came into force from ___________.
 
-___________.
-
-3. The term globalization invented by
-
-___________.
+3. The term globalization invented by ___________.
 
 **III Match the following**
 
-1. Multination corporation in India - 1947
-
-2. MNC
-
-- enforce international trade
-
-3. GATT
-
-- Minimize cost of production
-
-4. WTO
-
-- Infosys
+| No. | Left column | Right column |
+|---|---|---|
+| 1 | Multination corporation in India | 1947 |
+| 2 | MNC | enforce international trade |
+| 3 | GATT | Minimize cost of production |
+| 4 | WTO | Infosys |
 
 **IV Give Short Answers**
 
@@ -429,19 +488,19 @@ ___________.
 
 2. Write the types of globalization.
 
-3. Write short note on Multinational corporation.
+3. Write short note on Multinational corporation.
 
-4. What are the reforms made to adopt globalization?
+4. What are the reforms made to adopt globalization?
 
 5. What is Fair trade ?
 
-6. Write any two principles of Fair Trade Practices.
+6. Write any two principles of Fair Trade Practices.
 
-7. Write any two positive impact of Globalization.
+7. Write any two positive impact of Globalization.
 
 **V Brief Answer**
 
-1. Briefly explain the advantages and disadvantages of MNC.
+1. Briefly explain the advantages and disadvantages of MNC.
 
 2. Write about the World Trade Organisation.
 
@@ -449,11 +508,11 @@ ___________.
 
 **VI Activity and Projects**
 
-1. Teacher and students have to discuss about the globalization.
+1. Teacher and students have to discuss about the globalization.
 
-2. Students have to collect the images regarded to the globalization and make the album. (south Indian trade and traders images, and silk route map, spice route map, and kalinga trade map, etc)
+2. Students have to collect the images regarded to the globalization and make the album. (south Indian trade and traders images, and silk route map, spice route map, and kalinga trade map, etc)
 
-3. Students have to collect the picture of various Multinational corporation companies in India and its products pictures.
+3. Students have to collect the picture of various Multinational corporation companies in India and its products pictures.
 
 ### REFERENCE BOOKS
 
@@ -466,3 +525,46 @@ ___________.
 3. History of Tamil Nadu [Social and Culture]
 
 4. S.K. Misra and V.K. Puri “Indian Economy”
+
+<!-- supplemental-resources:start -->
+
+<a id="learning-resources"></a>
+
+## Additional learning resources
+
+These external resources supplement the textbook. Topic relevance was checked from provider pages or indexed creator metadata on 12–13 October 2026. Video playback, spoken language and complete coverage of every subsection have not been fully verified. Language labels identify English resources and Tamil explanations. External quiz answers have not been audited against the textbook.
+
+### Videos
+
+- [English-medium video catalogue — Globalization and Trade](https://kalvichudarvideos.blogspot.com/p/10th-std-social-science-videos-em.html) — this lesson’s embedded video frame is present; spoken language and playback remain unverified.
+
+- [Globalization — Trade and Transnational Corporations](https://www.khanacademy.org/test-prep/mcat/society-andculture/demographics/v/globalization-trade-and-transnational-corporations) — Khan Academy / Sydney Brown; English. Covers selected concepts; see the topic table below.
+- [10th Social Economics: Globalization and Trade — detail question 3](https://www.youtube.com/watch?v=qUq6PgEAHYY) — HTAS How To Approach Schooling; Tamil explanation.
+- [10th Social Economics: Globalization and Trade — short answers 1, 2, 3](https://www.youtube.com/watch?v=yQKWwaNvKa8) — HTAS How To Approach Schooling; Tamil explanation.
+- [MNCs interlinking trade between countries — Tamil](https://www.youtube.com/watch?v=1CeVRZyQZAQ) — GullyClassroom; Tamil explanation. Covers selected concepts; see the topic table below.
+- [WTO and positive impacts of globalization — Tamil](https://www.youtube.com/watch?v=Dgtw5dzO-0E) — GullyClassroom; Tamil explanation. Covers selected concepts; see the topic table below.
+- [History of Globalization / உலகமயமாக்கலின் வரலாறு — SSLC Economics](https://www.youtube.com/watch?v=aY-f4aiNx8I) — Learn with Real Time Examples; Tamil explanation. Covers selected concepts; see the topic table below.
+- [சங்ககால தமிழர்களின் வணிகம்](https://www.youtube.com/watch?v=FWPn8W0UV-g) — Educator Muthukumar; Tamil explanation. Covers selected concepts; see the topic table below.
+- [Globalization in India / இந்தியாவில் உலகமயமாக்கல் — SSLC Economics](https://www.youtube.com/watch?v=x2a_XiYjvqY) — Learn with Real Time Examples; Tamil explanation. Covers selected concepts; see the topic table below.
+
+<a id="interactive-resources"></a>
+
+### Interactive activities
+
+- [WTO trade map — explore globalization through trade](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) — World Trade Organization; English. Runtime and answers have not been fully tested.
+
+### Resources by topic
+
+Each video below addresses the named topic or selected concepts within it. “Chapter practice” is a lesson quiz and may cover only some topics. These links do not establish complete textbook coverage.
+
+| Textbook topic | Video | Interactive activity |
+|---|---|---|
+| [2.1 Globalization](#topic-2-1) | [Topic video (English)](https://www.khanacademy.org/test-prep/mcat/society-andculture/demographics/v/globalization-trade-and-transnational-corporations) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
+| [2.2 History of Globalization](#topic-2-2) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=aY-f4aiNx8I) | [Lesson activities](#interactive-resources) |
+| [2.3 Trade and Traders in South India-Historical Perspective](#topic-2-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=FWPn8W0UV-g) | [Lesson activities](#interactive-resources) |
+| [2.4 Globalization in India](#topic-2-4) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=x2a_XiYjvqY) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
+| [2.5 Multinational Corporation (MNC)](#topic-2-5) | [Topic video (English)](https://www.khanacademy.org/test-prep/mcat/society-andculture/demographics/v/globalization-trade-and-transnational-corporations) | [Lesson activities](#interactive-resources) |
+| [2.6 Fair Trade Practices and World Trade Organization](#topic-2-6) | [Topic video (English)](https://www.khanacademy.org/test-prep/mcat/society-andculture/demographics/v/globalization-trade-and-transnational-corporations) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
+| [2.7 Impact and Challenges of Globalization](#topic-2-7) | [Topic video (English)](https://www.khanacademy.org/test-prep/mcat/society-andculture/demographics/v/globalization-trade-and-transnational-corporations) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
+
+<!-- supplemental-resources:end -->

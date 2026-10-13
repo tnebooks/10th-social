@@ -1,0 +1,15 @@
+{
+  "boundary_map_valid": true,
+  "source_page_pixels_verified": true,
+  "generated_site_valid": true,
+  "teacher_approval": false,
+  "full_semantic_review_complete": false,
+  "complete_item_inventory_accepted": false,
+  "video_playback_verified": false,
+  "aids": [],
+  "issues": [
+    "Candidate inventories need item-level reading-order/nested-question/figure-boundary audit.",
+    "Original text/raster assets outside verified findings may retain typography errors; consult exact original-page views.",
+    "External video playback/spoken language and interactive answers/runtime not fully audited."
+  ]
+}
