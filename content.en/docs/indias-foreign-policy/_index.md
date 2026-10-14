@@ -465,29 +465,29 @@ foe, only the interests are permanent’. New challenges have forced India to ad
 
 2. Prakash Chandra, Theories of International
 
-    Relations: Aman publishing
+Relations: Aman publishing
 
 3. S. Ganguly, India’s Foreign Policy, Oxford
 
-    University Press
+University Press
 
 4. Dutt V.P., India’s Foreign Policy in a changing world, Vikas Publishing House Pvt. Ltd., Noida (2009)
 
 5. Dixit J.N., India’s Foreign Policy and its
 
-    Neighbours, Gyan Publishing House, Delhi (2001)
+Neighbours, Gyan Publishing House, Delhi (2001)
 
 6. Khanna V.N., and Leslie K Kumar., Foreign
 
-    Policy of India, Vikas Publishing House Pvt. Ltd., (2018), Noida
+Policy of India, Vikas Publishing House Pvt. Ltd., (2018), Noida
 
 7. Muhkund Dubey., India’s Foreign Policy,
 
-    Orient Black Swan Pvt. Ltd., New Delhi (2015)
+Orient Black Swan Pvt. Ltd., New Delhi (2015)
 
 8. Shah, S.k., India’s Foreign Policy (Past,
 
-    Present and Ties with the world), Vij Books India Pvt. Ld., New Delhi (2017)
+Present and Ties with the world), Vij Books India Pvt. Ld., New Delhi (2017)
 
 ### INTERNET RESOURCES
 

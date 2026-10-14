@@ -550,7 +550,7 @@ Fishing in India is categorized into marine fishing and inland fishing.
 
 8. Which crop is called as “Golden Fibre” in India?
 
-    a) Cotton b) Wheat c) Jute d) Tobacco
+a) Cotton b) Wheat c) Jute d) Tobacco
 
 **II Consider the given statements and**
 
@@ -574,15 +574,15 @@ Reason (R): India ranks first in the world in the production of mango, banana, a
 
 2. Assertion (A): Alluvial soil is formed by the deposition of eroded and decayed materials brought by the rivers.
 
-    Reason (R): Paddy and wheat are grown well in the soil.
+Reason (R): Paddy and wheat are grown well in the soil.
 
-    (a) Both (A) and (R) are true and (R) explains (A)
+(a) Both (A) and (R) are true and (R) explains (A)
 
-    (b) Both (A) and (R)are true and (R) does not explain (A)
+(b) Both (A) and (R)are true and (R) does not explain (A)
 
-    (c) (A) is correct (R) is false
+(c) (A) is correct (R) is false
 
-    (d) (A) is false (R) is true
+(d) (A) is false (R) is true
 
 **III Pick the odd one out**
 

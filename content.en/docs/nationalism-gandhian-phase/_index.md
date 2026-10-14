@@ -628,27 +628,27 @@ Arrival of refugees in the wake of Partition
 
 1. Bipan Chandra, History of Modern India,
 
-    Orient BlackSwan, 2016.
+Orient BlackSwan, 2016.
 
 2. Bipan Chandra, Amales Tripathi and
 
-    Barun De, Freedom Struggle, NBT,1993.
+Barun De, Freedom Struggle, NBT,1993.
 
 3. Bipan Chandra, et al., India’s Struggle for
 
-    Independence, Penguin Books, 1989.
+Independence, Penguin Books, 1989.
 
 4. Sumit Sarkar, Modern India, 1885–1947,
 
-    Pearson, 2014.
+Pearson, 2014.
 
 5. Sekhar Bandyopadhyay, From Plassey to
 
-    Partition, Orient BlackSwan, 2013.
+Partition, Orient BlackSwan, 2013.
 
 6. B.R. Nanda, Mahatma Gandhi: A
 
-    Biography, Oxford University Press, 1958.
+Biography, Oxford University Press, 1958.
 
 ### ICT CORNER
 

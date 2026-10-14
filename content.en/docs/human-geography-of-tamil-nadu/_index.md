@@ -513,31 +513,31 @@ Tropical crops like paddy, millets, pluses, oilseeds and plantation crops of tea
 
 1. The delta which is known as Granary of
 
-    South India is a) Cauvery delta b) Mahanadi delta c) Godavari delta d) Krishna delta
+South India is a) Cauvery delta b) Mahanadi delta c) Godavari delta d) Krishna delta
 
 2. Second staple food of the people of
 
-    Tamil Nadu is a) Pulses b) Millets c) Oilseeds d) Rice
+Tamil Nadu is a) Pulses b) Millets c) Oilseeds d) Rice
 
 3. A major hydro-electric power project of
 
-    Tamil Nadu is a) Mettur b) Papansam c) Sathanur d) Thungabahdra
+Tamil Nadu is a) Mettur b) Papansam c) Sathanur d) Thungabahdra
 
 4. Number of major and minor ports in
 
-    Tamil Nadu are a) 3 and 15 b) 4 and 16 c) 3 and 16 d) 4 and 15
+Tamil Nadu are a) 3 and 15 b) 4 and 16 c) 3 and 16 d) 4 and 15
 
 **II Fill in the blanks**
 
 1. Agriculture of Tamil Nadu constitutes
 
-    ____________ % of its economy.
+____________ % of its economy.
 
 2. Sathanur Dam is constructed across the river ____________.
 
 3. ___________ is the third largest airport in
 
-    India after Mumbai and Delhi.
+India after Mumbai and Delhi.
 
 4. The difference between the value of exports and imports is called ___________.
 
@@ -556,29 +556,29 @@ Tropical crops like paddy, millets, pluses, oilseeds and plantation crops of tea
 
 1. Assertion (A): Coimbatore, Tiruppur,
 
-    Erode, Karur and Salem region is called as The Textile Valley of Tamil Nadu.
+Erode, Karur and Salem region is called as The Textile Valley of Tamil Nadu.
 
-    Reason (R): They contribute a major share to the states economy through textiles.
+Reason (R): They contribute a major share to the states economy through textiles.
 
-    (a) Both (A) and (R) are true and (R) explains (A)
+(a) Both (A) and (R) are true and (R) explains (A)
 
-    (b) Both (A) and (R) are true but, (R) does not explain (A)
+(b) Both (A) and (R) are true but, (R) does not explain (A)
 
-    (c) (A) is true but (R) is false
+(c) (A) is true but (R) is false
 
-    (d) (A) is false but (R) is true
+(d) (A) is false but (R) is true
 
 2. Assertion (A): The Nilgiris is the least populated district of Tamil Nadu
 
-    Reason (R): It is located in the western most part of Tamil Nadu.
+Reason (R): It is located in the western most part of Tamil Nadu.
 
-    (a) Both (A) and (R) are true and (R) explains (A)
+(a) Both (A) and (R) are true and (R) explains (A)
 
-    (b) Both (A) and (R) are true but, (R) does not explain (A)
+(b) Both (A) and (R) are true but, (R) does not explain (A)
 
-    (c) (A) is true but (R) is false
+(c) (A) is true but (R) is false
 
-    (d) (A) is false but (R) is true
+(d) (A) is false but (R) is true
 
 **V Answer the following in brief**
 
@@ -626,13 +626,13 @@ Tropical crops like paddy, millets, pluses, oilseeds and plantation crops of tea
 
 2. Kumaraswamy, S.V. (2014). Geography of Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam,
 
-    Coimbatore.
+Coimbatore.
 
 3. Statistical Hand Book of Tamil Nadu (2016). Department of Economics and Statistics, Government of Tamil Nadu, Chennai.
 
 4. Mathew, M. (2018). Manorama Yearbook – 2018 (English Version), Manorama Company Ltd.,
 
-    Kottayam.
+Kottayam.
 
 ### INTERNET RESOURCES
 

@@ -397,19 +397,19 @@ Gillespie are detailed.
 
 1. Burton Stein, Peasant State and Society in
 
-    Medieval South India, New Delhi:Oxford University Press, 1980.
+Medieval South India, New Delhi:Oxford University Press, 1980.
 
 2. P.M. Lalitha, Palayakararss as Feudatories
 
-    Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.
+Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.
 
 3. K. Rajayyan, South Indian Rebellion,
 
-    1800–1801, Madurai, Ratna Publication, 2000 (Reprint).
+1800–1801, Madurai, Ratna Publication, 2000 (Reprint).
 
 4. K.A. Manikumar, Vellore Revolt 1806
 
-    (Chennai: Allied Publishers, 2007).
+(Chennai: Allied Publishers, 2007).
 
 **A Book worth reading**
 

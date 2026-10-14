@@ -488,17 +488,17 @@ Forest based industries – the industries run with the help of forest products.
 
 1. Manganese is used in______.
 
-    a) Paper industry b) Steel Making c) Copper smelting d) Petroleum Refining
+a) Paper industry b) Steel Making c) Copper smelting d) Petroleum Refining
 
 2. The Anthracite coal has ___________.
 
-    a) 80 to 90% Carbon b) Above 70% Carbon c) 60 to 70% Carbon d) Below 50% Carbon
+a) 80 to 90% Carbon b) Above 70% Carbon c) 60 to 70% Carbon d) Below 50% Carbon
 
 3. The most important constituents of petroleum are hydrogen and a) Oxygen b) Water c) Carbon d) Nitrogen
 
 4. The city which is called as the Manchester of
 
-    South India is a) Chennai b) Salem c) Madurai d) Coimbatore
+South India is a) Chennai b) Salem c) Madurai d) Coimbatore
 
 5. The first Nuclear Power station was commissioned in a) Gujarat b) Rajasthan c) Maharashtra d) Tamil Nadu
 
@@ -506,7 +506,7 @@ Forest based industries – the industries run with the help of forest products.
 
 7. The nucleus for the development of the
 
-    Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d) Power Availability
+Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d) Power Availability
 
 **II Match the following**
 
@@ -568,23 +568,23 @@ Forest based industries – the industries run with the help of forest products.
 
 1. Singh,S. and J. Saroha – Geography of India,
 
-    New Delhi, Access Publishing Inida Pvt Ltd.
+New Delhi, Access Publishing Inida Pvt Ltd.
 
 2. Tiwar R.C. – Geography of India, Allahabad,
 
-    Prayag Pustak Bhawan.
+Prayag Pustak Bhawan.
 
 3. Government of India, Ministry of mines,
 
-    Coal, Textiles, Steel, Petroleum and Natural gas – Annual report 2017 -18
+Coal, Textiles, Steel, Petroleum and Natural gas – Annual report 2017 -18
 
 4. Economic and Commercial Geography,
 
-    Professor S.A. Ghazi
+Professor S.A. Ghazi
 
 5. Development of industries in India, from
 
-    Independence till today
+Independence till today
 
 ### ICT CORNER: India - Resources and Industries
 

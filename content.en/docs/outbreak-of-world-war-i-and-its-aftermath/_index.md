@@ -231,11 +231,11 @@ Faced with a threat of a renewed war, the German government was forced to agree 
 
 1. Germany was found guilty of starting the
 
-    War and therefore was to pay reparations for the losses suffered. All Central Powers were directed to pay war indemnity.
+War and therefore was to pay reparations for the losses suffered. All Central Powers were directed to pay war indemnity.
 
 2. The German army was to be limited to
 
-    100,000 men. A small navy was allowed.
+100,000 men. A small navy was allowed.
 
 3. The union of Austria and Germany was forbidden.
 
@@ -243,13 +243,13 @@ Faced with a threat of a renewed war, the German government was forced to agree 
 
 5. Germany was forced to revoke the Treaty of
 
-    Brest-Litovsk (with Russia) and Bucharest (Bulgaria).
+Brest-Litovsk (with Russia) and Bucharest (Bulgaria).
 
 6. Alsace–Lorraine was returned to France.
 
 7. The former Russian territories of Finland,
 
-    Estonia, Latvia and Lithuania were to be independent
+Estonia, Latvia and Lithuania were to be independent
 
 8. Northern Schleswig was given to Denmark and some small districts to Belgium.
 
@@ -257,7 +257,7 @@ Faced with a threat of a renewed war, the German government was forced to agree 
 
 10. The Rhineland was to be occupied by the
 
-    Allies. The area on the east bank of the Rhine was to be demilitarized.
+Allies. The area on the east bank of the Rhine was to be demilitarized.
 
 President Wilson laid down his Fourteen Points, which were to be followed by the Allies. The most important one he highlighted was the need for ‘a general association of nations for the purpose of affording mutual guarantees of political independence and territorial integrity to great and small states like’.
 

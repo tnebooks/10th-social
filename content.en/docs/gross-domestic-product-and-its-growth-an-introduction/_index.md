@@ -622,11 +622,11 @@ The economy of India had undergone policy in the beginning of the 1990s. This ne
 
 2. Ramesh Singh Indian Economy (10th
 
-    Edition).
+Edition).
 
 3. Ministry of Statistics and Implementation
 
-    Planning Commission. Government of India.
+Planning Commission. Government of India.
 
 ### INTERNET RESOURCES
 

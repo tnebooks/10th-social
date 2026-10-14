@@ -648,11 +648,11 @@ Natural disasters are earthquakes, volcanoes, landslides, cyclones, droughts and
 
 4. Which of the following passes is not located in the Western Ghats of Tamil Nadu?
 
-    a) Palghat b) Shencottah c) Bhorghat d) Achankoil
+a) Palghat b) Shencottah c) Bhorghat d) Achankoil
 
 5. Which one of the following rivers flows into the Arabian Sea?
 
-    a) Periyar b) Cauvery c) Chittar d) Bhavani
+a) Periyar b) Cauvery c) Chittar d) Bhavani
 
 6. The district with largest mangrove forest cover in Tamil Nadu is a) Ramanathapuram b) Nagapattinam c) Cuddalore d) Theni
 
@@ -684,15 +684,15 @@ Natural disasters are earthquakes, volcanoes, landslides, cyclones, droughts and
 
 1. Assertion (A): Tamil Nadu does not receive much rainfall from southwest monsoon. Reason (R): It is situated in the rain shadow area of the Western Ghats.
 
-    a) Both (A) and (R) are true and
+a) Both (A) and (R) are true and
 
-    (R) explains (A).
+(R) explains (A).
 
-    b) Both (A) and (R) are true but, (R) does not explain (A).
+b) Both (A) and (R) are true but, (R) does not explain (A).
 
-    c) (A) is true but, (R) is false.
+c) (A) is true but, (R) is false.
 
-    d) (R) is true but, (A) is false.
+d) (R) is true but, (A) is false.
 
 **V Answer the following in brief**
 
@@ -738,19 +738,19 @@ Natural disasters are earthquakes, volcanoes, landslides, cyclones, droughts and
 
 1. Geography of Tamil Nadu by Kumarasamy
 
-    (2018), Varthamana Publication, T. Nagar, Chennai.
+(2018), Varthamana Publication, T. Nagar, Chennai.
 
 2. Kumaraswamy, S.V. (2014). Geography of
 
-    Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam, Coimbatore.
+Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam, Coimbatore.
 
 3. Statistical Hand Book of Tamil Nadu (2016).
 
-    Department of Economics and Statistics, Government of Tamil Nadu, Chennai.
+Department of Economics and Statistics, Government of Tamil Nadu, Chennai.
 
 4. Mathew, M. (2018). Manorama Yearbook –
 
-    2018 (English Version), Manorama Company Ltd., Kottayam.
+2018 (English Version), Manorama Company Ltd., Kottayam.
 
 ### INTERNET RESOURCES
 

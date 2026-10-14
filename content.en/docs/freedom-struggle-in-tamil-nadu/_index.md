@@ -461,17 +461,17 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 1. K. Rajayyan, Tamil Nadu: A Real History,
 
-    Ratna Publications, Trivandrum, 2005.
+Ratna Publications, Trivandrum, 2005.
 
 2. Saroja Sundararajan, March to Freedom in Madras Presidency, 1916–1947, Lalitha Publications, Madras, 1989.
 
 3. N. Rajendran, National Movement in
 
-    Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.
+Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.
 
 4. A.R. Venkatachalapathy, Tamil Characters:
 
-    Personalities, Politics, Culture, Pan Macmillan, 2018.
+Personalities, Politics, Culture, Pan Macmillan, 2018.
 
 <!-- supplemental-resources:start -->
 
