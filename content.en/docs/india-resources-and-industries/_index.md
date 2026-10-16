@@ -7,9 +7,7 @@ weight: 14
 summary: "Any matter or energy derived from the environment that is used by living things including humans is called a natural resource. Natural resources include air, water, soil, minerals, fossil fuels, plants, wild life etc. Many natural resources are used as raw materials. They play a…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Geography Unit 4: India - Resources and Industries
 

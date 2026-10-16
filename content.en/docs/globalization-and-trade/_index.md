@@ -7,9 +7,7 @@ weight: 24
 summary: "Liberalization, Privatization and Globalization (LPG) have become a much talked of subjects among politicians, economists and businessmen in present time."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Economics Unit 2: Globalization and Trade
 

@@ -7,9 +7,7 @@ weight: 22
 summary: "Independent India has been consistently fostering world peace and international cooperation. India abjured military alliances, but has been active in cooperating and co-ordinating with other nations for peace and economic development. As the first Prime Minister of India Jawahar…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Civics Unit 5: India’s International Relations
 

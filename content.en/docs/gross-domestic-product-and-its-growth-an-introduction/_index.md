@@ -7,9 +7,7 @@ weight: 23
 summary: "To understand how the Indian Economy is doing, one has to understand what GDP is."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Economics Unit 1: Gross Domestic Product and its Growth: an Introduction
 

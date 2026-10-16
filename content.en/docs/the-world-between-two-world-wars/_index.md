@@ -7,9 +7,7 @@ weight: 2
 summary: "The First World War shattered the global capitalist system based on European imperialism. The European powers were gravely weakened by the War, financially and politically. The conflict between the workers and the ruling classes that controlled the government became intense. As…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 2: The World between two World Wars
 

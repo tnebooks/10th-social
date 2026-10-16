@@ -7,9 +7,7 @@ weight: 3
 summary: "The first half of the twentieth century witnessed two wars which devastated the world. World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945. While the world at large had experienced many wars, these two wars are referred to as “World” wars be…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 3: World war II
 

@@ -7,9 +7,7 @@ weight: 10
 summary: "Europeans established their political power over Indian subcontinent in the latter half of the eighteenth century. While they were concerned with annexing India, by the beginning of the nineteenth century, they were reordering Indian society. New revenue settlements were made. I…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 10: Social Transformation in Tamil Nadu
 

@@ -7,9 +7,7 @@ weight: 16
 summary: "The study of one’s own region is the first step to become a global citizen. The purpose of studying our local territory is to understand life in our environment. In the last five lessons, you have learnt about various geographical characteristics of our country. In this lesson a…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Geography Unit 6: Physical Geography of Tamil Nadu
 

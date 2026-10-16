@@ -7,9 +7,7 @@ weight: 6
 summary: "After defeating the French and their Indian allies in the three Carnatic Wars, the East India Company began to consolidate and extend its power and influence. However, local kings and feudal chieftains resisted this. The first resistance to East India Company’s territorial aggra…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 6: Early Revolts against British Rule in Tamil Nadu
 

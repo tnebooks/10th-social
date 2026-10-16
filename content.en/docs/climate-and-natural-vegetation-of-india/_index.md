@@ -7,9 +7,7 @@ weight: 12
 summary: "We drink more water during summer and do not drink the same amount of water during winter. Why do we wear cotton or light clothes during summer season and heavy woollen clothes during cold weather season in North India? Why do not we wear woollen clothes in South India? This is…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Geography Unit 2: Climate and Natural Vegetation of India
 

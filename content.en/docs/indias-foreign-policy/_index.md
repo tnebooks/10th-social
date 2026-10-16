@@ -7,9 +7,7 @@ weight: 21
 summary: "Foreign policy can be defined as a country’s policy that is conceived, designed and formulated to safeguard and promote her national interests in her external affairs, in the conduct of relationships with other countries, both bilaterally and multilaterally. It seeks to secure t…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Civics Unit 4: India’s Foreign Policy
 

@@ -7,9 +7,7 @@ weight: 7
 summary: "On 23 June 1757, the Nawab of Bengal Siraj-ud-daulah was defeated by the East India Company at the Battle of Plassey. The battle was orchestrated by Robert Clive, commander-inchief of the East India Company, who managed to get the clandestine support from Mir Jafar, the uncle of…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 7: Anti-Colonial Movements and the Birth of Nationalism
 

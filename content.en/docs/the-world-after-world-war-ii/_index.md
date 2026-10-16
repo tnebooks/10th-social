@@ -7,9 +7,7 @@ weight: 4
 summary: "In the aftermath of Second World War a new era began. It was the beginning of the decline of European colonial empires and the independence of colonies in Asia and Africa. If the effects of World War I led to the communist revolution of Russia, the Second World War played a big…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 4: The World after World War II
 

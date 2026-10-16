@@ -7,9 +7,7 @@ weight: 8
 summary: "Mahatma Gandhi arrived in India in 1915 from South Africa after fighting for the civil rights of the Indians there for about twenty years. He brought with him a new impulse to Indian politics. He introduced satyagraha, which he had perfected in South Africa, that could be practi…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 8: Nationalism: Gandhian Phase
 
