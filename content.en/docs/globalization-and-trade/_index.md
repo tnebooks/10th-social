@@ -403,65 +403,7 @@ This caused, the degradation of health and spread of diseases.
 
 **I Choose the correct answer**
 
-1. Who is the head of the World Trade Organisation (WTO)
 
-    a) Ministerial conference
-
-    b) Director General
-
-    c) Deputy Director General
-
-    d) None of these
-
-2. Colonial advent in India
-
-    a) Portuguese, Dutch, English, Danish, French
-
-    b) Dutch, English, Danish , French
-
-    c) Portuguese , Danish, Dutch, French, English
-
-    d) Danish, Portuguese, French, English, Dutch
-
-3. GATT’s first round held in
-
-    a) Tokyo
-
-    b) Uruguay
-
-    c) Torquay
-
-    d) Geneva
-
-4. India signed the Dunkel proposal in
-
-    a) 1984
-
-    b) 1976
-
-    c) 1950
-
-    d) 1994
-
-5. who granted the English “golden Fireman” in 1632
-
-    a) Jahangir
-
-    b) Sultan of Golconda
-
-    c) Akbar
-
-    d) Aurangzeb
-
-6. Foreign Investment policy (FIP) announced in
-
-    a) June 1991
-
-    b) July 1991
-
-    c) July- Aug-1991
-
-    d) Aug 1991
 
 **II Fill in the Blanks**
 
