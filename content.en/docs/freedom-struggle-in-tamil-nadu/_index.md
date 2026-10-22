@@ -351,44 +351,6 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 ### EXERCISE
 
-**I Choose the** **correct answer**
-
-1. Who was the first President of the Madras Mahajana Sabha?
-   - a) T.M. Nair
-   - b) P. Rangaiah
-   - c) G. Subramaniam
-   - d) G.A. Natesan
-
-2. Where was the third session of the Indian National Congress held?
-   - a) Marina
-   - b) Mylapore
-   - c) Fort St. George
-   - d) Thousand Lights
-
-3. Who said “Better bullock carts and freedom than a train de luxe with subjection”?
-   - a) Annie Besant
-   - b) M. Veeraraghavachari
-   - c) B.P. Wadia
-   - d) G.S. Arundale
-
-4. Who among the following were Swarajists?
-   - a) S. Satyamurti
-   - b) Kasturirangar
-   - c) P. Subbarayan
-   - d) Periyar EVR
-
-5. Who set up the satyagraha camp in Udyavanam near Madras?
-   - a) K. Kamaraj
-   - b) C. Rajaji
-   - c) K. Santhanam
-   - d) T. Prakasam
-
-6. Where was the anti-Hindi Conference held?
-   - a) Erode
-   - b) Madras
-   - c) Salem
-   - d) Madurai
-
 **II Fill in the blanks**
 
 1. ________ was appointed the first Indian Judge of the Madras High Court.

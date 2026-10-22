@@ -268,49 +268,6 @@ Gillespie are detailed.
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
-1. Who was the first Palayakkarars to resist the East India Company’s policy of territorial aggrandizement?
-   - a) Marudhu brothers
-   - b) Puli Thevar
-   - c) Velunachiyar
-   - d) Veerapandya Kattabomman
-
-2. Who had established close relationship with the three agents of Chanda Sahib?
-   - a) Velunachiyar
-   - b) Kattabomman
-   - c) Puli Thevar
-   - d) Oomai thurai
-
-3. Where was Sivasubramanianar executed?
-   - a) Kayathar
-   - b) Nagalapuram
-   - c) Virupachi
-   - d) Panchalankurichi
-
-4. Who issued the Tiruchirappalli proclamation of Independence?
-   - a) Marudhu brothers
-   - b) Puli Thevar
-   - c) Veerapandya Kattabomman
-   - d) Gopala Nayak
-
-5. When did the Vellore Revolt breakout?
-   - a) 24 May 1805
-   - b) 10 July 1805
-   - c) 10 July 1806
-   - d) 10 September 1806
-
-6. Who was the Commander-in-Chief responsible for the new military regulations in Vellore fort?
-   - a) Col. Fancourt
-   - b) Major Armstrong
-   - c) Sir John Cradock
-   - d) Colonel Agnew
-
-7. Where were the sons of Tipu Sultan sent after the Vellore Revolt?
-   - a) Calcutta
-   - b) Mumbai
-   - c) Delhi
-   - d) Mysore
 
 **II Fill in the blanks**
 

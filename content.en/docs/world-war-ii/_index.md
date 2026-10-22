@@ -350,49 +350,9 @@ The benefits can either be achieved through cash transfers, like old age pension
 
 ### EXERCISE
 
-**I Choose the correct answer**
 
-1. When did the Japanese formally sign of their surrender?
-   - a) 2 September, 1945
-   - b) 2 October, 1945
-   - c) 15 August, 1945
-   - d) 12 October, 1945
 
-2. Who initiated the formation of League of Nations?
-   - a) Roosevelt
-   - b) Chamberlain
-   - c) Woodrow Wilson
-   - d) Baldwin
 
-3. Where was the Japanese Navy defeated by the US Navy?
-   - a) Battle of Guadalcanal
-   - b) Battle of Midway
-   - c) Battle of Leningrad
-   - d) Battle of El Alamein
-
-4. Where did the US drop its first atomic bomb?
-   - a) Kavashaki
-   - b) Tokyo
-   - c) Hiroshima
-   - d) Nagasaki
-
-5. Who were mainly persecuted by Hitler?
-   - a) Russians
-   - b) Arabs
-   - c) Turks
-   - d) Jews
-
-6. Which Prime Minister of England signed the Munich Pact with Germany ?
-   - a) Chamberlain
-   - b) Winston Churchill
-   - c) Lloyd George
-   - d) Stanley Baldwin
-
-7. When was the Charter of the UN signed?
-   - a) June 26, 1942
-   - b) June 26, 1945
-   - c) January 1, 1942
-   - d) January 1, 1945
 
 **II Fill in the blanks**
 

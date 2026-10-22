@@ -502,44 +502,6 @@ Arrival of refugees in the wake of Partition
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
-1. Who was arrested during the anti-Rowlatt protests in Amritsar?
-   - a) Motilal Nehru
-   - b) Dr. Saifuddin Kitchlew
-   - c) Mohamed Ali
-   - d) Raj Kumar Shukla
-
-2. In which session of the Indian National Congress was Non-Cooperation approved?
-   - a) Bombay
-   - b) Madras
-   - c) Calcutta
-   - d) Lucknow
-
-3. Which among the following was declared as ‘Independence Day’?
-   - a) 26th January 1930
-   - b) 26th December 1929
-   - c) 16th June 1946
-   - d) 15th January 1947
-
-4. When was the first Forest Act enacted?
-   - a) 1858
-   - b) 1911
-   - c) 1865
-   - d) 1936
-
-5. On 8 January 1933, which day was observed ________.
-   - a) Temple Entry Day
-   - b) Day of Deliverance
-   - c) Direct Action Day
-   - d) Independence Day
-
-6. Which Act introduced Provincial Autonomy?
-   - a) 1858 Act
-   - b) Indian Councils Act, 1909
-   - c) Government of India Act, 1919
-   - d) Government of India Act, 1935
-
 **II Fill in the blanks**
 
 1. Gandhi regarded ________ as his political guru.

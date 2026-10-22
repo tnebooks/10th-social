@@ -409,55 +409,6 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
-1. Which one of the following was launched by Haji Shariatullah in 1818 in East Bengal?
-   - a) Wahhabi Rebellion
-   - b) Farazi Movement
-   - c) Tribal uprising
-   - d) Kol Revolt
-
-2. Who declared that “Land belongs to God” and collecting rent or tax on it was against divine law?
-   - a) Titu Mir
-   - b) Sidhu
-   - c) Dudu Mian
-   - d) Shariatullah
-
-3. Who were driven out of their homeland during the process of creation of Zamins under Permanent Settlement?
-   - a) Santhals
-   - b) Titu Mir
-   - c) Munda
-   - d) Kol
-
-4. Find out the militant nationalist from the following.
-   - a) Dadabhai Naoroji
-   - b) Justice Govind Ranade
-   - c) Bipin Chandra Pal
-   - d) Romesh Chandra
-
-5. When did the Partition of Bengal come into effect?
-   - a) 19 June 1905
-   - b) 18 July 1906
-   - c) 19 August 1907
-   - d) 16 October 1905
-
-6. What was the context in which the Chotanagpur Tenancy Act was passed?
-   - a) Kol Revolt
-   - b) Indigo Revolt
-   - c) Munda Rebellion
-   - d) Deccan Riots
-
-7. Who set up the first Home Rule League in April 1916?
-   - a) Annie Basant
-   - b) Bipin Chandra Pal
-   - c) Lala Lajpat Rai
-   - d) Tilak
-
-8. Who drew the attention of the British to the suffering of Indigo cultivation through his play Nil darpan?
-   - a) Dina Bandhu Mitra
-   - b) Romesh Chandra Dutt
-   - c) Dadabhai Naoroji
-   - d) Birsa Munda
 
 **II Fill in the blanks**
 

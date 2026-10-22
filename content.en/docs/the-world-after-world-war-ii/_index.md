@@ -406,44 +406,6 @@ Arab-Israeli Wars and Vietnam War.
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
-1. Which American President followed the policy of containment of Communism?.
-   - a) Woodrow Wilson
-   - b) Truman
-   - c) Theodore Roosevelt
-   - d) Franklin Roosevelt
-
-2. When was People’s Political Consultative Conference held in China?
-   - a) September 1959
-   - b) September 1948
-   - c) September 1954
-   - d) September 1949
-
-3. The United States and European allies formed ________ to resist any Soviet aggression in Europe.
-   - a) SEATO
-   - b) NATO
-   - c) CENTO
-   - d) Warsaw Pact
-
-4. Who became the Chairman of the PLO’s Executive Committee in 1969?
-   - a) Hafez al-Assad
-   - b) Yasser Arafat
-   - c) Nasser
-   - d) Saddam Hussein
-
-5. When was North and South Vietnam united?
-   - a) 1975
-   - b) 1976
-   - c) 1973
-   - d) 1974
-
-6. When was the Warsaw Pact dissolved?
-   - a) 1979
-   - b) 1989
-   - c) 1990
-   - d) 1991
-
 **II Fill in the blanks**
 
 1. ________ was known as the “Father of modern China”.
