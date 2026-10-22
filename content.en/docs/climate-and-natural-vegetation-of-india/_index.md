@@ -243,39 +243,7 @@ Natural vegetation can be classified as tropical evergreen forests, tropical dec
 
 ### EXERCISE
 
-**I Choose the correct answer**
 
-1. Western disturbances cause rainfall in
-
-_________.
-
-a) Tamil Nadu b) Kerala c) Punjab d) Madhya Pradesh
-
-2. _________ helps in quick ripening of mangoes along the coast of Kerala and Karnataka.
-
-a) Loo b) Norwester c) Mango showers d) Jet stream
-
-3. _________ is a line joining the places of equal rainfall.
-
-a) Isohyets b) Isobar c) Isotherm d) Latitudes
-
-4. Climate of India is labelled as _________.
-
-a) Tropical humid b) Equatorial Climate c) Tropical Monsoon Climate d) Temperate Climate
-
-5. The monsoon forests are otherwise called as
-
-_________.
-
-a) Tropical evergreen forest b) Deciduous forest c) Mangrove forest d) Mountain forest
-
-6. Sesahachalam hills, a Biosphere reserve is situated in _________.
-
-a) Tamil Nadu b) Andhra Pradesh c) Madhya Pradesh d) Karnataka
-
-7. _________ is not a part of the world network biosphere reserves of UNESCO
-
-A) The Nilgiris b) Agasthiyamalai c) Great Nicobar d) Kachch
 
 **II Match the following**
 

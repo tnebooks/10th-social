@@ -401,33 +401,6 @@ In which river the Gerosappa (Jog) fall is found?
 
 ![](assets/page_015_picture_001.png)
 
-**I Choose the correct**
-
-**answer**
-
-1. The north-south extent of
-
-India is a. 2,500 km b. 2,933 km c. 3,214 km d. 2,814 km
-
-2. _________ River is known as ‘Sorrow of
-
-Bihar’.
-
-a. Narmada b. Godavari c. Kosi d. Damodar
-
-3. A landmass bounded by sea on three sides is referred to as _________.
-
-a. Coast b. Island c. Peninsula d. Strait
-
-4. The Palk Strait and Gulf of Mannar separates India from _______ a. Goa b. West Bengal c. Sri Lanka d. Maldives
-
-5. The highest peak in South India is a. Ooty b. Kodaikanal c. Anaimudi d. Jindhagada
-
-6. _____________ Plains are formed by the older alluviums.
-
-a. Bhabar b. Tarai c. Bhangar d. Khadar
-
-7. Pulicat Lake is located between the states of a. West Bengal and Odisha b. Karnataka and Kerala c. Odisha and Andhra Pradesh d. Tamil Nadu and Andhra Pradesh
 
 **II Match the following**
 

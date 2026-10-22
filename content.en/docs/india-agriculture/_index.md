@@ -532,8 +532,6 @@ Fishing in India is categorized into marine fishing and inland fishing.
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
 1. The soil which is rich in iron oxides is __________. a) Alluvial b) Black c) Red d) Alkaline
 
 2. Which of the following organization has divided the Indian soils into 8 major groups? a) Indian Council of Agricultural Research b) Indian Meteorological Department c) Soil Survey of India d) Indian Institute of Soil Science
@@ -551,6 +549,8 @@ Fishing in India is categorized into marine fishing and inland fishing.
 8. Which crop is called as “Golden Fibre” in India?
 
 a) Cotton b) Wheat c) Jute d) Tobacco
+
+
 
 **II Consider the given statements and**
 

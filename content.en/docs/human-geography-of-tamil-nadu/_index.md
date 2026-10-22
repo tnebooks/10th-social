@@ -509,23 +509,7 @@ Tropical crops like paddy, millets, pluses, oilseeds and plantation crops of tea
 
 ### EXERCISE
 
-**I Choose the correct answer**
 
-1. The delta which is known as Granary of
-
-South India is a) Cauvery delta b) Mahanadi delta c) Godavari delta d) Krishna delta
-
-2. Second staple food of the people of
-
-Tamil Nadu is a) Pulses b) Millets c) Oilseeds d) Rice
-
-3. A major hydro-electric power project of
-
-Tamil Nadu is a) Mettur b) Papansam c) Sathanur d) Thungabahdra
-
-4. Number of major and minor ports in
-
-Tamil Nadu are a) 3 and 15 b) 4 and 16 c) 3 and 16 d) 4 and 15
 
 **II Fill in the blanks**
 

@@ -496,27 +496,8 @@ Trade is an exchange of goods and services. Internal and International trades ar
 
 ### EXERCISE
 
-**I Choose the correct**
 
-**answer**
 
-1. The scientific study of different aspects of population is called a) Cartography b) Demography c) Anthropology d) Epigraphy
-
-2. _________ transport provides door to door services. a) Railways b) Roadways c) Airways d) Waterways.
-
-3. The length of Golden Quadrilateral superhighways in India is a) 5846 km b) 5942 km c) 5630 km d) 5800 km
-
-4. The National Remote sensing Centre(NRSC) is located at _________.
-
-a) Bengaluru b) Chennai c) Delhi d) Hyderabad
-
-5. The transport useful in the inaccessible areas is a) Roadways b) Railways c) Airways d) Waterways
-
-6. Which of the following is associated with helicopter service?
-
-a) Air India b) Indian Airlines c) Vayudoot d) Pavan Hans
-
-7. The major import item of India is a) Cement b) Jewells c) Tea d) Petroleum
 
 **II Match the following**
 

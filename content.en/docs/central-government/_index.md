@@ -441,77 +441,7 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
 
 ### EVALUATION
 
-**I Choose the correct answer**
 
-1. The Constitutional Head of the Union is
-
-    a) The President
-
-    b) The Chief Justice
-
-    c) The Prime Minister
-
-    d) Council of Ministers
-
-2. Who among the following decides whether a Bill is a Money Bill or not?
-
-    a) The President
-
-    b) Attorney General
-
-    c) Parliamentary Affairs Minister
-
-    d) Speaker of Lok Sabha
-
-3. The Council of Ministers is collectively responsible to the:
-
-    a) The President
-
-    b) Lok Sabha
-
-    c) The Prime Minister
-
-    d) Rajya Sabha
-
-4. What is minimum age laid down for a candidate to seek election to the Lok Sabha?
-
-    a) 18 years
-
-    b) 21 years
-
-    c) 25 years
-
-    d) 30 years
-
-5. The authority to alter the boundaries of state in India rest with?
-
-    a) The President
-
-    b) The Prime Minister
-
-    c) State Government
-
-    d) Parliament
-
-6. Under which Article the President is vested with the power to proclaim Financial Emergency
-
-    a) Article 352
-
-    b) Article 360
-
-    c) Article 356
-
-    d) Article 365
-
-7. The Chief Justice and other Judges of the Supreme court are appointed by:
-
-    a) The President
-
-    b) TheAttorney General
-
-    c) The Governor
-
-    d) The Prime Minister
 
 **II Fill in the blanks**
 

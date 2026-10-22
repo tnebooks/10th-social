@@ -352,57 +352,6 @@ GDP and Per Capita Income.
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
-1. ‘The Detroit of Asia’ is ___________.
-
-    a) Tuticorin
-
-    b) Coimbatore
-
-    c) Chennai
-
-    d) Madurai
-
-2. Pumpsets and motors are produced mostly in
-
-    a) Salem
-
-    b) Coimbatore
-
-    c) Chennai
-
-    d) Dharampuri
-
-3. ___________ are an essential aspect of a nation’s development.
-
-    a) agriculture
-
-    b) industry
-
-    c) railway
-
-    d) none of these
-
-4. Tiruppur is known for
-
-    a) Leather tanning
-
-    b) Lock making
-
-    c) Knitwear
-
-    d) Agro-processing
-
-5. A successful industrial cluster entirely created by the Tamil Nadu is
-
-    a) Hosur
-
-    b) Dindigul
-
-    c) Kovilpatti
-
-    d) Tirunelveli
 
 **II Fill in the blanks**
 

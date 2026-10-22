@@ -484,29 +484,9 @@ Forest based industries – the industries run with the help of forest products.
 
 ### EXERCISE
 
-**I Choose the correct answer**
 
-1. Manganese is used in______.
 
-a) Paper industry b) Steel Making c) Copper smelting d) Petroleum Refining
 
-2. The Anthracite coal has ___________.
-
-a) 80 to 90% Carbon b) Above 70% Carbon c) 60 to 70% Carbon d) Below 50% Carbon
-
-3. The most important constituents of petroleum are hydrogen and a) Oxygen b) Water c) Carbon d) Nitrogen
-
-4. The city which is called as the Manchester of
-
-South India is a) Chennai b) Salem c) Madurai d) Coimbatore
-
-5. The first Nuclear Power station was commissioned in a) Gujarat b) Rajasthan c) Maharashtra d) Tamil Nadu
-
-6. The most abundant source of energy is a) Biomass b) Sun c) Coal d) Oil
-
-7. The nucleus for the development of the
-
-Chotanagpur plateau region is a) Transport b) Mineral Deposits c) Large demand d) Power Availability
 
 **II Match the following**
 

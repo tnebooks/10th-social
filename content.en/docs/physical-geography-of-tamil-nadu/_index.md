@@ -620,45 +620,7 @@ Natural disasters are earthquakes, volcanoes, landslides, cyclones, droughts and
 
 ### EXERCISE
 
-**I Choose the correct**
 
-**answer**
-
-1. The latitudinal extent of Tamil Nadu is
-
-   a) 8°4′N to 13°35′N
-
-   b) 8°5′S to 13°35′S
-
-   c) 8°0′N to 13°5′N
-
-   d) 8°0′S to 13°05′S
-
-2. The longitudinal extent of Tamil Nadu is
-
-   a) 76°18′E to 80°20′E
-
-   b) 76°18′W to 80°20′W
-
-   c) 86°18′E to 10°20′E
-
-   d) 86°18′W to 10°20′W
-
-3. The highest peak in Tamil Nadu is a) Anaimudi b) Doddabetta c) Mahendragiri d) Servarayan
-
-4. Which of the following passes is not located in the Western Ghats of Tamil Nadu?
-
-a) Palghat b) Shencottah c) Bhorghat d) Achankoil
-
-5. Which one of the following rivers flows into the Arabian Sea?
-
-a) Periyar b) Cauvery c) Chittar d) Bhavani
-
-6. The district with largest mangrove forest cover in Tamil Nadu is a) Ramanathapuram b) Nagapattinam c) Cuddalore d) Theni
-
-7. Retreating monsoon wind picks up moisture from a) Arabian sea b) Bay of Bengal c) Indian Ocean d) Timor sea
-
-8. The district which has the largest forest cover in Tamil Nadu is a) Dharmapuri b) Vellore c) Dindigul d) Erode
 
 **II Fill in the blanks**
 
