@@ -7,9 +7,7 @@ weight: 10
 summary: "Europeans established their political power over Indian subcontinent in the latter half of the eighteenth century. While they were concerned with annexing India, by the beginning of the nineteenth century, they were reordering Indian society. New revenue settlements were made. I…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 10: Social Transformation in Tamil Nadu
 
@@ -323,38 +321,6 @@ Presidency.
 | rechristened | give a new name to |
 
 ### EXERCISE
-
-**I Choose the correct answer**
-
-1. ________ established a full-fledged printing press in 1709, at Tranquebar.
-   - a) Caldwell
-   - b) F.W. Ellis
-   - c) Ziegenbalg
-   - d) Meenakshisundaram
-
-2. ________ founded Adi Dravida Mahajana Sabha in 1893.
-   - a) Rettaimalai Srinivasan
-   - b) B. R. Ambedkar
-   - c) Rajaji
-   - d) M. C. Rajah
-
-3. India’s first organised trade union, the Madras Labour Union was formed in ________.
-   - a) 1918
-   - b) 1917
-   - c) 1916
-   - d) 1914
-
-4. ________ was established by the Justice Party Government for the selection of Government officials.
-   - a) Staff Selection Board
-   - b) Public Service Commission
-   - c) Provincial Staff Recruitment Board
-   - d) Staff Selection Commission
-
-5. ________ was the first elected Legislative Council Member from the depressed class in Madras Province.
-   - a) M. C. Rajah
-   - b) Rettaimalai Srinivasan
-   - c) T.M. Nair
-   - d) P. Varadarajulu
 
 **II Fill in the blanks**
 

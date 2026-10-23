@@ -7,9 +7,7 @@ weight: 5
 summary: "English education, introduced with the objective of producing clerks, also produced a new English-educated middle class. This class came under the influence of western ideas and thoughts. Christianity also had its effect on the newly emerging middle class. Though small in number…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 5: Social and Religious Reform Movements in the 19th Century
 
@@ -331,48 +329,6 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 
 ### EXERCISE
 
-**I Choose the correct answer**
-
-1. In which year was Sati abolished?
-   - a) 1827
-   - b) 1829
-   - c) 1826
-   - d) 1927
-
-2. What was the name of the Samaj founded by Dayanand Saraswati?
-   - a) Arya Samaj
-   - b) Brahmo Samaj
-   - c) Prarthana Samaj
-   - d) Adi Brahmo Samaj
-
-3. Whose campaign and work led to the enactment of Widow Remarriage Reform Act of 1856?
-   - a) Iswarchandra Vidyasagar
-   - b) Raja Rammohan Roy
-   - c) Annie Besant
-   - d) Jyotiba Phule
-
-4. Whose voice was Rast Goftar?
-   - a) Parsi Movement
-   - b) Aligarh Movement
-   - c) Ramakrishna Mission
-   - d) Dravida Mahajana Sabha
-
-5. Who was the founder of Namdhari Movement?
-   - a) Baba Dayal Das
-   - b) Baba Ramsingh
-   - c) Gurunanak
-   - d) Jyotiba Phule
-
-6. Who was the founder of Widow Remarriage Association?
-   - a) Mahadev Govind Ranade
-   - b) Devendranath Tagore c ) Jyotiba Phule
-   - d) Ayyankali
-
-7. Who was the author of the book Satyarthaprakash ?
-   - a) Dayananda Saraswathi
-   - b) Iyothee Thassar
-   - c) Annie Besant
-   - d) Narayana Guru
 
 **II Fill in the blanks**
 

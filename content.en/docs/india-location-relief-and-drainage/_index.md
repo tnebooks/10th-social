@@ -7,9 +7,7 @@ weight: 11
 summary: "India is the seventh largest country in the world. It is separated by the Himalayas from the rest of the continent. India accounts for about 2.4 % of the total area of the world with an area of 32,87,263 sq.km, many of the India states are larger than several countries of the wo…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Geography Unit 1: India - Location, Relief and Drainage
 
@@ -401,7 +399,10 @@ In which river the Gerosappa (Jog) fall is found?
 
 ![](assets/page_015_picture_001.png)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 **II Match the following**
 
 | No. | Column A | Column B (shuffled) |

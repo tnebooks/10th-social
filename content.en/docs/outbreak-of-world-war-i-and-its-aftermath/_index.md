@@ -7,10 +7,6 @@ weight: 1
 summary: "The year 1914 is a turning point in world history. The political and social processes that began in 1789, culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteen…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
-
 # History Unit 1: Outbreak of World War I and Its Aftermath
 
 ![](assets/page_001_picture_001.png)
@@ -438,44 +434,6 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 | intelligentsia | intellectuals or highly educated people as a group, especially when regarded as possessing culture and political influence |
 
 ### EXERCISE
-
-**I Choose the correct answer**
-
-1. What were the three major empires shattered by the end of First World War?
-   - a) Germany, Austria Hungary, and the Ottomans
-   - b) Germany, Austria-Hungary, and Russia
-   - c) Spain, Portugal and Italy
-   - d) Germany, Austria-Hungary, Italy
-
-2. Which country emerged as the strongest in East Asia towards the close of nineteenth century?
-   - a) China
-   - b) Japan
-   - c) Korea
-   - d) Mongolia
-
-3. Who said “imperialism is the highest stage of capitalism”?
-   - a) Lenin
-   - b) Marx
-   - c) Sun Yat-sen
-   - d) Mao Tsetung
-
-4. What is the Battle of Marne remembered for?
-   - a) air warfare
-   - b) trench warfare
-   - c) submarine warfare
-   - d) ship warfare
-
-5. To which country did the first Secretary General of League of Nations belong?
-   - a) Britain
-   - b) France
-   - c) Dutch
-   - d) USA
-
-6. Which country was expelled from the League of Nations for attacking Finland?
-   - a) Germany
-   - b) Russia
-   - c) Italy
-   - d) France
 
 **II Fill in the blanks**
 

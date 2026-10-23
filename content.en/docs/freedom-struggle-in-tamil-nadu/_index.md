@@ -7,9 +7,7 @@ weight: 9
 summary: "Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepo…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 9: Freedom Struggle in Tamil Nadu
 
@@ -352,44 +350,6 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 | repression | action of subduing someone or something with force |
 
 ### EXERCISE
-
-**I Choose the** **correct answer**
-
-1. Who was the first President of the Madras Mahajana Sabha?
-   - a) T.M. Nair
-   - b) P. Rangaiah
-   - c) G. Subramaniam
-   - d) G.A. Natesan
-
-2. Where was the third session of the Indian National Congress held?
-   - a) Marina
-   - b) Mylapore
-   - c) Fort St. George
-   - d) Thousand Lights
-
-3. Who said “Better bullock carts and freedom than a train de luxe with subjection”?
-   - a) Annie Besant
-   - b) M. Veeraraghavachari
-   - c) B.P. Wadia
-   - d) G.S. Arundale
-
-4. Who among the following were Swarajists?
-   - a) S. Satyamurti
-   - b) Kasturirangar
-   - c) P. Subbarayan
-   - d) Periyar EVR
-
-5. Who set up the satyagraha camp in Udyavanam near Madras?
-   - a) K. Kamaraj
-   - b) C. Rajaji
-   - c) K. Santhanam
-   - d) T. Prakasam
-
-6. Where was the anti-Hindi Conference held?
-   - a) Erode
-   - b) Madras
-   - c) Salem
-   - d) Madurai
 
 **II Fill in the blanks**
 

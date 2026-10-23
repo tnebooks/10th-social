@@ -7,9 +7,7 @@ weight: 2
 summary: "The First World War shattered the global capitalist system based on European imperialism. The European powers were gravely weakened by the War, financially and politically. The conflict between the workers and the ruling classes that controlled the government became intense. As…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 2: The World between two World Wars
 
@@ -311,37 +309,9 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 
 ### EXERCISE
 
-**I Choose the correct answer**
 
-1. With whom of the following was the Lateran Treaty signed by Italy?
-   - a) Germany
-   - b) Russia
-   - c) Pope
-   - d) Spain
 
-2. With whose conquest did the Mexican civilization collapse?
-   - a) Hernan Cortes
-   - b) Francisco Pizarro
-   - c) Toussaint Louverture
-   - d) Pedro I
 
-3. Who made Peru as part of their dominions?
-   - a) English
-   - b) Spaniards
-   - c) Russians
-   - d) French
-
-4. Which President of the USA pursued “Good Neighbour” policy towards Latin America?
-   - a) Franklin D. Roosevelt
-   - b) Truman
-   - c) Woodrow Wilson
-   - d) Eisenhower
-
-5. Which part of the world disliked dollar imperialism?
-   - a) Europe
-   - b) Latin America
-   - c) India
-   - d) China
 
 **II Fill in the blanks**
 

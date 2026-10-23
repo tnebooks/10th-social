@@ -7,9 +7,7 @@ weight: 4
 summary: "In the aftermath of Second World War a new era began. It was the beginning of the decline of European colonial empires and the independence of colonies in Asia and Africa. If the effects of World War I led to the communist revolution of Russia, the Second World War played a big…"
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # History Unit 4: The World after World War II
 
@@ -407,44 +405,6 @@ Arab-Israeli Wars and Vietnam War.
 | bacteriological weapons | the use of harmful bacteria as a weapon |
 
 ### EXERCISE
-
-**I Choose the correct answer**
-
-1. Which American President followed the policy of containment of Communism?.
-   - a) Woodrow Wilson
-   - b) Truman
-   - c) Theodore Roosevelt
-   - d) Franklin Roosevelt
-
-2. When was People’s Political Consultative Conference held in China?
-   - a) September 1959
-   - b) September 1948
-   - c) September 1954
-   - d) September 1949
-
-3. The United States and European allies formed ________ to resist any Soviet aggression in Europe.
-   - a) SEATO
-   - b) NATO
-   - c) CENTO
-   - d) Warsaw Pact
-
-4. Who became the Chairman of the PLO’s Executive Committee in 1969?
-   - a) Hafez al-Assad
-   - b) Yasser Arafat
-   - c) Nasser
-   - d) Saddam Hussein
-
-5. When was North and South Vietnam united?
-   - a) 1975
-   - b) 1976
-   - c) 1973
-   - d) 1974
-
-6. When was the Warsaw Pact dissolved?
-   - a) 1979
-   - b) 1989
-   - c) 1990
-   - d) 1991
 
 **II Fill in the blanks**
 

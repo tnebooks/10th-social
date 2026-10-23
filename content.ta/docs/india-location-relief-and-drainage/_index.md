@@ -7,9 +7,7 @@ weight: 11
 summary: "India is the seventh largest country in the world. It is separated by the Himalayas from the rest of the continent. India accounts for about 2.4 % of the total area of the world with an area of 32,87,263 sq.km, many of the India states are larger than several countries of the wo…"
 ---
 
-<!-- textbook-source-view:start -->
-[மூலப் பாடநூலின் முழுப் பக்கங்கள் — படங்கள், அட்டவணைகள், பயிற்சிகள்]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 இந்தியா அமைவிடம் நிலத்தோற்றம் மற்றும் வடிகாலமைப்பு
  
@@ -654,7 +652,7 @@ summary: "India is the seventh largest country in the world. It is separated by 
 
 ### முந்தைய உரலிகளின் சோதனை
 
-கீழே களஞ்சியத்தில் முன்பு இருந்த உரலிகளின் நிலையும் மாற்று வளங்களும் உள்ளன. பாடநூலில் அச்சிடப்பட்ட உரலியை உறுதிப்படுத்த [மூலப் பக்கங்களை]({{< relref "source.md" >}}) பார்க்கவும்.
+
 
 | முந்தைய உரலி | சோதனை நிலை | மாற்று வளம் |
 |---|---|---|

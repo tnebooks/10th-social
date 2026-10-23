@@ -7,9 +7,7 @@ weight: 24
 summary: "Liberalization, Privatization and Globalization (LPG) have become a much talked of subjects among politicians, economists and businessmen in present time."
 ---
 
-<!-- textbook-source-view:start -->
-[Original English textbook pages — diagrams, tables, activities and exercises]({{< relref "source.md" >}})
-<!-- textbook-source-view:end -->
+
 
 # Economics Unit 2: Globalization and Trade
 
@@ -403,6 +401,12 @@ This caused, the degradation of health and spread of diseases.
 
 ### EVALUATION
 
+<<<<<<< HEAD
+=======
+**I Choose the correct answer**
+
+
+>>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 
 **II Fill in the Blanks**
 
