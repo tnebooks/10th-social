@@ -351,15 +351,6 @@ foe, only the interests are permanent’. New challenges have forced India to ad
 
     d) all the above
 
-**IV Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Indian Ocean island | 1955 |
-| 2 | Land bridge to ASEAN | 1954 |
-| 3 | Panchsheel | Maldives |
-| 4 | Afro Asian Conference | Foreign Policy |
-| 5 | World Peace | Myanmar |
 
 **V Give short answers**
 

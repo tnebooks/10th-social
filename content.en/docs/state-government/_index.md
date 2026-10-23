@@ -397,16 +397,6 @@ All the decisions and decrees issued by the High Court are printed and are kept 
 
 4. The Chairman and Members of the State Public Service Commission can be removed only by the _______.
 
-**III Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Governor | Head of the Government |
-| 2 | Chief Minister | Head of the State |
-| 3 | Council of Ministers | Tribunals |
-| 4 | MLC | Responsible for the Assembly |
-| 5 | Armed forces | cannot vote for grants |
-
 **IV Answer the brief questions**
 
 1. What is the importance of the Governor of a state?

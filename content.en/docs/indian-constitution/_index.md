@@ -384,16 +384,6 @@ Democratic Republic.
 
 5. Fundamental duties have been given to the citizen of India under Article________.
 
-**III Match the Following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Citizenship Act | Jawaharlal Nehru |
-| 2 | The Preamble | 42nd Amendment |
-| 3 | The mini Constitution | 1955 |
-| 4 | Classical language | 1962 |
-| 5 | National Emergency | Tamil |
-
 **IV Give short Answers**
 
 1. What is a Constitution?

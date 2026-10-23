@@ -412,15 +412,6 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 
     d) Both are wrong
 
-**IV Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Brandix | Vienna |
-| 2 | COMCASA | Japan |
-| 3 | Shinkansen system | Shanghai |
-| 4 | BRICS | USA |
-| 5 | OPEC | Garment city in Vishakapatnam |
 
 **V Give short answers**
 

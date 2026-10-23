@@ -257,14 +257,8 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
  b) iii & iv are correct
  c) i & iv are correct
  d) i & ii are correct
-**IV Match the following**
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Article 53 | State Emergency |
-| 2 | Article 63 | Internal Emergency |
-| 3 | Article 356 | Executive power of President |
-| 4 | Article 76 | Office of the Vice-President |
-| 5 | Article 352 | Office of the Attorney General |
+
+
 **V Answer the brief questions**
 1. How is President of India elected?
 2. What are the different categories of Ministers at the Union level?
