@@ -348,14 +348,6 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
    - c) Both A and R are wrong
    - d) A is wrong and R has no relevance to A
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Transvaal | President of Germany |
-| 2 | Hindenburg | Hitler |
-| 3 | Third Reich | Italy |
-| 4 | Matteotti | gold |
 
 **V Answer briefly**
 

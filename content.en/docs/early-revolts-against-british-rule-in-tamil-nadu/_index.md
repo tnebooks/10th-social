@@ -313,14 +313,6 @@ Gillespie are detailed.
    - c) Both (A) and (R) are correct and (R) is the correct explanation of (A)
    - d) (A) is wrong and (R) is correct
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Theerthagiri | Vellore Revolt |
-| 2 | Gopala Nayak | Ramalinganar |
-| 3 | Bannerman | Dindigul |
-| 4 | Subedar Sheik Adam | Odanilai |
 
 **V Answer the questions briefly**
 

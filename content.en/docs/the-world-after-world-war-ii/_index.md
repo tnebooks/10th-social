@@ -443,15 +443,7 @@ Arab-Israeli Wars and Vietnam War.
    - c) Both (A) and (R) are correct and R is the correct explanation of A
    - d) (A) is wrong and (R) is correct
 
-**IV Match the following**
 
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Dr. Sun Yat-Sen | South Vietnam |
-| 2 | Syngman Rhee | Kuomintung |
-| 3 | Anwar Sadat | South Korea |
-| 4 | Ho-Chi Minh | Egypt |
-| 5 | Ngo Dinh Diem | North Vietnam |
 
 **V Answer briefly**
 

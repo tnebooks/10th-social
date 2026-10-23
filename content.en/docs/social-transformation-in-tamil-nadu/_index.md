@@ -358,14 +358,7 @@ Presidency.
    - c) Both A and R are wrong
    - d) R is correct, but it has no relevance to A
 
-**IV Match the following**
 
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Dravidian Home | Maraimalai Adigal |
-| 2 | Thozhilalan | Rettaimalai Srinivasan |
-| 3 | Tani Tamil Iyakkam | Singaravelar |
-| 4 | Jeeviya Saritha Surukkam | Natesanar |
 
 **V Answer briefly**
 

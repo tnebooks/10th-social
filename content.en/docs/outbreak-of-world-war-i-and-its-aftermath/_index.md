@@ -470,15 +470,6 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
    - c) Both A and R are wrong
    - d) R is right but A is wrong.
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Treaty of Brest- Litovsk | Versailles |
-| 2 | Jingoism | Turkey |
-| 3 | Kemal Pasha | Russia with Germany |
-| 4 | Emden | England |
-| 5 | Hall of Mirrors | Madras |
 
 **V Answer briefly**
 

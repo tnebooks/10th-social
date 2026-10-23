@@ -382,15 +382,6 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
     - c) Both are wrong
     - d) Reason is correct but assertion is irrelevant
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Oru Paisa Tamilan | Widows Remarriage Reform Act |
-| 2 | Thiruvarutpa | Nirankari |
-| 3 | Baba Dayal Das | Adi Bramo Samaj |
-| 4 | Iswarchandra Vidyasagar | Journal |
-| 5 | Debendranath | Songs of Grace |
 
 **V Answer briefly**
 

@@ -544,15 +544,6 @@ Arrival of refugees in the wake of Partition
    - c) Both A and R are wrong
    - d) Both A and R are correct and R is the correct explanation
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Rowlatt Act | Surrender of titles |
-| 2 | Non-Cooperation Movement | Dyarchy |
-| 3 | Government of India Act, 1919 | M.N. Roy |
-| 4 | Communist Party of India | Direct Action Day |
-| 5 | 16th August 1946 | Black Act |
 
 **V Answer the following briefly**
 

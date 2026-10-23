@@ -385,15 +385,6 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
     - c) (ii) is correct
     - d) (i), (iii) and (iv) are correct
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | MNA | Anti-Hindi agitation |
-| 2 | EVR Periyar | Removal of Neill Statue |
-| 3 | S.N. Somayajulu | Salt Satyagraha |
-| 4 | Vedaranyam | Torture Commission |
-| 5 | Thalamuthu | Vaikom Hero |
 
 **V Answer the questions briefly**
 

@@ -374,14 +374,7 @@ The benefits can either be achieved through cash transfers, like old age pension
    - c) Both A and R are wrong
    - d) R is right but it has no relevance to A
 
-**IV Match the following**
 
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Blitzkrieg | Stalingrad |
-| 2 | Royal Navy | Solomon Island |
-| 3 | Volga | Britain |
-| 4 | Guadalcanal | lightning strike |
 
 **V Answer the questions briefly**
 

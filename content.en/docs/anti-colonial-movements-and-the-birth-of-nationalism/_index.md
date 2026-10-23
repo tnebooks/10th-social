@@ -458,15 +458,6 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
    - c) Both (A) and (R) are correct and R is the correct explanation of A
    - d) Both (A) and (R) are correct, but R is not the correct explanation of A
 
-**IV Match the following**
-
-| No. | Column A | Column B |
-| --- | --- | --- |
-| 1 | Wahhabi Rebellion | Lucknow |
-| 2 | Munda Rebellion | Peshwa Baji Rao II |
-| 3 | Begum Hazarat Mahal | Titu Mir |
-| 4 | Nana Sahib | Ranchi |
-
 **V Answer the following questions briefly**
 
 1. How are the peasant uprisings in British India classified?
