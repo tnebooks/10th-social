@@ -3,6 +3,36 @@ title: "Outbreak of World War I and Its Aftermath"
 categories:
 - history
 - outbreak-of-world-war-i-and-its-aftermath
+references:
+  books:
+    - b1:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b2:
+        title: "Europe Since Napoleon"
+        authors:
+          - "David Thomson"
+        publisher: "Penguin"
+        year: 1990
+        url: "https://www.amazon.in/dp/0102008018"
+    - b3:
+        title: "The Age of Extremes: 1914–1991"
+        authors:
+          - "Eric Hobsbawm"
+        publisher: "Abacus"
+        year: 1994
+        url: "https://www.amazon.in/dp/0349106711"
+    - b4:
+        title: "The Oxford Illustrated History of the First World War"
+        authors:
+          - "Hew Strachan"
+        publisher: "Oxford University Press"
+        year: 2014
+        url: "https://www.amazon.in/dp/0199663783"
 weight: 1
 summary: "The year 1914 is a turning point in world history. The political and social processes that began in 1789, culminated in the First World War that broke out in that year and decisively shaped the course of the twentieth century. Historians therefore call this as ‘the long nineteen…"
 ---
@@ -525,15 +555,6 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 
 12. Rumania
 
-### REFERENCE BOOKS
-
-1. R.D. Cormvell, World History in the Twentieth Century, London: Longman, 1972
-
-2. David Thomson, Europe since Napoleon, Harmondsworth: Penguin, 1990
-
-3. Eric Hobsbawm,The Age of extremes, 1914 – 1991, London: Abacus, 1994.
-
-4. Hew Strachan, The Oxford Illustrated History of the First World War. Oxford: Oxford University Press, 2014).
 
 ### ICT CORNER
 

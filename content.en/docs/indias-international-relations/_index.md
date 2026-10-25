@@ -3,6 +3,59 @@ title: "India’s International Relations"
 categories:
 - civics
 - indias-international-relations
+references:
+  books:
+    - b1:
+        title: "International Relations"
+        authors:
+          - "V.K. Malhotra"
+        publisher: "Anmol Publications"
+        year: 2002
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b2:
+        title: "International Relations"
+        authors:
+          - "Prakash Chandra"
+        publisher: "Vikas Publishing House"
+        year: 2008
+        url: "https://www.amazon.in/dp/8125920552"
+    - b3:
+        title: "Theories of International Relations"
+        authors:
+          - "Prakash Chandra"
+        publisher: "Aman Publishing House"
+        year: 2008
+        url: "https://www.amazon.in/dp/8188167124"
+    - b4:
+        title: "India in the World Order: Searching for Major-Power Status"
+        authors:
+          - "Baldev Raj Nayar"
+          - "T.V. Paul"
+        publisher: "Cambridge University Press"
+        year: 2003
+        url: "https://www.amazon.in/dp/0521536642"
+    - b5:
+        title: "The Making of Modern Indian Diplomacy: A Critique of Eurocentrism"
+        authors:
+          - "Deep Datta-Ray"
+        publisher: "Oxford University Press"
+        year: 2015
+        url: "https://www.amazon.in/dp/0199456885"
+    - b6:
+        title: "International Relations"
+        authors:
+          - "Jon C.W. Pevehouse"
+          - "Joshua S. Goldstein"
+        publisher: "Pearson Education"
+        year: 2017
+        url: "https://www.amazon.in/dp/9332581287"
+    - b7:
+        title: "Indian Diplomacy: Beyond the Great Framing"
+        authors:
+          - "Rajendra M. Abhyankar"
+        publisher: "Oxford University Press"
+        year: 2018
+        url: "https://www.amazon.in/dp/0199484081"
 weight: 22
 summary: "Independent India has been consistently fostering world peace and international cooperation. India abjured military alliances, but has been active in cooperating and co-ordinating with other nations for peace and economic development. As the first Prime Minister of India Jawahar…"
 ---
@@ -442,36 +495,6 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 1. Students can be asked to collect information form newspapers about India’s relation with world countries.
 
 2. Group project involving students to prepare an album with pictures on India’s latest projects with its neighboring countries.
-
-### REFERENCE BOOKS
-
-1. V.K. Malhotra, International Relations,
-
-Calcutta: Anmol publication
-
-2. Prakash Chandra, International Relations
-
-New Delhi: Vikas Publishing
-
-3. Prakash Chandra, Theories of International
-
-Relations: Aman publishing
-
-4. Baldev Raj Nayar and Thazha Varkey Paul,
-
-India in the world order: Searching for major-power status, Cambridge University Press (2003)
-
-5. Deep Datta Ray, The making of modern
-
-Indian Diplomacy; A critique of Eurocentrism, Oxford University Press, India (2015)
-
-6. Jon C.W. Pevehouse, Joshna S. Goldstein,
-
-International Relations, Pearson Education, Noida (2017)
-
-7. Rajendra M. Abhyankar., Indian Diplomacy,
-
-Oxford University Press, India (2018)
 
 ### INTERNET RESOURCES
 

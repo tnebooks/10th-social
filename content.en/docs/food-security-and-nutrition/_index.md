@@ -3,6 +3,50 @@ title: "Food Security and Nutrition"
 categories:
 - economics
 - food-security-and-nutrition
+references:
+  books:
+    - b1:
+        title: "Indian Economy"
+        authors:
+          - "Dr. S. Sankaran"
+        publisher: "Margham Publications"
+        year: 2017
+        url: "https://www.google.com/books/edition/_/aXN3AAAAMAAJ"
+    - b2:
+        title: "Annual Report 2016–17"
+        authors:
+          - "Ministry of Agriculture & Farmers Welfare"
+        publisher: "Government of India"
+        year: 2017
+        url: "https://agricoop.nic.in/en/annual-report"
+    - b3:
+        title: "Nutrition & Food Security"
+        authors:
+          - "UN India"
+        publisher: "United Nations India"
+        year: 2018
+        url: "https://india.un.org/en/172314-nutrition-and-food-security"
+    - b4:
+        title: "Pratiyogita Darpan – Indian Economy"
+        authors:
+          - "Pratiyogita Darpan Editorial Board"
+        publisher: "Upkar Prakashan"
+        year: 2018
+        url: "https://www.amazon.in/dp/B07BNP8V9H"
+    - b5:
+        title: "Economic Survey 2017–18"
+        authors:
+          - "Department of Economic Affairs, Ministry of Finance"
+        publisher: "Government of India"
+        year: 2018
+        url: "https://www.indiabudget.gov.in/economicsurvey/archieve/es2017-18/index.html"
+    - b6:
+        title: "The National Food Security Act, 2013"
+        authors:
+          - "Ministry of Law and Justice"
+        publisher: "The Gazette of India, Government of India"
+        year: 2013
+        url: "https://dfpd.gov.in/nfsa-act-2013.htm"
 weight: 25
 summary: "Food is defined as any substance that people eat and drink to maintain life and growth. Food security would denote a person’s ability to eat enough, stay active and lead a healthy life."
 ---
@@ -398,24 +442,6 @@ Mid-Day Meal Programme
 1. Visit nearby “Uzhavar Sandhai” and collect the information about the functions of market.
 
 2. Collect information about health centre functioning nearby your location.
-
-### REFERENCE BOOKS
-
-1. Dr. S. Sankaran, Indian Economy, India.
-
-2. Ministry of Agriculture & Farmers
-
-Welfare. Annual report 2016–17.
-
-3. Nutrition & Food Security. UN India.
-
-4. Pratiyogita Darpan–Indian Economy.
-
-5. Economic Survey 2017–18.
-
-6. The Gazette of India–“The National Food
-
-Security Act 2013”.
 
 ### INTERNET RESOURCES
 

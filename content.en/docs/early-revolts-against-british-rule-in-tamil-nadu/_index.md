@@ -3,6 +3,36 @@ title: "Early Revolts against British Rule in Tamil Nadu"
 categories:
 - history
 - early-revolts-against-british-rule-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Peasant State and Society in Medieval South India"
+        authors:
+          - "Burton Stein"
+        publisher: "Oxford University Press"
+        year: 1980
+        url: "https://www.amazon.in/dp/0195610651"
+    - b2:
+        title: "Palayakararss as Feudatories Under the Nayaks of Madurai"
+        authors:
+          - "P.M. Lalitha"
+        publisher: "Creative Enterprises"
+        year: 2015
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b3:
+        title: "South Indian Rebellion, 1800–1801"
+        authors:
+          - "K. Rajayyan"
+        publisher: "Ratna Publication"
+        year: 2000
+        url: "https://www.amazon.in/dp/8187840003"
+    - b4:
+        title: "Vellore Revolt 1806"
+        authors:
+          - "K.A. Manikumar"
+        publisher: "Allied Publishers"
+        year: 2007
+        url: "https://www.amazon.in/dp/8184241923"
 weight: 6
 summary: "After defeating the French and their Indian allies in the three Carnatic Wars, the East India Company began to consolidate and extend its power and influence. However, local kings and feudal chieftains resisted this. The first resistance to East India Company’s territorial aggra…"
 ---
@@ -340,23 +370,6 @@ Gillespie are detailed.
 
 2. Stage play visualising the conversation between Jackson and Kattabomman be attempted by students with the help of teachers.
 
-### REFERENCE BOOKS
-
-1. Burton Stein, Peasant State and Society in
-
-Medieval South India, New Delhi:Oxford University Press, 1980.
-
-2. P.M. Lalitha, Palayakararss as Feudatories
-
-Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.
-
-3. K. Rajayyan, South Indian Rebellion,
-
-1800–1801, Madurai, Ratna Publication, 2000 (Reprint).
-
-4. K.A. Manikumar, Vellore Revolt 1806
-
-(Chennai: Allied Publishers, 2007).
 
 **A Book worth reading**
 

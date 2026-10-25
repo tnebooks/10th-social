@@ -3,6 +3,36 @@ title: "Industrial Clusters in Tamil Nadu"
 categories:
 - economics
 - industrial-clusters-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Role of Entrepreneurship in Economic Development"
+        authors:
+          - "D.K. Sinha"
+        publisher: "Your Article Library"
+        year: 2015
+        url: "https://www.yourarticlelibrary.com/entrepreneur/role-of-entrepreneurship-in-economic-development/40664"
+    - b2:
+        title: "The Productivity Analysis of Industrial Clusters in India"
+        authors:
+          - "Department of Industries & Commerce"
+        publisher: "Government of Tamil Nadu"
+        year: 2017
+        url: "https://www.tn.gov.in/indcom/"
+    - b3:
+        title: "State Industrial Profile - Tamil Nadu"
+        authors:
+          - "MSME-Development Institute"
+        publisher: "Ministry of Micro, Small & Medium Enterprises, Government of India"
+        year: 2019
+        url: "https://msmedichennai.gov.in/msme/state-industrial-profile/"
+    - b4:
+        title: "Indian Industrial Clusters"
+        authors:
+          - "Keshab Das"
+        publisher: "Routledge"
+        year: 2007
+        url: "https://www.amazon.in/dp/0415418193"
 weight: 27
 summary: "Generally, “any human activity which is engaged in the conversion of raw materials into readily usable materials is called an industry”. Industrialisation refers to the process of using modern techniques of production to produce goods that are required by both consumers and othe…"
 ---
@@ -423,16 +453,6 @@ GDP and Per Capita Income.
 **IX Life Skills**
 
 1. Teacher and students discuss about the entrepreneurs and their activities and write an essay in the topic of “If you are like an Entrepreneur”.
-
-### REFERENCE BOOKS
-
-1. Role of Entrepreneurship in Economic Development, D.K. Sinha
-
-2. The Productivity Analysis of Industrial Clusters in India - Department of Industries & Commerce (Government of Tamil Nadu)
-
-3. State Industrial Profile - Tamil Nadu
-
-4. Indian Industrial Clusters - Keshab Das
 
 ### INTERNET RESOURCES
 

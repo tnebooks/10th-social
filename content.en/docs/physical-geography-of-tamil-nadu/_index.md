@@ -3,6 +3,36 @@ title: "Physical Geography of Tamil Nadu"
 categories:
 - geography
 - physical-geography-of-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Geography of Tamil Nadu"
+        authors:
+          - "Kumarasamy"
+        publisher: "Varthamana Publication"
+        year: 2018
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b2:
+        title: "Geography of Tamil Nadu (Tamil Version)"
+        authors:
+          - "S.V. Kumaraswamy"
+        publisher: "Sakthi Abirami Pathipagam"
+        year: 2014
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b3:
+        title: "Statistical Hand Book of Tamil Nadu (2016)"
+        authors:
+          - "Department of Economics and Statistics"
+        publisher: "Government of Tamil Nadu"
+        year: 2016
+        url: "https://www.tn.gov.in/deptst/statisticalhandbook.htm"
+    - b4:
+        title: "Manorama Yearbook – 2018"
+        authors:
+          - "M. Mathew"
+        publisher: "Malayala Manorama Company Ltd."
+        year: 2018
+        url: "https://www.amazon.in/dp/8193382766"
 weight: 16
 summary: "The study of one’s own region is the first step to become a global citizen. The purpose of studying our local territory is to understand life in our environment. In the last five lessons, you have learnt about various geographical characteristics of our country. In this lesson a…"
 ---
@@ -694,23 +724,6 @@ d) (R) is true but, (A) is false.
 
 1. Mark important rivers, distribution of soil and forest types on different Tamil Nadu maps.
 
-### REFERENCE BOOKS
-
-1. Geography of Tamil Nadu by Kumarasamy
-
-(2018), Varthamana Publication, T. Nagar, Chennai.
-
-2. Kumaraswamy, S.V. (2014). Geography of
-
-Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam, Coimbatore.
-
-3. Statistical Hand Book of Tamil Nadu (2016).
-
-Department of Economics and Statistics, Government of Tamil Nadu, Chennai.
-
-4. Mathew, M. (2018). Manorama Yearbook –
-
-2018 (English Version), Manorama Company Ltd., Kottayam.
 
 ### INTERNET RESOURCES
 

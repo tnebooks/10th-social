@@ -3,6 +3,38 @@ title: "இந்தியா – காலநிலை மற்றும் �
 categories:
 - geography
 - climate-and-natural-vegetation-of-india
+references:
+  books:
+    - b1:
+        title: "Climate Profile of India"
+        authors:
+          - "S.D. Attri"
+          - "A. Tyagi"
+        publisher: "India Meteorological Department, Ministry of Earth Sciences, Govt. of India"
+        year: 2010
+        url: "https://www.imdpune.gov.in/library/public/Climate%20Profile%20of%20India.pdf"
+    - b2:
+        title: "Geography of India"
+        authors:
+          - "S. Singh"
+          - "J. Saroha"
+        publisher: "Access Publishing India Pvt. Ltd."
+        year: 2014
+        url: "https://www.amazon.in/dp/9383454178"
+    - b3:
+        title: "Geography of India"
+        authors:
+          - "M. Hussain"
+        publisher: "Tata McGraw-Hill Publishing House Company Ltd."
+        year: 2008
+        url: "https://www.amazon.in/dp/0070264843"
+    - b4:
+        title: "India’s fifth National report to the Convention on Biological Diversity"
+        authors:
+          - "Govt. of India"
+        publisher: "Ministry of Environment and Forests"
+        year: 2014
+        url: "https://www.cbd.int/doc/world/in/in-nr-05-en.pdf"
 weight: 12
 summary: "நாம் கோடைக்காலத்தில் அதிகமாக தண்ணீரைப் பருகுகிறோம். ஆனால், குளிர் காலத்தில் அதே அளவு தண்ணீரைப் பருகுவதில்லை. வட இந்தியாவில் கோடைக்காலத்தில் மென்மையான பருத்தியாலான ஆடைகளையும் குளிர்காலத்தில் கம்பளி ஆடைகளையும் அணிகிறோம். தென்னிந்திய மக்கள் குளிர்காலத்தில்…"
 ---
@@ -268,16 +300,6 @@ II. ஜம்மு காஷ்மீர், இமாச்சலப்பி�
 6. ’பருவமழை வெடிப்பு’ என்றால் என்ன?
 
 7. அதிக மழைபெறும் பகுதிகளைக் குறிப்பிடுக.
-
-### மேற்கோள் நூல்கள்
-
-1. Attri, S.D. and A.Tyagi, 2010. “Climate Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.
-
-2. Singh, S. and J.Saroha, 2014. “Geography of India”, Access Publishing India Pvt. Ltd. New Delhi.
-
-3. Hussain, M. 2008. “Geography of India” Tata McGraw-Hill Publishing House Company Ltd. New Delhi.
-
-4. Govt. of India, 2014. “India’s fifth National Report to the Convention on Biological Diversity” Ministry of Environment and Forests.
 
 ### இணையச் செயல்பாடு
 

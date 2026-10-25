@@ -3,6 +3,33 @@ title: "அரசாங்கமும் வரிகளும்"
 categories:
 - economics
 - government-and-taxes
+references:
+  books:
+    - b1:
+        title: "Role of Taxation in Developing Country in India"
+        authors:
+          - "Gaurav Aklani"
+        publisher: "Inspira Research Association"
+        year: 2018
+        url: "https://www.inspirajournals.com/uploads/Issues/583464788.pdf"
+    - b2:
+        title: "Fiscal Economics"
+        authors:
+          - "Sankaran"
+        publisher: "Margham Publications"
+        year: 2008
+        url: "https://www.google.com/books/edition/_/3E4uAAAAMAAJ"
+    - b3:
+        title: "Public Finance (Fiscal Policy)"
+        authors:
+          - "R. Cauvery"
+          - "U.K. Sudha Nayak"
+          - "M. Girija"
+          - "N. Kruparani"
+          - "R. Meenakshi"
+        publisher: "S. Chand & Company Pvt Ltd"
+        year: 2010
+        url: "https://www.amazon.in/dp/812190997X"
 weight: 26
 summary: "ஒரு நாட்டின் பொருளாதாரத்தை முன்னேற்றம் அடையச் செய்வதற்கு அரசாங்கத்தால் வரி விதிக்கப்படுகிறது. அரசின் வருமானம் நேர்முக மற்றும் மறைமுக வரிகளைச் சார்ந்து உள்ளது. நேர்முக வரியானது தனி நபரின் வருமானத்திலும், மறைமுக வரியானது பண்டங்கள் மற்றும் பணிகள் மீதும்…"
 ---
@@ -319,16 +346,6 @@ iv) இது இந்தியாவில் வரி கட்டமைப�
 1. உள்ளூரில் விதிக்கப்படும் வரிகளைப் பற்றிய விவரங்களை சேகரிக்கவும். (குடிநீர், மின்சாரம், வீட்டுவரிகள் போன்றவைகள்).
 
 2. மாணவர்கள் சில புத்தகங்களை அங்காடிகளில் வாங்கும்படி கூறுதல். ஆசிரியர் மற்றும் மாணவர்கள் அப்புத்தகங்களின் அதிகபட்ச சில்லரை விலையையும், வாங்கும் விலை அல்லது GST பற்றி அறிதல்.
-
-### மேற்கோள் நூல்கள்
-
-1. நிதியியல் பொருளாதாரம் - சங்கரன்
-
-2. பொது நிதியியல் - H.L. பாட்டியா
-
-3. வரிவிதிப்பும் வரிச் சட்டங்களும் - T சிவகுமார்
-
-4. இந்தியப் பொதுநிதியியல் பிரச்சனைகள் - D.K. ஸ்ரீ வஸ்தவா
 
 ### இணையதள வளங்கள்
 

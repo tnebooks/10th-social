@@ -3,6 +3,50 @@ title: "உணவுப் பாதுகாப்பு மற்றும் 
 categories:
 - economics
 - food-security-and-nutrition
+references:
+  books:
+    - b1:
+        title: "Indian Economy"
+        authors:
+          - "Dr. S. Sankaran"
+        publisher: "Margham Publications"
+        year: 2017
+        url: "https://www.google.com/books/edition/_/aXN3AAAAMAAJ"
+    - b2:
+        title: "Annual Report 2016–17"
+        authors:
+          - "Ministry of Agriculture & Farmers Welfare"
+        publisher: "Government of India"
+        year: 2017
+        url: "https://agricoop.nic.in/en/annual-report"
+    - b3:
+        title: "Nutrition & Food Security"
+        authors:
+          - "UN India"
+        publisher: "United Nations India"
+        year: 2018
+        url: "https://india.un.org/en/172314-nutrition-and-food-security"
+    - b4:
+        title: "Pratiyogita Darpan – Indian Economy"
+        authors:
+          - "Pratiyogita Darpan Editorial Board"
+        publisher: "Upkar Prakashan"
+        year: 2018
+        url: "https://www.amazon.in/dp/B07BNP8V9H"
+    - b5:
+        title: "Economic Survey 2017–18"
+        authors:
+          - "Department of Economic Affairs, Ministry of Finance"
+        publisher: "Government of India"
+        year: 2018
+        url: "https://www.indiabudget.gov.in/economicsurvey/archieve/es2017-18/index.html"
+    - b6:
+        title: "The National Food Security Act, 2013"
+        authors:
+          - "Ministry of Law and Justice"
+        publisher: "The Gazette of India, Government of India"
+        year: 2013
+        url: "https://dfpd.gov.in/nfsa-act-2013.htm"
 weight: 25
 summary: "மக்கள் வாழ்க்கையையும் வளர்ச்சியையும் பராமரிப்பதற்காக உண்ணுதல் மற்றும் பருகுதலுக்குப் பயன்படும் எந்த ஒரு பொருளும் உணவு என வரையறுக்கப்படுகிறது. உணவுப் பாதுகாப்பு என்பது ஒரு நபர் போதுமான அளவு சாப்பிடுவதையும் சுறுசுறுப்பாக இருப்பதையும் ஆரோக்கியமான வாழ்க்கை…"
 ---
@@ -342,22 +386,6 @@ summary: "மக்கள் வாழ்க்கையையும் வள�
 1. அருகிலுள்ள “உழவர் சந்தையை” பார்வையிட்டு சந்தை செயல்பாடுகளின் தகவல்களை சேகரிக்கவும்.
 
 2. உங்கள் இடத்திற்கு அருகிலுள்ள சுகாதார மையத்தின் செயல்பாடு பற்றி தகவல்கள் சேகரிக்கவும்.
-
-### மேற்கோள் நூல்கள்
-
-1. Dr.S. சங்கரன் – இந்தியப் பொருளாதாரம், இந்தியா.
-
-2. Ministry of Agriculture & Farmers Welfare.
-
-3. Annual report 2016–17.
-
-3. Nutrition & Food Security. UN India.
-
-4. Pratiyogita Darpan–Indian Economy.
-
-5. Economic Survey 2017–18.
-
-6. The Gazette of India–“The National Food Security Act 2013”.
 
 ### இணையதள வளங்கள்
 

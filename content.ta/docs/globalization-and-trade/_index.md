@@ -3,6 +3,38 @@ title: "உலகமயமாதல் மற்றும் வர்த்த�
 categories:
 - economics
 - globalization-and-trade
+references:
+  books:
+    - b1:
+        title: "Indian Economy (Problems, Policies and Development)"
+        authors:
+          - "Dr. S. Shankaran"
+        publisher: "Margham Publications"
+        year: 2007
+        url: "https://www.google.com/books/edition/_/aXN3AAAAMAAJ"
+    - b2:
+        title: "Indian Economy"
+        authors:
+          - "Ruddar Datt"
+          - "K.P.M. Sundharam"
+        publisher: "S. Chand & Company Ltd."
+        year: 2010
+        url: "https://www.amazon.in/dp/8121902983"
+    - b3:
+        title: "History of Tamil Nadu (Social and Cultural)"
+        authors:
+          - "N. Subramanian"
+        publisher: "Koodal Publishers"
+        year: 1999
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b4:
+        title: "Indian Economy"
+        authors:
+          - "S.K. Misra"
+          - "V.K. Puri"
+        publisher: "Himalaya Publishing House"
+        year: 2020
+        url: "https://www.amazon.in/dp/9353676839"
 weight: 24
 summary: "தற்காலத்தில் அரசியல்வாதிகள், பொருளியல் ல்லுநர்கள் மற்றும் தொழிலதிபர்களிடையே அதிகமாக பேசக்கூடிய கருத்துகளாக தாராளமயமாக்கல், தனியார்மயமாக்கல் மற்றும் உலகமயமாக்கல் (LPG) இருக்கின்றன. நமது அரசாங்கம் 1991ஆம் ஆண்டு இவற்றை நடைமுறைப்படுத்தியது."
 ---
@@ -316,10 +348,6 @@ summary: "தற்காலத்தில் அரசியல்வாதி
 ### பயிற்சி
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 
 **II கோடிட்ட இடத்தை நிரப்புக.**
 
@@ -372,16 +400,6 @@ summary: "தற்காலத்தில் அரசியல்வாதி
 (தென்னிந்திய ர்த்தகம், ர்த்தகர்கள் படங்கள், பட்டு ழிப்பாதை வரைபடம், நறுமணப் பொருள்கள் வழி வரைபடம் மற்றும் கலிங்க வர்த்தக வரைபடம் முதலியன)
 
 3. மாணர்கள் இந்தியாவிலுள்ள பல்வேறு பன்னாட்டு நிறுவனங்களின் படங்கள் மற்றும் விவரங்களை சேகரித்தல்.
-
-### மேற்கோள் நூல்கள்
-
-1. Dr. S. Shankaran [2007], “Indian Economy” [Problem, Policies and Development]
-
-2. Dutt and Sundharam's “Indian Economy”
-
-3. History of Tamil Nadu [Social and Culture]
-
-4. S.K. Misra and V.K. Puri “Indian Economy”
 
 ### இணையதள வளங்கள்
 

@@ -3,6 +3,38 @@ title: "Globalization and Trade"
 categories:
 - economics
 - globalization-and-trade
+references:
+  books:
+    - b1:
+        title: "Indian Economy (Problems, Policies and Development)"
+        authors:
+          - "Dr. S. Shankaran"
+        publisher: "Margham Publications"
+        year: 2007
+        url: "https://www.google.com/books/edition/_/aXN3AAAAMAAJ"
+    - b2:
+        title: "Indian Economy"
+        authors:
+          - "Ruddar Datt"
+          - "K.P.M. Sundharam"
+        publisher: "S. Chand & Company Ltd."
+        year: 2010
+        url: "https://www.amazon.in/dp/8121902983"
+    - b3:
+        title: "History of Tamil Nadu (Social and Cultural)"
+        authors:
+          - "N. Subramanian"
+        publisher: "Koodal Publishers"
+        year: 1999
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b4:
+        title: "Indian Economy"
+        authors:
+          - "S.K. Misra"
+          - "V.K. Puri"
+        publisher: "Himalaya Publishing House"
+        year: 2020
+        url: "https://www.amazon.in/dp/9353676839"
 weight: 24
 summary: "Liberalization, Privatization and Globalization (LPG) have become a much talked of subjects among politicians, economists and businessmen in present time."
 ---
@@ -401,12 +433,6 @@ This caused, the degradation of health and spread of diseases.
 
 ### EVALUATION
 
-<<<<<<< HEAD
-=======
-**I Choose the correct answer**
-
-
->>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 
 **II Fill in the Blanks**
 
@@ -457,17 +483,6 @@ This caused, the degradation of health and spread of diseases.
 
 3. Students have to collect the picture of various Multinational corporation companies in India and its products pictures.
 
-### REFERENCE BOOKS
-
-1. Dr. S. Shankaran [2007], “Indian Economy”
-
-[Problem, Policies and Development]
-
-2. Dutt and Sundharam's “Indian Economy”
-
-3. History of Tamil Nadu [Social and Culture]
-
-4. S.K. Misra and V.K. Puri “Indian Economy”
 
 <!-- supplemental-resources:start -->
 

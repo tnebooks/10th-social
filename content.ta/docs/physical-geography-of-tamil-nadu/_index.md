@@ -3,6 +3,36 @@ title: "தமிழ்நாடு - இயற்கைப் பிரிவ�
 categories:
 - geography
 - physical-geography-of-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Geography of Tamil Nadu"
+        authors:
+          - "Kumarasamy"
+        publisher: "Varthamana Publication"
+        year: 2018
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b2:
+        title: "Geography of Tamil Nadu (Tamil Version)"
+        authors:
+          - "S.V. Kumaraswamy"
+        publisher: "Sakthi Abirami Pathipagam"
+        year: 2014
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b3:
+        title: "Statistical Hand Book of Tamil Nadu (2016)"
+        authors:
+          - "Department of Economics and Statistics"
+        publisher: "Government of Tamil Nadu"
+        year: 2016
+        url: "https://www.tn.gov.in/deptst/statisticalhandbook.htm"
+    - b4:
+        title: "Manorama Yearbook – 2018"
+        authors:
+          - "M. Mathew"
+        publisher: "Malayala Manorama Company Ltd."
+        year: 2018
+        url: "https://www.amazon.in/dp/8193382766"
 weight: 16
 summary: "புவியில் சிறந்த குடிமகனாக விளங்குவதற்கான முதல் படி, தான் வசிக்கும் பகுதியைப் பற்றி கற்றிவதேயாகும். நாம் உள்ளூர் சூழலைப் பற்றி கற்பதன் நோக்கம், நம்முடைய சுற்றுச்சூழலில் வாழ்க்கை முறையைப் புரிந்து கொள்வதாகும். முதல் 5 பாடங்களில் நம் நாட்டின் பல்வேறு புவியியல்…"
 ---
@@ -651,15 +681,6 @@ summary: "புவியில் சிறந்த குடிமகனா�
 
 உரலி: https://tnsdma.tn.gov.in/
 
-### மேற்கோள் நூல்கள்
-
-1. Geography of Tamil Nadu by Kumarasamy (2018), Varthamana Publication, T. Nagar, Chennai
-
-2. Kumaraswamy, S.V. (2014). Geography of Tamil Nadu (Tamil Version), Sakthi Abirami Pathipagam, Coimbatore.
-
-3. Statistical Hand Book of Tamil Nadu (2016). Department of Economics and Statistics, Government of Tamil Nadu, Chennai.
-
-4. Mathew, M. (2018). Manorama Yearbook – 2018 (English Version), Manorama Company Ltd., Kottayam.
 
 ### இணையதள வளங்கள்
 

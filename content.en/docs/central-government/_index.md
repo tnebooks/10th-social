@@ -3,6 +3,29 @@ title: "Central Government"
 categories:
 - civics
 - central-government
+references:
+  books:
+    - b1:
+        title: "Introduction to the Constitution of India"
+        authors:
+          - "D.D. Basu"
+        publisher: "S.C. Sarkar & Sons (Private) Ltd"
+        year: 1982
+        url: "https://www.amazon.in/dp/9389991598"
+    - b2:
+        title: "The Constitution of India"
+        authors:
+          - "P.M. Bakshi"
+        publisher: "Universal Law Publishing - an imprint of LexisNexis"
+        year: 2018
+        url: "https://www.amazon.in/dp/9388548321"
+    - b3:
+        title: "Our Constitution"
+        authors:
+          - "Subhash Kashyap"
+        publisher: "National Book Trust, India"
+        year: 2011
+        url: "https://www.amazon.in/dp/8123707341"
 weight: 19
 summary: "The Central Government is the supreme government in our country. The head quarter of the Central Government is at New Delhi. Articles 52 to 78 in part V of Indian Constitution deals with the Union Executive. The makers of the Indian constitution, by giving due recognition to the…"
 ---
@@ -274,10 +297,7 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
 1. Organise a mock parliament in your class. Discuss the role of President, Prime Minister and Ministers.
 2. Bring out the differences and similarities between the US and Indian President’s.
 3. Make a list of Presidents and Prime Ministers of India.
-### REFERENCE BOOKS
-1. D.D. Basu - Introduction to the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
-2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
-3. Subhash Kashyap - Our Constitution, National Book Trust, India, 2011.
+
 ### INTERNET RESOURCES
 1. https://www.india.org/
 2. https://presidentofindia.nic.in/

@@ -3,6 +3,43 @@ title: 'இரு உலகப்போர்களுக்கு இடைய�
 categories:
     - history
     - the-world-between-two-world-wars
+references:
+  books:
+    - b1:
+        title: "Complete History of the World"
+        authors:
+          - "Richard Overy"
+        publisher: "HarperCollins"
+        year: 2007
+        url: "https://www.amazon.in/dp/0007218671"
+    - b2:
+        title: "A People’s History of the World"
+        authors:
+          - "Chris Harman"
+        publisher: "Orient Longman"
+        year: 2007
+        url: "https://www.amazon.in/dp/8125032584"
+    - b3:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b4:
+        title: "A Little History of the World"
+        authors:
+          - "E.H. Gombrich"
+        publisher: "Yale University Press"
+        year: 2008
+        url: "https://www.amazon.in/dp/0300143101"
+    - b5:
+        title: "Glimpses of World History"
+        authors:
+          - "Jawaharlal Nehru"
+        publisher: "Penguin Books"
+        year: 2004
+        url: "https://www.amazon.in/dp/0143031031"
 weight: 2
 summary: "முதல் மற்றும் இரண்டாம் உலகப்போர்களுக்கு இடையிலான காலகட்டத்தில் ஏற்பட்ட அரசியல், பொருளாதார மற்றும் சமூக மாற்றங்கள், பெரும் பொருளாதார மந்தநிலை மற்றும் சர்வாதிகார ஆட்சிகளின் எழுச்சியைப் பற்றி விளக்குகிறது."
 ---
@@ -358,18 +395,6 @@ iii) ஆப்பிரிக்க தேசிய காங்கிரசி�
 1. 1929ஆம் ஆண்டு அமெரிக்காவில் ஏற்பட்ட பங்குச்சந்தையின் வீழ்ச்சி எவ்வாறு அமெரிக்காவின் ஒவ்வொரு துறையையும் ஒவ்வொரு மக்கள் பிரிவினரையும் பாதித்தது என்பதைக் குறித்து ஒவ்வொரு மாணவரையும் ஒரு ஒப்படைப்பு எழுதக் கூறலாம்.
 
 2. வியட்நாம் போர் குறித்து ஒரு குழுச் செயல்பாட்டு முறை விரும்பத்தக்கதாகும். வியட்நாம் மீது அமெரிக்காவின் வான்வெளித் தாக்குதல்கள் வியட்நாம் மக்களின் வீரம் செறிந்த்த எதிர்த்தாக்குதல் ஆகியவற்றைச் சித்தரிக்கும் படங்களைச் சேகரித்து ஒரு செருகேடு (album) தயார் செய்யலாம்.
-
-### மேற்கோள் நூல்கள்
-
-1. Richard Overy (ed.) Complete History of the World (London: HarperCollins, 2007)
-
-2. Chris Harman, A People’s History of the World (New Delhi: Orient Longman, 2007).
-
-3. R.D. Cornwell, World History in the Twentieth Century (London: Longman, 1972).
-
-4. E.H. Gombrich, A Little History of the World (London: Yale University Press, 2008).
-
-5. Jawaharlal Nehru, Glimpses of World History (New Delhi: Penguin Books, 2004).
 
 
 <!-- supplemental-resources:start -->

@@ -3,6 +3,22 @@ title: "இந்திய அரசியலமைப்பு"
 categories:
 - civics
 - indian-constitution
+references:
+  books:
+    - b1:
+        title: "Introduction to the Constitution of India"
+        authors:
+          - "D.D. Basu"
+        publisher: "S.C. Sarkar & Sons (Private) Ltd"
+        year: 1982
+        url: "https://www.amazon.in/dp/9389991598"
+    - b2:
+        title: "The Constitution of India"
+        authors:
+          - "P.M. Bakshi"
+        publisher: "Universal Law Publishing - an imprint of LexisNexis"
+        year: 2018
+        url: "https://www.amazon.in/dp/9388548321"
 weight: 18
 summary: "ஒரு நாட்டின் நிருவாகமானது எந்த அடிப்படைக் கொள்கைகளைச் சார்ந்து அமைந்துள்ளது என்பதை பிரதிபலிக்கும் அடிப்படைச் சட்டமே அரசியலமைப்பு என்பதாகும். அது ஒரு நாட்டின் முன்னேற்றத்திற்கு அச்சாணி ஆகும். அரசியலமைப்பு என்ற கொள்கை முதன்முதலில் அமெரிக்க ஐக்கிய நாடுகளில்…"
 ---
@@ -372,14 +388,6 @@ II. சுதந்திர உரிமை பிரிவு 19 - பேச�
 1. இந்திய அரசியலமைப்பு நிர்ணய சபையின் உறுப்பினர்கள் பற்றிய தகவல்களைச் சேகரிக்கவும்.
 
 2. அரசியலமைப்பு வரைவுக்குழுவின் உறுப்பினர்களது படங்கள் மற்றும் அவர்களைப் பற்றிய தகவல்களைச் சேகரிக்கவும்.
-
-### மேற்கோள் நூல்கள்
-
-1. D.D. Basu - Introduction to the Constitution of
-
-India, S.C. Sarkar & Sons (Private) Ltd, 1982.
-
-2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
 
 ### இணையதள வளங்கள்
 

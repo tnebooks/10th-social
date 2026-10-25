@@ -3,6 +3,30 @@ title: "மொத்த உள்நாட்டு உற்பத்தி (GD
 categories:
 - economics
 - gross-domestic-product-and-its-growth-an-introduction
+references:
+  books:
+    - b1:
+        title: "Indian Economy (Problems, Policies, and Development)"
+        authors:
+          - "Dr. S. Sankaran"
+        publisher: "Margham Publications"
+        year: 2020
+        url: "https://www.google.com/books/edition/_/aXN3AAAAMAAJ"
+    - b2:
+        title: "Indian Economy"
+        authors:
+          - "Ramesh Singh"
+        publisher: "McGraw Hill Education"
+        year: 2018
+        url: "https://www.amazon.in/dp/9387572867"
+    - b3:
+        title: "Reports and Publications on Planning and Statistics"
+        authors:
+          - "Ministry of Statistics and Programme Implementation"
+          - "Planning Commission, Government of India"
+        publisher: "Government of India"
+        year: 2014
+        url: "https://www.mospi.gov.in"
 weight: 23
 summary: "இந்தியப் பொருளாதாரம் எவ்வாறு செயல்படுகிறது என்பதனை மொத்த உள்நாட்டு உற்பத்தி (GDP- Gross Domestic Product) விளக்குகிறது. அதனால், GDP என்றால் என்னஎன்பதைப் பற்றி முதலில் நீங்கள் புரிந்துக் கொள்ள வேண்டும்."
 ---
@@ -489,11 +513,7 @@ GNHயின் 4 தூண்கள்
 1. தமிழ்நாட்டின் GDP புள்ளி விவரங்களை சேகரித்து கர்நாடகா மற்றும் கேரளா மாநிலங்களுடன் ஒப்பிடுக.
 2. தமிழ்நாட்டின் வேலை வாய்ப்பு வளர்ச்சிப் பற்றிய புள்ளி விவரங்களை சேகரிக்கக் கூறுக.
 
-### மேற்கோள் நூல்கள்
 
-1. Sankaran Indian Economy (problems, policies, and development).
-2. Ramesh Singh Indian Economy (10th Edition).
-3. Ministry of Statistics and Implementation Planning Commission. Government of India.
 
 ### இணையதள வளங்கள்
 

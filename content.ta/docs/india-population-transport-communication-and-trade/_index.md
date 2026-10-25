@@ -3,6 +3,30 @@ title: "இந்தியா – மக்கள் தொகை, போக்�
 categories:
 - geography
 - india-population-transport-communication-and-trade
+references:
+  books:
+    - b1:
+        title: "India: A Comprehensive Geography"
+        authors:
+          - "D.R. Khullar"
+        publisher: "Kalyani Publishers"
+        year: 2014
+        url: "https://www.amazon.in/dp/9327244983"
+    - b2:
+        title: "Geography of India"
+        authors:
+          - "Surender Singh"
+          - "Jitender Saroha"
+        publisher: "Access Publishing India Pvt. Ltd."
+        year: 2014
+        url: "https://www.amazon.in/dp/9383454178"
+    - b3:
+        title: "Provisional Population Totals: Urban Agglomerations and Cities"
+        authors:
+          - "Census of India"
+        publisher: "Office of the Registrar General & Census Commissioner, Ministry of Home Affairs, Government of India"
+        year: 2011
+        url: "https://censusindia.gov.in/census.website/"
 weight: 15
 summary: "மக்கள் தொகையைப் பற்றி கற்றல் என்பது ஒரு பிரதேச புவியியலைப் படிப்பதில் உள்ள முக்கிய அம்சங்களில் ஒன்றாகும். மக்கள் தொகை பல கூறுகளை உள்ளடக்கியது. இதில் மிக அடிப்படையானது, அதன் எண்ணிக்கை, கலவை, பரவல் மற்றும் அடர்த்தி ஆகும். எனவே, மக்கள் தொகைக்கூறுகள் பற்றி…"
 ---
@@ -503,13 +527,6 @@ summary: "மக்கள் தொகையைப் பற்றி கற்�
 
 6. இந்திய இரயில்வே மண்டலங்கள்.
 
-### மேற்கோள் நூல்கள்
-
-1. D.R.Khullar (2014) India, A comprehensive Geography.
-
-2. Surender Singh and Jitender Saroha (2014) Geography of India, New Delhi: Access publishing
-
-3. Census of India (2011) Provisional Population Totals, “Urban Agglomerations and Cities”.
 
 ### இணையதள வளங்கள்
 

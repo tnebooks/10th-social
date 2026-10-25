@@ -3,6 +3,51 @@ title: "Social Transformation in Tamil Nadu"
 categories:
 - history
 - social-transformation-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Tamil Renaissance and Dravidian Nationalism 1905–1944"
+        authors:
+          - "K. Nambi Arooran"
+        publisher: "Koodal Publishers"
+        year: 1980
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b2:
+        title: "Towards a Non-Brahmin Millennium: From Iyothee Thass to Periyar"
+        authors:
+          - "V. Geetha"
+          - "S.V. Rajadurai"
+        publisher: "Samya"
+        year: 1998
+        url: "https://www.amazon.in/dp/8185604291"
+    - b3:
+        title: "The Dravidian Movement"
+        authors:
+          - "Robert Hardgrave"
+        publisher: "Popular Prakashan"
+        year: 1965
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b4:
+        title: "Politics and Social Conflict in South India"
+        authors:
+          - "Eugene F. Irschick"
+        publisher: "University of California Press"
+        year: 1969
+        url: "https://www.amazon.in/dp/0520005576"
+    - b5:
+        title: "Women Enslaved"
+        authors:
+          - "Periyar E.V. Ramasami"
+        publisher: "Critical Quest"
+        year: 2009
+        url: "https://www.amazon.in/dp/8189524419"
+    - b6:
+        title: "Thoughts of Periyar E.V.R.: Speeches and Writings of Periyar E.V. Ramasamy"
+        authors:
+          - "V. Anaimuthu"
+        publisher: "Periyar E.V. Ramasamy–Nagammai Education and Research Trust"
+        year: 1974
+        url: "https://www.google.com/books/edition/_/3E4uAAAAMAAJ"
 weight: 10
 summary: "Europeans established their political power over Indian subcontinent in the latter half of the eighteenth century. While they were concerned with annexing India, by the beginning of the nineteenth century, they were reordering Indian society. New revenue settlements were made. I…"
 ---
@@ -388,25 +433,6 @@ Presidency.
 
 2. Students can compile the activities of the local writers’ associations or women’s collectives.
 
-### REFERENCE BOOKS
-
-1. K. Nambi Arooran, Tamil Renaissance and Dravidian Nationalism 1905–1944. Madurai: Koodal Publishers, 1980.
-
-2. V. Geetha and S.V. Rajadurai, Towards a
-
-Non-Brahmin Millennium: From Iyothee Thass to Periyar. Calcutta: Samya, 1998.
-
-3. Robert Hardgrave, The Dravidian Movement. Bombay: Popular Prakashan, 1965.
-
-4. Eugene F. Irschick, Politics and Social
-
-Conflict in South India. Berkeley: University of California Press, 1969.
-
-5. Periyar. E.V. Ramasami, Women Enslaved.
-
-New Delhi: Critical Quest, 2009.
-
-6. Thoughts of Periyar E.V.R.: Speeches and Writings of Periyar E.V. Ramasamy. V. Anaimuthu. Comp. Chennai: Periyar E.V. Ramasamy–Nagammai Education and Research Trust, 1974.
 
 ### மேலும் வாசிக்்கத்்தக்்க நூல்
 

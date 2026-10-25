@@ -3,6 +3,22 @@ title: "Indian Constitution"
 categories:
 - civics
 - indian-constitution
+references:
+  books:
+    - b1:
+        title: "Introduction to the Constitution of India"
+        authors:
+          - "D.D. Basu"
+        publisher: "S.C. Sarkar & Sons (Private) Ltd"
+        year: 1982
+        url: "https://www.amazon.in/dp/9389991598"
+    - b2:
+        title: "The Constitution of India"
+        authors:
+          - "P.M. Bakshi"
+        publisher: "Universal Law Publishing - an imprint of LexisNexis"
+        year: 2018
+        url: "https://www.amazon.in/dp/9388548321"
 weight: 18
 summary: "The Constitution is the fundamental law of a country which reflects the fundamental principles on which the government of that country is based. It is the vehicle of a Nation’s progress. The concept of constitution was first originated in U.S.A."
 ---
@@ -416,11 +432,6 @@ Democratic Republic.
 
 2. Collect the pictures of the Members of the Drafting Committee.
 
-### REFERENCE BOOKS
-
-1. D.D. Basu - Introduction to the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
-
-2. PM Bakshi - The Constitution of India, Universal Law Publishing - an imprint of LexisNexis, 2018.
 
 ### INTERNET RESOURCES
 

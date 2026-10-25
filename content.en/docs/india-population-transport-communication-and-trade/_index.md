@@ -3,6 +3,30 @@ title: "India - Population, Transport, Communication and Trade"
 categories:
 - geography
 - india-population-transport-communication-and-trade
+references:
+  books:
+    - b1:
+        title: "India: A Comprehensive Geography"
+        authors:
+          - "D.R. Khullar"
+        publisher: "Kalyani Publishers"
+        year: 2014
+        url: "https://www.amazon.in/dp/9327244983"
+    - b2:
+        title: "Geography of India"
+        authors:
+          - "Surender Singh"
+          - "Jitender Saroha"
+        publisher: "Access Publishing India Pvt. Ltd."
+        year: 2014
+        url: "https://www.amazon.in/dp/9383454178"
+    - b3:
+        title: "Provisional Population Totals: Urban Agglomerations and Cities"
+        authors:
+          - "Census of India"
+        publisher: "Office of the Registrar General & Census Commissioner, Ministry of Home Affairs, Government of India"
+        year: 2011
+        url: "https://censusindia.gov.in/census.website/"
 weight: 15
 summary: "The study on human population is one of the most important aspects in geography of any region. The human population has many components but the most fundamental are its number, composition, distribution and density. Therefore, it is essential to study these components. The study…"
 ---
@@ -562,19 +586,6 @@ India.
 
 6. Railways zones of India.
 
-### REFERENCE BOOKS
-
-1. D.R. Khullar (2014) India, A comprehensive
-
-Geography.
-
-2. Surender Singh and Jitender Saroha (2014)
-
-Geography of India, New Delhi: Access publishing
-
-3. Census of India (2011) Provisional
-
-Population Totals, “Urban Agglomerations and Cities”.
 
 ### INTERNET RESOURCES
 

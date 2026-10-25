@@ -3,6 +3,36 @@ title: "Freedom Struggle in Tamil Nadu"
 categories:
 - history
 - freedom-struggle-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Tamil Nadu: A Real History"
+        authors:
+          - "K. Rajayyan"
+        publisher: "Ratna Publications"
+        year: 2005
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b2:
+        title: "March to Freedom in Madras Presidency, 1916–1947"
+        authors:
+          - "Saroja Sundararajan"
+        publisher: "Lalitha Publications"
+        year: 1989
+        url: "https://www.google.com/books/edition/_/9d5uAAAAMAAJ"
+    - b3:
+        title: "National Movement in Tamil Nadu, 1905–1914: Agitational Politics and State Coercion"
+        authors:
+          - "N. Rajendran"
+        publisher: "Oxford University Press"
+        year: 1994
+        url: "https://www.amazon.in/dp/019563487X"
+    - b4:
+        title: "Tamil Characters: Personalities, Politics, Culture"
+        authors:
+          - "A.R. Venkatachalapathy"
+        publisher: "Pan Macmillan"
+        year: 2018
+        url: "https://www.amazon.in/dp/9386215608"
 weight: 9
 summary: "Tamil Nadu showed the lead in resisting colonial rule. As early as the late eighteenth century the Palayakarars, resisted the English attempts to establish their political hegemony in Tamil Nadu. Even after the defeat of the Palayakarars, an uprising was organised by Indian sepo…"
 ---
@@ -408,21 +438,6 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 2. Role Play: Students can be divided into groups and asked to debate the views of the Moderates, Extremists, Revolutionaries, Annie Besant’s supporters, Justice Party, and British Government.
 
-### REFERENCE BOOKS
-
-1. K. Rajayyan, Tamil Nadu: A Real History,
-
-Ratna Publications, Trivandrum, 2005.
-
-2. Saroja Sundararajan, March to Freedom in Madras Presidency, 1916–1947, Lalitha Publications, Madras, 1989.
-
-3. N. Rajendran, National Movement in
-
-Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.
-
-4. A.R. Venkatachalapathy, Tamil Characters:
-
-Personalities, Politics, Culture, Pan Macmillan, 2018.
 
 <!-- supplemental-resources:start -->
 

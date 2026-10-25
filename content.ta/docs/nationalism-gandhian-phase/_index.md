@@ -3,6 +3,56 @@ title: 'தேசியம்: காந்திய காலகட்டம்
 categories:
     - history
     - nationalism-gandhian-phase
+references:
+  books:
+    - b1:
+        title: "History of Modern India"
+        authors:
+          - "Bipan Chandra"
+        publisher: "Orient BlackSwan"
+        year: 2016
+        url: "https://www.amazon.in/dp/8125036849"
+    - b2:
+        title: "Freedom Struggle"
+        authors:
+          - "Bipan Chandra"
+          - "Amales Tripathi"
+          - "Barun De"
+        publisher: "National Book Trust, India"
+        year: 1993
+        url: "https://www.amazon.in/dp/8123702498"
+    - b3:
+        title: "India’s Struggle for Independence"
+        authors:
+          - "Bipan Chandra"
+          - "Mridula Mukherjee"
+          - "Aditya Mukherjee"
+          - "K.N. Panikkar"
+          - "Sucheta Mahajan"
+        publisher: "Penguin Books"
+        year: 1989
+        url: "https://www.amazon.in/dp/0140107819"
+    - b4:
+        title: "Modern India, 1885–1947"
+        authors:
+          - "Sumit Sarkar"
+        publisher: "Pearson"
+        year: 2014
+        url: "https://www.amazon.in/dp/9332526308"
+    - b5:
+        title: "From Plassey to Partition: A History of Modern India"
+        authors:
+          - "Sekhar Bandyopadhyay"
+        publisher: "Orient BlackSwan"
+        year: 2013
+        url: "https://www.amazon.in/dp/8125057234"
+    - b6:
+        title: "Mahatma Gandhi: A Biography"
+        authors:
+          - "B.R. Nanda"
+        publisher: "Oxford University Press"
+        year: 1958
+        url: "https://www.amazon.in/dp/0195605992"
 weight: 8
 summary: "இந்திய தேசிய இயக்கத்தின் காந்திய காலகட்டம், முக்கிய மக்கள் இயக்கங்கள், அகிம்சை மற்றும் ஒத்துழையாமை போன்ற போராட்ட முறைகள் மற்றும் விடுதலைப் போராட்டத்தின் வளர்ச்சியைப் பற்றி விளக்குகிறது."
 ---
@@ -542,19 +592,6 @@ Mahatma Gandhi’ என்பதை தேர்ந்தெடுக்கவ�
 
 உரலி: https://www.mkgandhi.org/main.htm
 
-### மேற்கோள் நூல்கள்
-
-1. Bipan Chandra, History of Modern India, Orient BlackSwan, 2016.
-
-2. Bipan Chandra, Amales Tripathi and Barun De, Freedom Struggle, NBT,1993.
-
-3. Bipan Chandra, et al., India’s Struggle for Independence, Penguin Books, 1989.
-
-4. Sumit Sarkar, Modern India, 1885–1947, Pearson, 2014.
-
-5. Sekhar Bandyopadhyay, From Plassey to Partition, Orient BlackSwan, 2013.
-
-6. B.R. Nanda, Mahatma Gandhi: A Biography, Oxford University Press, 1958.
 
 ### மேலும் வாசிக்கத்தக்க நூல்கள்
 

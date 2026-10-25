@@ -3,6 +3,22 @@ title: "State Government"
 categories:
 - civics
 - state-government
+references:
+  books:
+    - b1:
+        title: "Introduction to the Constitution of India"
+        authors:
+          - "D.D. Basu"
+        publisher: "S.C. Sarkar & Sons (Private) Ltd"
+        year: 1982
+        url: "https://www.amazon.in/dp/9389991598"
+    - b2:
+        title: "Our Constitution"
+        authors:
+          - "Subhash C. Kashyap"
+        publisher: "National Book Trust, India"
+        year: 2011
+        url: "https://www.amazon.in/dp/8123707347"
 weight: 20
 summary: "The Constitution of India envisages for a federal government, having separate systems of administration for the union and the states. There are 28 states, 8 union territories including one national capital territory known as Delhi in India. The constitution contains provisions f…"
 ---
@@ -421,13 +437,6 @@ All the decisions and decrees issued by the High Court are printed and are kept 
 
 2. Students to list out the names of the Tamil Nadu Governor, Chief Minister and Ministers.
 
-### REFERENCE BOOKS
-
-1. D.D. Basu - Introduction of the Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
-
-2. Subhash Kashyap - Our Constitution,
-
-National Book Trust, India, 2011.
 
 ### INTERNET RESOURCES
 

@@ -3,6 +3,38 @@ title: "India - Location, Relief and Drainage"
 categories:
 - geography
 - india-location-relief-and-drainage
+references:
+  books:
+    - b1:
+        title: "Geography of India"
+        authors:
+          - "M. Husain"
+        publisher: "McGraw Hill Education"
+        year: 2015
+        url: "https://www.amazon.in/dp/9339221192"
+    - b2:
+        title: "Geography through Maps"
+        authors:
+          - "K. Siddhartha"
+          - "S. Mukherjee"
+        publisher: "Kisalaya Publications Pvt. Ltd."
+        year: 2013
+        url: "https://www.amazon.in/dp/8192314545"
+    - b3:
+        title: "A Geography of India"
+        authors:
+          - "G. Singh"
+        publisher: "Atma Ram & Sons Publications"
+        year: 1976
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b4:
+        title: "Geography of India"
+        authors:
+          - "S. Singh"
+          - "J. Saroha"
+        publisher: "Access Publishing India Pvt. Ltd."
+        year: 2014
+        url: "https://www.amazon.in/dp/9383454178"
 weight: 11
 summary: "India is the seventh largest country in the world. It is separated by the Himalayas from the rest of the continent. India accounts for about 2.4 % of the total area of the world with an area of 32,87,263 sq.km, many of the India states are larger than several countries of the wo…"
 ---
@@ -399,10 +431,6 @@ In which river the Gerosappa (Jog) fall is found?
 
 ![](assets/page_015_picture_001.png)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 **II Match the following**
 
 | No. | Column A | Column B (shuffled) |
@@ -475,15 +503,6 @@ Mark the following in the outline map of India
 
 5. Prepare a table showing the major rivers in India and find out it’s tributaries, origin, length and area.
 
-### REFERENCE BOOKS
-
-1. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.
-
-2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.
-
-3. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.
-
-4. Singh, S. and Saroha, J. (2014). Geography of India (1st Edition). Access Publishing India Pvt. Ltd., New Delhi.
 
 ### INTERNET RESOURCES
 

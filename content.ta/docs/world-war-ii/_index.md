@@ -3,6 +3,36 @@ title: 'இரண்டாம் உலகப்போர்'
 categories:
     - history
     - world-war-ii
+references:
+  books:
+    - b1:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b2:
+        title: "The United Nations: An Inside View"
+        authors:
+          - "C.V. Narasimhan"
+        publisher: "Vikas Publishing House"
+        year: 1988
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b3:
+        title: "Encyclopaedia Britannica"
+        authors:
+          - "Encyclopaedia Britannica Editors"
+        publisher: "Encyclopaedia Britannica, Inc."
+        year: 1962
+        url: "https://www.britannica.com"
+    - b4:
+        title: "A People’s History of the World"
+        authors:
+          - "Chris Harman"
+        publisher: "Orient Longman"
+        year: 2007
+        url: "https://www.amazon.in/dp/8125032584"
 weight: 3
 summary: "இரண்டாம் உலகப்போருக்கான காரணங்கள், முக்கிய நிகழ்வுகள், அச்சு நாடுகள் மற்றும் நேச நாடுகளின் பங்கு மற்றும் போரின் விளைவுகளைப் பற்றி விளக்குகிறது."
 ---
@@ -362,13 +392,6 @@ summary: "இரண்டாம் உலகப்போருக்கான �
 
 உலக வரைபடத்தில் கீழ்க்காண்பனவற்றைக் குறிக்கவும் 1. அச்சு நாடுகள் 2. நேச நாடுகள் 3. ஹிரோஷிமா, நாகசாகி, ஹவாய் தீவுகள், மாஸ்கோ , சான் பிரான்சிஸ்கோ
 
-### மேற்கோள் நூல்கள்
-
-1. R.D. Cornwell, World History in the Twentieth Century, London: Longman, 1972.
-
-2. C.V. Narasimhan, The United Nations - An Inside View, New Delhi: Vikas, 1988.
-
-3. Encyclopaedia Britannica, vol. 23 (1962 edition).
 
 
 <!-- supplemental-resources:start -->

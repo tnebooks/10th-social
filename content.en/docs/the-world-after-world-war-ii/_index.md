@@ -3,6 +3,29 @@ title: "The World after World War II"
 categories:
 - history
 - the-world-after-world-war-ii
+references:
+  books:
+    - b1:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b2:
+        title: "Complete History of the World"
+        authors:
+          - "Richard Overy"
+        publisher: "HarperCollins"
+        year: 2006
+        url: "https://www.amazon.in/dp/0007218671"
+    - b3:
+        title: "A People’s History of the World"
+        authors:
+          - "Chris Harman"
+        publisher: "Orient Longman"
+        year: 2007
+        url: "https://www.amazon.in/dp/8125032584"
 weight: 4
 summary: "In the aftermath of Second World War a new era began. It was the beginning of the decline of European colonial empires and the independence of colonies in Asia and Africa. If the effects of World War I led to the communist revolution of Russia, the Second World War played a big…"
 ---
@@ -471,19 +494,6 @@ Arab-Israeli Wars and Vietnam War.
 
 2. Involving the entire class, an album may be prepared with pictures relating to Korean, Arab-Israeli and Vietnam Wars to highlight the human sufferings in terms of death and devastation.
 
-### REFERENCE BOOKS
-
-1. R.D. Cornvell, World History in the
-
-Twentieth Century (London: Longman, 1972)
-
-2. Richard Overy, Complete History of the
-
-World (London: Harper Collins, 2006)
-
-3. Chris Harman, A People’s History of the
-
-World (London: Orient Longman, 2007)
 
 ### INTERNET RESOURCES
 

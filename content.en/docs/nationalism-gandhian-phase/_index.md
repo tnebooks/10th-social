@@ -3,6 +3,56 @@ title: "Nationalism: Gandhian Phase"
 categories:
 - history
 - nationalism-gandhian-phase
+references:
+  books:
+    - b1:
+        title: "History of Modern India"
+        authors:
+          - "Bipan Chandra"
+        publisher: "Orient BlackSwan"
+        year: 2016
+        url: "https://www.amazon.in/dp/8125036849"
+    - b2:
+        title: "Freedom Struggle"
+        authors:
+          - "Bipan Chandra"
+          - "Amales Tripathi"
+          - "Barun De"
+        publisher: "National Book Trust, India"
+        year: 1993
+        url: "https://www.amazon.in/dp/8123702498"
+    - b3:
+        title: "India’s Struggle for Independence"
+        authors:
+          - "Bipan Chandra"
+          - "Mridula Mukherjee"
+          - "Aditya Mukherjee"
+          - "K.N. Panikkar"
+          - "Sucheta Mahajan"
+        publisher: "Penguin Books"
+        year: 1989
+        url: "https://www.amazon.in/dp/0140107819"
+    - b4:
+        title: "Modern India, 1885–1947"
+        authors:
+          - "Sumit Sarkar"
+        publisher: "Pearson"
+        year: 2014
+        url: "https://www.amazon.in/dp/9332526308"
+    - b5:
+        title: "From Plassey to Partition: A History of Modern India"
+        authors:
+          - "Sekhar Bandyopadhyay"
+        publisher: "Orient BlackSwan"
+        year: 2013
+        url: "https://www.amazon.in/dp/8125057234"
+    - b6:
+        title: "Mahatma Gandhi: A Biography"
+        authors:
+          - "B.R. Nanda"
+        publisher: "Oxford University Press"
+        year: 1958
+        url: "https://www.amazon.in/dp/0195605992"
 weight: 8
 summary: "Mahatma Gandhi arrived in India in 1915 from South Africa after fighting for the civil rights of the Indians there for about twenty years. He brought with him a new impulse to Indian politics. He introduced satyagraha, which he had perfected in South Africa, that could be practi…"
 ---
@@ -575,31 +625,6 @@ Arrival of refugees in the wake of Partition
 
 2. Students can be divided into groups and asked to debate the views of Gandhi, Jinnah, B.R. Ambedkar, Revolutionaries and Communists.
 
-### REFERENCE BOOKS
-
-1. Bipan Chandra, History of Modern India,
-
-Orient BlackSwan, 2016.
-
-2. Bipan Chandra, Amales Tripathi and
-
-Barun De, Freedom Struggle, NBT,1993.
-
-3. Bipan Chandra, et al., India’s Struggle for
-
-Independence, Penguin Books, 1989.
-
-4. Sumit Sarkar, Modern India, 1885–1947,
-
-Pearson, 2014.
-
-5. Sekhar Bandyopadhyay, From Plassey to
-
-Partition, Orient BlackSwan, 2013.
-
-6. B.R. Nanda, Mahatma Gandhi: A
-
-Biography, Oxford University Press, 1958.
 
 ### ICT CORNER
 

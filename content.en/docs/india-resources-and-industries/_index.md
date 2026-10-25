@@ -3,6 +3,44 @@ title: "India - Resources and Industries"
 categories:
 - geography
 - india-resources-and-industries
+references:
+  books:
+    - b1:
+        title: "Geography of India"
+        authors:
+          - "S. Singh"
+          - "J. Saroha"
+        publisher: "Access Publishing India Pvt Ltd"
+        year: 2014
+        url: "https://www.amazon.in/dp/9383454178"
+    - b2:
+        title: "Geography of India"
+        authors:
+          - "R.C. Tiwari"
+        publisher: "Prayag Pustak Bhawan"
+        year: 2013
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b3:
+        title: "Annual Report 2017–18"
+        authors:
+          - "Government of India, Ministry of Mines, Coal, Textiles, Steel, Petroleum and Natural Gas"
+        publisher: "Government of India"
+        year: 2018
+        url: "https://www.india.gov.in/my-government/documents/policy-documents"
+    - b4:
+        title: "Economic and Commercial Geography"
+        authors:
+          - "S.A. Ghazi"
+        publisher: "Kitab Mahal"
+        year: 2010
+        url: "https://www.google.com/books/edition/_/3E4uAAAAMAAJ"
+    - b5:
+        title: "Development of Industries in India, from Independence Till Today"
+        authors:
+          - "Ministry of Commerce and Industry"
+        publisher: "Government of India"
+        year: 2019
+        url: "https://www.dipp.gov.in"
 weight: 14
 summary: "Any matter or energy derived from the environment that is used by living things including humans is called a natural resource. Natural resources include air, water, soil, minerals, fossil fuels, plants, wild life etc. Many natural resources are used as raw materials. They play a…"
 ---
@@ -541,28 +579,6 @@ Forest based industries – the industries run with the help of forest products.
 4. Areas of cultivation of cotton.
 
 5. Iron and Steel industries.
-
-### REFERENCE BOOKS
-
-1. Singh,S. and J. Saroha – Geography of India,
-
-New Delhi, Access Publishing Inida Pvt Ltd.
-
-2. Tiwar R.C. – Geography of India, Allahabad,
-
-Prayag Pustak Bhawan.
-
-3. Government of India, Ministry of mines,
-
-Coal, Textiles, Steel, Petroleum and Natural gas – Annual report 2017 -18
-
-4. Economic and Commercial Geography,
-
-Professor S.A. Ghazi
-
-5. Development of industries in India, from
-
-Independence till today
 
 ### ICT CORNER: India - Resources and Industries
 

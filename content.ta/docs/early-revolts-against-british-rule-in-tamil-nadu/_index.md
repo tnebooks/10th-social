@@ -3,6 +3,36 @@ title: 'ஆங்கிலேய ஆட்சிக்கு எதிராக 
 categories:
     - history
     - early-revolts-against-british-rule-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Peasant State and Society in Medieval South India"
+        authors:
+          - "Burton Stein"
+        publisher: "Oxford University Press"
+        year: 1980
+        url: "https://www.amazon.in/dp/0195610651"
+    - b2:
+        title: "Palayakararss as Feudatories Under the Nayaks of Madurai"
+        authors:
+          - "P.M. Lalitha"
+        publisher: "Creative Enterprises"
+        year: 2015
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b3:
+        title: "South Indian Rebellion, 1800–1801"
+        authors:
+          - "K. Rajayyan"
+        publisher: "Ratna Publication"
+        year: 2000
+        url: "https://www.amazon.in/dp/8187840003"
+    - b4:
+        title: "Vellore Revolt 1806"
+        authors:
+          - "K.A. Manikumar"
+        publisher: "Allied Publishers"
+        year: 2007
+        url: "https://www.amazon.in/dp/8184241923"
 weight: 6
 summary: "தமிழகத்தில் ஆங்கிலேயர்களின் ஆட்சிக்கும் விரிவாக்கத்திற்கும் எதிராக நடைபெற்ற தொடக்ககால கிளர்ச்சிகள் மற்றும் எதிர்ப்பு இயக்கங்களைப் பற்றி விளக்குகிறது."
 ---
@@ -323,15 +353,6 @@ summary: "தமிழகத்தில் ஆங்கிலேயர்கள
 
 2. மாணவர்கள் ஜாக்சனுக்கும், கட்டபொம்மனுக்குமிடையேநடந்த உரையாடலை நாடக வடிவில் ஆசிரியரின் ழிகாட்டுதலோடு அரங்கேற்றலாம்.
 
-### மேற்கோள் நூல்கள்
-
-1. Burton Stein, Peasant State and Society in Medieval South India, New Delhi:Oxford University Press, 1980.
-
-2. P.M. Lalitha, Palayakararss as Feudatories Under the Nayaks of Madurai, Chennai: Creative Enterprises, 2015.
-
-3. K. Rajayyan, South Indian Rebellion, 1800–1801, Madurai, Ratna Publication, 2000 (Reprint).
-
-4. K.A. Manikumar, Vellore Revolt 1806 (Chennai: Allied Publishers, 2007).
 
 மேலும் வாசிக்கத்தக்க நூல்டாக்டர். கே.கே. பிள்ளை, தமிழக வரலாறு - மக்களும் பண்பாடும், தமிழ்நாடு பாடநூல் மற்றும் கல்வியியல் பணிகள் கழகம், சென்னை (ஆவணப் பதிப்பு: ஆகஸ்ட் - 2017)
 

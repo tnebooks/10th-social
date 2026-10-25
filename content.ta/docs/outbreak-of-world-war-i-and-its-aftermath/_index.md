@@ -3,6 +3,36 @@ title: 'முதல் உலகப்போரின் வெடிப்ப�
 categories:
     - history
     - outbreak-of-world-war-i-and-its-aftermath
+references:
+  books:
+    - b1:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b2:
+        title: "Europe Since Napoleon"
+        authors:
+          - "David Thomson"
+        publisher: "Penguin"
+        year: 1990
+        url: "https://www.amazon.in/dp/0102008018"
+    - b3:
+        title: "The Age of Extremes: 1914–1991"
+        authors:
+          - "Eric Hobsbawm"
+        publisher: "Abacus"
+        year: 1994
+        url: "https://www.amazon.in/dp/0349106711"
+    - b4:
+        title: "The Oxford Illustrated History of the First World War"
+        authors:
+          - "Hew Strachan"
+        publisher: "Oxford University Press"
+        year: 2014
+        url: "https://www.amazon.in/dp/0199663783"
 weight: 1
 summary: "முதல் உலகப்போருக்கான காரணங்கள், போரின் நிகழ்வுகள் மற்றும் அதன் முக்கியமான அரசியல், பொருளாதார மற்றும் சமூக விளைவுகளைப் பற்றிக் கற்கிறது."
 ---
@@ -529,15 +559,6 @@ iii) சூயஸ் கால்வாயைத் தாக்க துரு
 
 12. ருமேனியா
 
-### மேற்கோள் நூல்கள்
-
-1. R.D. Cormvell, World History in the Twentieth Century, London: Longman, 1972
-
-2. David Thomson, Europe since Napoleon, Harmondsworth: Penguin, 1990
-
-3. Eric Hobsbawm,The Age of extremes, 1914 – 1991, London: Abacus, 1994.
-
-4. Hew  Strachan, The Oxford Illustrated History of the First World War. Oxford: Oxford University Press, 2014).
 
 ![](assets/page_017_picture_001.png)
 

@@ -3,6 +3,30 @@ title: "Gross Domestic Product and its Growth: an Introduction"
 categories:
 - economics
 - gross-domestic-product-and-its-growth-an-introduction
+references:
+  books:
+    - b1:
+        title: "Indian Economy (Problems, Policies, and Development)"
+        authors:
+          - "Dr. S. Sankaran"
+        publisher: "Margham Publications"
+        year: 2020
+        url: "https://www.google.com/books/edition/_/aXN3AAAAMAAJ"
+    - b2:
+        title: "Indian Economy"
+        authors:
+          - "Ramesh Singh"
+        publisher: "McGraw Hill Education"
+        year: 2018
+        url: "https://www.amazon.in/dp/9387572867"
+    - b3:
+        title: "Reports and Publications on Planning and Statistics"
+        authors:
+          - "Ministry of Statistics and Programme Implementation"
+          - "Planning Commission, Government of India"
+        publisher: "Government of India"
+        year: 2014
+        url: "https://www.mospi.gov.in"
 weight: 23
 summary: "To understand how the Indian Economy is doing, one has to understand what GDP is."
 ---
@@ -533,17 +557,6 @@ The economy of India had undergone policy in the beginning of the 1990s. This ne
 
 2. Students have to collect the details of Employment growth of Tamil Nadu.
 
-### REFERENCE BOOKS
-
-1. Sankaran Indian Economy (problems, policies, and development).
-
-2. Ramesh Singh Indian Economy (10th
-
-Edition).
-
-3. Ministry of Statistics and Implementation
-
-Planning Commission. Government of India.
 
 ### INTERNET RESOURCES
 

@@ -3,6 +3,43 @@ title: "The World between two World Wars"
 categories:
 - history
 - the-world-between-two-world-wars
+references:
+  books:
+    - b1:
+        title: "Complete History of the World"
+        authors:
+          - "Richard Overy"
+        publisher: "HarperCollins"
+        year: 2007
+        url: "https://www.amazon.in/dp/0007218671"
+    - b2:
+        title: "A People’s History of the World"
+        authors:
+          - "Chris Harman"
+        publisher: "Orient Longman"
+        year: 2007
+        url: "https://www.amazon.in/dp/8125032584"
+    - b3:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b4:
+        title: "A Little History of the World"
+        authors:
+          - "E.H. Gombrich"
+        publisher: "Yale University Press"
+        year: 2008
+        url: "https://www.amazon.in/dp/0300143101"
+    - b5:
+        title: "Glimpses of World History"
+        authors:
+          - "Jawaharlal Nehru"
+        publisher: "Penguin Books"
+        year: 2004
+        url: "https://www.amazon.in/dp/0143031031"
 weight: 2
 summary: "The First World War shattered the global capitalist system based on European imperialism. The European powers were gravely weakened by the War, financially and politically. The conflict between the workers and the ruling classes that controlled the government became intense. As…"
 ---
@@ -373,17 +410,6 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 
 2. A group project work on Vietnam War is desirable. An album or pictures, portraying the air attacks of the US on Vietnam and the brave resistance put up by the Vietnamese may be prepared.
 
-### REFERENCE BOOKS
-
-1. Richard Overy (ed.) Complete History of the World (London: HarperCollins, 2007)
-
-2. Chris Harman, A People’s History of the World (New Delhi: Orient Longman, 2007).
-
-3. R.D. Cornwell, World History in the Twentieth Century (London: Longman, 1972).
-
-4. E.H. Gombrich, A Little History of the World (London: Yale University Press, 2008).
-
-5. Jawaharlal Nehru, Glimpses of World History (New Delhi: Penguin Books, 2004).
 
 <!-- supplemental-resources:start -->
 

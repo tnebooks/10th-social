@@ -3,6 +3,33 @@ title: "Government and Taxes"
 categories:
 - economics
 - government-and-taxes
+references:
+  books:
+    - b1:
+        title: "Role of Taxation in Developing Country in India"
+        authors:
+          - "Gaurav Aklani"
+        publisher: "Inspira Research Association"
+        year: 2018
+        url: "https://www.inspirajournals.com/uploads/Issues/583464788.pdf"
+    - b2:
+        title: "Fiscal Economics"
+        authors:
+          - "Sankaran"
+        publisher: "Margham Publications"
+        year: 2008
+        url: "https://www.google.com/books/edition/_/3E4uAAAAMAAJ"
+    - b3:
+        title: "Public Finance (Fiscal Policy)"
+        authors:
+          - "R. Cauvery"
+          - "U.K. Sudha Nayak"
+          - "M. Girija"
+          - "N. Kruparani"
+          - "R. Meenakshi"
+        publisher: "S. Chand & Company Pvt Ltd"
+        year: 2010
+        url: "https://www.amazon.in/dp/812190997X"
 weight: 26
 summary: "Tax is levied by government for the development of the state’s economy. The revenue of the government depends upon direct and indirect taxes. Direct taxes are levied on income of the persons and the indirect taxes are levied on goods and services by which the government mobilise…"
 ---
@@ -395,18 +422,6 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 1. Collect information about the local taxes (water, electricity and house tax etc).
 
 2. Students purchase some goods on the shop. The teacher and students discuss those goods, maximum retail price, purchasing price or GST.
-
-### REFERENCE BOOKS
-
-1. Gaurav Aklani, Role of Taxation in
-
-Developing Country in India.
-
-2. Sankaran, Fiscal Economics.
-
-3. Dr.U.K. Sudha Nayak, B.P. Tygai, and
-
-Dr.H. Girija, Public Finance.
 
 ### INTERNET RESOURCES
 

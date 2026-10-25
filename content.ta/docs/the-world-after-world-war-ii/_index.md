@@ -3,6 +3,29 @@ title: 'இரண்டாம் உலகப்போருக்குப் �
 categories:
     - history
     - the-world-after-world-war-ii
+references:
+  books:
+    - b1:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b2:
+        title: "Complete History of the World"
+        authors:
+          - "Richard Overy"
+        publisher: "HarperCollins"
+        year: 2006
+        url: "https://www.amazon.in/dp/0007218671"
+    - b3:
+        title: "A People’s History of the World"
+        authors:
+          - "Chris Harman"
+        publisher: "Orient Longman"
+        year: 2007
+        url: "https://www.amazon.in/dp/8125032584"
 weight: 4
 summary: "இரண்டாம் உலகப்போருக்குப் பிந்தைய உலக அரசியல் மாற்றங்கள், பனிப்போர், காலனிய விடுதலை மற்றும் புதிய உலக சக்திகளின் தோற்றம் ஆகியவற்றைப் பற்றி விளக்குகிறது."
 ---
@@ -438,14 +461,6 @@ iii) சீட்டோவின் உறுப்பு நாடுகள் 
 1. வகுப்பைஇருபிரிவுகளாகப் பிரிக்கவும். ஒரு பிரிவை அமெரிக்க ஐக்கிய நாட்டின் ஆதரவாளர்களாகவும் மற்றொரு பிரிவை சோவியத் நாட்டின் ஆதரவாளர்களாகவும் கொண்டு பனிப்போர் அரசியலை விளக்க விவாதமேடையமைக்க.
 
 2. பேரழிவு, மக்கள் இறப்புப் போன்ற கருக்களைக் கொண்டு மொத்த வகுப்பையும் பயன்படுத்தி கொரியப்போர், அரபு-இஸ்ரேல் போர், வியட்நாம்போர் போன்றவற்றின் படங்களைச் சேகரித்து ஒரு படத்தொகுப்பை உருவாக்கலாம்.
-
-### மேற்கோள் நூல்கள்
-
-1. R.D. Cornvell, World History in the Twentieth Century (London: Longman, 1972)
-
-2. Richard Overy, Complete History of the World (London: Harper Collins, 2006)
-
-3. Chris Harman, A People’s History of the World (London: Orient Longman, 2007)
 
 ### இணையதள வளங்கள்
 

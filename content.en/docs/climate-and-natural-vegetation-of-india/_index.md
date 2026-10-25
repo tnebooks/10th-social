@@ -3,6 +3,38 @@ title: "Climate and Natural Vegetation of India"
 categories:
 - geography
 - climate-and-natural-vegetation-of-india
+references:
+  books:
+    - b1:
+        title: "Climate Profile of India"
+        authors:
+          - "S.D. Attri"
+          - "A. Tyagi"
+        publisher: "India Meteorological Department, Ministry of Earth Sciences, Govt. of India"
+        year: 2010
+        url: "https://www.imdpune.gov.in/library/public/Climate%20Profile%20of%20India.pdf"
+    - b2:
+        title: "Geography of India"
+        authors:
+          - "S. Singh"
+          - "J. Saroha"
+        publisher: "Access Publishing India Pvt. Ltd."
+        year: 2014
+        url: "https://www.amazon.in/dp/9383454178"
+    - b3:
+        title: "Geography of India"
+        authors:
+          - "M. Hussain"
+        publisher: "Tata McGraw-Hill Publishing House Company Ltd."
+        year: 2008
+        url: "https://www.amazon.in/dp/0070264843"
+    - b4:
+        title: "India’s fifth National report to the Convention on Biological Diversity"
+        authors:
+          - "Govt. of India"
+        publisher: "Ministry of Environment and Forests"
+        year: 2014
+        url: "https://www.cbd.int/doc/world/in/in-nr-05-en.pdf"
 weight: 12
 summary: "We drink more water during summer and do not drink the same amount of water during winter. Why do we wear cotton or light clothes during summer season and heavy woollen clothes during cold weather season in North India? Why do not we wear woollen clothes in South India? This is…"
 ---
@@ -340,19 +372,6 @@ Monsoon and Southwest Monsoon.
 
 6. Agasthiyamalai biosphere reserve
 
-### REFERENCE BOOKS
-
-1. Attri, S.D. and A. Tyagi, 2010. “Climate
-
-Profile of India”, India Meteorological Department, Ministry of Earth Sciences, Govt. of India, New Delhi.
-
-2. Singh, S. and J. Saroha, 2014. “Geography of India”, Access Publishing India Pvt. Ltd. New Delhi.
-
-3. Hussain, M. 2008. “Geography of India”
-
-Tata McGraw-Hill Publishing House Company Ltd. New Delhi.
-
-4. Govt. of India, 2014. “India’s fifth National report to the Convention on Biological Diversity” Ministry of Environment and Forests.
 
 ### ICT CORNER: Climate and Natural Vegetation of India
 

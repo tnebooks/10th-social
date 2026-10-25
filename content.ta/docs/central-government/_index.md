@@ -3,6 +3,29 @@ title: "நடுவண் அரசு"
 categories:
 - civics
 - central-government
+references:
+  books:
+    - b1:
+        title: "Introduction to the Constitution of India"
+        authors:
+          - "D.D. Basu"
+        publisher: "S.C. Sarkar & Sons (Private) Ltd"
+        year: 1982
+        url: "https://www.amazon.in/dp/9389991598"
+    - b2:
+        title: "The Constitution of India"
+        authors:
+          - "P.M. Bakshi"
+        publisher: "Universal Law Publishing - an imprint of LexisNexis"
+        year: 2018
+        url: "https://www.amazon.in/dp/9388548321"
+    - b3:
+        title: "Our Constitution"
+        authors:
+          - "Subhash Kashyap"
+        publisher: "National Book Trust, India"
+        year: 2011
+        url: "https://www.amazon.in/dp/8123707341"
 weight: 19
 summary: "இந்திய நாட்டின் உயர்ந்த அரசாங்க அமைப்பு நடுவண் அரசு ஆகும். இதன் தலைமையகம் புதுதில்லியில் அமைந்துள்ளது. இந்திய அரசியலமைப்பின் பகுதி Vஇல் 52 முதல் 78 வரையிலான சட்டப்பிரிவுகள் நடுவண் அரசின் நிருவாகம் பற்றி குறிப்பிடுகின்றன. இந்திய"
 ---

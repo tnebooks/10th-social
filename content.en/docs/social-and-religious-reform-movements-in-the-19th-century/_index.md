@@ -3,6 +3,37 @@ title: "Social and Religious Reform Movements in the 19th Century"
 categories:
 - history
 - social-and-religious-reform-movements-in-the-19th-century
+references:
+  books:
+    - b1:
+        title: "Socio-Religious Reform Movements in British India"
+        authors:
+          - "Kenneth W. Jones"
+        publisher: "Cambridge University Press"
+        year: 2006
+        url: "https://www.amazon.in/dp/0521249864"
+    - b2:
+        title: "Depressed Class Movement in South India"
+        authors:
+          - "S. Manickam"
+        publisher: "Manikumar K.A."
+        year: 1996
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b3:
+        title: "Towards a Non-Brahmin Millennium: From Iyothee Thass to Periyar"
+        authors:
+          - "V. Geetha"
+          - "S.V. Rajadurai"
+        publisher: "Samya"
+        year: 1998
+        url: "https://www.amazon.in/dp/8185604291"
+    - b4:
+        title: "Religion, Social Space, and Identity: The Prathyaksha Raksha Daiva Sabha and the Making of Cultural Boundaries in Twentieth Century Kerala"
+        authors:
+          - "P. Sanal Mohan"
+        publisher: "SAGE Publications"
+        year: 2013
+        url: "https://www.amazon.in/dp/8132111586"
 weight: 5
 summary: "English education, introduced with the objective of producing clerks, also produced a new English-educated middle class. This class came under the influence of western ideas and thoughts. Christianity also had its effect on the newly emerging middle class. Though small in number…"
 ---
@@ -409,15 +440,6 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 
 2. Debate Social evils of 19th century with those of present day.
 
-### REFERENCE BOOKS
-
-1. Kenneth W. Jones, Socio-Religious Reform Movement in British India, New Edition, Cambridge University Press, 2006.
-
-2. Manickam, S., “Depressed Class Movement in South India,” in Manikumar K.A. (ed.), History and Society, Tirunelveli, 1996.
-
-3. V. Geetha and S.V. Rajathurai, Towards a Non-Brahmin Millennium from Iyothee Thass to Periyar, Calcutta, 1998.
-
-4. Mohan, P. Sanal (2013), “Religion, Social Space, and Identity: The Prathyaksha Raksha Daiva Sabha and the Making of Cultural Boundaries in Twentieth Century Kerala”, in Joan Mencher(ed.), Life as a Dalit: Views from the Bottom on Caste in India, SAGE Publications.
 
 ### INTERNET RESOURCES
 

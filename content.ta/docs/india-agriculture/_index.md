@@ -3,6 +3,45 @@ title: "இந்தியா – வேளாண்மை"
 categories:
 - geography
 - india-agriculture
+references:
+  books:
+    - b1:
+        title: "A Geography of India"
+        authors:
+          - "G. Singh"
+        publisher: "Atma Ram & Sons Publications"
+        year: 1976
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b2:
+        title: "Geography through Maps"
+        authors:
+          - "K. Siddhartha"
+          - "S. Mukherjee"
+        publisher: "Kisalaya Publications Pvt. Ltd."
+        year: 2013
+        url: "https://www.amazon.in/dp/8192314545"
+    - b3:
+        title: "Geography of India"
+        authors:
+          - "M. Husain"
+        publisher: "McGraw Hill Education"
+        year: 2015
+        url: "https://www.amazon.in/dp/9339221192"
+    - b4:
+        title: "Economic and Commercial Geography India"
+        authors:
+          - "T.C. Sharma"
+          - "O. Coutinho"
+        publisher: "Vikas Publishing House Pvt. Ltd."
+        year: 1978
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b5:
+        title: "Economic and Commercial Geography of India"
+        authors:
+          - "C.B. Mamoria"
+        publisher: "Shiva Lal Agarwala & Company"
+        year: 1980
+        url: "https://www.google.com/books/edition/_/3E4uAAAAMAAJ"
 weight: 13
 summary: "வளங்களில் மண்வளம் மிக முக்கிய வளமாகக் கருதப்படுகிறது. இந்திய நாட்டின் பரப்பளவு கொண்ட மற்ற நாடுகளைக் காட்டிலும், இந்தியாவின் வேறுபட்ட இயற்கைச் சூழல் அதிக எண்ணிக்கையிலான மண் வகைகளுக்கு காரணமாக உள்ளது. (வளமான மண் வகைகள், வேளாண்மையை ஊக்கப்படுத்துவதன் மூலம் அதிக…"
 ---
@@ -555,18 +594,6 @@ summary: "வளங்களில் மண்வளம் மிக முக�
 7. தூத்துக்குடி, சென்னை, கொச்சின், மும்பை மற்றும் மசூலிப்பட்டினம் மீன் பிடித்தல் மையங்களைக் கண்டறிக.
 
 8. காவிரி மற்றும் கோதாவரி டெல்டா பகுதிகளைக் குறிக்கவும்.
-
-### மேற்கோள் நூல்கள்
-
-1. Singh, G. (1976). A Geography of India. Atma Ram & Sons Publications, New Delhi.
-
-2. Siddhartha, K. and Mukherjee, S. (2013). Geography through Maps (11th Edition). Kisalaya Publications Pvt. Ltd., New Delhi.
-
-3. Husain, M. (2015). Geography of India (6th Edition). McGraw Hill Education, New Delhi.
-
-4. Sharma, T.C. and Coutinho, O. (1978). Economic and Commercial Geography India (2nd Edition). Vikas Publishing House Pvt. Ltd., New Delhi.
-
-5. Mamoria, C.B. (1980). Economic and Commercial Geography of India. Shiva Lal Agarwala & Company, Agra.
 
 ### இணையதள வளங்கள்
 

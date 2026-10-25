@@ -3,6 +3,36 @@ title: "World war II"
 categories:
 - history
 - world-war-ii
+references:
+  books:
+    - b1:
+        title: "World History in the Twentieth Century"
+        authors:
+          - "R.D. Cornwell"
+        publisher: "Longman"
+        year: 1972
+        url: "https://www.amazon.in/dp/0582312613"
+    - b2:
+        title: "The United Nations: An Inside View"
+        authors:
+          - "C.V. Narasimhan"
+        publisher: "Vikas Publishing House"
+        year: 1988
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b3:
+        title: "Encyclopaedia Britannica"
+        authors:
+          - "Encyclopaedia Britannica Editors"
+        publisher: "Encyclopaedia Britannica, Inc."
+        year: 1962
+        url: "https://www.britannica.com"
+    - b4:
+        title: "A People’s History of the World"
+        authors:
+          - "Chris Harman"
+        publisher: "Orient Longman"
+        year: 2007
+        url: "https://www.amazon.in/dp/8125032584"
 weight: 3
 summary: "The first half of the twentieth century witnessed two wars which devastated the world. World War I was fought from 1914 to 1918 and World War II began in 1939 and ended in 1945. While the world at large had experienced many wars, these two wars are referred to as “World” wars be…"
 ---
@@ -407,16 +437,6 @@ The benefits can either be achieved through cash transfers, like old age pension
 2. Allied Power Countries
 
 3. Hiroshima, Nagasaki, Hawaii Islands, Moscow, San Fransico
-
-### REFERENCE BOOKS
-
-1. R.D. Cornwell, World History in the Twentieth Century, London: Longman, 1972.
-
-2. C.V. Narasimhan, The United Nations - An Inside View, New Delhi: Vikas, 1988.
-
-3. Encyclopaedia Britannica, vol. 23 (1962 edition).
-
-4. Chris Harman, A People’s History of the World (Delhi: Orient Longman, 2007)
 
 ### ICT CORNER
 

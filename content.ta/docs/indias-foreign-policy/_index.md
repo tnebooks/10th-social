@@ -3,6 +3,65 @@ title: "இந்தியாவின் வெளியுறவுக் க�
 categories:
 - civics
 - indias-foreign-policy
+references:
+  books:
+    - b1:
+        title: "Theoretical Aspects of International Politics"
+        authors:
+          - "Mahendra Kumar"
+        publisher: "Shivalal Agarwala & Company"
+        year: 1984
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b2:
+        title: "Theories of International Relations"
+        authors:
+          - "Prakash Chandra"
+        publisher: "Aman Publishing House"
+        year: 2008
+        url: "https://www.amazon.in/dp/8188167124"
+    - b3:
+        title: "India’s Foreign Policy: Retrospect and Prospect"
+        authors:
+          - "S. Ganguly"
+        publisher: "Oxford University Press"
+        year: 2011
+        url: "https://www.amazon.in/dp/0198077583"
+    - b4:
+        title: "India’s Foreign Policy in a Changing World"
+        authors:
+          - "V.P. Dutt"
+        publisher: "Vikas Publishing House Pvt. Ltd."
+        year: 2009
+        url: "https://www.amazon.in/dp/8125932313"
+    - b5:
+        title: "India’s Foreign Policy and Its Neighbours"
+        authors:
+          - "J.N. Dixit"
+        publisher: "Gyan Publishing House"
+        year: 2001
+        url: "https://www.amazon.in/dp/8121207266"
+    - b6:
+        title: "Foreign Policy of India"
+        authors:
+          - "V.N. Khanna"
+          - "Leslie K. Kumar"
+        publisher: "Vikas Publishing House Pvt. Ltd."
+        year: 2018
+        url: "https://www.amazon.in/dp/9352718716"
+    - b7:
+        title: "India’s Foreign Policy: Coping with the Changing World"
+        authors:
+          - "Muchkund Dubey"
+        publisher: "Orient Blackswan Pvt. Ltd."
+        year: 2015
+        url: "https://www.amazon.in/dp/8125060413"
+    - b8:
+        title: "India’s Foreign Policy: Past, Present and Ties with the World"
+        authors:
+          - "S.K. Shah"
+        publisher: "Vij Books India Pvt. Ltd."
+        year: 2017
+        url: "https://www.amazon.in/dp/9386457172"
 weight: 21
 summary: "வெளியுறவுக் கொள்கை என்பது ஒரு நாடு வெளியுறவு விவகாரங்களின் மூலம் தேசிய நலனைப் பாதுகாக்கவும் மேம்படுத்தவும் இருதரப்பு மற்றும் பலதரப்பு உறவுகளைப் பேணவும் வடிவமைக்கப்பட்ட கொள்கை ஆகும். இது நாட்டு மக்களின் சிறந்த நலன்கள், நாட்டின் பரப்பு மற்றும் பொருளாதாரம்…"
 ---
@@ -340,16 +399,6 @@ SAARC நாடுகளின் கூட்டமைப்பு என்ப
 ### VII செயல்பாடு
 
 1. நீங்கள் முடிவு எடுப்பவராக இருந்ததால் தக்க வைத்துக்கொள்ள விரும்பும் அல்லது மாற்றம் செய்ய விரும்பும் இந்தியாவின் வெளியுறவுக் கொள்கைகளில் ஏதேனும் இரண்டு அம்சங்களை அடையாளம் காணவும்.
-
-### மேற்கோள் நூல்கள்
-
-1. Mahendra Kumar, Theoretical Aspects of International Policies, Agra, Shivalal Agarwala & company 1984
-
-2. Prakash Chandra, Theories of International Relations: Aman publishing
-
-3. S. Ganguly, India’s Foreign Policy, Oxford University Press
-
-4. Dutt V.P., India’s Foreign Policy in a changing world, Vikas Publishing House Pvt. Ltd., Noida (2009)
 
 ## இணையச் செயல்பாடு
 

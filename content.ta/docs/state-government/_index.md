@@ -3,6 +3,22 @@ title: "மாநில அரசு"
 categories:
 - civics
 - state-government
+references:
+  books:
+    - b1:
+        title: "Introduction to the Constitution of India"
+        authors:
+          - "D.D. Basu"
+        publisher: "S.C. Sarkar & Sons (Private) Ltd"
+        year: 1982
+        url: "https://www.amazon.in/dp/9389991598"
+    - b2:
+        title: "Our Constitution"
+        authors:
+          - "Subhash C. Kashyap"
+        publisher: "National Book Trust, India"
+        year: 2011
+        url: "https://www.amazon.in/dp/8123707347"
 weight: 20
 summary: "இந்திய அரசியலமைப்பு நடுவண், மாநில அரசுகளுக்கான தனித்தனி நிருவாக முறைகளைக் கொண்ட கூட்டாட்சி அரசாங்கத்தை வழங்குகிறது. இக்கூட்டாட்சியில், தேசியத் தலைநகரான புது டெல்லி உட்பட 8 யூனியன் பிரதேசங்கள் மற்றும் 28 மாநிலங்கள் உள்ளன. நடுவண்-மாநில அரசுகளுக்கான ஒரு சீரான…"
 ---
@@ -417,16 +433,6 @@ summary: "இந்திய அரசியலமைப்பு நடுவ�
 ### உரலி: https://www.mea.gov.in/india-at-glance.htm
 
 2. தமிழ்நாட்டின் முதலமைச்சர், ஆளுநர் மற்றும் அமைச்சர்களின் பெயர்களைப் பட்டியலிடுக.
-
-### ேமற்ேகாள் நூல்கள்
-
-1. D.D. Basu - Introduction to the
-
-Constitution of India, S.C. Sarkar & Sons (Private) Ltd, 1982.
-
-2. Subhash Kashyap - Our Constitution,
-
-National Book Trust, India, 2011.
 
 ### இைணயதள வளங்கள்
 

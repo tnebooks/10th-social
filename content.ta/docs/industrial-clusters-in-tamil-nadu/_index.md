@@ -3,6 +3,36 @@ title: "தமிழ்நாட்டில் தொழில்துறை �
 categories:
 - economics
 - industrial-clusters-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Role of Entrepreneurship in Economic Development"
+        authors:
+          - "D.K. Sinha"
+        publisher: "Your Article Library"
+        year: 2015
+        url: "https://www.yourarticlelibrary.com/entrepreneur/role-of-entrepreneurship-in-economic-development/40664"
+    - b2:
+        title: "The Productivity Analysis of Industrial Clusters in India"
+        authors:
+          - "Department of Industries & Commerce"
+        publisher: "Government of Tamil Nadu"
+        year: 2017
+        url: "https://www.tn.gov.in/indcom/"
+    - b3:
+        title: "State Industrial Profile - Tamil Nadu"
+        authors:
+          - "MSME-Development Institute"
+        publisher: "Ministry of Micro, Small & Medium Enterprises, Government of India"
+        year: 2019
+        url: "https://msmedichennai.gov.in/msme/state-industrial-profile/"
+    - b4:
+        title: "Indian Industrial Clusters"
+        authors:
+          - "Keshab Das"
+        publisher: "Routledge"
+        year: 2007
+        url: "https://www.amazon.in/dp/0415418193"
 weight: 27
 summary: "பொதுவாக மூலப்பொருள்களை எளிதில் பயன்படுத்தக்கூடிய பொருள்களாக மாற்றுவதில் ஈடுபட்டுள்ள எந்த ஒரு மனித நடவடிக்கையையும் நிறைவேற்றுமிடம் “தொழிற்சாலை” என்று அழைக்கப்படுகிறது. நுகர்வோருக்கும் மற்ற உற்பத்தியாளர்களுக்கும் தேவைப்படும் பொருள்களை நவீன தொழில்நுட்பங்களைப்…"
 ---
@@ -384,17 +414,6 @@ https://portal.sipcot.in/pages/sipcotmap
 
 1. ஆசிரியரும் மாணவர்களும் தொழில்முனைவோர் மற்றும் அவர்களின் செயல்பாடுகள் பற்றி விவாதித்து, ‘நீங்கள் ஒரு தொழில் முனைவோராக இருந்தால்’ என்ற தலைப்பில் ஒரு கட்டுரை எழுதுங்கள்.
 
-### மேற்கோள் நூல்கள்
-
-1. Role of Entrepreneurship in Economic Development, D.K.Sinha
-
-2. The Productivity Analysis of Industrial Clusters in India - Department of Industries & Commerce (Government of Tamil Nadu)
-
-3. State Industrial Profile - Tamil Nadu
-
-4. Indian Industrial Clusters - Keshab Das
-
-5. தமிழ்நாட்டு பொருளாதாரம் Dr. N. ராஜலட்சுமி
 
 ### இணையதள வளங்கள்
 

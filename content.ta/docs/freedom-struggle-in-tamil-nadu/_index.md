@@ -3,6 +3,36 @@ title: 'தமிழ்நாட்டில் விடுதலைப் ப�
 categories:
     - history
     - freedom-struggle-in-tamil-nadu
+references:
+  books:
+    - b1:
+        title: "Tamil Nadu: A Real History"
+        authors:
+          - "K. Rajayyan"
+        publisher: "Ratna Publications"
+        year: 2005
+        url: "https://www.google.com/books/edition/_/xPBDswEACAAJ"
+    - b2:
+        title: "March to Freedom in Madras Presidency, 1916–1947"
+        authors:
+          - "Saroja Sundararajan"
+        publisher: "Lalitha Publications"
+        year: 1989
+        url: "https://www.google.com/books/edition/_/9d5uAAAAMAAJ"
+    - b3:
+        title: "National Movement in Tamil Nadu, 1905–1914: Agitational Politics and State Coercion"
+        authors:
+          - "N. Rajendran"
+        publisher: "Oxford University Press"
+        year: 1994
+        url: "https://www.amazon.in/dp/019563487X"
+    - b4:
+        title: "Tamil Characters: Personalities, Politics, Culture"
+        authors:
+          - "A.R. Venkatachalapathy"
+        publisher: "Pan Macmillan"
+        year: 2018
+        url: "https://www.amazon.in/dp/9386215608"
 weight: 9
 summary: "இந்திய விடுதலைப் போராட்டத்தில் தமிழ்நாட்டின் பங்கு, முக்கிய தலைவர்கள், அமைப்புகள், இயக்கங்கள் மற்றும் ஆங்கிலேய ஆட்சிக்கு எதிரான போராட்டங்களைப் பற்றி விளக்குகிறது."
 ---
@@ -395,15 +425,6 @@ T. பிரகாசம், K. நாகேஸ்வர ராவ் ஆகி�
 
 2. விவாத மேடை: மாணவர்களைக் குழுக்களாகப் பிரித்து மித தேசியவாதிகள், தீவிர தேசியவாதிகள், புரட்சிகர தேசியவாதிகள், அன்னிபெசன்ட்டின் ஆதரவாளர்கள், நீதிக்கட்சி, ஆங்கில அரசாங்கம் ஆகியோரின் கருத்துகள் குறித்து விவாதிக்கச் செய்யலாம்.
 
-### மேற்கோள் நூல்கள்
-
-1. K. Rajayyan, Tamil Nadu: A Real History, Ratna Publications, Trivandrum, 2005.
-
-2. Saroja Sundararajan, March to Freedom in Madras Presidency, 1916–1947, Lalitha Publications, Madras, 1989.
-
-3. N. Rajendran, National Movement in Tamil Nadu, 1905–1914: Agitational Politics and State Coercion, Oxford University Press, Madras, 1994.
-
-4. A.R. Venkatachalapathy, Tamil Characters: Personalities, Politics, Culture, Pan Macmillan, 2018.
 
 
 <!-- supplemental-resources:start -->

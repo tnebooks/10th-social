@@ -3,6 +3,37 @@ title: '19ஆம் நூற்றாண்டில் சமூக, சமய
 categories:
     - history
     - social-and-religious-reform-movements-in-the-19th-century
+references:
+  books:
+    - b1:
+        title: "Socio-Religious Reform Movements in British India"
+        authors:
+          - "Kenneth W. Jones"
+        publisher: "Cambridge University Press"
+        year: 2006
+        url: "https://www.amazon.in/dp/0521249864"
+    - b2:
+        title: "Depressed Class Movement in South India"
+        authors:
+          - "S. Manickam"
+        publisher: "Manikumar K.A."
+        year: 1996
+        url: "https://www.google.com/books/edition/_/9a1uAAAAMAAJ"
+    - b3:
+        title: "Towards a Non-Brahmin Millennium: From Iyothee Thass to Periyar"
+        authors:
+          - "V. Geetha"
+          - "S.V. Rajadurai"
+        publisher: "Samya"
+        year: 1998
+        url: "https://www.amazon.in/dp/8185604291"
+    - b4:
+        title: "Religion, Social Space, and Identity: The Prathyaksha Raksha Daiva Sabha and the Making of Cultural Boundaries in Twentieth Century Kerala"
+        authors:
+          - "P. Sanal Mohan"
+        publisher: "SAGE Publications"
+        year: 2013
+        url: "https://www.amazon.in/dp/8132111586"
 weight: 5
 summary: "19ஆம் நூற்றாண்டில் இந்தியாவில் தோன்றிய முக்கிய சமூக மற்றும் சமய சீர்திருத்த இயக்கங்கள், அவற்றின் நோக்கங்கள் மற்றும் சமூக மாற்றத்திற்கான பங்களிப்புகளைப் பற்றி விளக்குகிறது."
 ---
@@ -426,14 +457,6 @@ iii) இராமகிருஷ்ணர் இராமகிருஷ்ண�
 1. பத்தொன்பதாம் நூற்றாண்டு சீர்திருத்தவாதிகள் மற்றும் அவர்களின் சீர்திருத்தங்கள் குறித்து மாணவர்கள் நாடகமாக நடித்துக் காண்பித்தல்.
 
 2. 19ஆம் நூற்றாண்டில் நிலவிய சமூகத் தீமைகள் இன்று நிலவும் சமூகத் தீமைகள் குறித்து பட்டிமன்றம் நடத்துதல்.
-
-### மேற்கோள் நூல்கள்
-
-1. Kenneth W. Jones, Socio-Religious Reform Movement in British India, New Edition, Cambridge University Press, 2006.
-
-2. Manickam, S., “Depressed Class Movement in South India,” in Manikumar K.A. (ed.), History and Society, Tirunelveli, 1996.
-
-3. V. Geetha and S.V. Rajathurai, Towards a Non- Brahmin Millennium from Iyothee Thass to Periyar, Calcutta, 1998.
 
 ### இணையதள வளங்கள்
 
