@@ -431,16 +431,6 @@ In which river the Gerosappa (Jog) fall is found?
 
 ![](assets/page_015_picture_001.png)
 
-**II Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Tsangpo | Tributary of River Ganga |
-| 2 | Yamuna | Highest peak in India |
-| 3 | New alluvium | River Brahmaputra in Tibet |
-| 4 | Mt. Godwin Austen (K2) | Southern part of East Coastal Plain |
-| 5 | Coromandel Coast | Khadhar |
-
 **III Give Reasons**
 
 1. The Himalayas are called young fold mountains

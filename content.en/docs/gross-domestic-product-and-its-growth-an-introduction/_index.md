@@ -508,16 +508,6 @@ The economy of India had undergone policy in the beginning of the 1990s. This ne
 
 3. Secondary sector otherwise called as _____.
 
-**III Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Electricity/Gas and Water | National Income / Population |
-| 2 | Price policy | Gross Domestic Product |
-| 3 | GST | Industry Sector |
-| 4 | Per capita income | Agriculture |
-| 5 | C + I + G + (X-M) | Tax on goods and service |
-
 **IV Give short answer**
 
 1. Define National income.

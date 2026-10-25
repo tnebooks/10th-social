@@ -553,15 +553,6 @@ India after Mumbai and Delhi.
 
 4. The difference between the value of exports and imports is called ___________.
 
-**III Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Bauxite | Salem |
-| 2 | Gypsum | Servaroy hills |
-| 3 | Iron ore | Coimbatore |
-| 4 | Limestone | Tiruchirapalli |
-
 **IV Questions 1-2 are assertion and**
 
 **reasoning type**

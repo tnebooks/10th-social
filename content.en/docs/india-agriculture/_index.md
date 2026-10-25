@@ -629,16 +629,6 @@ Reason (R): Paddy and wheat are grown well in the soil.
 
 3. a) Inundational canals b) Perennial canals c) Tanks d) Canals
 
-**IV Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Sugar bowl of India | Mahanadi |
-| 2 | Coffee | Golden revolution |
-| 3 | Tehri | Karnataka |
-| 4 | Hirakud | Uttar Pradesh and Bihar |
-| 5 | Horticulture | Highest dam in the India |
-
 **V Answer in brief**
 
 1. Define soil.

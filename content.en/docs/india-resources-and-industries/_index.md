@@ -521,19 +521,6 @@ Forest based industries – the industries run with the help of forest products.
 ### EXERCISE
 
 
-
-
-
-**II Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Bauxite | Cement |
-| 2 | Gypsum | Aluminium |
-| 3 | Anthracite | Electrical goods |
-| 4 | Iron ore | Coal |
-| 5 | Mica | Magnetite |
-
 **III Answer the following Questions briefly**
 
 1. Define the resource and state its types.

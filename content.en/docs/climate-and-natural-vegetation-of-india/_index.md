@@ -278,15 +278,6 @@ Natural vegetation can be classified as tropical evergreen forests, tropical dec
 
 =======
 >>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
-**II Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Sundarbans | Desert and semi desert vegetation |
-| 2 | Biodiversity hotspot | October - December |
-| 3 | North east monsoon | Littoral forest |
-| 4 | Tropical thorn forests | West Bengal |
-| 5 | Coastal forests | The Himalayas |
 
 **III Consider the given statements and**
 

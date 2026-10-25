@@ -521,17 +521,6 @@ Trade is an exchange of goods and services. Internal and International trades ar
 
 
 
-**II Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Border Road Organisation | Satellite communication |
-| 2 | INSAT | Impact of Urbanization |
-| 3 | Mazagaon Dock | 1955 |
-| 4 | Urban sprawl | Mumbai |
-| 5 | NHAI | 1960 |
-|  |  | Hyderabad |
-
 **III Answer the following Questions briefly**
 
 1. What is migration? State its types.

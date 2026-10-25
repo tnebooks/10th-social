@@ -660,16 +660,6 @@ Natural disasters are earthquakes, volcanoes, landslides, cyclones, droughts and
 
 4. __________is the Tamil Nadu state animal.
 
-**III Match the following**
-
-| No. | Column A | Column B (shuffled) |
-|---|---|---|
-| 1 | Winter season | Pre-monsoon |
-| 2 | Summer season | June to September |
-| 3 | Southwest monsoon | March to May |
-| 4 | Northeast monsoon | January and February |
-| 5 | Mango Shower | October to December |
-
 **IV Assertion type Question**
 
 1. Assertion (A): Tamil Nadu does not receive much rainfall from southwest monsoon. Reason (R): It is situated in the rain shadow area of the Western Ghats.

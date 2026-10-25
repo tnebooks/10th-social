@@ -409,15 +409,6 @@ GDP and Per Capita Income.
 
     d) SIPCOT
 
-**IV Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Entrepreneur | Export Processing Zone |
-| 2 | MEPZ | Coimbatore |
-| 3 | TANSI | Innovator |
-| 4 | Manchester of South India | 1965 |
-
 **V Write Short Answer**
 
 1. Why are wages low in the agricultural sector?

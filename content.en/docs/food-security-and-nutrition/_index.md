@@ -390,15 +390,6 @@ Mid-Day Meal Programme
 
 3. __________ play an important role in the supply of quality goods at responsible rates to common people.
 
-**III Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Consumer cooperatives | subsidized rates |
-| 2 | Public Distribution System | 2013 |
-| 3 | UNDP | supply of quality goods |
-| 4 | National Food Security Act | United Nations Development Programme |
-
 **IV Assertion and Reason**
 
 1. Assertion (A): Purchasing power increases, price decreases and vice versa.

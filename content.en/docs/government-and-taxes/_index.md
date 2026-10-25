@@ -381,16 +381,6 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 
     d) All are correct
 
-**IV Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Income Tax | Value added tax |
-| 2 | Excise duty | 1 July 2017 |
-| 3 | VAT | Smuggling |
-| 4 | GST | Direct tax |
-| 5 | Black money | Indirect tax |
-
 **V Give Short Answers**
 
 1. Define tax.
