@@ -3,6 +3,29 @@ title: 'காலனியத்துக்கு எதிரான இயக�
 categories:
     - history
     - anti-colonial-movements-and-the-birth-of-nationalism
+references:
+  books:
+    - b1:
+        title: "India’s Struggle for Independence"
+        authors:
+          - "Bipan Chandra"
+        publisher: "Penguin"
+        year: 2000
+        url: "https://www.amazon.in/dp/0140107819"
+    - b2:
+        title: "From Plassey to Partition and After"
+        authors:
+          - "Sekhar Bandyopadhyay"
+        publisher: "Orient Longman"
+        year: 2004
+        url: "https://www.amazon.in/dp/8125025960"
+    - b3:
+        title: "Modern India (1885-1947)"
+        authors:
+          - "Sumit Sarkar"
+        publisher: "Pearson"
+        year: 2014
+        url: "https://www.amazon.in/dp/9332526308"
 weight: 7
 summary: "இந்தியாவில் காலனிய ஆட்சிக்கு எதிராக உருவான இயக்கங்கள், அரசியல் அமைப்புகளின் தோற்றம் மற்றும் இந்திய தேசியத்தின் வளர்ச்சியைப் பற்றி விளக்குகிறது."
 ---
@@ -421,14 +444,6 @@ summary: "இந்தியாவில் காலனிய ஆட்சி�
 https://artsandculture.google.com/
 
 3. ஆங்கிலேயரின் காலனி ஆட்சிக்கு எதிரான போராட்டங்களில் பங்கேற்ற அனைத்து முன்னணி தலைவர்களின் படங்களைக் கொண்டு ஓர் படத்தொகுப்பு (Album) தயாரிக்கவும்.
-
-### மேற்கோள் நூல்கள்
-
-1. Bipan Chandra, India’s Struggle for Independence (New Delhi: Penguin, 2000)
-
-2. Sekhar Bandyopadhyay, From Plassey to Partition and After (New Delhi: Orient Longman, 2004)
-
-3. Sumit Sarkar, Modern India (1885-1947) (New Delhi: Pearson, 2014).
 
 ### மேலும் வாசிக்கத்தக்க நூல்
 

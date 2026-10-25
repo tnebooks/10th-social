@@ -3,6 +3,29 @@ title: "Anti-Colonial Movements and the Birth of Nationalism"
 categories:
 - history
 - anti-colonial-movements-and-the-birth-of-nationalism
+references:
+  books:
+    - b1:
+        title: "India’s Struggle for Independence"
+        authors:
+          - "Bipan Chandra"
+        publisher: "Penguin"
+        year: 2000
+        url: "https://www.amazon.in/dp/0140107819"
+    - b2:
+        title: "From Plassey to Partition and After"
+        authors:
+          - "Sekhar Bandyopadhyay"
+        publisher: "Orient Longman"
+        year: 2004
+        url: "https://www.amazon.in/dp/8125025960"
+    - b3:
+        title: "Modern India (1885-1947)"
+        authors:
+          - "Sumit Sarkar"
+        publisher: "Pearson"
+        year: 2014
+        url: "https://www.amazon.in/dp/9332526308"
 weight: 7
 summary: "On 23 June 1757, the Nawab of Bengal Siraj-ud-daulah was defeated by the East India Company at the Battle of Plassey. The battle was orchestrated by Robert Clive, commander-inchief of the East India Company, who managed to get the clandestine support from Mir Jafar, the uncle of…"
 ---
@@ -482,19 +505,6 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
 
 3. Prepare an album with pictures of frontline leaders of all the anti-colonial struggles launched against the British.
 
-### REFERENCE BOOKS
-
-1. Bipan Chandra, India’s Struggle for
-
-Independence (New Delhi: Penguin, 2000)
-
-2. Sekhar Bandyopadhyay, From Plassey to
-
-Partition and After (New Delhi: Orient Longman, 2004)
-
-3. Sumit Sarkar, Modern India (1885-1947)
-
-(New Delhi: Pearson, 2014).
 
 ### INTERNET RESOURCES
 
