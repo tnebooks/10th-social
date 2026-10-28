@@ -435,13 +435,7 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
 
 **II Fill in the blanks**
 
-1. ________ was an anti-imperial and anti-landlord movement which originated in and around 1827.
 
-2. The major tribal revolt which took place in Chotanagpur region was ________.
-
-3. Chota Nagpur Act was passed in the year ________.
-
-4. Womesh Chandra Bannerjee was elected the president of Indian National Congress in the year ________.
 
 **III Choose the correct statement**
 

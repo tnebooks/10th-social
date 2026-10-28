@@ -251,18 +251,8 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
 
 ### EVALUATION
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 **II Fill in the blanks**
-1. _________ Bill cannot be introduced in the Parliament without President’s approval.
-2. __________ is the leader of the nation and chief spokesperson of the country.
-3. ______________ is the Ex-officio Chairperson of the Rajya Sabha.
-4. ________ has the right to speak and to take part in the proceedings of both Houses of the Parliament.
-5. The Chief Justice and other judges of the Supreme Court hold the office up to the age of ________years.
-6. ____________ is the Guardian of the Constitution.
+
 **III Choose the correct statement**
 1. i) Total members of the Rajya Sabha is 250.
  ii) The 12 nominated members shall be chosen by the President from amongst persons experience in the field of literature, science, art and social service.
