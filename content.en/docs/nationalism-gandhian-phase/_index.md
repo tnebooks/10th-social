@@ -552,19 +552,7 @@ Arrival of refugees in the wake of Partition
 
 ### EXERCISE
 
-**II Fill in the blanks**
 
-1. Gandhi regarded ________ as his political guru.
-
-2. Khilafat Movement was led by ________.
-
-3. Government of India Act 1919 introduced ________ in the provinces.
-
-4. The Civil Disobedience Movement in North West Frontier Province was led by ________.
-
-5. Ramsay Macdonald announced ________ which provided separate electorates to the minorities and the depressed classes.
-
-6. ________ established Congress Radio underground during the Quit India Movement.
 
 **III Choose the correct statement**
 

@@ -367,22 +367,6 @@ Presidency.
 
 ### EXERCISE
 
-**II Fill in the blanks**
-
-1. ________ was the first non-European language that went into print.
-
-2. The College of Fort St. George was founded by ________.
-
-3. ________ is considered the father of Tamil linguistic purism.
-
-4. ________ was the first to approve participation of women in the electoral politics.
-
-5. The name Suriyanarayana Sastri changed in Tamil as __________
-
-6. __________ gave prominence to Tamil music.
-
-7. The first Woman Legislator in India was __________.
-
 **III Choose the correct statement**
 
 1.

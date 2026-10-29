@@ -347,25 +347,6 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 ### EXERCISE
 
 
-
-
-
-**II Fill in the blanks**
-
-1. The founder of the Social Democratic Party was ________.
-
-2. The Nazi Party’s propaganda was led by ________.
-
-3. The Vietnam Nationalist Party was formed in ________.
-
-4. The Secret State Police in Nazi Germany was known as ________.
-
-5. The Union of South Africa came into being in May ________.
-
-6. The ANC leader Nelson Mandela was put behind the bars for ________ years
-
-7. Boers were also known as ________.
-
 **III Choose the correct statement**
 
 1.

@@ -387,19 +387,6 @@ Democratic Republic.
 ### EVALUATION
 
 
-
-**II Fill in the Blanks**
-
-1. The concept of constitution first originated in ________.
-
-2. ________was elected as the temporary President of the Constituent Assembly.
-
-3. The Constitution of India was adopted on________.
-
-4. ________ writs are mentioned in Article 32.
-
-5. Fundamental duties have been given to the citizen of India under Article________.
-
 **IV Give short Answers**
 
 1. What is a Constitution?

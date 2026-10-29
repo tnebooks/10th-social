@@ -342,14 +342,6 @@ foe, only the interests are permanent’. New challenges have forced India to ad
 
 ### EXERCISE
 
-**II Fill in the blanks**
-
-1. India conducted its first nuclear test at ___________.
-
-2. ____________is the instrument for implementing foreign policy of a state.
-
-3. _____________ was India’s policy in the face of the bipolar order of the cold war.
-
 **III Consider the following statement and tick the appropriate answer**
 
 1. Arrange the following in the correct chronological order and choose the correct answer from the code given below.

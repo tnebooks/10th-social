@@ -361,20 +361,6 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 ### EXERCISE
 
 
-**II Fill in the blanks**
-
-1. ________ founded the Samarasa Vedha Sanmarga Sangam.
-
-2. The founder of Poona Sarvajanik Sabha was ________.
-
-3. Gulamgiri was written by ________.
-
-4. Ramakrishna Mission was established by ________.
-
-5. ________ was the forerunner of Akali Movement.
-
-6. Oru Paisa Tamilan was started by ________.
-
 **III Choose the correct statement**
 
 1.

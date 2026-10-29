@@ -424,15 +424,6 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 
 ### EXERCISE
 
-**II Fill in the blanks**
-
-1. ____________ is a small Himalayan kingdom.
-
-2. India’s gateway to South East Asia is ____________.
-
-3. A strip of land ____________, belongs to India on West Bengal and Bangladesh border.
-
-4. ____________ is known as the Land of thunderbolt.
 
 **III Consider the following statement and tick the appropriate answer**
 

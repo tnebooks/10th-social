@@ -299,20 +299,6 @@ Gillespie are detailed.
 ### EXERCISE
 
 
-**II Fill in the blanks**
-
-1. The Palayakkarars system was put in place in Tamil Nadu by ________.
-
-2. Velunachiyar and her daughter were under the protection of ________ for eight years.
-
-3. Bannerman deputed ________ to convey his message, asking Kattabomman to surrender.
-
-4. Kattabomman was hanged to death at ________.
-
-5. The Rebellion of Marudhu Brothers was categorized in the British records as the ________.
-
-6. ________ was declared the new Sultan by the rebels in Vellore Fort.
-
 **III Choose the correct statement**
 
 1.

@@ -381,19 +381,6 @@ The benefits can either be achieved through cash transfers, like old age pension
 ### EXERCISE
 
 
-
-
-
-**II Fill in the blanks**
-
-1. Hitler attacked ________ which was a demilitarised zone.
-
-2. The alliance between Italy, Germany and Japan is known as ________.
-
-3. Britain Prime Minister ________ resigned in 1940.
-
-4. ________ is a device used to find out the enemy aircraft from a distance.
-
 **III Choose the correct statement**
 
 1. Assertion: President Roosevelt realised that the United States had to change its policy of isolation.

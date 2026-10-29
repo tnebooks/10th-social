@@ -429,24 +429,6 @@ Arab-Israeli Wars and Vietnam War.
 
 ### EXERCISE
 
-**II Fill in the blanks**
-
-1. ________ was known as the “Father of modern China”.
-
-2. In 1918, the society for the study of Marxism was formed in ________ University.
-
-3. After the death of Dr. Sun Yat Sen, the leader of the Kuomintang party was ________.
-
-4. ________ treaty is open to any Arab nation desiring peace and security in the region.
-
-5. The treaty of ________ provided for mandates in Turkish-Arab Empire.
-
-6. Germany joined the NATO in ________.
-
-7. ________ was the Headquarters of the Council of Europe.
-
-8. ________ treaty signed on February 7, 1992 created the European Union.
-
 **III Choose the correct statement/statements**
 
 1.

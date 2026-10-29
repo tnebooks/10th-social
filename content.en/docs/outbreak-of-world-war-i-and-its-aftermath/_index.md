@@ -465,22 +465,6 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 
 ### EXERCISE
 
-**II Fill in the blanks**
-
-1. Japan forced a war on China in the year ________.
-
-2. The new state of Albania was created according to the Treaty of ________ signed in May 1913.
-
-3. Japan entered into an alliance with England in the year ________.
-
-4. In the Balkans ________ had mixed population.
-
-5. In the battle of Tannenberg ________ suffered heavy losses.
-
-6. ________ as Prime Minister represented France in Paris Peace Conference.
-
-7. Locarno Treaty was signed in the year ________.
-
 **III Choose the correct statement**
 
 1.

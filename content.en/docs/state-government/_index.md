@@ -403,16 +403,6 @@ All the decisions and decrees issued by the High Court are printed and are kept 
 ### EVALUATION
 
 
-**II Fill in the blanks**
-
-1. Governor of the state government surrenders his resignation to _______.
-
-2. Members of the Legislative assembly (MLAs) elected by the _______.
-
-3. _______ acts as the chancellor of universities in the state.
-
-4. The Chairman and Members of the State Public Service Commission can be removed only by the _______.
-
 **IV Answer the brief questions**
 
 1. What is the importance of the Governor of a state?

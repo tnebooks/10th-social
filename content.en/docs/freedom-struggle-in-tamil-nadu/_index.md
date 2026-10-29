@@ -381,17 +381,6 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 ### EXERCISE
 
-**II Fill in the blanks**
-
-1. ________ was appointed the first Indian Judge of the Madras High Court.
-
-2. Nilakanta Brahmachari started the secret society named ________.
-
-3. ________ formed the first Congress Ministry in Madras.
-
-4. ________ was the founder of the Madras branch of the Muslim League.
-
-5. ________ hoisted the national flag atop Fort St. George on 26 January 1932.
 
 **III Choose the correct statement**
 
