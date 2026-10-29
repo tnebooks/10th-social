@@ -500,14 +500,6 @@ The economy of India had undergone policy in the beginning of the 1990s. This ne
 ### EVALUATION
 
 
-**II Fill in the blanks**
-
-1. _____ is the primary sector in India.
-
-2. _____ is an indicator to show the living standard of people
-
-3. Secondary sector otherwise called as _____.
-
 **IV Give short answer**
 
 1. Define National income.

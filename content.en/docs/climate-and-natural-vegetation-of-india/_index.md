@@ -273,11 +273,6 @@ Natural vegetation can be classified as tropical evergreen forests, tropical dec
 
 ### EXERCISE
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 910a36c9b43750762f3b251badb206bb22441c84
 
 **III Consider the given statements and**
 
