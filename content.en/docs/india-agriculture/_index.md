@@ -758,3 +758,108 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://dahd.nic.in/sites/default/filess/ Volume%20I.pdf` | URL transcription or spacing issue | [Alternative](https://dahd.gov.in/taxonomy/term/411) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+State any two characteristics of black cotton soil.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Characteristics of Black Cotton Soil (Regur)**
+1. **High Clay Content and Moisture Retention:** Composed of extremely fine clayey material, giving it an exceptional capacity to hold and retain moisture for long periods.
+2. **Self-Ploughing Nature:** Becomes sticky when wet, and develops deep, wide cracks upon drying during summer, facilitating natural aeration.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+State the types of agriculture practices in India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Major Types of Agricultural Practices in India**
+1. **Subsistence Farming:** Traditional farming for family consumption using manual labour and small holdings.
+2. **Shifting Agriculture (Jhum/Slash & Burn):** Clearing forest patches, cultivating for a few years, and moving on.
+3. **Intensive Farming:** Maximum yield per acre using high chemical inputs, fertilizers, and irrigation.
+4. **Dry Farming:** Farming in rain-deficient areas without irrigation facilities.
+5. **Plantation Agriculture:** Single cash crop grown on large estates (tea, coffee, rubber).
+6. **Mixed Farming:** Cultivation of crops combined with rearing of livestock and poultry.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Mention the plantation crops of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Major Plantation Crops of India**
+Plantation crops cultivated on extensive estates primarily for sale and export include:
+1. **Tea** (Assam, West Bengal, Tamil Nadu, Kerala)
+2. **Coffee** (Karnataka, Kerala, Tamil Nadu)
+3. **Rubber** (Kerala, Tamil Nadu)
+4. **Spices** (Cardamom, Pepper, Cloves)
+5. **Cocoa and Oil Palm**
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023, 2025
+
+State any five types of soil in India and explain the characteristics and distribution of soil.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Major Soil Types in India**
+1. **Alluvial Soil:**
+   - *Characteristics:* Rich in potash and lime; highly fertile; formed by river depositions.
+   - *Distribution:* Northern plains (Punjab, Haryana, UP, Bihar, West Bengal) and coastal deltas.
+2. **Black Soil (Regur Soil):**
+   - *Characteristics:* Formed by weathering of basaltic rocks; moisture-retentive, rich in clay, ideal for cotton.
+   - *Distribution:* Deccan lava plateau (Maharashtra, Gujarat, Madhya Pradesh, northern Karnataka).
+3. **Red Soil:**
+   - *Characteristics:* Formed from crystalline igneous rocks; red due to ferric oxides; porous and acidic.
+   - *Distribution:* Tamil Nadu, Andhra Pradesh, Odisha, Chotanagpur plateau.
+4. **Laterite Soil:**
+   - *Characteristics:* Formed under high temperature and alternating wet/dry seasons by intense leaching; acidic and deficient in nitrogen.
+   - *Distribution:* Summits of Western Ghats, Kerala, Assam hills, Eastern Ghats.
+5. **Arid and Desert Soil:**
+   - *Characteristics:* Sandy, highly saline, low moisture and humus content.
+   - *Distribution:* Rajasthan, southern Punjab, and northern Gujarat.
+
+</div>
+
+</details>
+
+---

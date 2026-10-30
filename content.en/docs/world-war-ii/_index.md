@@ -488,3 +488,199 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.abmc.gov/sites/default/files/interactive/interactive_files/WW2/` | Page opened in recent check | — |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+Write about the Pearl Harbour incident.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Pearl Harbour Incident (7 December 1941)**
+1. **Surprise Japanese Attack:** On 7 December 1941, the Japanese air force and navy launched a devastating pre-emptive surprise attack on the US Pacific Fleet stationed at Pearl Harbour, Hawaii.
+2. **Consequences:** Major US battleships, airfields, and thousands of military personnel were destroyed.
+3. **US Enters WWII:** This event abruptly ended American neutrality, prompting the United States to declare war on Japan and formally enter World War II.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Analyse the effects of World War II.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Effects of World War II**
+1. **Enormous Loss of Life and Destruction:** Over 60 million people died, and major cities across Europe, Russia, and Japan were reduced to rubble.
+2. **Emergence of Two Superpowers:** Traditional European empires declined; the United States and the Soviet Union emerged as rival superpowers leading to the **Cold War**.
+3. **Decolonization:** Weakened colonial powers (Britain, France, Netherlands) could no longer sustain their empires, speeding up independence movements across Asia and Africa (including India in 1947).
+4. **Establishment of the United Nations (UNO):** Formed in October 1945 in San Francisco to maintain international peace, prevent future world wars, and promote human rights.
+5. **Division of Germany:** Germany was partitioned into West Germany (capitalist) and East Germany (communist).
+
+</div>
+
+</details>
+
+---
+
+Mark the following places on the map of world:
+
+(i) Great Britain
+
+(ii) France
+
+(iii) Italy
+
+(iv) Germany
+
+(v) Morocco
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Geographical Locations on World Map:**
+1. **Great Britain:** Island nation off the northwestern coast of mainland Europe.
+2. **France:** Western European country south of the English Channel and north of Spain.
+3. **Italy:** Boot-shaped peninsula extending into the central Mediterranean Sea.
+4. **Germany:** Central European country bordered by France, Poland, and the Baltic/North Seas.
+5. **Morocco:** North African country bordering the Atlantic Ocean and the Mediterranean Sea across the Strait of Gibraltar.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Mark the following places on the map of World:
+
+(i) Greece
+
+(ii) Turkey
+
+(iii) Hiroshima
+
+(iv) Moscow
+
+(v) San Francisco
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Geographical Locations on World Map:**
+1. **Greece:** Southern European nation in the Balkan Peninsula extending into the Mediterranean and Aegean Seas.
+2. **Turkey:** Transcontinental country bridging Southeastern Europe and Western Asia across the Bosporus.
+3. **Hiroshima:** Industrial coastal city on the main island of Honshu in Japan, targeted by the first atomic bomb (6 August 1945).
+4. **Moscow:** Capital city of Russia, located on the Moskva River in western Russia.
+5. **San Francisco:** Prominent port city in northern California, USA, on the Pacific Coast (birthplace of the UN Charter in 1945).
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Analyze the effects of the World War II.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Effects of World War II (1939–1945)**
+1. **Catastrophic Human Casualties:** An estimated 60 million people lost their lives, including 6 million Jews systematically murdered in the Nazi Holocaust.
+2. **Emergence of Two Superpowers and the Cold War:** Britain and France were financially shattered; USA and USSR emerged as dominant global superpowers, initiating nuclear rivalry and the Cold War.
+3. **Decolonization Wave:** Colonial empires collapsed as Britain, France, and Netherlands conceded independence to nations across Asia and Africa.
+4. **Establishment of the UNO:** Founded in 1945 in San Francisco to guarantee collective security, prevent global conflicts, and uphold human dignity.
+5. **Division of Germany and Korea:** Germany split into West and East; Korea partitioned along the 38th parallel.
+
+</div>
+
+</details>
+
+---
+
+Mark the following places on the map of the World:
+
+(i) Italy
+
+(ii) Pacific Ocean
+
+(iii) France
+
+(iv) Serbia
+
+(v) Japan
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Geographical Locations on World Map:**
+1. **Italy:** Boot-shaped southern European peninsula projecting into the Mediterranean Sea.
+2. **Pacific Ocean:** The largest and deepest ocean on Earth, bounded by Asia and Australia to the west and the Americas to the east.
+3. **France:** Western European nation situated between the English Channel, the Bay of Biscay, and the Mediterranean.
+4. **Serbia:** Landlocked Balkan country in southeastern Europe.
+5. **Japan:** Island archipelago in East Asia located in the northwest Pacific Ocean.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Mark the following places on the World Map.
+
+(i) Morocco
+
+(ii) Germany
+
+(iii) Russia
+
+(iv) Hiroshima
+
+(v) San Francisco
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Geographical Locations on World Map:**
+1. **Morocco:** Northwest African country on the Atlantic and Mediterranean coast.
+2. **Germany:** Leading central European industrial nation between France and Poland.
+3. **Russia:** World's largest country by area, spanning Eastern Europe and Northern Asia.
+4. **Hiroshima:** Historic Japanese city on Honshu island, first city destroyed by an atomic bomb in 1945.
+5. **San Francisco:** Major coastal metropolis in California on the western Pacific seaboard of the USA.
+
+</div>
+
+</details>
+
+---

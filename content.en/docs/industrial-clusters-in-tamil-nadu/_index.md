@@ -527,3 +527,64 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.sipcot.com/guide_tour` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+Why is Chennai called “Detroit of Asia” ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Why Chennai is Called the “Detroit of Asia”**
+Chennai is globally renowned as the **“Detroit of Asia”** because of its colossal automotive manufacturing ecosystem. It accounts for more than **60% of India's automotive exports** and hosts major global auto giants including Ford, Hyundai, BMW, Renault-Nissan, and Ashok Leyland along with an extensive network of ancillary auto-component factories.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+What do you know about ‘Startup India Scheme’ ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Startup India Scheme**
+1. **Objective:** Flagship initiative launched by the Government of India in January 2016 to build a robust ecosystem for nurturing innovation and driving sustainable economic growth.
+2. **Key Benefits:** Simplification of regulations, patent protection, tax exemptions for 3 consecutive years, funding support through a ₹10,000-crore fund of funds, and credit guarantees to promote entrepreneurship.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Write a short note on SIPCOT.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**State Industries Promotion Corporation of Tamil Nadu (SIPCOT)**
+Established in **1971**, SIPCOT is a state agency that promotes industrial growth by establishing comprehensive industrial parks, special economic zones (SEZs), providing ready infrastructure, and offering financial assistance to emerging industries across Tamil Nadu.
+
+</div>
+
+</details>
+
+---

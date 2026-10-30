@@ -490,3 +490,104 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://legislative.gov.in/constitution-of-india` | Page opened in recent check | [Alternative](https://www.legislative.gov.in/constitution-of-india) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+What are the classical languages in India ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Classical Languages of India**
+The Government of India created the status of 'Classical Language' in 2004. The officially recognized classical languages are:
+1. **Tamil** (2004 - first language to be declared)
+2. **Sanskrit** (2005)
+3. **Telugu** (2008)
+4. **Kannada** (2008)
+5. **Malayalam** (2013)
+6. **Odia** (2014)
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023, 2025
+
+Explain the salient features of the Constitution of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Salient Features of the Indian Constitution**
+1. **Lengthiest Written Constitution:** Most comprehensive written document in the world with elaborate administrative provisions.
+2. **Drawn from Diverse Sources:** Borrowed parliamentary system from the UK, Fundamental Rights from the US, Directive Principles from Ireland, and Emergency provisions from Germany.
+3. **Blend of Rigidity and Flexibility:** Some provisions can be amended by a simple majority, while others require special majorities and state ratifications under Article 368.
+4. **Federal System with Unitary Bias:** Division of powers between Centre and States, but strong unitary powers during emergencies.
+5. **Secular and Democratic Republic:** Treats all religions equally and guarantees universal adult suffrage (right to vote above 18 years).
+6. **Fundamental Rights & Duties:** Guarantees justiciable basic rights (Articles 12–35) and enlists civic duties (Article 51A).
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Point out the Fundamental Rights.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Fundamental Rights Guaranteed by the Constitution of India (Part III, Articles 12–35)**
+1. **Right to Equality (Articles 14–18):** Equality before the law, prohibition of discrimination, and abolition of untouchability.
+2. **Right to Freedom (Articles 19–22):** Freedom of speech, assembly, movement, residence, and profession.
+3. **Right against Exploitation (Articles 23–24):** Prohibition of human trafficking, forced labour, and employment of children in hazardous industries.
+4. **Right to Freedom of Religion (Articles 25–28):** Freedom of conscience and free profession, practice, and propagation of religion.
+5. **Cultural and Educational Rights (Articles 29–30):** Protection of language, script, and right of minorities to establish educational institutions.
+6. **Right to Constitutional Remedies (Article 32):** Right to move the Supreme Court through writs (*Habeas Corpus, Mandamus, Prohibition, Quo Warranto, Certiorari*) to enforce rights.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Mention the Fundamental Rights.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Six Fundamental Rights of Indian Citizens (Part III of Constitution)**
+1. **Right to Equality (Articles 14–18):** Equality before law, prohibition of discrimination, and abolition of titles and untouchability.
+2. **Right to Freedom (Articles 19–22):** Guarantees freedom of speech, assembly, association, movement, residence, and profession.
+3. **Right against Exploitation (Articles 23–24):** Prohibits human trafficking, forced labour (*begar*), and child labour in factories.
+4. **Right to Freedom of Religion (Articles 25–28):** Freedom of conscience and to profess, practice, and propagate any religion.
+5. **Cultural and Educational Rights (Articles 29–30):** Right of minorities to conserve culture and establish educational institutions.
+6. **Right to Constitutional Remedies (Article 32):** Right to seek justice directly from Supreme Court for enforcement of rights through writs.
+
+</div>
+
+</details>
+
+---

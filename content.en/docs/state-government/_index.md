@@ -497,3 +497,50 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.mea.gov.in/india-at-glance.htm` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.india.gov.in/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2025
+
+What is the original Jurisdiction of the High Court ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Original Jurisdiction of the High Court**
+**Original jurisdiction** refers to the authority of the High Court to hear and decide cases in the first instance, rather than by way of appeal.
+
+This includes:
+1. Matters of admiralty, probate, matrimonial, contempt of court, and company cases.
+2. Cases involving the enforcement of **Fundamental Rights** through constitutional writs under **Article 226**.
+3. Disputes regarding the election of members of Parliament and State Legislatures.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+What do you understand by the “Appellate Jurisdiction” of the High Court ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Appellate Jurisdiction of the High Court**
+**Appellate jurisdiction** is the power of the High Court to hear and review appeals against verdicts, decrees, and sentences pronounced by subordinate district and session courts in both civil and criminal cases within the state.
+
+</div>
+
+</details>
+
+---

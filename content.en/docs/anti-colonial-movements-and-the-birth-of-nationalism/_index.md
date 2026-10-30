@@ -581,3 +581,128 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https//www.brittanica.com` | URL transcription or spacing issue | [Alternative](https://www.britannica.com/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023, 2026
+
+Summarise the essence of Lucknow Pact.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Essence of the Lucknow Pact (1916)**
+1. **Congress-League Unity:** Historic agreement signed between the Indian National Congress and the All-India Muslim League to present joint demands to the British government.
+2. **Acceptance of Separate Electorates:** The Congress conceded the Muslim League's demand for separate electorates for Muslims in provincial legislatures.
+3. **Joint Demand for Self-Government:** Both agreed to demand provincial autonomy and representative responsible government for India at an early date.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Name the territories annexed by the British, under the Doctrine of Lapse.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Territories Annexed under the Doctrine of Lapse (Lord Dalhousie)**
+1. **Satara** (1848 - first annexed state)
+2. **Sambalpur** (1849)
+3. **Jaitpur** (1849)
+4. **Bhagat** (1850)
+5. **Udaipur** (1852)
+6. **Jhansi** (1853)
+7. **Nagpur** (1854)
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2024
+
+Discuss the causes of the Revolt of 1857.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Causes of the Great Revolt of 1857**
+1. **Political Causes:** Lord Dalhousie's aggressive **Doctrine of Lapse** (annexing Satara, Jhansi, Nagpur, Sambalpur) and refusal of pension to Nana Sahib deeply alienated Indian royal families.
+2. **Economic Exploitation:** Excessive land revenue settlements (Zamindari/Ryotwari), confiscation of Inam lands, and influx of cheap British machine goods ruined Indian artisans and peasants.
+3. **Social and Religious Causes:** Interference in orthodox customs (Abolition of Sati 1829, Widow Remarriage Act 1856), tax on temple lands, and aggressive proselytization by Christian missionaries.
+4. **Military Grievances:** Indian sepoys were treated as inferiors, denied overseas allowances (Batta), and passed over for promotion.
+5. **Immediate Cause:** Introduction of the **Enfield rifle** whose cartridges were greased with cow and pig fat, offending both Hindu and Muslim sepoys (sparked by Mangal Pandey at Barrackpore).
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Draw a Time-line for the following :
+
+Write any five important events of Indian National Movement between 1910 and 1940.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Timeline of Indian National Movement (1910–1940)**
+**Scale: 1 unit = 5 years**
+- **1916:** Formation of Home Rule League / Lucknow Pact
+- **1919:** Rowlatt Act / Jallianwala Bagh Massacre / Montagu-Chelmsford Reforms
+- **1920:** Launch of Non-Cooperation Movement / Khilafat Movement
+- **1922:** Chauri Chaura incident
+- **1928:** Simon Commission arrives in India
+- **1930:** Salt Satyagraha / Dandi March / First Round Table Conference
+- **1931:** Gandhi-Irwin Pact / Second Round Table Conference
+- **1935:** Government of India Act 1935
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2023
+
+Discuss the causes for failure of Revolt of 1857.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Causes for the Failure of the Revolt of 1857**
+1. **Lack of Unity and All-India Participation:** The revolt was confined mostly to northern and central India; southern, western, and eastern provinces remained largely quiet.
+2. **Lack of Modern Arms and Resources:** Indian rebels fought with obsolete weapons, swords, and spears against British soldiers equipped with modern Enfield rifles, telegraphs, and railways.
+3. **Absence of Centralized Leadership:** While Bahadur Shah Zafar was proclaimed emperor, rebel leaders (Nana Sahib, Rani Lakshmibai, Begum Hazrat Mahal, Kunwar Singh) fought locally without a unified coordinated strategy.
+4. **Betrayal and Lack of Broad Support:** Rulers of princely states (Scindia of Gwalior, Holkar of Indore, Nizam of Hyderabad), educated elites, and big merchants actively sided with or aided the British.
+
+</div>
+
+</details>
+
+---

@@ -859,3 +859,140 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.census2011.co.in/census/state/tamil+nadu.html` | Page opened in recent check | — |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+Why is Coimbatore called the Manchester of Tamil Nadu ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Why Coimbatore is Called the Manchester of Tamil Nadu**
+1. **High Concentration of Cotton Textile Mills:** Coimbatore has the largest number of cotton spinning and weaving mills in Tamil Nadu.
+2. **Favourable Geographic Factors:** Availability of cotton raw material from black soil regions, humid climate suitable for spinning, abundant hydro-electric power from Pykara, and skilled labour.
+3. **Resemblance to Manchester:** Just as Manchester was the premier textile hub in Britain, Coimbatore is the premier textile cluster of Tamil Nadu.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Write the cropping seasons of Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Cropping Seasons of Tamil Nadu**
+1. **Sornavari (Chittirai pattam):** Sown in April–May and harvested in August–September; major crops include millets and cotton.
+2. **Samba (Adipattam):** Sown in July–August and harvested in January–February; principal crops include paddy and sugarcane.
+3. **Navarai:** Sown in November–December and harvested in February–March; crops include paddy, fruits, and vegetables.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Name the important multipurpose projects of Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Multipurpose River Valley Projects in Tamil Nadu**
+1. **Mettur Dam (Stanley Reservoir):** Constructed across the Cauvery River in Salem district.
+2. **Bhavani Sagar Dam:** Constructed across the Bhavani River in Erode district.
+3. **Amaravathi Dam:** Located in Tiruppur district across River Amaravathi.
+4. **Vaigai Dam:** Across the Vaigai River near Andipatti in Theni district.
+5. **Mullaiperiyar & Aliyar Dam:** Major irrigation and hydroelectric projects in southern Western Ghats.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Why is Coimbatore called the “Manchester” of South India ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Why Coimbatore is Called the “Manchester of South India”**
+Coimbatore possesses the highest concentration of cotton spinning and textile weaving mills in southern India, supported by the humid climate, nearby black soil cotton harvests, Pykara hydro power, and skilled labour.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2025
+
+Explain the different modes of transport available in Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Modes of Transport in Tamil Nadu**
+1. **Roadways:**
+   - Tamil Nadu has an extensive, well-maintained road network (nearly 2.7 lakh km).
+   - State transport corporations (TNSTC, SETC) operate efficient public bus networks; several major National Highways (NH 44, NH 48) criss-cross the state.
+2. **Railways:**
+   - Headquartered at Chennai, the **Southern Railway** zone operates widespread broad-gauge routes connecting major industrial towns.
+   - Chennai features suburban EMU trains and modern **Chennai Metro Rail**.
+3. **Airways:**
+   - 4 International Airports: Chennai (third busiest in India), Coimbatore, Tiruchirappalli, and Madurai; along with domestic airports at Tuticorin and Salem.
+4. **Waterways & Ports:**
+   - 3 Major Sea Ports: Chennai, Kamarajar (Ennore), and V.O. Chidambaranar (Tuticorin), along with 15 minor intermediate ports handling coastal and global sea trade.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Explain the mineral distribution in Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Mineral Resources Distribution in Tamil Nadu**
+1. **Lignite (Brown Coal):** Neyveli in Cuddalore district holds India's largest lignite reserves, exploited by NLC India for thermal power.
+2. **Iron Ore:** High-grade magnetite iron ore deposits in Kanjamalai (Salem district) and Kalrayan hills (Kallakurichi).
+3. **Bauxite:** Rich bauxite ore found in Servarayan hills (Yercaud), Kolli hills, and Palani hills for aluminium smelting.
+4. **Limestone:** Extensive deposits in Ariyalur, Tirunelveli, Coimbatore, and Virudhunagar supplying cement factories.
+5. **Magnesite & Titanium Minerals:** World-class magnesite in Chalk Hills (Salem); ilmenite and monazite beach sands along the beaches of Kanyakumari and Tirunelveli.
+
+</div>
+
+</details>
+
+---

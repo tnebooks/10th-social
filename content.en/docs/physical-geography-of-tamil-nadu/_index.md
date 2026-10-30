@@ -823,3 +823,182 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://agritech.tnau.ac.in/` | Page opened in recent check | [Alternative](https://agritech.tnau.ac.in/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023, 2026
+
+Define : Disaster Risk Reduction.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of Disaster Risk Reduction (DRR)**
+**Disaster Risk Reduction (DRR)** is the systematic concept and practice of reducing disaster risks through systematic efforts to analyse and manage the causal factors of disasters, including through reduced exposure to hazards, lessened vulnerability of people and property, wise management of land and the environment, and improved preparedness for adverse events.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Mention the major islands of Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Major Islands of Tamil Nadu**
+1. **Pamban Island (Rameswaram):** Connected to mainland by the Pamban rail bridge.
+2. **Hare Island (Muyal Theevu):** Situated off the coast of Tuticorin.
+3. **Nallathanni Theevu & Krusadai Island:** Ecologically sensitive islands in the Gulf of Mannar Marine Biosphere Reserve.
+4. **Kattupalli Island:** Island near Ennore harbour in Chennai.
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2023
+
+Mark the following places on the given outline map of Tamil Nadu.
+(i) River Palar
+(ii) Vedanthangal
+(iii) Coffee growing area
+(iv) Mullai Periyar dam
+(v) Silk industry region
+(vi) Ennore
+(vii) Airport (Any one)
+(viii) Indian Ocean
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of Tamil Nadu:**
+1. **River Palar:** Originates in Kolar (Karnataka), flows through Vellore/Kanchipuram, enters Bay of Bengal.
+2. **Vedanthangal:** Bird sanctuary located in Chengalpattu district.
+3. **Coffee Growing Area:** Yercaud / Nilgiris / Dindigul (Kodaikanal hills).
+4. **Mullai Periyar Dam:** Located on the Periyar River near Theni-Kerala border.
+5. **Silk Industry Region:** Kanchipuram / Arani.
+6. **Ennore:** Port town located north of Chennai.
+7. **Airport:** Chennai Meenambakkam International Airport (or Coimbatore/Madurai/Tiruchirappalli).
+8. **Indian Ocean:** Ocean touching the southernmost tip of peninsular India at Kanyakumari.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Mark the following places on the given outline map of Tamil Nadu.
+(i) River Cauvery
+(ii) Gulf of Mannar
+(iii) Mettur dam
+(iv) Salem (Iron ore)
+(v) Point Calimere
+(vi) Kanyakumari
+(vii) Any one wind farm
+(viii) Coromandel Coast
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of Tamil Nadu:**
+1. **River Cauvery:** Major river flowing eastward across central Tamil Nadu into Bay of Bengal.
+2. **Gulf of Mannar:** Marine biosphere reserve located southeast of Tamil Nadu.
+3. **Mettur Dam (Stanley Reservoir):** Dam across Cauvery in Salem district.
+4. **Salem (Iron Ore):** Kanjamalai iron ore deposits.
+5. **Point Calimere (Kodiakkarai):** Coastal wildlife sanctuary in Nagapattinam district.
+6. **Kanyakumari:** Southernmost tip of the Indian peninsula.
+7. **Wind Farm:** Muppandal (Kanyakumari) / Kayathar (Tenkasi).
+8. **Coromandel Coast:** Eastern coastline of Tamil Nadu.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Mark the following places on the given outline map of Tamil Nadu.
+(i) River Vaigai
+(ii) Palk Strait
+(iii) Coimbatore (Textile hub)
+(iv) Nilgiris (Tea growing area)
+(v) Gulf of Mannar
+(vi) Tuticorin port
+(vii) Any one sanctuary
+(viii) Chennai
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of Tamil Nadu:**
+1. **River Vaigai:** Originates in Varusanadu hills, flows through Madurai and Ramanathapuram.
+2. **Palk Strait:** Water body separating Tamil Nadu and northern Sri Lanka.
+3. **Coimbatore:** Premier cotton textile center (Manchester of Tamil Nadu).
+4. **Nilgiris:** Mountainous tea growing district in Western Ghats.
+5. **Gulf of Mannar:** Marine biosphere reserve southeast of Tamil Nadu.
+6. **Tuticorin Port:** Major seaport in southern Tamil Nadu.
+7. **Sanctuary:** Mudumalai (Nilgiris) / Vedanthangal (Chengalpattu).
+8. **Chennai:** State capital situated on the northeastern coast.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Mark the following places on the given outline map of Tamil Nadu.
+(i) River Cauvery
+(ii) Doddabetta
+(iii) Chennai (Automobile hub)
+(iv) Neyveli (Lignite)
+(v) Point Calimere
+(vi) Kanyakumari
+(vii) Any one sanctuary
+(viii) Bay of Bengal
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of Tamil Nadu:**
+1. **River Cauvery:** Major river flowing across central Tamil Nadu to the Bay of Bengal.
+2. **Doddabetta:** Highest peak in the Nilgiris (2,637 m).
+3. **Chennai:** Automobile capital ('Detroit of Asia') on northeastern coast.
+4. **Neyveli:** Lignite mining hub in Cuddalore district.
+5. **Point Calimere:** Coastal headland and wildlife sanctuary in Nagapattinam.
+6. **Kanyakumari:** Southernmost tip of mainland India.
+7. **Sanctuary:** Vedanthangal / Mudumalai.
+8. **Bay of Bengal:** Sea bordering the entire eastern coast of Tamil Nadu.
+
+</div>
+
+</details>
+
+---

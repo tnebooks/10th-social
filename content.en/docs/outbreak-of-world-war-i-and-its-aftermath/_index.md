@@ -606,3 +606,195 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.theworldwar.org/` | Page opened in recent check | [Alternative](https://www.theworldwar.org/interactive-wwi-timeline) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+What do you know of Trench Warfare ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Trench Warfare in World War I**
+1. **Nature of Warfare:** Armies dug long parallel lines of trenches protected by barbed wire and sandbags to shelter troops from artillery fire and machine guns.
+2. **Conditions:** Soldiers endured harsh conditions, mud, lice, disease, and poison gas attacks; the narrow, dangerous space between opposing trenches was called 'No Man's Land'.
+3. **Stalemate:** This defense strategy turned the Western Front into a prolonged, bloody stalemate with little territorial movement for nearly four years.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+How do you assess the importance of Sino-Japanese war ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Importance of the First Sino-Japanese War (1894–1895)**
+1. **Demonstrated Japanese Military Might:** The crushing defeat of the vast Chinese Qing Empire by modernized Japan stunned the Western world and established Japan as the pre-eminent power in East Asia.
+2. **Treaty of Shimonoseki:** China was forced to cede Taiwan, the Pescadores Islands, and the Liaodong Peninsula to Japan and recognize Korea's independence, triggering the scramble for imperialist concessions in China.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+What were the three militant forms of Nationalism in Europe ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Three Militant Forms of Nationalism in Pre-WWI Europe**
+1. **England:** *Jingoism* (blind aggressive patriotism asserting British naval and imperial dominance).
+2. **France:** *Chauvinism* (fanatical nationalism driven by a desire for revenge against Germany for the 1871 loss of Alsace-Lorraine).
+3. **Germany:** *Kultur* (arrogant belief in the unique superiority of German civilization and world mission).
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Fill in the blanks:
+
+(i) In the battle of Tannenberg, __________ suffered heavy losses.
+(ii) Sathanur dam is constructed across the river __________.
+(iii) __________ is the Tamil Nadu state animal.
+(iv) The Constitution of India envisages a __________ government.
+(v) In the year __________, National Food Security Act was passed by the Indian Parliament.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Answers for Fill in the Blanks:**
+(i) **Russia** (August 1914, defeated by Germany)
+(ii) **Thenpennai** (Ponnaiyar)
+(iii) **Nilgiri Tahr** (Varai Aadu)
+(iv) **Federal / Parliamentary**
+(v) **2013** (passed on 10 September 2013)
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Estimate the work done by the League of Nations.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Work Done by the League of Nations (1920–1939)**
+1. **Settlement of Minor Disputes:**
+   - Successfully resolved the dispute between Sweden and Finland over the Aaland Islands (1921).
+   - Resolved the frontier boundary conflict between Greece and Bulgaria (1925).
+   - Settled the Upper Silesia border dispute between Poland and Germany.
+2. **Humanitarian and Social Agencies:**
+   - **International Labour Organisation (ILO):** Improved labour working conditions, fixed standard working hours, and restricted child labour.
+   - **Health Organisation:** Combated dangerous epidemics like malaria, cholera, and typhus.
+   - **Refugee Commission:** Led by Fridtjof Nansen, repatriated hundreds of thousands of WWI prisoners of war.
+3. **Failures:** Failed to stop aggressive acts of major imperial powers: Japanese invasion of Manchuria (1931), Italian invasion of Ethiopia (1935), and Hitler's remilitarization.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Highlight the provisions of the Treaty of Versailles relating to Germany.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Provisions of the Treaty of Versailles (1919) Relating to Germany**
+1. **War Guilt Clause (Article 231):** Germany was forced to accept sole moral responsibility for causing World War I.
+2. **War Reparations:** Required to pay an exorbitant sum of 6,600 million pounds (later fixed at 132 billion gold marks) as reparations to the Allies.
+3. **Territorial Losses:**
+   - Alsace-Lorraine was returned to France.
+   - Eupen-Malmedy was given to Belgium and Northern Schleswig to Denmark.
+   - The Polish Corridor and Danzig were carved out, dividing East Prussia from Germany.
+   - All overseas German colonies were surrendered to the League of Nations as mandates.
+4. **Drastic Demilitarization:** The German army was restricted to 100,000 men; navy drastically reduced; submarines and air force completely banned; Rhineland permanently demilitarized.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Discuss the main cause of the First World War.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Main Causes of the First World War (1914–1918)**
+1. **Secret Alliance Systems:** Europe was split into two hostile armed alliances: the **Triple Alliance** (Germany, Austria-Hungary, Italy) and the **Triple Entente** (Britain, France, Russia).
+2. **Militant Nationalism:** Hyper-nationalism and jingoism created extreme jingoistic intolerance among European powers.
+3. **Colonial Imperialism & Armament Race:** Imperial race for colonies in Africa and naval race between Britain and Germany heightened acute tensions.
+4. **Balkan Crises:** Conflict between Slavic nationalism backed by Russia and the Austro-Hungarian empire in the Balkans.
+5. **Immediate Spark (Sarajevo Assassination):** On 28 June 1914, Archduke Franz Ferdinand was shot dead by a Bosnian-Serb nationalist, precipitating the war.
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2024
+
+Explain the main causes of the First World War.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Main Causes of the First World War (1914–1918)**
+1. **European Alliances and Secret Pacts:** Formation of rival armed camps: **Triple Alliance** (Germany, Austria-Hungary, Italy in 1882) vs **Triple Entente** (Britain, France, Russia in 1907).
+2. **Militant Nationalism:** Aggressive jingoism in England, chauvinism in France, and *Kultur* in Germany generated intense hatred against rivals.
+3. **Imperialist and Colonial Rivalries:** Rapid industrialization compelled European powers to aggressively race for colonies and markets in Africa and Asia.
+4. **Balkan Crises:** Disintegration of the Ottoman Empire led to fierce rivalry between Austria and Serbia for regional hegemony.
+5. **Immediate Cause (Sarajevo Incident):** On 28 June 1914, Archduke Franz Ferdinand (heir to the Austrian throne) was assassinated by Gavrilo Princip at Sarajevo, triggering Austria's invasion of Serbia and general war.
+
+</div>
+
+</details>
+
+---
