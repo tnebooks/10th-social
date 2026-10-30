@@ -380,19 +380,6 @@ The benefits can either be achieved through cash transfers, like old age pension
 
 ### EXERCISE
 
-
-**III Choose the correct statement**
-
-1. Assertion: President Roosevelt realised that the United States had to change its policy of isolation.
-
-   Reason: He started a programme of Lend Lease in 1941.
-   - a) Both A and R are correct
-   - b) A is right but R is not the correct reason
-   - c) Both A and R are wrong
-   - d) R is right but it has no relevance to A
-
-
-
 **V Answer the questions briefly**
 
 1. Who were the three prominent dictators of the post World War I ?

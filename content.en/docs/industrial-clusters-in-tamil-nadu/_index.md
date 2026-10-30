@@ -380,13 +380,6 @@ GDP and Per Capita Income.
 
 ### EXERCISE
 
-
-**II Fill in the blanks**
-
-1. Hundred of leather and tannery facilities are located around ___________ district in Tamil Nadu.
-
-2. Special Economic Zones policy was introduced in ___________.
-
 **III Pick out odd one**
 
 1. Which one of the following is not having leather factories?

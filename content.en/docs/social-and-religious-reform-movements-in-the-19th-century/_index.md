@@ -361,45 +361,6 @@ Tagore and Keshab Chandra Sen in carrying forward the Brahmo Samaj activities af
 ### EXERCISE
 
 
-**III Choose the correct statement**
-
-1.
-    - i) Raja Rammohan Roy preached monotheism
-    - ii) He encouraged idolatry
-    - iii) He published tracts condemning social evils
-    - a) i) is correct
-    - b) i) and ii) are correct
-    - c) i), ii) and iii) are correct
-    - d) i) and iii) are correct
-
-2.
-    - i) Prarthana Samaj was founded by Dr. Atma Ram Pandurang
-    - ii) Prarthana Samaj encouraged inter-dining and inter-caste marriage
-    - iii) Jyotiba Phule worked for the upliftment of men.
-    - iv) Prarthana Samaj had it’s origin in the Punjab.
-    - a) i) is correct
-    - b) ii) is correct
-    - c) i) and ii) are correct
-    - d) iii) and iv) are correct
-
-3.
-    - i) Ramakrishna Mission was actively involved in social causes such as education, health care, relief in time of calamities.
-    - ii) Ramakrishna emphasised the spiritual union with god through ecstatic practices.
-    - iii) Ramakrishna established the Ramakrishna Mission
-    - a) i) is correct
-    - b) i) and ii) are correct
-    - c) iii) is correct
-    - d) i) and iii) correct
-
-4. Assertion: Jyotiba Phule opened orphanages and homes for widows
-
-    Reason: Jyotiba Phule opposed child marriage and supported widow remarriage
-    - a) Assertion is correct but reason is not apt to the assertion
-    - b) Assertion is correct and the reason is apt to the assertion
-    - c) Both are wrong
-    - d) Reason is correct but assertion is irrelevant
-
-
 **V Answer briefly**
 
 1. Mention the four articles of faith laid down by Maharishi Debendranath Tagore?

@@ -348,19 +348,6 @@ Income: Taxation follows the principle of equity. The direct taxes are progressi
 
 ### EXERCISE
 
-
-**II Fill in the blanks**
-
-1. __________ is levied by government for the development of the state’s economy.
-
-2. The origin of the word ‘tax’ is from the word __________.
-
-3. The burden of the __________ tax cannot be shifted to others.
-
-4. The Goods and Service Tax act came into effect on __________.
-
-5. The unaccounted money that is concealed from the tax administrator is called __________.
-
 ### III Choose the correct statement
 
 1. Which of the following statement is correct about GST?

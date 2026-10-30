@@ -367,27 +367,6 @@ Presidency.
 
 ### EXERCISE
 
-**III Choose the correct statement**
-
-1.
-    - (i) Thirukkural was one of the earliest Tamil literary texts to be published in 1812.
-    - (ii) Maraimalai Adigal collected and edited different palm leaf manuscripts of the Tamil grammars and literature.
-    - (iii) Robert Caldwell established the close affinity between the Dravidian languages in contrast with Sanskrit and also established the antiquity of Tamil.
-    - (iv) Thiru.Vi. Kalyanasundaram was an early pioneer in Trade union movement.
-    - a) (i) and (ii) are correct
-    - b) (i) and (iii) are correct
-    - d) (iv) is correct
-    - e) (ii) and (iii) are correct
-
-2. Assertion (A): The Justice Party continued to remain in government from 1920-1937 in Madras Presidency.
-
-   Reason (R): The Congress Party boycotted the Madras Legislature during this period of Dyarchy.
-   - a) Both A and R are correct
-   - b) A is correct, but R is not the correct explanation
-   - c) Both A and R are wrong
-   - d) R is correct, but it has no relevance to A
-
-
 
 **V Answer briefly**
 

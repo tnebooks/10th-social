@@ -552,37 +552,6 @@ Arrival of refugees in the wake of Partition
 
 ### EXERCISE
 
-
-
-**III Choose the correct statement**
-
-1.
-    - (i) The Communist Party of India was founded in Tashkent in 1920.
-    - (ii) M. Singaravelar was tried in the Kanpur Conspiracy Case.
-    - (iii) The Congress Socialist Party was formed by Jayaprakash Narayan, Acharya Narendra Dev and Mino Masani.
-    - (iv) The Socialists did not participate in the Quit India Movement.
-    - a) (i) and (ii) are correct
-    - b) (ii) and (iii) are correct
-    - c) (iv) is correct
-    - d) (i), (ii) and (iii) are correct
-
-2. Assertion: The Congress attended the First Round Table Conference.
-
-   Reason: Gandhi-Irwin Pact enabled the Congress to attend the Second Round Table Conference.
-   - a) Both A and R are correct but R is not the correct explanation
-   - b) A is correct but R is wrong
-   - c) A is wrong but R is correct
-   - d) Both A and R are correct and R is the correct explanation
-
-3. Assertion: The Congress Ministries resigned in 1939.
-
-   Reason: The Colonial government of India entered the war without consulting the elected Congress ministries.
-   - a) Both A and R are correct but R is not the correct explanation
-   - b) A is correct but R is wrong
-   - c) Both A and R are wrong
-   - d) Both A and R are correct and R is the correct explanation
-
-
 **V Answer the following briefly**
 
 1. Describe the Jallianwala Bagh Massacre.

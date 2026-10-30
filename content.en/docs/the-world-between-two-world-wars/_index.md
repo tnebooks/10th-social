@@ -347,26 +347,6 @@ Dollar Imperialism, the term used to describe the policy of the USA in maintaini
 ### EXERCISE
 
 
-**III Choose the correct statement**
-
-1.
-    - i) During World War I the primary task of Italy was to keep the Austrians occupied on the Southern Front
-    - ii) The first huge market crash in the US occurred on 24 October 1929.
-    - iii) The ban on African National Congress was lifted in 1966.
-    - a) i) and ii) are correct
-    - b) iii) is correct
-    - c) ii) and iii) are correct
-    - d) i), ii) and iii) are correct
-
-2. Assertion: The Berlin Colonial Conference of 1884–85 had resolved that Africa should be divided into spheres of influence of various colonial powers.
-
-   Reason: The war between the British and Boers in South Africa, however, was in defiance of this resolution.
-   - a) Both A and R are right
-   - b) A is right but R is not the right reason
-   - c) Both A and R are wrong
-   - d) A is wrong and R has no relevance to A
-
-
 **V Answer briefly**
 
 1. What do you know of the White Terror in Indo-China?

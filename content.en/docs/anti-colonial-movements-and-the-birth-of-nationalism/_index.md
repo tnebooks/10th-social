@@ -433,48 +433,6 @@ In 1919, the British government announced the Montagu-Chelmsford reforms which p
 ### EXERCISE
 
 
-**II Fill in the blanks**
-
-
-
-**III Choose the correct statement**
-
-1.
-    - (i) The Company received ₹22.5 million from Mir Jafar and invested it to propel the industrial revolution in Britain.
-    - (ii) Kols organized an insurrection in 1831-1832, which was directed against government officers and moneylenders.
-    - (iii) In 1855, two Santhal brothers, Sidhu and Kanu, led the Santhal Rebellion.
-    - (iv) In 1879, an Act was passed to regulate the territories occupied by the Santhals.
-    - a) (i), (ii) and (iii) are correct
-    - b) (ii) and (iii) are correct
-    - c) (iii) and (iv) are correct
-    - d) (i) and (iv) are correct
-
-2.
-    - (i) One of the most significant contributions of the early Indian Nationalists was the formulation of an economic critique of colonialism.
-    - (ii) The early Congress leaders stated that the religious exploitation in India was the primary reason for the growing poverty.
-    - (iii) One of the goals of the moderate Congress leaders was to achieve Swaraj or self-rule.
-    - (iv) The objective of Partition of Bengal was to curtail the Bengali influence and weaken the nationalist movement.
-    - a) (i) and (iii) are correct
-    - b) (i) and (iv) are correct
-    - c) (ii) and (iii) are correct
-    - d) (iii) and (iv) are correct
-
-3. Assersion (A): Under colonial rule, for the first time in Indian history, government claimed a direct proprietary right over forests.
-
-   Reason (R): Planters used intimidation and violence to compel farmers to grow indigo.
-   - a) Both (A) and (R) are correct, but R is not the correct explanation of A
-   - b) Both (A) and (R) are wrong
-   - c) Both (A) and (R) are correct and R is the correct explanation of A
-   - d) (A) is wrong and (R) is correct
-
-4. Assersion (A): The Revolt of 1857 was brutally suppressed by the British army.
-
-   Reason (R): The failure of the rebellion was due to the absence of Central authority.
-   - a) Both (A) and (R) are wrong
-   - b) (A) is wrong and (R) is correct
-   - c) Both (A) and (R) are correct and R is the correct explanation of A
-   - d) Both (A) and (R) are correct, but R is not the correct explanation of A
-
 **V Answer the following questions briefly**
 
 1. How are the peasant uprisings in British India classified?

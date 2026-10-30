@@ -381,30 +381,6 @@ The Royal Indian Navy Mutiny, the negotiations initiated by the newly formed Lab
 
 ### EXERCISE
 
-
-**III Choose the correct statement**
-
-1.
-    - (i) Madras Native Association was founded in 1852.
-    - (ii) Tamil nationalist periodical Swadesamitran was started in 1891.
-    - (iii) The Madras Mahajana Sabha demanded conduct of civil services examinations only in India
-    - (iv) V.S. Srinivasanar was an extremist.
-    - a) (i) and (ii) are correct
-    - b) (iii) is correct
-    - c) (iv) is correct
-    - d) All are correct
-
-2.
-    - (i) E.V.R. did not participate in the Non-Cooperation Movement.
-    - (ii) Rajaji worked closely with Yakub Hasan of the Muslim League.
-    - (iii) Workers did not participate in the Non-Cooperation Movement.
-    - (iv) Toddy shops were not picketed in Tamil Nadu.
-    - a) (i) and (ii) are correct
-    - b) (i) and (iii) are correct
-    - c) (ii) is correct
-    - d) (i), (iii) and (iv) are correct
-
-
 **V Answer the questions briefly**
 
 1. List out the contribution of the moderates.

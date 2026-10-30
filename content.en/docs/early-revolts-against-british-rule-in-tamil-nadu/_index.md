@@ -298,38 +298,6 @@ Gillespie are detailed.
 
 ### EXERCISE
 
-
-**III Choose the correct statement**
-
-1.
-    - i) The Palayakkarars system was in practice in the Kakatiya Kingdom.
-    - ii) Puli Thevar recaptured Nerkattumseval in 1764 after the death of Khan Sahib.
-    - iii) Yusuf Khan who was negotiating with the Palayakkarars, without informing the Company administration was charged with treachery and hanged in 1764.
-    - iv) Ondiveeran led one of the army units of Kattabomman.
-    - a) (i), (ii) and (iv) are correct
-    - b) (i), (ii) and (iii) are correct
-    - c) (iii) and (iv) are correct
-    - d) (i) and (iv) are correct
-
-2.
-    - i) Under Colonel Campbell, the English Army went along with Mahfuzkhan’s army.
-    - ii) After Muthu Vadugar’s death in Kalaiyar Kovil battle, Marudhu Brothers assisted Velunachiyar in restoring the throne to her.
-    - iii) Gopala Nayak spearheaded the famous Dindigul League.
-    - iv) In May 1799 Cornwallis ordered the advance of Company armies to Tirunelveli.
-    - a) (i) and (ii) are correct
-    - b) (ii) and (iii) are correct
-    - c) (ii), (iii) and (iv )are correct
-    - d) (i) and (iv) are correct
-
-3. Assertion (A):Puli Thevar tried to get the support of Hyder Ali and the French.
-
-   Reason (R): Hyder Ali could not help Puli Thevar as he was already in a serious conflict with the Marathas.
-   - a) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
-   - b) Both (A) and (R) are wrong
-   - c) Both (A) and (R) are correct and (R) is the correct explanation of (A)
-   - d) (A) is wrong and (R) is correct
-
-
 **V Answer the questions briefly**
 
 1. What were the duties of the Palayakkarars?

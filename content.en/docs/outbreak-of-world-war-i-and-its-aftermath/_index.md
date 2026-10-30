@@ -465,25 +465,6 @@ When Italy, Japan and Germany, headed by dictators, refused to be bound by the o
 
 ### EXERCISE
 
-**III Choose the correct statement**
-
-1.
-    - i) The Turkish Empire contained many non-Turkish people in the Balkans.
-    - ii) Turkey fought on the side of the central powers
-    - iii) Turkey’s attempt to attack Suez Canal but were repulsed.
-    - a) i) and ii) are correct
-    - b) i) and iii) are correct
-    - c) ii) and iii) are correct
-    - d) i), ii) and iii) are correct
-
-2. Assertion: The first European attempts to carve out colonies in Africa resulted in bloody battles.
-
-   Reason: There was stiff resistance from the native population.
-   - a) Both A and R are correct
-   - b) A is right but R is not the correct reason
-   - c) Both A and R are wrong
-   - d) R is right but A is wrong.
-
 
 **V Answer briefly**
 

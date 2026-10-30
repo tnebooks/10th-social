@@ -429,27 +429,6 @@ Arab-Israeli Wars and Vietnam War.
 
 ### EXERCISE
 
-**III Choose the correct statement/statements**
-
-1.
-    - i) In 1948 the Soviets had established socialist governments in the countries of Eastern Europe that had been liberated from the Nazis by the Soviet Army.
-    - ii) The chief objective of NATO was to preserve peace and security in the North Atlantic region.
-    - iii) The member countries of SEATO were committed to prevent democracy from gaining ground in the region.
-    - a) (ii) and (iii) are correct
-    - b) (i) and (ii) are correct
-    - c) (i) and (iii) are correct
-    - d) (i), (ii) and (iii) are correct
-
-2. Assertion (A): America’s Marshall Plan was for reconstruction of the war-ravaged Europe.
-
-   Reason (R): The US conceived the Marshal Plan to bring the countries in the Western Europe under its influence.
-   - a) Both (A) and (R) are correct, but R is not the correct explanation of A
-   - b) Both (A) and (R) are wrong
-   - c) Both (A) and (R) are correct and R is the correct explanation of A
-   - d) (A) is wrong and (R) is correct
-
-
-
 **V Answer briefly**
 
 1. Write any three causes for the Chinese Revolution of 1911.
