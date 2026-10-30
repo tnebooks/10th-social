@@ -468,3 +468,64 @@ https://portal.sipcot.in/pages/sipcotmap
 | `https://portal.sipcot.in/pages/sipcotmap` | அணுகல் உறுதிப்படுத்தப்படவில்லை | [மாற்று இணைப்பு](https://sipcot.tn.gov.in/portal/pages/sipcotmap) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## அரசு பொதுத்தேர்வு வினாக்கள் (Board Examination Questions)
+
+### 2 மதிப்பெண் வினாக்கள் (2 Marks)
+
+#### 2024
+
+சென்னை "ஆசியாவின் டெட்ராய்ட்" என்று அழைக்கப்படுவது ஏன் ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**சென்னை 'ஆசியாவின் டெட்ராய்ட்' என அழைக்கப்படக் காரணம்**
+அமெரிக்காவின் மோட்டார் வாகனத் தொழில் நகரமான டெட்ராய்ட் போன்று, சென்னையில் மிகப்பெரிய மோட்டார் வாகன உற்பத்தித் தொழிற்துறை சூழல் அமைந்துள்ளது. இந்தியாவின் வாகன ஏற்றுமதியில் **சுமார் 60%-க்கும் அதிகமான** பங்களிப்பைக் கொண்டுள்ளதாலும், ஹூண்டாய், பி.எம்.டபிள்யூ, நிசான் போன்ற உலகப் புகழ்பெற்ற வாகன உற்பத்தி ஆலைகள் இங்கு அமைந்துள்ளதாலும் சென்னை 'ஆசியாவின் டெட்ராய்ட்' எனப்படுகிறது.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+ஸ்டார்ட் அப் இந்தியா திட்டம் குறித்து நீவிர் அறிவது யாது ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**ஸ்டார்ட் அப் இந்தியா திட்டம் (Startup India Scheme)**
+1. **நோக்கம்:** இந்தியாவில் புதிய தொழில் முனைவோரை ஊக்குவிக்கவும், புதுமையான கண்டுபிடிப்புகளை ஆதரிக்கவும், பெரிய அளவில் வேலைவாய்ப்புகளை உருவாக்கவும் 2016 ஜனவரியில் மத்திய அரசால் தொடங்கப்பட்ட திட்டமாகும்.
+2. **நன்மைகள்:** புதிய தொழில்களை எளிதாகப் பதிவு செய்தல், 3 ஆண்டுகளுக்கு வருமான வரி விலக்கு, காப்புரிமை பெறுவதில் சலுகை மற்றும் மூலதன நிதி உதவிகள் மூலம் இளைஞர்களைத் தொழில் முனைவோராக்குகிறது.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+சிப்காட் (SIPCOT)  - சிறு குறிப்பு வரைக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**சிப்காட் (SIPCOT)**
+**1971-ஆம் ஆண்டு** தொடங்கப்பட்ட தமிழ்நாடு தொழில் முன்னேற்ற நிறுவனம் (SIPCOT), தமிழகத்தில் புதிய தொழிற்பேட்டைகள் மற்றும் சிறப்புப் பொருளாதார மண்டலங்களை (SEZs) உருவாக்கி, தொழில் முனைவோருக்கு நிலம், உள்கட்டமைப்பு மற்றும் நிதி உதவிகளை வழங்கி மாநிலத்தின் தொழில்மயமாக்கலை ஊக்குவிக்கிறது.
+
+</div>
+
+</details>
+
+---

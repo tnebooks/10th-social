@@ -626,3 +626,112 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/` | Page opened in recent check | [Alternative](https://bhuvan-app1.nrsc.gov.in/moe_ncert/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+What is natural gas ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Natural Gas**
+1. **Composition:** Natural gas is a naturally occurring gaseous fossil fuel composed predominantly of **methane ($\text{CH}_4$)** along with small percentages of other hydrocarbons.
+2. **Occurrence:** It is usually found associated with petroleum deposits or as non-associated gas fields in subterranean sedimentary rock formations.
+3. **Significance:** It is an eco-friendly, clean-burning source of domestic (PNG) and vehicular fuel (CNG) and a feedstock for chemical fertilizers.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+State the uses of Manganese.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Uses of Manganese**
+1. **Steel Manufacturing:** Crucial raw material for smelting iron ore and manufacturing high-tensile steel and ferromagnetic alloys (nearly 10 kg of manganese is required to make 1 tonne of steel).
+2. **Chemical and Electrical Products:** Extensively used in manufacturing dry cell batteries, bleaching powder, insecticides, paints, and glazed ceramics.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2024
+
+Answer the following questions:
+
+(a) Distinguish between :
+
+(i) Agro-based industry and mineral-based industry
+
+(ii) Roadways and Railways
+
+(b) Give reasons :
+
+Agriculture is the backbone of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences:**
+
+**# (i) Agro-based Industry vs Mineral-based Industry**
+| Agro-based Industry | Mineral-based Industry |
+|---|---|
+| Uses raw materials obtained from agriculture (crops, plants, livestock). | Uses metallic and non-metallic mineral ores as raw materials. |
+| Examples: Cotton textile, Sugar, Jute, Vegetable oil industry. | Examples: Iron and Steel, Cement, Aluminium smelting industry. |
+
+**# (ii) Roadways vs Railways**
+| Roadways | Railways |
+|---|---|
+| Provides door-to-door connectivity even in hilly and remote areas. | Connects major railway junctions and stations; cannot penetrate isolated terrain easily. |
+| Economical for transporting smaller loads over short distances. | Economical and ideal for transporting bulky raw materials and passengers over long distances. |
+
+**Reason:**
+**Agriculture is the backbone of India** because it provides employment and livelihood to more than **50% of the country's population**, supplies food security for over 1.4 billion people, and feeds essential raw materials to major agro-industries (textiles, sugar).
+
+</div>
+
+</details>
+
+---
+
+Write about the distribution of cotton textile industries in India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Distribution of Cotton Textile Industry in India**
+1. **Largest Manufacturing Sector:** The cotton textile industry is the oldest and largest organized agro-based industry in India.
+2. **Maharashtra:** Leading producer; Mumbai is known as the **'Cottonopolis of India'** due to proximity to the cotton-rich black soil belt, cheap hydroelectric power from Tata Hydro, port facilities, and financial markets.
+3. **Gujarat:** Second largest producer; Ahmedabad is hailed as the **'Manchester of India'** hosting numerous modern mills.
+4. **Tamil Nadu:** Has the largest number of spinning mills in India, concentrated in the **Coimbatore–Tirupur–Erode** textile corridor.
+5. **Other States:** Uttar Pradesh (Kanpur), West Bengal (Kolkata), Punjab, and Madhya Pradesh.
+
+</div>
+
+</details>
+
+---

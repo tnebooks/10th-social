@@ -647,3 +647,163 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.mkgandhi.org/main.htm` | Page opened in recent check | [Alternative](https://www.mkgandhi.org/main.php); [Alternative](https://www.mkgandhi.org/onlinequiz.php) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 5 Marks
+
+#### 2023
+
+Draw a Timeline for the following :
+
+Write any five important events between 1910 and 1930.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Timeline of Important Historical Events (1910–1930)**
+**Scale: 1 unit = 5 years**
+- **1914:** Outbreak of the First World War
+- **1916:** Lucknow Pact / Home Rule League established
+- **1919:** Jallianwala Bagh Massacre / Rowlatt Act
+- **1920:** Launch of Non-Cooperation Movement
+- **1922:** Chauri Chaura incident
+- **1928:** Arrival of Simon Commission to India
+- **1930:** Salt Satyagraha / Civil Disobedience Movement / First Round Table Conference
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Discuss the reasons behind the Partition of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Reasons Behind the Partition of India (1947)**
+1. **British 'Divide and Rule' Policy:** The colonial government systematically fostered communal divisions between Hindus and Muslims through separate electorates (Morley-Minto Reforms 1909).
+2. **Two-Nation Theory:** Muhammad Ali Jinnah and the All-India Muslim League championed the theory that Hindus and Muslims were two distinct nations that could not live together peacefully.
+3. **Direct Action Day and Communal Riots:** On 16 August 1946, the Muslim League launched 'Direct Action Day', provoking horrific communal bloodbaths in Calcutta, Noakhali, Bihar, and Punjab.
+4. **Failure of the Cabinet Mission Plan:** Inability of the Congress and the League to agree on federal grouping arrangements made a unified government unworkable.
+5. **Mountbatten Plan (3 June 1947):** Viceroy Lord Mountbatten proposed the partitioning of British India into India and Pakistan, accepted by leaders to avert civil war.
+
+</div>
+
+</details>
+
+---
+
+Draw a Time-line for the following :
+
+Write any five important events between 1920 and 1940.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Timeline of Important Historical Events (1920–1940)**
+**Scale: 1 unit = 5 years**
+- **1920:** Launch of Non-Cooperation Movement
+- **1922:** Chauri Chaura incident (withdrawal of Non-Cooperation)
+- **1927:** Appointment of Simon Commission
+- **1930:** Salt Satyagraha / Civil Disobedience Movement / First Round Table Conference
+- **1931:** Gandhi-Irwin Pact / Second Round Table Conference
+- **1932:** Poona Pact / Third Round Table Conference
+- **1935:** Government of India Act of 1935
+- **1939:** Outbreak of World War II
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Draw a Timeline for the following.
+
+Write any five important historical events between 1930 and 1950.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Timeline of Important Historical Events (1930–1950)**
+**Scale: 1 unit = 5 years**
+- **1930:** Salt Satyagraha / Civil Disobedience Movement / First Round Table Conference
+- **1931:** Gandhi-Irwin Pact / Second Round Table Conference
+- **1935:** Government of India Act of 1935
+- **1939:** Outbreak of World War II
+- **1940:** August Offer / Individual Satyagraha
+- **1942:** Cripps Mission / Quit India Movement
+- **1945:** End of World War II / Establishment of UNO
+- **1946:** Cabinet Mission arrived in India
+- **1947:** Indian Independence (15 August)
+- **1950:** Constitution of India came into force / India becomes a Republic (26 January)
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2025
+
+Critically examine the Civil Disobedience Movement as the typical example of Gandhian Movement.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Civil Disobedience Movement as a Typical Gandhian Movement**
+1. **Mass Mobilization through Universal Symbol:** By choosing common salt as the instrument of protest, Gandhi united all strata of society (rich, poor, rural, urban) against oppressive colonial taxation.
+2. **Commitment to Non-Violence (Satyagraha):** When police brutally lathi-charged peaceful marchers at Dharasana salt works, satyagrahis did not raise a hand in retaliation, earning worldwide moral sympathy.
+3. **Vast Geographic and Social Spread:** Marches occurred nationwide: C. Rajagopalachari in Tamil Nadu (Vedaranyam), K. Kelappan in Kerala (Payyanur), and Khan Abdul Ghaffar Khan (Khudai Khidmatgars) in the NWFP.
+4. **Mass Participation of Women:** Women broke social seclusion to march, picket foreign cloth and liquor shops, court arrest, and lead demonstrations in large numbers.
+5. **Boycott of Foreign Goods:** Widespread boycott led to a steep decline in British imports and government revenue.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Examine the factors that led to the transformation of Gandhi into a Mass Leader.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Factors Leading to Gandhi’s Transformation into a Mass Leader**
+1. **South African Experiments (1893–1914):** Formulated and perfected the novel weapon of **Satyagraha** (truth and non-violent moral resistance) while fighting against racial segregation and Asiatic Registration laws.
+2. **Early Grassroots Peasant Struggles:**
+   - *Champaran Satyagraha (1917):* Stood with oppressed indigo cultivators against the *tinkathia* system.
+   - *Kheda Satyagraha (1918):* Fought for revenue remission for famine-stricken peasants.
+   - *Ahmedabad Mill Strike (1918):* Led a successful hunger strike for mill workers' wages.
+3. **Simplicity and Identification with the Masses:** Discarded Western attire to wear a simple khadi loincloth, lived in rural ashrams, travelled third-class on trains, and spoke in direct, accessible moral idioms.
+4. **Unifying Symbols:** Chose universally resonant symbols like the **Charkha** (hand spinning wheel) and **Salt** (Dandi March) that bridged caste, religious, and class divides.
+5. **Constructive Programme:** Fought untouchability (calling Dalits *Harijans*), promoted Hindu-Muslim unity, championed women's emancipation, and built cottage village industries.
+
+</div>
+
+</details>
+
+---

@@ -460,3 +460,74 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://en.wikipedia.org/wiki/timesofindia. com` | URL transcription or spacing issue | — |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+Write a note on reforms of Ramalinga Adigal.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Reforms of Ramalinga Adigal (Vallalar)**
+1. **Jeeva Karunyam:** He preached universal compassion for all living beings and strictly opposed animal sacrifice and meat consumption.
+2. **Samarasa Suddha Sanmarga Sangam:** Founded in 1865, it advocated a casteless and egalitarian society based on universal love and unity.
+3. **Sathya Gnana Sabhai and Free Kitchen:** Established the *Sathya Gnana Sabhai* in Vadalur (1872) where God is worshipped as Jyoti (Light), and started a free eating house (Dharmasala) in 1867 to feed the poor irrespective of caste.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+List out the Social evils eradicated by Brahmo Samaj.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Social Evils Fought by Brahmo Samaj (Raja Ram Mohan Roy)**
+1. **Sati:** Successfully lobbied the British government to enact the **Abolition of Sati Act in 1829** (Regulation XVII).
+2. **Child Marriage:** Opposed child marriages and advocated for increasing the age of marriage.
+3. **Polygamy:** Vehemently campaigned against polygamy practiced among orthodox sections.
+4. **Caste Discrimination and Idol Worship:** Preached monotheism and opposed meaningless religious dogmas and caste supremacy.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2025
+
+Write an essay on the role played by the 19th century reformers towards the cause of women.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Role of 19th-Century Reformers for the Cause of Women**
+1. **Raja Ram Mohan Roy:** Crusaded against the inhumane custom of Sati, leading to the enactment of the **Abolition of Sati Act in 1829**; campaigned against child marriage and advocated women's right to property.
+2. **Ishwar Chandra Vidyasagar:** Played a pivotal role in legalizing widow remarriage through the **Hindu Widows' Remarriage Act of 1856** and opened numerous schools for girls in Bengal.
+3. **Justice M.G. Ranade and Jyotiba Phule:** Ranade founded the Widow Remarriage Association (1861). Jyotiba Phule and his wife Savitribai Phule established the first school for girls and untouchables in Pune (1848) and founded orphanages for widows.
+4. **Swami Dayananda Saraswati & Arya Samaj:** Denounced child marriage, supported widow remarriages, and established DAV schools providing modern and Vedic education to girls.
+5. **Reformers in South India:** Veeresalingam Pantulu published journals supporting women's education, while Periyar fought for equal property rights and abolishing the Devadasi system.
+
+</div>
+
+</details>
+
+---

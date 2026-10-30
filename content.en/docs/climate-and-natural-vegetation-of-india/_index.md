@@ -421,3 +421,178 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://bhuvan-app1.nrsc.gov.in/mhrd_ncert/` | Page opened in recent check | [Alternative](https://bhuvan-app1.nrsc.gov.in/moe_ncert/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+What is meant by normal lapse rate ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Normal Lapse Rate**
+**Normal lapse rate** is the rate at which atmospheric temperature decreases with increasing altitude in the troposphere. 
+
+On average, the temperature decreases at the rate of **$6.5^\circ\text{C}$ for every $1,000\text{ metres}$** (or $1^\circ\text{C}$ per $165\text{ metres}$) rise in elevation.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+What is ‘burst of monsoon’ ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Burst of Monsoon**
+**Burst of monsoon** (or onset of monsoon) refers to the sudden, violent arrival of the South West Monsoon winds in early June over the southern tip of India (Kerala coast), accompanied by intense thunderstorms, lightning, and heavy downpours that dramatically break the intense summer heat.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Name the four distinct Seasons of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Four Distinct Meteorological Seasons of India (IMD)**
+1. **Winter Season:** January to February
+2. **Pre-Monsoon / Summer Season:** March to May
+3. **South West Monsoon / Rainy Season:** June to September
+4. **Post-Monsoon / Retreating Monsoon Season:** October to December
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+What are ‘Jet Streams’ ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Jet Streams**
+**Jet streams** are narrow bands of high-velocity, meandering westerly winds flowing rapidly in the upper layers of the troposphere (at altitudes between 9 to 12 km), moving at speeds of 120 to over 400 km/h. They strongly influence the onset and withdrawal of the Indian monsoon.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Write about south west monsoon.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**South West Monsoon in India (June to September)**
+1. **Onset and Mechanism:** Due to intense heating of the Indian subcontinent during summer, an intense low pressure develops over northwest India, pulling moisture-laden southeast trade winds from the Indian Ocean across the equator as South West Monsoon winds.
+2. **Arabian Sea Branch:**
+   - Hits the Western Ghats causing heavy orographic rainfall (over 200–300 cm) on the windward western coastal plain.
+   - The other section passes through Gujarat and Rajasthan to the Himalayas, causing little rain in Rajasthan due to parallel Aravalli hills.
+3. **Bay of Bengal Branch:**
+   - Strikes the northeast hills (Khasi, Garo, Jaintia hills) causing world-record rainfall at Mawsynram.
+   - Gets deflected westwards along the Indo-Gangetic plains, providing rain to northern India.
+4. **Significance:** Supplies nearly **75% of India's annual rainfall**, sustaining agriculture and replenishing irrigation dams.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Answer the following questions:
+
+(a) Distinguish between :
+
+(i) North east monsoon and South west monsoon
+
+(ii) Renewable and Non-renewable resources
+
+(b) Give reasons :
+
+Agriculture is called the backbone of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences:**
+
+**# (i) North East Monsoon vs South West Monsoon**
+| North East Monsoon | South West Monsoon |
+|---|---|
+| Blows from October to December (Winter/Post-monsoon). | Blows from June to September (Summer). |
+| Blows from land to sea (Northeast to Southwest). | Blows from sea to land (Southwest to Northeast). |
+| Brings heavy rainfall mainly to coastal Tamil Nadu, Andhra Pradesh, and Rayalaseema. | Brings widespread rainfall to nearly the entire Indian subcontinent (75% of total). |
+
+**# (ii) Renewable vs Non-Renewable Resources**
+| Renewable Resources | Non-Renewable Resources |
+|---|---|
+| Can replenish naturally over time and are inexhaustible. | Fixed in quantity and cannot be renewed once depleted. |
+| Examples: Solar energy, wind power, biomass, hydro-electric energy. | Examples: Coal, petroleum, natural gas, uranium. |
+
+**Reason:**
+**Agriculture is called the backbone of India** because it provides employment and livelihood to more than half of the national workforce, feeds the world's most populous nation, generates rural income, and supplies basic raw materials to agro-industries.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Describe the Forests of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Major Forest Types in India**
+1. **Tropical Evergreen Forests:** Dense multi-canopied forests in areas with >200 cm rainfall (Western Ghats, Andaman, Assam); trees include rosewood, ebony, mahogany.
+2. **Tropical Deciduous Forests (Monsoon Forests):** Most widespread forest type (100–200 cm rainfall); shed leaves in dry season; economically valuable trees include teak, sal, sandalwood, bamboo.
+3. **Tropical Dry & Thorn Forests:** In arid areas with <70 cm rainfall (Rajasthan, Gujarat, Deccan); thorny acacias, palms, cacti.
+4. **Mountain / Montane Forests:** Coniferous forests found on Himalayan slopes; pine, deodar, oak, silver fir.
+5. **Mangrove / Tidal Forests:** Halophytic forests in coastal deltas and saline estuaries (Sundarbans, Pichavaram); sundari tree.
+
+</div>
+
+</details>
+
+---

@@ -517,3 +517,34 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://www.brittanica.com` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.britannica.com/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 5 Marks
+
+#### 2026
+
+Assess the structure and activities of the UNO.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Structure and Activities of the United Nations Organization (UNO)**
+1. **Establishment:** Founded on 24 October 1945 in San Francisco to maintain international peace, prevent future wars, and foster global cooperation.
+2. **Principal Organs:**
+   - *General Assembly:* World parliament where every member nation has one vote.
+   - *Security Council:* 15 members (5 permanent members with Veto power: USA, UK, France, Russia, China, and 10 non-permanent members) responsible for world peace.
+   - *Economic and Social Council (ECOSOC):* Directs social, health, and economic agencies.
+   - *International Court of Justice (ICJ):* Located at The Hague, settles legal disputes between states.
+   - *Secretariat:* Headed by the Secretary-General.
+3. **Key Activities:** Peacekeeping missions in conflict zones, global poverty alleviation (UNDP), child welfare (UNICEF), cultural heritage (UNESCO), and public health (WHO).
+
+</div>
+
+</details>
+
+---

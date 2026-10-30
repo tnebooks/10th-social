@@ -445,3 +445,113 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [4.7 Taxes and Development](#topic-4-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=cwviwhMiy6g) | [Lesson activities](#interactive-resources) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+What is Proportionate tax ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Proportionate Tax**
+**Proportionate tax** (or flat tax) is a taxation system where the tax rate remains constant regardless of the size of the tax base or individual income level.
+
+Under this system, every taxpayer pays the same fixed percentage of their income as tax (e.g., a flat 10% on income, whether one earns ₹10,000 or ₹1,00,000).
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2024
+
+What is black money ? Write the causes of black money.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Black Money and its Causes**
+**Black money** is income or funds earned through illegitimate activities or legitimate business activities on which applicable income and corporate taxes have not been paid to the government.
+
+**Major Causes of Black Money**
+1. **High Tax Rates:** Exorbitant tax rates incentivize individuals and corporate firms to evade taxes and conceal wealth.
+2. **Corrupt Practices and Bureaucracy:** Widespread bribery, licensing red-tape, and corrupt public administration.
+3. **Price Controls and Shortages:** Shortages of commodities lead to hoarding and black-marketing.
+4. **Real Estate Transactions:** Under-reporting property values and cash deals in land and housing registrations.
+5. **Tax Havens:** Stashing untaxed wealth in offshore shell companies and international tax havens.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+What is tax ? Explain its various types.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition and Types of Taxes**
+**Tax** is a compulsory financial charge or levy imposed by the government upon a taxpayer (individual or legal entity) to fund public expenditures and government services without any direct quid pro quo.
+
+**Major Types of Taxes**
+1. **Direct Tax:** Tax levied directly on the income or wealth of an individual or entity, where the tax burden cannot be shifted.
+   - *Examples:* Income Tax, Corporate Tax, Capital Gains Tax.
+2. **Indirect Tax:** Tax levied on goods and services, where the incidence and burden can be shifted onto consumers through market prices.
+   - *Examples:* **Goods and Services Tax (GST)**, Customs Duty, Excise Duty.
+3. **Tax Rate Structures:**
+   - *Progressive Tax:* Tax rate increases as income increases (e.g., Income Tax slabs).
+   - *Proportional Tax:* Tax rate remains constant across all income levels.
+   - *Regressive Tax:* Burden falls heavier on lower-income earners.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Write the structure of GST.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Structure of Goods and Services Tax (GST) in India**
+Implemented on **1 July 2017**, GST is a unified, destination-based multi-stage indirect tax replacing a multitude of central and state indirect levies.
+
+**Three Core Components:**
+1. **CGST (Central Goods and Services Tax):** Levied by the Central Government on intra-state supplies of goods and services.
+2. **SGST / UTGST (State / Union Territory Goods and Services Tax):** Levied by the State Government / UT administration on intra-state transactions.
+3. **IGST (Integrated Goods and Services Tax):** Levied by the Central Government on inter-state supplies and imports, and apportioned between Centre and consuming States.
+
+**Four Main Tax Slabs:**
+- **5%:** Essential commodities and household goods
+- **12%:** Standard processed goods and medicines
+- **18%:** Most capital goods, electronics, and services
+- **28%:** Luxury and demerit goods (automobiles, aerated drinks, tobacco)
+
+</div>
+
+</details>
+
+---

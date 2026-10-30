@@ -364,3 +364,127 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [6.3 Vellore Revolt 1806](#topic-6-3) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_ow-UOpc9lk) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-6--early-revolts-against-british-rule-in-tamil-nadu-415/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2025
+
+What were the duties of the Palayakkarars ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Duties of the Palayakkarars**
+1. **Revenue Collection:** Collected taxes and tributes from cultivators and handed over one-third to the Nayak king and retained one-third for their maintenance.
+2. **Military Support:** Maintained armed contingents and provided soldiers and horses to the central ruler during times of war.
+3. **Police and Law Enforcement (Padikaval):** Maintained internal law and order in their Palayam through the *Padikaval* or *Arasu Kaval* policing system.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Highlight the essence of the Tiruchirappalli Proclamation of 1801.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Essence of the Tiruchirappalli Proclamation (June 1801)**
+1. **First Clarion Call for Unity:** Issued by **Marudhu Pandiyar** of Sivagangai, it was the earliest formal proclamation inviting all Indians, regardless of caste or religion, to take up arms against British colonial rule.
+2. **Pasted in Prominent Places:** Copies of the proclamation were pasted on the walls of the Nawab’s palace inside the Tiruchirappalli Fort and on the outer gates of the famous Srirangam temple.
+3. **Call for Mass Resistance:** Urged the native populace, soldiers, and princes to unite and throw out the foreign British oppressors.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Account for the outbreak of Vellore Revolt in 1806.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Causes for the Outbreak of Vellore Revolt in 1806**
+1. **Grievances of Indian Sepoys:** Indian sepoys received low pay, were denied promotions to higher officer ranks, and were treated with contempt by British officers.
+2. **New Dress Regulations by Sir John Cradock:**
+   - Introduction of the Agnew turban resembling an English round hat.
+   - Prohibition of religious marks on the forehead (tilak, vibhuti) and ear rings while in uniform.
+   - Strict orders to shave beards and trim mustaches.
+3. **Instigation by Tipu's Sons:** The sons of Tipu Sultan, interned in Vellore Fort after the Fourth Anglo-Mysore War, secretly coordinated with the sepoys to overthrow the British.
+4. **The Outbreak:** On 10 July 1806, the 1st and 23rd regiments revolted, killed Colonel Fancourt and hoisted Tipu's tiger flag before Colonel Gillespie ruthlessly crushed the uprising.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Fill in the blanks:
+
+(i) Kattabomman was hanged to death at __________.
+(ii) The political mentor of Gandhiji was __________.
+(iii) The highest peak in South India is __________.
+(iv) The executive power of the Union is vested in the President by Article __________.
+(v) The First Five-Year Plan in India was launched in __________.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Answers for Fill in the Blanks:**
+(i) **Kayathar** (16 October 1799)
+(ii) **Gopal Krishna Gokhale**
+(iii) **Anaimudi** (2,695 metres)
+(iv) **Article 53**
+(v) **1951** (1951–1956)
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2024
+
+Discuss the heroic fight of Veerapandya Kattabomman against British East India Company.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Veerapandya Kattabomman’s Resistance Against the British**
+1. **Ascension and Stance:** Succeeded as Palayakkarar of Panchalankurichi in 1790; strongly refused to accept British paramountcy and pay land revenue tributes.
+2. **Clash with Collector Jackson:** Refused to be humiliated by Collector Colin Jackson in Ramanathapuram (1798); escaped after a scuffle in which Lieutenant Clarke was killed.
+3. **South Indian Confederacy:** Joined the anti-British confederacy formed by Marudhu Pandiyar of Sivagangai and organized fellow Palayakkarars.
+4. **Siege of Panchalankurichi:** Major Bannerman besieged Panchalankurichi Fort in September 1799; Kattabomman escaped to the Pudukkottai forests.
+5. **Betrayal and Martyrdom:** Betrayed by Raja of Pudukkottai, captured, tried before an assembly of Palayakkarars, and courageously hanged at Kayathar on 16 October 1799.
+
+</div>
+
+</details>
+
+---

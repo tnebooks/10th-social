@@ -442,3 +442,94 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [9.6 Quit India Struggle](#topic-9-6) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=Xom5nUM7_mI) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-9--freedom-struggle-in-tamil-nadu-418/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024, 2026
+
+Write a note on the Tirunelveli Uprising.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Tirunelveli Uprising (1908)**
+1. **Background:** Swadeshi leaders V.O. Chidambaranar and Subramania Siva organised a meeting in March 1908 to celebrate the release of Bipin Chandra Pal, leading to their arrest.
+2. **The Outbreak:** News of their arrest sparked widespread public fury; mobs burned public offices, court buildings, and police stations in Tirunelveli and Tuticorin.
+3. **Repression:** Police fired on protesters, killing four people; VOC was sentenced to two terms of life imprisonment and subjected to rigorous physical imprisonment (pulling the oil press).
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+What is the contribution of Annie Besant towards India’s Freedom Struggle ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Contribution of Annie Besant**
+1. **Home Rule League (1916):** Founded the All-India Home Rule League in Madras, demanding self-government for India on the lines of the British white dominions.
+2. **Newspapers & Political Awakening:** Published fiery nationalist newspapers ***New India*** and ***Commonweal*** to arouse patriotic consciousness.
+3. **First Woman Congress President:** Presided over the Calcutta session of the Indian National Congress in 1917, becoming the first woman president of the Congress.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Describe the role of Tamil Nadu in the Civil Disobedience Movement.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Role of Tamil Nadu in the Civil Disobedience Movement (1930)**
+1. **Vedaranyam Salt March:** Led by **C. Rajagopalachari (Rajaji)**, nearly 100 volunteers marched from Tiruchirappalli on 13 April 1930 and reached Vedaranyam on 28 April 1930 to break the salt law, picking up salt on 30 April.
+2. **Prominent Leaders:** Rukmini Lakshmipathi (first woman arrested in Tamil Nadu for salt satyagraha), T.S.S. Rajan, K. Santhanam, and Mattaparai Venkataramar.
+3. **Madras City Protests:** In Madras, T. Prakasam and K. Nageswara Rao set up a camp at Udayavanam and courted arrest; clashes with police took place at Marina beach.
+4. **Boycott and General Strikes:** Widespread picketing of foreign cloth and liquor shops in Coimbatore, Madurai, Tirupur, and Salem; mills and transport came to a standstill.
+5. **Tirupur Kumaran's Sacrifice:** O.K.S.R. Kumaraswamy (Tirupur Kumaran) was brutally lathi-charged on 11 January 1932 while carrying the national flag, earning the title *Kodi Kaatha Kumaran*.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Discuss the response to Swadeshi Movement in Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Response to the Swadeshi Movement in Tamil Nadu (1905–1911)**
+1. **V.O. Chidambaranar & Swadeshi Steam Navigation Company:** VOC founded the *Swadeshi Steam Navigation Company* in 1906, operating two ships (*S.S. Galia* and *S.S. Lawoe*) between Tuticorin and Colombo to break British maritime monopoly.
+2. **Nationalist Journalism & Subramania Bharati:** Poet Subramania Bharati stirred patriotic fervour through his stirring verses and nationalist newspapers ***Swadesamitran*** and ***India***.
+3. **Coral Mill Strike (1908):** VOC and Subramania Siva led the strike of oppressed mill workers at the Coral Mills in Tuticorin, winning wage hikes.
+4. **Tirunelveli Uprising & Ashe Murder:** Arrest of VOC sparked the 1908 Tirunelveli riots; in June 1911, Vanchinathan shot dead Collector Robert Ashe at Maniyachi railway station.
+
+</div>
+
+</details>
+
+---

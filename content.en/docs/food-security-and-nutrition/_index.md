@@ -511,3 +511,72 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://fci.gov.in/procurements.php?view=51` | Access not confirmed; failure is not proof of a broken site | — |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2025
+
+Define food security according to FAO.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of Food Security (FAO)**
+According to the Food and Agriculture Organization (FAO):
+> *“Food security exists when all people, at all times, have physical, social, and economic access to sufficient, safe, and nutritious food which meets their dietary needs and food preferences for an active and healthy life.”*
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+What are the effects of Green Revolution ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Effects of the Green Revolution in India**
+1. **Food Self-Sufficiency:** Remarkable surge in production of wheat and rice transformed India from a food-deficient nation into a self-reliant and food-exporting country.
+2. **Modernization & Buffer Stocks:** Increased rural incomes, created huge national buffer stocks in FCI godowns, but brought ecological issues like groundwater depletion and chemical soil degradation.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Elaborate on the Public Distribution System.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Public Distribution System (PDS) in India**
+1. **Concept:** A government-managed food security system aimed at distributing essential commodities (rice, wheat, sugar, kerosene) at subsidized prices to ration cardholders.
+2. **Procurement and Buffer Stock:** The Food Corporation of India (FCI) procures food grains from farmers at **Minimum Support Price (MSP)** and maintains buffer stocks.
+3. **Targeted vs Universal PDS:**
+   - Most Indian states operate **Targeted PDS (TPDS)** categorizing beneficiaries as Antyodaya Anna Yojana (AAY), Below Poverty Line (BPL), and Above Poverty Line (APL).
+   - **Tamil Nadu** uniquely follows **Universal PDS**, providing free/subsidized rice to all households regardless of income.
+4. **National Food Security Act (NFSA, 2013):** Enshrines legal entitlement to food, providing 5 kg of grains per person per month at highly subsidized rates to priority households.
+
+</div>
+
+</details>
+
+---

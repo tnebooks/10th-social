@@ -625,3 +625,76 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [5.6 Trade](#topic-5-6) | [Topic video (English)](https://www.youtube.com/watch?v=Crby5WYko0g) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+Define “International trade”.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of International Trade**
+**International trade** is the exchange of goods, commodities, and services across national boundaries and territories between two or more sovereign nations. It primarily consists of **exports** (goods sold to other countries) and **imports** (goods purchased from other countries).
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Classify and explain the roadways in India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Classification of Roadways in India**
+1. **National Highways (NH):** Connect capitals, ports, and industrial hubs across states; constructed and maintained by the National Highways Authority of India (NHAI).
+2. **State Highways (SH):** Connect state capitals with district headquarters and important towns; maintained by State Public Works Departments (PWD).
+3. **District Roads:** Connect production centers and markets with district headquarters; maintained by Zilla Parishads.
+4. **Rural / Village Roads:** Link villages with nearby towns; funded substantially by the *Pradhan Mantri Gram Sadak Yojana (PMGSY)*.
+5. **Golden Quadrilateral & Corridors:** 5,846 km expressway linking Delhi, Mumbai, Chennai, and Kolkata, along with North-South (Srinagar to Kanyakumari) and East-West corridors (Silchar to Porbandar).
+6. **Border Roads:** Strategically vital roads constructed in northern and northeastern borders by the Border Roads Organisation (BRO).
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+What is Urbanization ? Explain its problems.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Urbanization and its Problems**
+**Urbanization** is the demographic process whereby an increasing proportion of a country's population shifts from rural to urban areas, leading to the growth and expansion of cities.
+
+**Major Problems of Urbanization**
+1. **Urban Sprawl and Overcrowding:** Unprecedented population influx leads to acute congestion and overcrowding in mega-cities.
+2. **Growth of Slums:** Shortage of affordable housing forces migrants into squalid slums lacking potable drinking water and sanitary amenities.
+3. **Traffic Congestion:** Inadequate public transit combined with skyrocketing private vehicles results in chronic traffic bottlenecks.
+4. **Pollution and Waste Crisis:** Immense air, noise, and water pollution coupled with unmanageable mountains of solid municipal waste.
+
+</div>
+
+</details>
+
+---

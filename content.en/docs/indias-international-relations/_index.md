@@ -543,3 +543,94 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `https://brics.ibge.gov.br/` | Access not confirmed; failure is not proof of a broken site | — |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+Mention the member countries of BRICS.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Member Countries of BRICS**
+The founding member countries representing the acronym **BRICS** are:
+1. **B** - Brazil
+2. **R** - Russia
+3. **I** - India
+4. **C** - China
+5. **S** - South Africa (joined in 2010)
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Name the neighbouring countries of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Neighbouring Countries of India**
+- **Land Neighbours (7 countries):** Pakistan and Afghanistan to the northwest; China, Nepal, and Bhutan to the north; Bangladesh and Myanmar to the east.
+- **Maritime Neighbours (2 countries):** Sri Lanka (separated by Palk Strait) and Maldives in the Indian Ocean.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+State the neighbouring countries of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Neighbouring Countries of India**
+- **Land Borders:** Pakistan and Afghanistan (northwest), China, Nepal, and Bhutan (north), Bangladesh and Myanmar (east).
+- **Maritime Borders:** Sri Lanka (across Palk Strait) and Maldives in the Indian Ocean.
+
+</div>
+
+</details>
+
+---
+
+List out the Member Countries of SAARC.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Member Countries of SAARC (8 Countries)**
+1. Afghanistan (joined 2007)
+2. Bangladesh
+3. Bhutan
+4. India
+5. Maldives
+6. Nepal
+7. Pakistan
+8. Sri Lanka
+*(Headquarters: Kathmandu, Nepal)*
+
+</div>
+
+</details>
+
+---

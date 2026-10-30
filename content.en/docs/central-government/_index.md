@@ -338,3 +338,76 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://www.pmindia.gov.in/en/` | Page opened in recent check | [Alternative](https://www.pmindia.gov.in/en/) |
 | `https://www.sci.gov.in/` | Page opened in recent check | — |
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+How is President of India elected ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Election of the President of India (Article 54)**
+The President of India is elected indirectly by an **Electoral College** comprising:
+1. The elected members of both Houses of Parliament (Lok Sabha and Rajya Sabha).
+2. The elected members of the Legislative Assemblies of all States (MLAs) and Union Territories of Delhi and Puducherry.
+*Election is conducted in accordance with proportional representation by means of the single transferable vote via secret ballot.*
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023, 2025
+
+What are the duties and functions of Prime Minister of India ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Duties and Functions of the Prime Minister of India (Article 78)**
+1. **Leader of the Council of Ministers:** Recommends persons for appointment as ministers to the President and allocates portfolios among them.
+2. **Head of the Government:** Presides over Cabinet meetings, coordinates policy decisions, and guides all ministries.
+3. **Chief Advisor and Link to the President:** Serves as the principal channel of communication between the Council of Ministers and the President.
+4. **Leader of the Parliament:** Leader of the Lok Sabha; advises the President on summoning and proroguing Parliament and announces government policies on the floor.
+5. **Foreign Affairs Representative:** Represents India at major international conferences (BRICS, G20, UN) and shapes foreign policy.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Critically examine the Powers and Functions of the Parliament.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Powers and Functions of the Indian Parliament**
+1. **Legislative Powers:** Supreme law-making body; passes bills on subjects in the Union List, Concurrent List, and Residuary powers.
+2. **Financial Powers:** Exercises absolute control over public finance; no taxes can be levied and no funds withdrawn from the Consolidated Fund of India without parliamentary approval (Money Bills originate only in Lok Sabha).
+3. **Control over Executive:** Ministers are collectively responsible to the Lok Sabha; members exercise oversight through Question Hour, Calling Attention motions, and No-Confidence Motions.
+4. **Constituent Powers:** Amends provisions of the Constitution under **Article 368**.
+5. **Electoral & Impeachment Powers:** Participates in elections of President and Vice-President, and holds powers to impeach the President and remove Supreme Court/High Court judges.
+
+</div>
+
+</details>
+
+---

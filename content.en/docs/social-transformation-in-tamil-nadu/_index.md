@@ -500,3 +500,106 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [10.7 Women’s Movements](#topic-10-7) | [Topic video (Tamil explanation)](https://www.youtube.com/watch?v=_WhKxiCdlk8) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-10--social-transformation-in-tamil-nadu-419/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+Estimate Periyar as a feminist.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Periyar as a Feminist**
+1. **Advocacy for Equal Rights:** Periyar advocated that women should have equal rights in education, employment, and ancestral property inheritance.
+2. **Condemnation of Oppressive Customs:** He vociferously fought against child marriage, the Devadasi system, dowry, and enforced widowhood.
+3. **Reproductive Autonomy & Self-Respect Marriages:** He strongly championed birth control and family planning, and introduced *Self-Respect Marriages* solemnized without Brahmin priests and religious rituals.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2024
+
+Fill in the blanks:
+
+(i) The first Woman Legislator in India was __________.
+(ii) The highest peak in the southern part of Eastern Ghats is __________.
+(iii) The soil which is well-suited for cotton cultivation is __________.
+(iv) National Emergency is declared under Article __________.
+(v) The headquarters of GATT was located in __________.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Answers for Fill in the Blanks:**
+(i) **Dr. Muthulakshmi Reddi** (nominated to Madras Legislative Council in 1926)
+(ii) **Solaikaradu (Servarayan Hills)** (1,620 m)
+(iii) **Black Soil (Regur)**
+(iv) **Article 352**
+(v) **Geneva (Switzerland)**
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2025
+
+Explain the background and social reforms of the Justice Party in Tamil Nadu.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Background and Social Reforms of the Justice Party**
+1. **Background & Foundation:** Formed in 1916 as the South Indian Liberal Federation (SILF) by Dr. C. Natesa Mudaliar, Sir P. Theagaraya Chetty, and Dr. T.M. Nair to challenge Brahmin dominance in education and public service.
+2. **Communal Government Orders (1921 & 1922):** Enacted reservation quotas in government appointments for non-Brahmins, Muslims, Indian Christians, and Scheduled Castes.
+3. **Women’s Enfranchisement (1921):** Granted voting rights to women for the first time in India.
+4. **Abolition of Devadasi System:** Actively supported Dr. Muthulakshmi Reddi’s crusade leading to the eradication of the exploitative Devadasi system.
+5. **Midday Meal Scheme & University Reforms:** Pioneered the free midday meal scheme for poor school children in Thousand Lights, Madras (1920) and established Andhra University (1926) and Annamalai University (1929).
+6. **Hindu Religious Endowments Act (1926):** Brought temple administration and finances under democratic government oversight, curbing the monopoly of orthodox priests.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Write an essay on the origin and growth of Tamil Renaissance.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Origin and Growth of Tamil Renaissance**
+1. **Rediscovery of Classical Sangam Literature:** Western scholars (Ellis, Caldwell) and pioneering Tamil scholars (C.W. Damodaram Pillai, U.V. Swaminatha Iyer) recovered, transcribed, and printed ancient palm-leaf classical Sangam texts (*Tholkappiyam, Cilapathikaram, Manimekalai*).
+2. **Robert Caldwell’s Comparative Grammar (1856):** Established that Dravidian languages formed an independent language family distinct from Sanskrit, proving the antiquity and independence of Tamil culture.
+3. **Pure Tamil Movement (Thani Tamil Iyakkam):** Founded by **Maraimalai Adigal** (assisted by Neelambikai Ammaiyar), advocating the purging of Sanskrit words from Tamil language and literature.
+4. **Poets and Literary Pioneers:** Subramania Bharati and Bharathidasan ignited social awakening, gender equality, and rationalist nationalism through vibrant Tamil poetry.
+5. **Self-Respect Movement and Social Awakening:** Periyar E.V. Ramasamy deployed the Tamil identity to battle caste hierarchies, superstition, and social oppression, establishing egalitarian social justice.
+
+</div>
+
+</details>
+
+---

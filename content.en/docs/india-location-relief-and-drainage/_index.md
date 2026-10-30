@@ -549,3 +549,374 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://www.scert.kerala.gov.in/images/text_books/chapter%204.pdf` | Access not confirmed; failure is not proof of a broken site | [Alternative](https://www.scert.kerala.gov.in/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+How is coastal plain formed ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Formation of Coastal Plains**
+Coastal plains are flat, low-lying tracts of land adjacent to a sea coast. They are formed primarily through:
+1. **Marine Action:** Continuous wave erosion, deposition of sand and shingle along shorelines forming beaches and sandbars.
+2. **Fluvial Deposition:** Major rivers carrying sediments from highlands deposit silt and alluvium at their mouths, constructing fertile coastal deltas and flood plains.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Write a short note on Deccan Plateau.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**The Deccan Plateau**
+1. **Extent & Shape:** Largest plateau in India covering roughly 5 lakh sq km in a triangular shape, bounded by the Satpura range in the north, Western Ghats in the west, and Eastern Ghats in the east.
+2. **Slope & Drainage:** Slopes gently from west to east; major peninsular rivers (Mahanadi, Godavari, Krishna, Cauvery) flow eastward into the Bay of Bengal.
+3. **Geology:** Formed predominantly of ancient basaltic lava flows, giving rise to fertile moisture-retentive black cotton soil.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Answer the following questions:
+
+(a) Distinguish between :
+
+(i) Western Ghats and Eastern Ghats.
+
+(ii) Metallic and Non metallic minerals
+
+(b) Give reasons for the following :
+
+Eastern Ghats are not a continuous range.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences:**
+
+**# (i) Western Ghats vs Eastern Ghats**
+| Western Ghats | Eastern Ghats |
+|---|---|
+| Continuous mountain range running parallel to the Arabian Sea coast. | Discontinuous and broken mountain chain running parallel to the Bay of Bengal coast. |
+| Higher elevation (average 2,000–2,695 m). | Lower elevation (average 1,100–1,600 m). |
+| Origin of major peninsular rivers like Godavari, Krishna, and Cauvery. | No major peninsular rivers originate here; it is dissected by east-flowing rivers. |
+| Highest peak is Anaimudi (2,695 m). | Highest peak is Jindhagada / Arma Konda (1,690 m). |
+
+**# (ii) Metallic vs Non-Metallic Minerals**
+| Metallic Minerals | Non-Metallic Minerals |
+|---|---|
+| Contain metals in chemical composition (e.g., Iron ore, Bauxite, Manganese). | Do not contain metals (e.g., Mica, Limestone, Gypsum, Coal). |
+| Malleable, ductile, and good conductors of heat and electricity. | Brittle, break easily, and poor conductors of heat and electricity. |
+
+**Reason:**
+**Eastern Ghats are not a continuous range** because they are heavily dissected and eroded at numerous places by major east-flowing peninsular rivers (Mahanadi, Godavari, Krishna, and Cauvery) before emptying into the Bay of Bengal.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Explain the divisions of Northern Mountains (Himalayas) and its importance to India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Divisions of the Northern Mountains (Himalayas)**
+1. **The Trans-Himalayas (Tibetan Himalayas):** Located north of the Great Himalayas; contains ranges like Karakoram, Ladakh, and Zaskar.
+2. **The Himalayas Proper:** Consists of three parallel longitudinal belts:
+   - *Greater Himalayas (Himadri):* Highest continuous range (average height 6,100 m) with Mount Everest (8,848 m) and Kanchenjunga (8,586 m).
+   - *Lesser Himalayas (Himachal):* Rugged relief (average height 3,700–4,500 m) with hill resorts (Shimla, Darjeeling).
+   - *Outer Himalayas (Siwaliks):* Discontinuous outermost foothill chain (height 900–1,100 m) with longitudinal valleys known as Duns.
+3. **Eastern Himalayas (Purvanchal):** Eastern extension along northeastern borders (Patkai Bum, Naga, Mizo hills).
+
+**Importance to India**
+- Natural defense barrier blocking cold Siberian winds and foreign invaders.
+- Origin of major perennial river systems (Indus, Ganga, Brahmaputra).
+- Blocks summer monsoon winds, causing heavy rainfall across the subcontinent.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Give an account on the peninsular rivers of India.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Peninsular River System of India**
+Peninsular rivers originate in the Western Ghats or central highlands and are seasonal (rain-fed), flowing in mature graded valleys.
+
+**1. East-Flowing Rivers (Drain into Bay of Bengal):**
+- **Mahanadi (851 km):** Originates in Raipur (Chhattisgarh); Hirakud Dam is built across it.
+- **Godavari (1,465 km):** Known as *Vridha Ganga* or Dakshin Ganga; largest peninsular river originating at Trimbakeshwar (Nashik).
+- **Krishna (1,400 km):** Originates at Mahabaleshwar in Maharashtra; major tributaries include Tungabhadra and Bhima.
+- **Cauvery (805 km):** Originates at Talakaveri in Kodagu (Karnataka); forms Sivasamudram falls and fertile delta in Tamil Nadu.
+
+**2. West-Flowing Rivers (Drain into Arabian Sea):**
+- **Narmada (1,312 km):** Originates at Amarkantak; flows west through a rift valley between Vindhya and Satpura ranges; forms Dhuandhar falls.
+- **Tapi (724 km):** Originates at Betul district in Madhya Pradesh, flowing parallel to Narmada into Gulf of Khambhat.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Answer the following questions:
+
+(a) Distinguish between :
+
+(i) Western Ghats and Eastern Ghats
+
+(ii) Weather and Climate
+
+(b) Give reasons :
+
+Eastern Ghats are discontinuous.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Differences:**
+
+**# (i) Western Ghats vs Eastern Ghats**
+| Western Ghats | Eastern Ghats |
+|---|---|
+| Continuous mountain range along the western coast. | Discontinuous mountain chain broken by major river valleys. |
+| Higher elevation (average 2,000–2,695 m); highest peak is Anaimudi. | Lower elevation (average 1,100–1,600 m); highest peak is Jindhagada. |
+| Source of major rivers (Godavari, Krishna, Cauvery). | Cut through by east-flowing rivers. |
+
+**# (ii) Weather vs Climate**
+| Weather | Climate |
+|---|---|
+| State of the atmosphere at a specific place and short time period (day-to-day). | Average pattern of weather conditions observed over a large area over a long period (30–35 years). |
+| Highly dynamic and can change within hours. | Relatively stable and changes very slowly. |
+
+**Reason:**
+**Eastern Ghats are discontinuous** because they are cut across and dissected at multiple gaps by large peninsular rivers (Mahanadi, Godavari, Krishna, Cauvery) emptying into the Bay of Bengal.
+
+</div>
+
+</details>
+
+---
+
+Give a detailed account on the basin of The Ganga.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**The Ganga River Basin**
+1. **Origin:** Originates as the **Bhagirathi** from the Gangotri Glacier in Uttarkashi district of Uttarakhand at an elevation of 7,010 metres; meets Alaknanda at Devprayag to form the Ganga.
+2. **Course and Extent:** Flows a total length of **2,525 km** through Uttarakhand, Uttar Pradesh, Bihar, and West Bengal, covering an enormous catchment area of roughly 8.6 lakh sq km.
+3. **Major Tributaries:**
+   - *Right Bank:* Yamuna (largest tributary originating at Yamunotri, meets at Prayagraj), Son, and Damodar.
+   - *Left Bank:* Ramganga, Gomti, Ghaghara, Gandak, and Kosi ('Sorrow of Bihar').
+4. **Delta:** In West Bengal, splits into the Bhagirathi-Hooghly and Padma (entering Bangladesh), combining with Jamuna (Brahmaputra) to form the **Sundarbans Delta**, the largest and fastest-growing mangrove delta in the world.
+
+</div>
+
+</details>
+
+---
+
+### 8 Marks
+
+#### 2023
+
+Explain the Peninsular plateaus.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**The Peninsular Plateau of India**
+1. **Overview & Structure:** Located south of the northern plains, the Peninsular plateau is a tableland composed of old crystalline, igneous, and metamorphic rocks. Covering about 16 lakh sq km, it is the oldest landmass of India.
+2. **Central Highlands:**
+   - Situated north of the Narmada River, bounded by the Aravalli range in the northwest and Vindhya range in the south.
+   - Comprises the **Malwa Plateau** and the **Chotanagpur Plateau** (rich in mineral reserves).
+3. **Deccan Plateau:**
+   - Triangular landmass extending south of the Satpura range.
+   - Slopes gently from west to east; drained by major rivers like Mahanadi, Godavari, Krishna, and Cauvery into the Bay of Bengal.
+4. **Bordering Ghats:**
+   - **Western Ghats:** Continuous steep escarpment on the west (peaks include Anaimudi).
+   - **Eastern Ghats:** Discontinuous, river-eroded hills on the east.
+
+</div>
+
+</details>
+
+---
+
+Mark the following places on the given outline map of India.
+(i) Aravalli
+(ii) Narmada
+(iii) Deccan plateau
+(iv) Panna Biosphere Reserve
+(v) Thar desert
+(vi) Western Ghats
+(vii) Paradeep
+(viii) Black soil region (1)
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of India:**
+1. **Aravalli:** Mountain range running southwest to northeast in Rajasthan.
+2. **Narmada:** West-flowing river originating at Amarkantak, flowing between Vindhya and Satpura ranges into the Arabian Sea.
+3. **Deccan Plateau:** Triangular plateau in southern peninsular India.
+4. **Panna Biosphere Reserve:** Located in Madhya Pradesh in the Vindhyan hill range.
+5. **Thar Desert:** The Great Indian Desert in western Rajasthan.
+6. **Western Ghats:** Continuous mountain chain along the western coast from Gujarat to Tamil Nadu.
+7. **Paradeep:** Deep-water sea port situated on the coast of Odisha.
+8. **Black Soil Region:** Maharashtra lava plateau.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Mark the following places on the given outline map of India.
+(i) Chotanagpur plateau
+(ii) Karakoram
+(iii) Mountain forests
+(iv) Area of heavy rainfall
+(v) Agasthyamalai biosphere reserve
+(vi) Tuticorin
+(vii) Any one tea growing region
+(viii) Cochin port
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of India:**
+1. **Chotanagpur Plateau:** Mineral heartland in Jharkhand/West Bengal.
+2. **Karakoram:** Northernmost mountain range in Ladakh containing K2 (Godwin-Austen).
+3. **Mountain Forests:** Coniferous forests along the Himalayan states.
+4. **Area of Heavy Rainfall:** Western coastal strip or Mawsynram (Meghalaya).
+5. **Agasthyamalai Biosphere Reserve:** Southern Western Ghats straddling Kerala-Tamil Nadu.
+6. **Tuticorin:** V.O. Chidambaranar major port on the Gulf of Mannar coast in Tamil Nadu.
+7. **Tea Growing Region:** Assam valley / Darjeeling.
+8. **Cochin Port:** Major natural harbour on the Malabar Coast in Kerala.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+Mark the following places on the given outline map of India.
+(i) Western Ghats
+(ii) Deccan plateau
+(iii) Panna biosphere reserve
+(iv) Coal mining area
+(v) Chotanagpur plateau
+(vi) Mumbai High
+(vii) Any one cotton growing region
+(viii) Chennai port
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of India:**
+1. **Western Ghats:** Continuous mountain chain along western coast of India.
+2. **Deccan Plateau:** Triangular upland in southern India.
+3. **Panna Biosphere Reserve:** Located in Madhya Pradesh.
+4. **Coal Mining Area:** Jharia / Raniganj / Bokaro.
+5. **Chotanagpur Plateau:** Mineral-rich plateau in Jharkhand.
+6. **Mumbai High:** Offshore oilfield located in the Arabian Sea off Mumbai coast.
+7. **Cotton Growing Region:** Maharashtra / Gujarat / Western Tamil Nadu.
+8. **Chennai Port:** Major artificial harbour on the southeastern Coromandel coast.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+Mark the following places on the given outline map of India.
+(i) Eastern Ghats
+(ii) Malwa plateau
+(iii) River Godavari
+(iv) Mountain forests
+(v) Major port on east coast
+(vi) Mumbai
+(vii) Any one tea growing region
+(viii) Gulf of Mannar
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Places on Outline Map of India:**
+1. **Eastern Ghats:** Discontinuous hills along eastern coast of peninsular India.
+2. **Malwa Plateau:** Tableland north of Vindhya range in Madhya Pradesh/Rajasthan.
+3. **River Godavari:** Longest peninsular river flowing from Nashik through Andhra Pradesh into Bay of Bengal.
+4. **Mountain Forests:** Coniferous forests in Jammu & Kashmir, Himachal Pradesh, and Uttarakhand.
+5. **Major Port on East Coast:** Visakhapatnam / Chennai / Paradeep.
+6. **Mumbai:** Commercial capital and port city on the Konkan coast in Maharashtra.
+7. **Tea Growing Region:** Assam valley / Nilgiris.
+8. **Gulf of Mannar:** Marine bay located between southeast Tamil Nadu and western Sri Lanka.
+
+</div>
+
+</details>
+
+---

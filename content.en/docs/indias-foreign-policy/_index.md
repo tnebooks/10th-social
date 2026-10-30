@@ -501,3 +501,56 @@ The following URLs occur in this lesson. Recent checks are shown separately from
 | `http://www.saarc-sec.org/` | Page opened in recent check | [Alternative](https://www.saarc-sec.org/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2025
+
+Name the architects of the Non-Aligned Movement.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Founding Architects of the Non-Aligned Movement (NAM)**
+1. **Jawaharlal Nehru** - Prime Minister of India
+2. **Josip Broz Tito** - President of Yugoslavia
+3. **Gamal Abdel Nasser** - President of Egypt
+4. **Sukarno** - President of Indonesia
+5. **Kwame Nkrumah** - President of Ghana
+*(Formally founded at the Belgrade Conference in 1961).*
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2024
+
+Discuss the basic determinants of India’s Foreign Policy.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Basic Determinants of India's Foreign Policy**
+1. **Geographical Factor:** India's vast coastline, peninsular location dominating the Indian Ocean, and land boundaries with neighbouring nations.
+2. **Historical and Cultural Heritage:** Deep-rooted civilizational values of peaceful coexistence, non-violence (*Ahimsa*), and tolerance.
+3. **National Security & Domestic Interests:** Defense of territorial integrity and maintenance of national sovereignty against hostile borders.
+4. **Economic Development:** Need for external capital, technology, and international trade partners to alleviate poverty and achieve industrial growth.
+5. **International Environment:** Bipolar Cold War tensions fostered India's policy of **Non-Alignment (NAM)** to maintain diplomatic autonomy.
+
+</div>
+
+</details>
+
+---

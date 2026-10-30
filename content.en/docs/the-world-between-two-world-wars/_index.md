@@ -409,3 +409,135 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [2.5 Political Developments in South America](#topic-2-5) | [Topic video (English)](https://www.youtube.com/watch?v=ZBw35Ze3bg8) | [Chapter practice](https://test.brainkart.com/topic/history--chapter-2--the-world-between-two-world-wars-411/) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2023
+
+How did Hitler get the support from the people of Germany ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**How Hitler Gained the Support of German People**
+1. **Charismatic Oratory and Nationalism:** Hitler was a gifted orator who tapped into the deep anger of Germans regarding the humiliating terms of the Treaty of Versailles.
+2. **Promises of Economic Recovery:** During the Great Depression, he promised employment for the unemployed, economic prosperity, and restoration of Germany's lost imperial glory.
+3. **Anti-Communist Stance:** Industrialists, landlords, and the middle class supported Hitler as a strong defense against the rising threat of communism.
+4. **Nazi Propaganda:** Joseph Goebbels masterminded effective propaganda projecting Hitler as the sole saviour ('Fuehrer') of Germany.
+
+</div>
+
+</details>
+
+---
+
+What were the results of Mussolini’s March on Rome ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Results of Mussolini's March on Rome (October 1922)**
+1. **Fall of the Democratic Government:** King Victor Emmanuel III refused to declare martial law and instead invited Mussolini to form the government.
+2. **Establishment of Fascist Rule:** Mussolini became the Prime Minister of Italy, gradually dismantling democratic institutions.
+3. **One-Party Dictatorship:** All opposition parties were suppressed, trade unions were banned, and Mussolini established absolute totalitarian rule as 'Il Duce'.
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+Define “Dollar Imperialism”.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Definition of Dollar Imperialism**
+**Dollar Imperialism** was a foreign policy term used to describe the geopolitical strategy of the United States to dominate and control foreign nations (particularly in Latin America) through financial investment, economic aid, loans, and commercial dependency rather than direct military colonialism.
+
+</div>
+
+</details>
+
+---
+
+#### 2025
+
+How did Great Depression impact on the Indian agriculture ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Impact of the Great Depression (1929) on Indian Agriculture**
+1. **Catastrophic Drop in Crop Prices:** Agricultural commodity prices fell by more than 50%, while land revenue and taxes demanded by the British government remained rigidly unchanged.
+2. **Severe Rural Indebtedness & Gold Outflow:** Peasants were forced to sell their distress gold ('distress selling') and land to moneylenders, leading to widespread foreclosures, rural poverty, and agrarian unrest.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+What was the result of Mussolini’s March on Rome ?
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Results of Mussolini's March on Rome (October 1922)**
+1. King Victor Emmanuel III yielded to fascist pressure and refused to sign martial law orders.
+2. Mussolini was formally invited to form a new government as Prime Minister of Italy.
+3. Marked the death of parliamentary democracy in Italy and established totalitarian Fascist rule under *Il Duce*.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2026
+
+Fill in the blanks :
+
+(i) Hitler attacked __________ which was a demilitarised zone.
+(ii) The first Woman Legislator in India was __________.
+(iii) The soil which is well-suited for cotton cultivation is __________.
+(iv) Financial Emergency is declared under Article __________.
+(v) The first census in India was conducted in the year __________.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Answers for Fill in the Blanks:**
+(i) **Rhineland** (1936)
+(ii) **Dr. Muthulakshmi Reddi** (1926)
+(iii) **Black Soil (Regur)**
+(iv) **Article 360**
+(v) **1872**
+
+</div>
+
+</details>
+
+---

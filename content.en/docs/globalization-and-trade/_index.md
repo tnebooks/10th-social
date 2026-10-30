@@ -526,3 +526,52 @@ Each video below addresses the named topic or selected concepts within it. “Ch
 | [2.7 Impact and Challenges of Globalization](#topic-2-7) | [Topic video (English)](https://www.khanacademy.org/test-prep/mcat/society-andculture/demographics/v/globalization-trade-and-transnational-corporations) | [Topic activity](https://www.wto.org/english/res_e/statis_e/statis_maps_e.htm) |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## Board Examination Questions
+
+### 2 Marks
+
+#### 2024
+
+Write any two positive impacts of Globalization.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Positive Impacts of Globalization**
+1. **Foreign Direct Investment (FDI) & Employment:** Substantial inflow of foreign investment creating massive employment opportunities, particularly in IT, automobile, and service sectors.
+2. **Consumer Choice & Quality:** Increased international competition provides consumers with a wider variety of high-quality modern goods and services at competitive prices.
+
+</div>
+
+</details>
+
+---
+
+### 5 Marks
+
+#### 2023
+
+Explain the reason for the growth of MNC.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">View Model Answer & Solution</summary>
+
+<div class="pt-3">
+
+**Reasons for the Growth of Multinational Corporations (MNCs)**
+1. **Expansion of Market Territory:** MNCs expand operations beyond domestic borders to capture large foreign markets and boost revenue.
+2. **Access to Low-Cost Labour and Raw Materials:** Setting up production units in developing countries like India and China drastically reduces labor, raw material, and operating costs.
+3. **Technological Superiority:** Possession of cutting-edge research and proprietary technologies gives MNCs a massive competitive edge.
+4. **Economies of Scale:** Large-scale mass production allows MNCs to lower per-unit production costs.
+5. **Overcoming Trade Barriers:** Establishing domestic production facilities abroad helps MNCs bypass tariffs, quotas, and import restrictions.
+
+</div>
+
+</details>
+
+---

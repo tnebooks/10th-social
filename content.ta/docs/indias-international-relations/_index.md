@@ -474,3 +474,93 @@ III சரியான கூற்றைத் தெரிவு செய்�
 | `https://brics.ibge.gov.br/` | அணுகல் உறுதிப்படுத்தப்படவில்லை | — |
 
 <!-- supplemental-resources:end -->
+
+---
+
+## அரசு பொதுத்தேர்வு வினாக்கள் (Board Examination Questions)
+
+### 2 மதிப்பெண் வினாக்கள் (2 Marks)
+
+#### 2023
+
+பிரிக்ஸ் (BRICS) உறுப்பு நாடுகளின் பெயர்களைக் குறிப்பிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**பிரிக்ஸ் (BRICS) உறுப்பு நாடுகள்**
+பிரிக்ஸ் அமைப்பின் உறுப்பு நாடுகள்:
+1. **B** - பிரேசில் (Brazil)
+2. **R** - ரஷ்யா (Russia)
+3. **I** - இந்தியா (India)
+4. **C** - சீனா (China)
+5. **S** - தென்னாப்பிரிக்கா (South Africa - 2010-ல் இணைந்தது)
+
+</div>
+
+</details>
+
+---
+
+#### 2024
+
+இந்தியாவின் அண்டை நாடுகளின் பெயர்களைக் குறிப்பிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**இந்தியாவின் அண்டை நாடுகள்**
+- **நில எல்லைகளைப் பகிர்ந்து கொள்ளும் நாடுகள் (7):** பாகிஸ்தான், ஆப்கானிஸ்தான், சீனா, நேபாளம், பூடான், பங்களாதேஷ் மற்றும் மியான்மர்.
+- **கடல் வழி அண்டை நாடுகள் (2):** இலங்கை (பாக் நீர்சந்தியால் பிரிக்கப்பட்டுள்ளது) மற்றும் மாலத்தீவுகள்.
+
+</div>
+
+</details>
+
+---
+
+#### 2026
+
+இந்தியாவின் அண்டை நாடுகளின் பெயர்களைக் குறிப்பிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**இந்தியாவின் அண்டை நாடுகள்**
+- **நில எல்லை நாடுகள்:** பாகிஸ்தான், ஆப்கானிஸ்தான், சீனா, நேபாளம், பூடான், பங்களாதேஷ் மற்றும் மியான்மர்.
+- **கடல் எல்லை நாடுகள்:** இலங்கை மற்றும் மாலத்தீவுகள்.
+
+</div>
+
+</details>
+
+---
+
+சார்க் (SAARC) உறுப்பு நாடுகளைப் பட்டியலிடுக.
+
+<details class="not-annotatable border rounded p-3 my-3 bg-light-subtle">
+<summary class="not-annotatable fw-bold text-primary" style="cursor: pointer;" onclick="event.stopPropagation();">மாதிரி விடை மற்றும் தீர்வு</summary>
+
+<div class="pt-3">
+
+**சார்க் (SAARC) அமைப்பின் உறுப்பு நாடுகள் (8)**
+1. ஆப்கானிஸ்தான்
+2. பங்களாதேஷ்
+3. பூடான்
+4. இந்தியா
+5. மாலத்தீவுகள்
+6. நேபாளம் (தலைமையகம்: காத்மாண்டு)
+7. பாகிஸ்தான்
+8. இலங்கை
+
+</div>
+
+</details>
+
+---
