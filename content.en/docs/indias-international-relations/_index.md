@@ -424,39 +424,6 @@ Apart from economic and trade cooperation, India also aspires to have a warm rel
 
 ### EXERCISE
 
-
-**III Consider the following statement and tick the appropriate answer**
-
-1. The Kaladan transport project by India and Myanmar consists of which of the following modes of transport?
-
-    1. Roads
-    2. Railways
-    3. Shipping
-    4. Inland water transport
-
-    Select the correct answer using the codes given below
-
-    a) 1, 2 and 3 only
-
-    b) 1, 3 and 4 only
-
-    c) 2, 3 and 4 only
-
-    d) 1, 2, 3 and 4
-
-2. Assertion (A): India and France launched International Solar Alliance.
-
-    Reason (R): It was done to bring together countries between Tropic of Cancer and Tropic of Capricorn for co-operation of solar energy.
-
-    a) A is correct and R is the correct explanation of A
-
-    b) A is correct and R is not the correct explanation of A
-
-    c) A is wrong and R is correct
-
-    d) Both are wrong
-
-
 **V Give short answers**
 
 1. Name the neighbouring countries of India.

@@ -381,29 +381,6 @@ Mid-Day Meal Programme
 
 ### EXERCISE
 
-
-**II Fill in the blanks**
-
-1. __________ is an important indicator of nutrition deficiency.
-
-2. In the year __________ National Food Security Act was passed by the Indian Parliament.
-
-3. __________ play an important role in the supply of quality goods at responsible rates to common people.
-
-**IV Assertion and Reason**
-
-1. Assertion (A): Purchasing power increases, price decreases and vice versa.
-
-    Reason (R): The production of goods decline, the price of goods increases and then the purchasing power is affected.
-
-    a) A is correct, R is false
-
-    b) Both A and R are false statements
-
-    c) A is correct but R is not a correct explanation
-
-    d) A is correct, R is the correct explanation of A
-
 **V Answer in short**
 
 1. Define food security according to FAO.

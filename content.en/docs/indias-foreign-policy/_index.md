@@ -342,67 +342,6 @@ foe, only the interests are permanent’. New challenges have forced India to ad
 
 ### EXERCISE
 
-**III Consider the following statement and tick the appropriate answer**
-
-1. Arrange the following in the correct chronological order and choose the correct answer from the code given below.
-
-    (i) Panchsheel
-
-    (ii) China's Nuclear test
-
-    (iii) Indo-Soviet treaty
-
-    (iv) First Nuclear test of India
-
-    a) (i), (iii), (iv), (ii)
-
-    b) (i), (ii), (iii), (iv)
-
-    c) (i), (ii), (iv), (iii)
-
-    d) (i), (iii), (ii), (iv)
-
-2. Which of the following is not about NAM?
-
-    (i) The term Non-alignment was coined by V.K. Krishna Menon
-
-    (ii) It aimed to maintain national independence in foreign affairs by joining any military alliance
-
-    (iii) At present it has 120 member countries.
-
-    (iv) It has transformed to an economical movement
-
-    a) (i) and (ii)
-
-    b) (iii) and (iv)
-
-    c) (ii) only
-
-    d) (iv) only
-
-3. Assertion(A): India has formal diplomatic relations with most of the nations.
-
-    Reason(R): India is the World’s most populous country.
-
-    a) A is correct and R explains A
-
-    b) A is correct and R does not explain A
-
-    c) A is wrong and R is correct
-
-    d) Both are wrong
-
-4. Avoidance of military blocs was necessity for India after political freedom. Because India had to redeemed from
-
-    a) acute poverty
-
-    b) illiteracy
-
-    c) chaotic socio-economic conditions
-
-    d) all the above
-
-
 **V Give short answers**
 
 1. What is foreign policy?

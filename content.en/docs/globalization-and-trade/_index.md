@@ -434,23 +434,6 @@ This caused, the degradation of health and spread of diseases.
 ### EVALUATION
 
 
-**II Fill in the Blanks**
-
-1. A better economy introduce rapid development of the ___________.
-
-2. WTO agreement came into force from ___________.
-
-3. The term globalization invented by ___________.
-
-**III Match the following**
-
-| No. | Left column | Right column |
-|---|---|---|
-| 1 | Multination corporation in India | 1947 |
-| 2 | MNC | enforce international trade |
-| 3 | GATT | Minimize cost of production |
-| 4 | WTO | Infosys |
-
 **IV Give Short Answers**
 
 1. What is globalization?

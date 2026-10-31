@@ -251,27 +251,6 @@ The power of the judiciary to examine, if a law is unconstitutional, is known as
 
 ### EVALUATION
 
-**II Fill in the blanks**
-
-**III Choose the correct statement**
-1. i) Total members of the Rajya Sabha is 250.
- ii) The 12 nominated members shall be chosen by the President from amongst persons experience in the field of literature, science, art and social service.
- iii) The Members of the Rajya Sabha should not be less than 30 years of age.
- iv) The members of the Rajya Sabha are directly elected by the peoples.
- a) ii & iv are correct
- b) iii & iv are correct
- c) i & iv are correct
- d) i, ii & iii are correct
-2. i) The Chief Justice and other judges of the Supreme Court hold the office up to the age of 62 years.
- ii) Judiciary is the third organ of the government.
- iii) The cases involving fundamental rights come under the Appellate jurisdiction of the Supreme Court.
- iv) The law declared by Supreme Court is binding on all courts within the territory of India.
- a) ii & iv are correct
- b) iii & iv are correct
- c) i & iv are correct
- d) i & ii are correct
-
-
 **V Answer the brief questions**
 1. How is President of India elected?
 2. What are the different categories of Ministers at the Union level?
