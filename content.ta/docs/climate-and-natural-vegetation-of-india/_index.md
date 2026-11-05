@@ -1,8 +1,11 @@
 ---
 title: "இந்தியா – காலநிலை மற்றும் இயற்கைத் தாவரங்கள்"
 categories:
-- geography
-- climate-and-natural-vegetation-of-india
+  - geography
+  - climate-and-natural-vegetation-of-india
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

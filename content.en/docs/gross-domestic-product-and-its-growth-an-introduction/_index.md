@@ -1,8 +1,11 @@
 ---
 title: "Gross Domestic Product and its Growth: an Introduction"
 categories:
-- economics
-- gross-domestic-product-and-its-growth-an-introduction
+   - economics
+   - gross-domestic-product-and-its-growth-an-introduction
+tags:
+   - mid-term-1
+   - quarterly
 references:
   books:
     - b1:

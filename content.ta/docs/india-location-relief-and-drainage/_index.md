@@ -1,8 +1,11 @@
 ---
 title: "இந்தியா அமைவிடம் நிலத்தோற்றம் மற்றும் வடிகாலமைப்பு"
 categories:
-- geography
-- india-location-relief-and-drainage
+  - geography
+  - india-location-relief-and-drainage
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

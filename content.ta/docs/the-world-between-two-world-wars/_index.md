@@ -3,6 +3,9 @@ title: 'இரு உலகப்போர்களுக்கு இடைய�
 categories:
     - history
     - the-world-between-two-world-wars
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

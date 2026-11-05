@@ -1,8 +1,11 @@
 ---
 title: "மொத்த உள்நாட்டு உற்பத்தி (GDP) மற்றும் அதன் வளர்ச்சி: ஓர் அறிமுகம்"
 categories:
-- economics
-- gross-domestic-product-and-its-growth-an-introduction
+   - economics
+   - gross-domestic-product-and-its-growth-an-introduction
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

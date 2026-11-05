@@ -1,8 +1,11 @@
 ---
 title: "Climate and Natural Vegetation of India"
 categories:
-- geography
-- climate-and-natural-vegetation-of-india
+  - geography
+  - climate-and-natural-vegetation-of-india
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

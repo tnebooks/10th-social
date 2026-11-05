@@ -1,8 +1,11 @@
 ---
 title: "Outbreak of World War I and Its Aftermath"
 categories:
-- history
-- outbreak-of-world-war-i-and-its-aftermath
+  - history
+  - outbreak-of-world-war-i-and-its-aftermath
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

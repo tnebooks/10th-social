@@ -1,8 +1,11 @@
 ---
 title: "Indian Constitution"
 categories:
-- civics
-- indian-constitution
+  - civics
+  - indian-constitution
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

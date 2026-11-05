@@ -1,8 +1,11 @@
 ---
 title: "India - Location, Relief and Drainage"
 categories:
-- geography
-- india-location-relief-and-drainage
+  - geography
+  - india-location-relief-and-drainage
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

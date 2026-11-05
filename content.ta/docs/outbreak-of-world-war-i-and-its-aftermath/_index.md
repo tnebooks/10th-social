@@ -3,6 +3,9 @@ title: 'முதல் உலகப்போரின் வெடிப்ப�
 categories:
     - history
     - outbreak-of-world-war-i-and-its-aftermath
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:

@@ -1,8 +1,11 @@
 ---
 title: "The World between two World Wars"
 categories:
-- history
-- the-world-between-two-world-wars
+  - history
+  - the-world-between-two-world-wars
+tags:
+    - mid-term-1
+    - quarterly
 references:
   books:
     - b1:
