@@ -1,8 +1,10 @@
 ---
 title: "Government and Taxes"
 categories:
-- economics
-- government-and-taxes
+  - economics
+  - government-and-taxes
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

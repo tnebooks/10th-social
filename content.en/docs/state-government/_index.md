@@ -1,8 +1,10 @@
 ---
 title: "State Government"
 categories:
-- civics
-- state-government
+  - civics
+  - state-government
+tags:
+    - quarterly
 references:
   books:
     - b1:

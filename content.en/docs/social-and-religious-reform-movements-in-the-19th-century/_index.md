@@ -1,8 +1,10 @@
 ---
 title: "Social and Religious Reform Movements in the 19th Century"
 categories:
-- history
-- social-and-religious-reform-movements-in-the-19th-century
+  - history
+  - social-and-religious-reform-movements-in-the-19th-century
+tags:
+    - quarterly
 references:
   books:
     - b1:

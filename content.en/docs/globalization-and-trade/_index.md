@@ -1,8 +1,10 @@
 ---
 title: "Globalization and Trade"
 categories:
-- economics
-- globalization-and-trade
+  - economics
+  - globalization-and-trade
+tags:
+    - quarterly
 references:
   books:
     - b1:

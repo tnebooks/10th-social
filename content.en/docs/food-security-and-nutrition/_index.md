@@ -1,8 +1,10 @@
 ---
 title: "Food Security and Nutrition"
 categories:
-- economics
-- food-security-and-nutrition
+  - economics
+  - food-security-and-nutrition
+tags:
+    - quarterly
 references:
   books:
     - b1:

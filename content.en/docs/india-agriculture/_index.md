@@ -1,8 +1,10 @@
 ---
 title: "India - Agriculture"
 categories:
-- geography
-- india-agriculture
+  - geography
+  - india-agriculture
+tags:
+    - quarterly
 references:
   books:
     - b1:

@@ -1,8 +1,10 @@
 ---
 title: "உணவுப் பாதுகாப்பு மற்றும் ஊட்டச்சத்து"
 categories:
-- economics
-- food-security-and-nutrition
+  - economics
+  - food-security-and-nutrition
+tags:
+    - quarterly
 references:
   books:
     - b1:

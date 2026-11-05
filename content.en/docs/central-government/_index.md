@@ -1,8 +1,10 @@
 ---
 title: "Central Government"
 categories:
-- civics
-- central-government
+  - civics
+  - central-government
+tags:
+    - quarterly
 references:
   books:
     - b1:

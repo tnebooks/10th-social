@@ -1,8 +1,10 @@
 ---
 title: "உலகமயமாதல் மற்றும் வர்த்தகம்"
 categories:
-- economics
-- globalization-and-trade
+  - economics
+  - globalization-and-trade
+tags:
+    - quarterly
 references:
   books:
     - b1:

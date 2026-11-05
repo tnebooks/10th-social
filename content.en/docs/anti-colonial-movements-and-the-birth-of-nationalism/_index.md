@@ -1,8 +1,10 @@
 ---
 title: "Anti-Colonial Movements and the Birth of Nationalism"
 categories:
-- history
-- anti-colonial-movements-and-the-birth-of-nationalism
+  - history
+  - anti-colonial-movements-and-the-birth-of-nationalism
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

@@ -1,8 +1,10 @@
 ---
 title: "India - Resources and Industries"
 categories:
-- geography
-- india-resources-and-industries
+  - geography
+  - india-resources-and-industries
+tags:
+    - quarterly
 references:
   books:
     - b1:

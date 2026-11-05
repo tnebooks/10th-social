@@ -1,8 +1,10 @@
 ---
 title: "India’s Foreign Policy"
 categories:
-- civics
-- indias-foreign-policy
+  - civics
+  - indias-foreign-policy
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

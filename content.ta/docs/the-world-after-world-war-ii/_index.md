@@ -3,6 +3,8 @@ title: 'இரண்டாம் உலகப்போருக்குப் �
 categories:
     - history
     - the-world-after-world-war-ii
+tags:
+    - quarterly
 references:
   books:
     - b1:

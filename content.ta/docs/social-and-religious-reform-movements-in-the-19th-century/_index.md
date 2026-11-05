@@ -3,6 +3,8 @@ title: '19ஆம் நூற்றாண்டில் சமூக, சமய
 categories:
     - history
     - social-and-religious-reform-movements-in-the-19th-century
+tags:
+    - quarterly
 references:
   books:
     - b1:

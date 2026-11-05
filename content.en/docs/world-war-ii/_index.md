@@ -1,8 +1,10 @@
 ---
 title: "World war II"
 categories:
-- history
-- world-war-ii
+  - history
+  - world-war-ii
+tags:
+    - quarterly
 references:
   books:
     - b1:

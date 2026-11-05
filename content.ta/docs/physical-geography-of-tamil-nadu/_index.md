@@ -1,8 +1,10 @@
 ---
 title: "தமிழ்நாடு - இயற்கைப் பிரிவுகள்"
 categories:
-- geography
-- physical-geography-of-tamil-nadu
+  - geography
+  - physical-geography-of-tamil-nadu
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

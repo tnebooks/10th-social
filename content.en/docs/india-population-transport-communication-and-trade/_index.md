@@ -1,8 +1,10 @@
 ---
 title: "India - Population, Transport, Communication and Trade"
 categories:
-- geography
-- india-population-transport-communication-and-trade
+  - geography
+  - india-population-transport-communication-and-trade
+tags:
+    - quarterly
 references:
   books:
     - b1:

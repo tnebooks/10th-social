@@ -1,8 +1,10 @@
 ---
 title: "இந்தியா – மக்கள் தொகை, போக்குவரத்து, தகவல் தொடர்பு மற்றும் வணிகம்"
 categories:
-- geography
-- india-population-transport-communication-and-trade
+  - geography
+  - india-population-transport-communication-and-trade
+tags:
+    - quarterly
 references:
   books:
     - b1:

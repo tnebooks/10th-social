@@ -3,6 +3,8 @@ title: 'காலனியத்துக்கு எதிரான இயக�
 categories:
     - history
     - anti-colonial-movements-and-the-birth-of-nationalism
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

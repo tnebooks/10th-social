@@ -3,6 +3,8 @@ title: 'இரண்டாம் உலகப்போர்'
 categories:
     - history
     - world-war-ii
+tags:
+    - quarterly
 references:
   books:
     - b1:

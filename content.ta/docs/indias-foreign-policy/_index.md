@@ -1,8 +1,10 @@
 ---
 title: "இந்தியாவின் வெளியுறவுக் கொள்கை"
 categories:
-- civics
-- indias-foreign-policy
+  - civics
+  - indias-foreign-policy
+tags:
+    - mid-term-2 
 references:
   books:
     - b1:

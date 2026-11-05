@@ -3,6 +3,8 @@ title: 'ஆங்கிலேய ஆட்சிக்கு எதிராக 
 categories:
     - history
     - early-revolts-against-british-rule-in-tamil-nadu
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

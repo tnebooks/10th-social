@@ -1,8 +1,10 @@
 ---
 title: "Early Revolts against British Rule in Tamil Nadu"
 categories:
-- history
-- early-revolts-against-british-rule-in-tamil-nadu
+  - history
+  - early-revolts-against-british-rule-in-tamil-nadu
+tags:
+    - mid-term-2
 references:
   books:
     - b1:

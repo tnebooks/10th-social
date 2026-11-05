@@ -1,8 +1,10 @@
 ---
 title: "The World after World War II"
 categories:
-- history
-- the-world-after-world-war-ii
+  - history
+  - the-world-after-world-war-ii
+tags:
+    - quarterly
 references:
   books:
     - b1:

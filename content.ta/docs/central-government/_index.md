@@ -1,8 +1,10 @@
 ---
 title: "நடுவண் அரசு"
 categories:
-- civics
-- central-government
+  - civics
+  - central-government
+tags:
+    - quarterly
 references:
   books:
     - b1:

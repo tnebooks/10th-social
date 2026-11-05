@@ -1,8 +1,10 @@
 ---
 title: "இந்தியா – வளங்கள் மற்றும் தொழிலகங்கள்"
 categories:
-- geography
-- india-resources-and-industries
+  - geography
+  - india-resources-and-industries
+tags:
+    - quarterly
 references:
   books:
     - b1:
